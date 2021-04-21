@@ -56,3 +56,15 @@ Geed up by the positive end to the half the Frothers came out with thirst in the
 It was time for the Frothers to turn the screw. With the gaps starting to open up in the second half the chances started to flow. The decisive moment came when, on a breakaway, **Yarride** lobbed the keeper. **Lance** following in appeared to have an easy tap in, but in an act of pure friendship tried to just follow the shot in. The goalie managed to get back in time, and the following scraps were jumped on by **Yarride** to bury it, finally.
 
 > 2-1
+
+## Hold on
+
+With the light fading, the Frothers decided to set up to hold what they had. Weathering several dangerous attacks the final whistle eventually came to mark a hard-fought win.
+
+# Man of the Match
+
+**Ryan** for a great penalty save and a pair of safe hands throughout the match
+
+# Dick of the Day
+
+Lance, for trying to be too nice, while yelling at the ref. Also standing in the back line of the Frothers team photo
