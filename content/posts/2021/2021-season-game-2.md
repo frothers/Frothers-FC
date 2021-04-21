@@ -67,4 +67,4 @@ With the light fading, the Frothers decided to set up to hold what they had. Wea
 
 # Dick of the Day
 
-Lance, for trying to be too nice, while yelling at the ref. Also standing in the back line of the Frothers team photo
+Lance, for trying to be too nice, while yelling at the ref. Also standing in the back of the Frothers team photo
