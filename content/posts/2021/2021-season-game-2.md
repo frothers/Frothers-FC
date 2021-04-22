@@ -3,7 +3,6 @@ author = "Chris"
 categories = []
 date = 2021-04-17T12:00:00Z
 description = "Recap of the game against Valley FC"
-draft = true
 friendly = false
 frother_goals = 2
 images = []
@@ -43,7 +42,7 @@ The goal was just what the Frothers needed to get into the swing of things. Seve
 
 ## Halftime
 
-Geed up by the positive end to the half the Frothers came out with thirst in the second half, but it was Valley FC who came out stronger. With only a couple of minutes on the clock, **Jack** put his boot through one of the Valley players. 
+Geed up by the positive end to the half the Frothers came out with thirst in the second half, but it was Valley FC who came out stronger. With only a couple of minutes on the clock, **Jack** put his boot through one of the Valley players.
 
 > Penalty
 
@@ -68,3 +67,5 @@ With the light fading, the Frothers decided to set up to hold what they had. Wea
 # Dick of the Day
 
 Lance, for trying to be too nice, while yelling at the ref. Also standing in the back of the Frothers team photo
+
+![](/images/img_3513.png)
