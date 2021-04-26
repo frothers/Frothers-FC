@@ -3,7 +3,6 @@ author = "Chris"
 categories = []
 date = 2021-04-24T12:00:00Z
 description = "Recap of the game against Los Blazeros"
-draft = true
 friendly = false
 frother_goals = 6
 images = ["/images/157852687_3317474255145523_9071038019801514973_o.jpg"]
@@ -24,6 +23,8 @@ scorer = "Yarride Rosario"
 > Is it a derby?
 
 This week saw the Frothers up against the second team of the Sunday Blazers, Los Blazeros.
+
+![](/images/157596887_3317474021812213_3557954619497648148_o.jpg)
 
 # Fast Start for the New Kids
 
@@ -47,4 +48,46 @@ After a half where the Frothers never really got into gear, the boys needed to r
 
 Whether it was the speeches or the change in direction of the wind, there was an immediate improvement in the quality of the football being played.
 
-## Salah-ese
+## Harry Kane Would be Proud
+
+After several promising looking attacks the breakthrough came through a bit of gamesmanship. **Yarride,** dispossessing a defender on the edge of the box, dashed into the box. Knowing the defender would be desperate to make amends **Yarride** folded under the first sign of contact. After taking 10 seconds to decide that a soft foul is still a foul the ref awarded the penalty.
+
+The keeper tried to psyche out **Yarride** by doing a few body feints, so **Yarride** went with the tried and true of just hitting hard slightly off centre.
+
+> 2-2
+
+## Open the flood gates
+
+With the game back on level terms, the Frothers started to turn up the pressure. Every attack had teeth and the opposition couldn't find respite anywhere on the pitch. **Sule** buried a goal not too long after and the boys were ahead.
+
+> 3-2
+
+**Yarride** then had an eternity of time to pick his spot as **Lance** and **Sule** passed the ball across the top of the opposition box, taking the whole backline out of the equation.
+
+> 4-2
+
+**Sule** then rounded the keeper (for the second time) and this time made sure of it to extend the lead.
+
+> 5-2
+
+Not to be outdone, **Yarride** also rounded the keeper and finished from a tight angle off the left to get his fourth.
+
+> 6-2
+
+![](/images/157454657_3317474178478864_2717487870476020600_o1.jpg)
+
+# Man of the Match
+
+Frother's baby daddy **Chris** for enforcing the stranglehold in the second half. 
+
+![](/images/157615079_3317474125145536_5906745384257944067_o.jpg)
+
+# Dick of the Day
+
+Also **Chris**, for going for goal off a 45-yard free-kick and sending it deep into the stands, and getting too real with the _encouragement_. Sorry Boys.
+
+### Honourable mention:
+
+**Harry** for trying to bang home a one-on-one and sending it comfortably over the top.
+
+**Photos:** May just be Blazers pre-season photos... who knows
