@@ -1,31 +1,32 @@
 +++
 author = "Chris"
-categories = []
-date = 2021-04-24T12:00:00Z
-description = "Recap of the game against Los Blazeros"
+categories = ["Match"]
+date = 2021-05-01T12:00:00Z
+description = "Recap of the game against The Bonds Sports Bar"
 draft = true
 friendly = false
-frother_goals = 6
-images = ["/images/157852687_3317474255145523_9071038019801514973_o.jpg"]
+frother_goals = 3
+images = ["/images/180555729_3363573907202224_2194763001926764619_n.jpg"]
 match = true
-opponent = "Los Blazeros"
+opponent = "Bonds Sports Bar"
 opponent_goals = 2
 result = "Win"
 title = "2021 Season - Game 4"
 type = "post"
 [[scorers]]
-goals = 2
+goals = 1
 scorer = "Thomas Sule"
 [[scorers]]
-goals = 4
-scorer = "Yarride Rosario"
+goals = 1
+scorer = "Evan Hanson"
+[[scorers]]
+goals = 1
+scorer = "Lance Molyneaux"
 
 +++
 > Is it a derby?
 
 This week saw the Frothers up against the second team of the Sunday Blazers, Los Blazeros.
-
-![](/images/157596887_3317474021812213_3557954619497648148_o.jpg)
 
 # Fast Start for the New Kids
 
@@ -79,7 +80,7 @@ Not to be outdone, **Yarride** also rounded the keeper and finished from a tight
 
 # Man of the Match
 
-Frother's baby daddy **Chris** for enforcing the stranglehold in the second half. 
+Frother's baby daddy **Chris** for enforcing the stranglehold in the second half.
 
 ![](/images/157615079_3317474125145536_5906745384257944067_o.jpg)
 
