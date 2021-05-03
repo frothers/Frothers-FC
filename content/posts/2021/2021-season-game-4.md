@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-05-01T12:00:00Z
 description = "Recap of the game against The Bonds Sports Bar"
-draft = true
 friendly = false
 frother_goals = 3
 images = ["/images/180555729_3363573907202224_2194763001926764619_n.jpg"]
@@ -24,7 +23,7 @@ goals = 1
 scorer = "Lance Molyneaux"
 
 +++
-> Can they keep the streak going/
+> Can they keep the streak going?
 
 This weeks match was up against the team formally known as Lazy XI, a team that snuck a draw when we played last season.
 
@@ -44,52 +43,46 @@ Thinking the game was ready for a bit more possession football, the Frother star
 
 > 1-1
 
-# Inquiry
+![](/images/181155829_3363573137202301_1429407530832482768_n.jpg)
 
-After a half where the Frothers never really got into gear, the boys needed to regroup. Words of encouragement (and some thinly veiled threats) were shared. It was time to turn it on.
+# Now that's football
 
-Whether it was the speeches or the change in direction of the wind, there was an immediate improvement in the quality of the football being played.
+Not letting the goal conceded get them down, the Frothers continued to put on a passing performance. This time it paid off as several nice passes were put together, stretching the opposition backline and resulting in **Evan** running onto a ball on the edge of the box and putting a first-time finish past the keeper. Breaking his yearlong goal drought.
 
-## Harry Kane Would be Proud
+> 2-1
 
-After several promising looking attacks the breakthrough came through a bit of gamesmanship. **Yarride,** dispossessing a defender on the edge of the box, dashed into the box. Knowing the defender would be desperate to make amends **Yarride** folded under the first sign of contact. After taking 10 seconds to decide that a soft foul is still a foul the ref awarded the penalty.
+![](/images/181334219_3363573197202295_3407943332375652447_n.jpg)
 
-The keeper tried to psyche out **Yarride** by doing a few body feints, so **Yarride** went with the tried and true of just hitting hard slightly off centre.
+## Half-time
 
-> 2-2
+Going into the break up was a big boost for the boys. They were so excited to start the second half **Jack** forgot to put his gloves on, resulting in the kickoff having to be taken again.
 
-## Open the flood gates
+The second half started off with a couple of missed chances from the Frother, albeit one being from **Charles**. One man who didn't miss out was **Lance**, who scored his first goal of the campaign to give the boys a buffer.
 
-With the game back on level terms, the Frothers started to turn up the pressure. Every attack had teeth and the opposition couldn't find respite anywhere on the pitch. **Sule** buried a goal not too long after and the boys were ahead.
+> 3-1
+
+## He was only 2 metres inside...
+
+Desperate to get back in the game Bonds started pushing their midfielders forward more. This paid off as one of their midfielders was able to make a late run into the box before being brought down by **Sam.**
+
+The resulting penalty was put rather unconvincingly to the wrong side of the keeper and Bonds had a sniff.
 
 > 3-2
 
-**Yarride** then had an eternity of time to pick his spot as **Lance** and **Sule** passed the ball across the top of the opposition box, taking the whole backline out of the equation.
-
-> 4-2
-
-**Sule** then rounded the keeper (for the second time) and this time made sure of it to extend the lead.
-
-> 5-2
-
-Not to be outdone, **Yarride** also rounded the keeper and finished from a tight angle off the left to get his fourth.
-
-> 6-2
-
-![](/images/157454657_3317474178478864_2717487870476020600_o1.jpg)
+But the lads kept em out.
 
 # Man of the Match
 
-Frother's baby daddy **Chris** for enforcing the stranglehold in the second half.
+A huge display from **Lance**, both scoring and performing great hold-up play
 
-![](/images/157615079_3317474125145536_5906745384257944067_o.jpg)
+![](/images/178935262_3363573837202231_8809915427337649360_n.jpg)
 
 # Dick of the Day
 
-Also **Chris**, for going for goal off a 45-yard free-kick and sending it deep into the stands, and getting too real with the _encouragement_. Sorry Boys.
+**Sam** for turning up late because he has to go back home to grab his socks. And tops it off with conceding a penalty. Consistency.
 
-### Honourable mention:
+**Photos:** [Here](https://www.facebook.com/NZSundayFootball/photos/pcb.3363574280535520/3363573903868891/)
 
-**Harry** for trying to bang home a one-on-one and sending it comfortably over the top.
+Natural Light Photography - [https://www.naturallightphotographycompany.com/](https://www.naturallightphotographycompany.com/ "https://www.naturallightphotographycompany.com/")
 
-**Photos:** May just be Blazers pre-season photos... who knows
+![](/images/178727734_3363573980535550_7344201658638209704_n.jpg)
