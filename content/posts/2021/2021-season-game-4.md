@@ -24,25 +24,25 @@ goals = 1
 scorer = "Lance Molyneaux"
 
 +++
-> Is it a derby?
+> Can they keep the streak going/
 
-This week saw the Frothers up against the second team of the Sunday Blazers, Los Blazeros.
+This weeks match was up against the team formally known as Lazy XI, a team that snuck a draw when we played last season.
 
-# Fast Start for the New Kids
+In a scene not seen at the Frothers for a long time, **Ryan** needed to be replaced in goal. This week it was by **Jack**.
 
-A relatively unknown quantity, Los Blazeros caught the boys by surprise by dominating the midfield. Good passing and running off the ball left the Frothers backline in disarray and lead to the first goal of the game.
+# Making it hard for ourselves
 
-> 0-1
+The game kicked off without any particular inspiring play from either side. A match that was a cagey affair last year looked destined to be heading the same way as the Frothers couldn't seem to make the right decisions with the ball.
 
-Not wanting to leave it too long before a replay the Frothers put pressure on Los Blazeros' backline, forcing an error. **Yarride** calmly slotting home after been given the ball on the edge of the box. **Jamie** then tried to claim a key pass to their backline initially.... Not quite sure about that one.
+![](/images/180001884_3363573703868911_5389736164389586017_n.jpg)
+
+After pinning Bond Sports Bar back in their half for a large period of play the breakthrough finally came when **Sule** burst through and slotted home.
+
+> 1-0
+
+Thinking the game was ready for a bit more possession football, the Frother started trying to string together a few more passes and play through the backline a bit more. This didn't work out so well this time as a misplaced pass between the centre backs allowed a Bonds striker to run through onto goal and put the ball past
 
 > 1-1
-
-The game stalled there for a while as neither team could take the upper hand in the midfield. The Frothers both being far too soft and giving away too many fouls in the middle of the park.
-
-It was the former which lead to the breakthrough for the Blazeros, where a midfielder was able to stroll through the midfield almost unopposed before doing a one-two to get a one-on-one which they calmly finished.
-
-> 1-2
 
 # Inquiry
 
