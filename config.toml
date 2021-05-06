@@ -25,7 +25,7 @@ section = ["JSON", "HTML"]
 [params]
 author = "Chris Chester"
 contact_form_action = "#"
-copyright = "&copy; 2020 Chris Chester. All Rights Reserved"
+copyright = "&copy; 2021 Chris Chester. All Rights Reserved"
 description = "The official website for Frothers F.C., a Wellington based football club"
 googleAnalytics = "UA-178004971-1"
 google_tag_manager = ""
@@ -46,7 +46,7 @@ title = "Check the sunday league table"
 [params.cta.button]
 enable = true
 label = "Open Table"
-link = "https://www.sportzone.org.nz/competitions/75/wellington-sunday-football-league/wellington-sunday-football-league/winter-2020"
+link = "https://www.sportzone.org.nz/competitions/124/wellington-sunday-football-league/wellington-sunday-football-league/winter-2021"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
