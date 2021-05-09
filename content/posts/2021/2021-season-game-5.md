@@ -30,6 +30,20 @@ In the other notable chance of the first half, a header from **Sule** was cleare
 
 # Second half
 
+Another tight half. **Yarride** drew a great save out of the keeper to keep the Raiders in front. The Frothers were struggling to move the ball up the field but weren't particularly under pressure themselves.
+
+## Bust ups
+
+The game started to get a bit scrappy, with altercations between several players. Maybe it was the game getting delayed by 15 minutes that got everyone off to a bad start.
+
+## OG gives and it takes away
+
+Following a weak attack, a desperate ball was kicked into the box. Under no pressure, the spirit of OG took control of **Jamie's** body and the resultant shinner from the middle of the box trickled into the back of the net.
+
+![](/images/183467650_3369181953308086_2890124751635421766_n.jpg)![](/images/184694345_3369182043308077_6715246744338898972_n.jpg)![](/images/182812264_3369182369974711_1393882395491585192_n-1.jpg)
+
+big shout out to Natural Light Photography for these great shots.
+
 # Man of the Match
 
 A huge display from **Lance**, both scoring and performing great hold-up play
