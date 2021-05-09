@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-05-08T12:00:00Z
 description = "Recap of the game against the Tuskan Raiders"
-draft = true
 friendly = false
 frother_goals = 0
 images = ["/images/jamie1.jpg"]
@@ -46,16 +45,20 @@ big shout out to Natural Light Photography for these great shots.
 
 # Man of the Match
 
-A huge display from **Lance**, both scoring and performing great hold-up play
+**Charles** for driving the best of the play from midfield, and somehow staying out of the biffo
 
-![](/images/178935262_3363573837202231_8809915427337649360_n.jpg)
+![](/images/182710184_3369182063308075_7648793190214045614_n.jpg)
 
 # Dick of the Day
 
-**Sam** for turning up late because he has to go back home to grab his socks. And tops it off with conceding a penalty. Consistency.
+Jointly awarded to **Sule** and **Jamie**
 
-**Photos:** [Here](https://www.facebook.com/NZSundayFootball/photos/pcb.3363574280535520/3363573903868891/)
+**Sule:** for getting into a car crash and therefore being late to the match
+
+**Jamie:** For throwing the ball at someone after they grabbed his shirt and the OG
+
+![](/images/182413778_3369182186641396_2194686122097830973_n.jpg)
+
+**Photos:** [Here](https://www.facebook.com/media/set/?vanity=NZSundayFootball&set=a.3369182499974698&__cft__\[0\]=AZXHmPH-VamJaWPHxmy3-lxwkZztjirfXGJFaFQd29xHpFetMOGk5-s2yfaRbhsen2Hu601UxmIYBah_M5fLjAA6I0KDmSji3iRDmbLng-0rBRsMF3aaXRC1XoW3ER0ENu068_DuygLCHNy0163RrbCL&__tn__=-UC%2CP-R)
 
 Natural Light Photography - [https://www.naturallightphotographycompany.com/](https://www.naturallightphotographycompany.com/ "https://www.naturallightphotographycompany.com/")
-
-![](/images/178727734_3363573980535550_7344201658638209704_n.jpg)
