@@ -1,15 +1,14 @@
-FROM alpine:latest
+FROM klakegg/hugo:0.83.1-ext-alpine
 
 EXPOSE 1313
 VOLUME /app
 WORKDIR /app
+COPY . .
 
 # install packages
-RUN apk add --no-cache npm hugo
+# RUN apk add --no-cache npm hugo
 RUN npm install
 
-# RUN npm install -g webpack webpack-cli webpack-dev-server
-RUN hugo -d ./dist -vw
 RUN npx webpack --mode development --config webpack.dev.js --hot
-# RUN server -d ./dist -vw
+CMD ["server", "-d", "./dist", "-vw"]
 
