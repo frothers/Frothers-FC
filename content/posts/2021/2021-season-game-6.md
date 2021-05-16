@@ -65,4 +65,16 @@ The last telling moment was when **Milan** brought down a Valley player comforta
 
 ![](/images/184382933_3374980876061527_1481327727730599843_n.jpg)
 
-<iframe src="[https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500 "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500")" width="500" height="817" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+# Man of the Match
+
+**Angus** had a great game at the back and did everything he could to keep the opposition out.
+
+![](/images/186491495_3374981016061513_7425879429347656597_n.jpg)
+
+# Dick of the Day
+
+**Milan** for the sheer cheek for getting away with the foul in the box.
+
+![](/images/milan_chop.jpg)
+
+{{< myshortcode >}} <iframe src="[https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500 "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500")" width="500" height="817" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> {{< /myshortcode >}}
