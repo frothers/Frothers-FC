@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: frothersfc.club
-Token: f1cda4cd5a763462884e32b6d53939393c65450caf3e026d23c011f24d22c43e
