@@ -1,0 +1,4 @@
+services:
+  frothers:
+    build: .
+    command: "npm run build"

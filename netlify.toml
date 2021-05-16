@@ -1,9 +1,10 @@
 [build.environment]
   NPM_VERSION = "7.10.0"
   NODE_VERSION = "15.14.0"
+  
 
 [build]
-  command = "npm run build"
+  command = "docker-compose -f docker-compose.yml -f docker-compose.prod.yml -d"
   publish = "dist"
 
 [context.deploy-preview]

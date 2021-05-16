@@ -1,6 +1,7 @@
 services:
-  server:
+  frothers:
     build: .
+    command: "npm start"
     volumes:
       - ".:/app"
     ports:
