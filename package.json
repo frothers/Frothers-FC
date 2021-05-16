@@ -6,7 +6,7 @@
     "source": "assets/index.ts",
     "scripts": {
         "start": "run-p start:**",
-        "start:hugo": "hugo server -d ./dist -vw --bind 0.0.0.0",
+        "start:hugo": "hugo server -d ./dist -vw",
         "start:webpack": "webpack --mode development --config webpack.dev.js --hot",
         "preview": "cross-env PORT=8080 run-p preview:**",
         "preview:hugo": "hugo -d ./dist -s site -vw -D -F ",
