@@ -1,65 +1,68 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-05-08T12:00:00Z
-description = "Recap of the game against the Tuskan Raiders"
-draft = true
+date = 2021-05-15T12:00:00Z
+description = "Recap of the game against Valley FC"
 friendly = false
-frother_goals = 0
-images = ["/images/jamie1.jpg"]
+frother_goals = 1
+images = ["/images/185334635_3374980466061568_3235426851763961959_n.jpg"]
 match = true
-opponent = "Tuskan Raiders"
+opponent = "Valley FC"
 opponent_goals = 2
 result = "Loss"
-scorers = []
 title = "2021 Season - Game 6"
 type = "post"
+[[scorers]]
+goals = 1
+scorer = "Lance Molyneaux"
 
 +++
-> The streak ends..
+> The rematch
 
-On a wet and windy afternoon at Wellington College, the Frothers took on the Tuskan Raiders in the first round of the 1st Div WSFL.
+Replaying the earlier fixture in the season where the Frothers won 2-1 the game was again under lights at Te Whaea.
 
-![](/images/183614942_3369182399974708_1777092783127948140_n.jpg)
+![](/images/186541740_3374980509394897_8226080703183732695_n.jpg)
 
-## It's over!
+The game started quite evenly balanced, with the Frothers able to make more with their final ball.
 
-In a game of few chances, the deadlock was eventually broken by a curling free-kick into the top corner. If you listen hard you can still hear the cry of "Over".
+## Loves a screamer
 
-In the other notable chance of the first half, a header from **Sule** was cleared off the line.
+The breakthrough came when **Lance** let fly a perfectly weighted shot into the top corner that the keeper could only watch.
 
-# Second half
+![](/images/185968962_3374981169394831_3678554050713961474_n.jpg)
 
-Another tight half. **Yarride** drew a great save out of the keeper to keep the Raiders in front. The Frothers were struggling to move the ball up the field but weren't particularly under pressure themselves.
+This came off the back of a nice play that culminated with **Charles** finding **Lance** on the edge of the area. The danger looks to have gone when Lance took a bit of a rough touch, but he turned and shot it, catching the keeper out.
 
-## Bust ups
+> 1-0
 
-The game started to get a bit scrappy, with altercations between several players. Maybe it was the game getting delayed by 15 minutes that got everyone off to a bad start.
+![](/images/185076426_3374980782728203_8105449896407410502_n.jpg)
 
-## OG gives and it takes away
+# Half time
 
-Following a weak attack, a desperate ball was kicked into the box. Under no pressure, the spirit of OG took control of **Jamie's** body and the resultant shinner from the middle of the box trickled into the back of the net.
+The Frothers came into the break 1-0 up, but the next half was into the wind, and uphill...
 
-![](/images/183467650_3369181953308086_2890124751635421766_n.jpg)![](/images/184694345_3369182043308077_6715246744338898972_n.jpg)![](/images/182812264_3369182369974711_1393882395491585192_n-1.jpg)
+Valley FC came out the stronger of the two sides in the second half but was still missing a killer edge as their plays couldn't break through the backline.
 
-big shout out to Natural Light Photography for these great shots.
+## Just float it in
 
-# Man of the Match
+The leveller came from a free-kick quite far out. The Valley player lofted it into the wind and the ball ended up drifting in at the back-post after the bounce. One to forget.
 
-**Charles** for driving the best of the play from midfield, and somehow staying out of the biffo
+> 1-1
 
-![](/images/182710184_3369182063308075_7648793190214045614_n.jpg)
+![](/images/183526925_3374980612728220_1726736325821052900_n.jpg)
 
-# Dick of the Day
+## Ghosts in at the back
 
-Jointly awarded to **Sule** and **Jamie**
+Valley then got themselves into the lead when a ball in from the left found an unmarked man at the back post. The player was able to calmly finish to put Valley into the lead.
 
-**Sule:** for getting into a car crash and therefore being late to the match
+> 1-2
 
-**Jamie:** For throwing the ball at someone after they grabbed his shirt and the OG
+## Able to hold on
 
-![](/images/182413778_3369182186641396_2194686122097830973_n.jpg)
+Though the Frothers started upping the pressure they couldn't quite manage to get the breakthrough. **Yarride** had a great looking shot blacked by a valley defender.
 
-**Photos:** [Here](https://www.facebook.com/media/set/?vanity=NZSundayFootball&set=a.3369182499974698&__cft__\[0\]=AZXHmPH-VamJaWPHxmy3-lxwkZztjirfXGJFaFQd29xHpFetMOGk5-s2yfaRbhsen2Hu601UxmIYBah_M5fLjAA6I0KDmSji3iRDmbLng-0rBRsMF3aaXRC1XoW3ER0ENu068_DuygLCHNy0163RrbCL&__tn__=-UC%2CP-R)
+The last telling moment was when **Milan** brought down a Valley player comfortably in the box. The ref then pointed to a freekick outside the box, causing a bit of anger...
 
-Natural Light Photography - [https://www.naturallightphotographycompany.com/](https://www.naturallightphotographycompany.com/ "https://www.naturallightphotographycompany.com/")
+![](/images/184382933_3374980876061527_1481327727730599843_n.jpg)
+
+<iframe src="[https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500 "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500")" width="500" height="817" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
