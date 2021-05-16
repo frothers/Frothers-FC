@@ -78,10 +78,10 @@ The last telling moment was when **Milan** brought down a Valley player comforta
 ![](/images/milan_chop.jpg)
 
 # Photos
-Natural Light Photography - [https://www.naturallightphotographycompany.com/](https://www.naturallightphotographycompany.com/ "https://www.naturallightphotographycompany.com/")
+Natural Light Photography - [website](https://www.naturallightphotographycompany.com/)
 
 {{< rawhtml >}}
-<p align="center">
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500" width="500" height="820" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-</p>
+<div class="row">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=false&width=500" width="500" height="820" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 {{< /rawhtml >}}
