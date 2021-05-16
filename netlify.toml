@@ -4,7 +4,7 @@
   
 
 [build]
-  command = "docker-compose -f docker-compose.yml -f docker-compose.prod.yml -d"
+  command = "npm run build"
   publish = "dist"
 
 [context.deploy-preview]
