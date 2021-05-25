@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-05-22T12:00:00Z
 description = "Recap of the game against LBQ"
-draft = true
 friendly = false
 frother_goals = 3
 images = ["/images/185858690_3381454598747488_5116422495976511446_n.jpg"]
@@ -40,42 +39,46 @@ The first goal of the game came when a long ball over the top by **Angus.** **Ya
 
 # Half time
 
-The Frothers came into the break 1-0 up, but the next half was into the wind, and uphill...
+The Frothers came into the break 1-0 up and feeling confident.
 
 Valley FC came out the stronger of the two sides in the second half but was still missing a killer edge as their plays couldn't break through the backline.
 
-## Just float it in
+## What a save
 
-The leveller came from a free-kick quite far out. The Valley player lofted it into the wind and the ball ended up drifting in at the back-post after the bounce. One to forget.
+pushing for the equaliser, LBQ got a great chance when a long throw into the box was flicked on for a 1-on-1 with the keeper. **Ryan** pulled out a great save to deny the LBQ player and cause the follow-up effort to go over the bar.
 
-> 1-1
+![](/images/186498466_3381455152080766_3950239862005908952_n.jpg)
 
-![](/images/183526925_3374980612728220_1726736325821052900_n.jpg)
+## 2-Goal Swing
 
-## Ghosts in at the back
+Shortly afterwards, another speculative ball out from deep by **Milan** got the LBQ defence in all sorts of trouble. As they tried to play it back to their keeper **Sule** ran through for the interception and a smart finish from a tight angle.
 
-Valley then got themselves into the lead when a ball in from the left found an unmarked man at the back post. The player was able to calmly finish to put Valley into the lead.
+![](/images/186522339_3381455065414108_2089551248049209625_n.jpg)
 
-> 1-2
+> 2-0
 
-## Able to hold on
+## Pull one back
 
-Though the Frothers started upping the pressure they couldn't quite manage to get the breakthrough. **Yarride** had a great looking shot blacked by a valley defender.
+LBQ managed to get a goal back as a clearance header was picked up on the edge of the box and cooly finished off the left.
 
-The last telling moment was when **Milan** brought down a Valley player comfortably in the box. The ref then pointed to a freekick outside the box, causing a bit of anger...
+> 2-1
 
-![](/images/184382933_3374980876061527_1481327727730599843_n.jpg)
+## Try that longball game
+
+The Frother's third goal came from one of the numerous free kicks in the match. In the Frothers half, **Chris** hung a long ball up at one of the LBQ centrebacks who failed to deal with it. This allowed **Lance** to run at goal and force the ball past for the third.
+
+> 3-1
 
 # Man of the Match
 
-**Angus** had a great game at the back and did everything he could to keep the opposition out.
+**Ryan** made several great saves and was a picture of confidence in goal.
 
-![](/images/186491495_3374981016061513_7425879429347656597_n.jpg)
+![](/images/ryan_leap.jpg)
 
 # Dick of the Day
 
-**Milan** for the sheer cheek for getting away with the foul in the box.
+**Sule** for giving **Evan** shit about giving away bad fouls in dangerous positions, then getting a yellow for a shocking foul on the edge of the box.
 
-![](/images/milan_chop.jpg)
+![](/images/sule_check.jpg)
 
 {{< myshortcode >}} <iframe src="[https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3381458848747063&show_text=true&width=500](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3381458848747063&show_text=true&width=500 "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3381458848747063&show_text=true&width=500")" width="500" height="701" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> {{< /myshortcode >}}
