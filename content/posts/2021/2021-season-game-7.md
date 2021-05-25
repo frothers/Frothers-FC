@@ -1,28 +1,32 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-05-15T12:00:00Z
-description = "Recap of the game against Valley FC"
+date = 2021-05-22T12:00:00Z
+description = "Recap of the game against LBQ"
 draft = true
 friendly = false
-frother_goals = 1
-images = ["/images/185334635_3374980466061568_3235426851763961959_n.jpg"]
+frother_goals = 3
+images = ["/images/185858690_3381454598747488_5116422495976511446_n.jpg"]
 match = true
-opponent = "Valley FC"
-opponent_goals = 2
-result = "Loss"
+opponent = "LBQ"
+opponent_goals = 1
+result = "Win"
 title = "2021 Season - Game 7"
 type = "post"
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"
+[[scorers]]
+goals = 1
+scorer = "Thomas Sule"
+[[scorers]]
+goals = 1
+scorer = "Yarride Rosario"
 
 +++
-> The rematch
+> 
 
 Replaying the earlier fixture in the season where the Frothers won 2-1 the game was again under lights at Te Whaea.
-
-![](/images/186541740_3374980509394897_8226080703183732695_n.jpg)
 
 The game started quite evenly balanced, with the Frothers able to make more with their final ball.
 
@@ -78,4 +82,4 @@ The last telling moment was when **Milan** brought down a Valley player comforta
 
 ![](/images/milan_chop.jpg)
 
-{{< myshortcode >}} <iframe src="[https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500 "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3374981336061481&show_text=true&width=500")" width="500" height="817" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> {{< /myshortcode >}}
+{{< myshortcode >}} <iframe src="[https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3381458848747063&show_text=true&width=500](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3381458848747063&show_text=true&width=500 "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3381458848747063&show_text=true&width=500")" width="500" height="701" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> {{< /myshortcode >}}
