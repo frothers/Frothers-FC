@@ -28,17 +28,15 @@ scorer = "Yarride Rosario"
 
 Frothers got back to winning ways against a much-changed LBQ team from last season.
 
-## Loves a screamer
+The game got off to a telling start as **Charles** got a yellow card for a very plain foul and LBQ got the first of many free-kicks that came to nothing.
 
-The breakthrough came when **Lance** let fly a perfectly weighted shot into the top corner that the keeper could only watch.
+## Big Sam would be proud
 
-![](/images/185968962_3374981169394831_3678554050713961474_n.jpg)
+The first goal of the game came when a long ball over the top by **Angus.** **Yarride**, one-on-one with the keeper, bumped it over the top for a simple tap-in in front of the home fans.
 
-This came off the back of a nice play that culminated with **Charles** finding **Lance** on the edge of the area. The danger looks to have gone when Lance took a bit of a rough touch, but he turned and shot it, catching the keeper out.
+![](/images/185998846_3381455922080689_6569067530094179531_n.jpg) 
 
 > 1-0
-
-![](/images/185076426_3374980782728203_8105449896407410502_n.jpg)
 
 # Half time
 
