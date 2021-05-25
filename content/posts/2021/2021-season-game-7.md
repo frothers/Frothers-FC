@@ -24,11 +24,9 @@ goals = 1
 scorer = "Yarride Rosario"
 
 +++
-> 
+> Doing 'em dirty..
 
-Replaying the earlier fixture in the season where the Frothers won 2-1 the game was again under lights at Te Whaea.
-
-The game started quite evenly balanced, with the Frothers able to make more with their final ball.
+Frothers got back to winning ways against a much-changed LBQ team from last season.
 
 ## Loves a screamer
 
