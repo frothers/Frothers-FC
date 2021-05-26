@@ -41,11 +41,9 @@ The first goal of the game came when a long ball over the top by **Angus.** **Ya
 
 The Frothers came into the break 1-0 up and feeling confident.
 
-Valley FC came out the stronger of the two sides in the second half but was still missing a killer edge as their plays couldn't break through the backline.
-
 ## What a save
 
-pushing for the equaliser, LBQ got a great chance when a long throw into the box was flicked on for a 1-on-1 with the keeper. **Ryan** pulled out a great save to deny the LBQ player and cause the follow-up effort to go over the bar.
+Pushing for the equaliser, LBQ got a great chance when a long throw into the box was flicked on for a 1-on-1 with the keeper. **Ryan** pulled out a great save to deny the LBQ player and cause the follow-up effort to go over the bar.
 
 ![](/images/186498466_3381455152080766_3950239862005908952_n.jpg)
 
@@ -83,9 +81,9 @@ The Frother's third goal came from one of the numerous free kicks in the match. 
 
 ![](/images/sule_check.jpg)
 
-{{< rawhtml >}} 
-<div class="row"> 
+{{< rawhtml >}}
+<div class="row">
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3381458848747063&show_text=true&width=500" width="500" height="820" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
- </div> 
+</div>
 
 {{< /rawhtml >}}
