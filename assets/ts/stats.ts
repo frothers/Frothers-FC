@@ -40,10 +40,12 @@ export let populateStats = async function (name: string) {
 
   // Populate graph
   let chartData = <HTMLElement>document.getElementById("individual-stats-panel");
-  let appearances: ChartPoint[] = JSON.parse(chartData.getAttribute("data-appearances")).map((apps: { season: number; x: number; }) => {
+  let dataAppearances: { year: number; appearances: number; }[] = JSON.parse(chartData.getAttribute("data-appearances"));
+
+  let appearances: ChartPoint[] = dataAppearances.map(apps => {
     let app: ChartPoint = {
-      x: apps.season,
-      y: apps.x
+      x: apps.year,
+      y: apps.appearances
     }
     return app;
   });
