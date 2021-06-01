@@ -28,18 +28,6 @@ Lance and Evan were fantastic in midfield running all day to keep us in the game
 
 Hopefully, next week brings better weather and a return to full strength for the Frothers.
 
-# Man of the Match
-
-**Ryan** made several great saves and was a picture of confidence in goal.
-
-![](/images/ryan_leap.jpg)
-
-# Dick of the Day
-
-**Sule** for giving **Evan** shit about giving away bad fouls in dangerous positions, then getting a yellow for a shocking foul on the edge of the box.
-
-![](/images/sule_check.jpg)
-
 {{< rawhtml >}}
 <div class="row">
 <iframe src="[https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3387270341499247&show_text=true&width=500](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3387270341499247&show_text=true&width=500 "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3387270341499247&show_text=true&width=500")" width="500" height="701" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
