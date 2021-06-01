@@ -1,74 +1,32 @@
 +++
-author = "Chris"
+author = "Yarride"
 categories = ["Match"]
 date = 2021-05-29T12:00:00Z
 description = "Recap of the game against LBQ"
 draft = true
 friendly = false
-frother_goals = 3
+frother_goals = 1
 images = []
 match = true
-opponent = "LBQ"
-opponent_goals = 1
-result = "Win"
+opponent = "North Wellington"
+opponent_goals = 5
+result = "Loss"
 title = "2021 Season - Game 8"
 type = "post"
 [[scorers]]
 goals = 1
-scorer = "Lance Molyneaux"
-[[scorers]]
-goals = 1
 scorer = "Thomas Sule"
-[[scorers]]
-goals = 1
-scorer = "Yarride Rosario"
 
 +++
-> Doing 'em dirty..
+Liverpool making the Top 4 last week despite having their midfield and defence ravaged through injury had Frothers dreaming of success against North Wellington with 8 players unavailable.
 
-Frothers got back to winning ways against a much-changed LBQ team from last season.
+In less than ideal conditions at Ascot Park, the first half indicated a close battle would ensue. North Wellington took the lead through a top-corner screamer but Frothers kept it tight and with a slight change in formation they started to create chances of their own. Minutes before halftime, Yarride went down with a pulled hamstring and the short-handed Frothers were down to 10 men.
 
-The game got off to a telling start as **Charles** got a yellow card for a very plain foul and LBQ got the first of many free-kicks that came to nothing.
+The second half started brightly with Sule forcing an error from their defender before putting a very tidy finish off the far upright to level it at 1-1. A short time later North Wellington replied with a nice goal of their own before the flood gates opened in more ways than 1 as North Wellington ran away with it in torrential rain. On a tough day for Ryan in goal, 3 late goals blew it out to 5-1 before the referee mercifully blew for full time.
 
-## Big Sam would be proud
+Lance and Evan were fantastic in midfield running all day to keep us in the game. Charles and Sule filling in CB were key to keeping us in the game for the first 60minutes. The 2 fullbacks, Sam and Will also stood out the Frothers on a bad day for the club.
 
-The first goal of the game came when a long ball over the top by **Angus.** **Yarride**, one-on-one with the keeper, bumped it over the top for a simple tap-in in front of the home fans.
-
-![](/images/185998846_3381455922080689_6569067530094179531_n.jpg)
-
-> 1-0
-
-# Half time
-
-The Frothers came into the break 1-0 up and feeling confident.
-
-## What a save
-
-Pushing for the equaliser, LBQ got a great chance when a long throw into the box was flicked on for a 1-on-1 with the keeper. **Ryan** pulled out a great save to deny the LBQ player and cause the follow-up effort to go over the bar.
-
-![](/images/186498466_3381455152080766_3950239862005908952_n.jpg)
-
-## 2-Goal Swing
-
-Shortly afterwards, another speculative ball out from deep by **Milan** got the LBQ defence in all sorts of trouble. As they tried to play it back to their keeper **Sule** ran through for the interception and a smart finish from a tight angle.
-
-![](/images/186522339_3381455065414108_2089551248049209625_n.jpg)
-
-> 2-0
-
-## Pull one back
-
-LBQ managed to get a goal back as a clearance header was picked up on the edge of the box and cooly finished off the left.
-
-> 2-1
-
-## Try that longball game
-
-The Frother's third goal came from one of the numerous free kicks in the match. In the Frothers half, **Chris** hung a long ball up at one of the LBQ centrebacks who failed to deal with it. This allowed **Lance** to run at goal and force the ball past for the third.
-
-![](/images/185716792_3381455362080745_7398063688632025569_n.jpg)
-
-> 3-1
+Hopefully, next week brings better weather and a return to full strength for the Frothers.
 
 # Man of the Match
 
