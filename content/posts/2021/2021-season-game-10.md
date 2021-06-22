@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-06-19T12:00:00Z
 description = "Recap of the game against Habibis"
-draft = true
 friendly = false
 frother_goals = 2
 images = []
@@ -37,8 +36,8 @@ Going down to the wire the Frothers won a penalty in the last minute. **Yarride*
 
 ## Man of the Match
 
-**Angus** for making some killer slide tackles.
+**Yarride** for scoring and making the two goals and getting our hopes up.
 
 ## Dick of the Day
 
-**Evan** for hitting the first man on what felt like 10 corner kicks.
+**Yarride** for missing his first penalty when it mattered most.
