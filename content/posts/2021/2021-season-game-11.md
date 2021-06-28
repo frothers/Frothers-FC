@@ -30,9 +30,17 @@ The game got off to a sluggish pace, with the Frothers eventually scoring first 
 
 > 1-0
 
-The Black Bulls then got back in the game with a cross that wasn't delt with and their striker poking in the follow-up.
+The Black Bulls then got back in the game with a cross that wasn't dealt with and their striker poking in the follow-up.
 
 > 1-1
+
+Putting through-ball after through-ball they eventually jumped on an error by **Chris** and slotted home early to up.
+
+> 2-1
+
+Starting to put the pressure on, **Lance** found the keeper off his line and chipped him, with the attempted clearance taking it over.
+
+> 2-2
 
 ## Man of the Match
 
