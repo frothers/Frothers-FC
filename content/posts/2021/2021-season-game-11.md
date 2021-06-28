@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-06-26T12:00:00Z
 description = "Recap of the game against Ball Bulls"
-draft = true
 friendly = false
 frother_goals = 3
 images = []
