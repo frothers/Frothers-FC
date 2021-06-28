@@ -42,10 +42,24 @@ Starting to put the pressure on, **Lance** found the keeper off his line and chi
 
 > 2-2
 
+## Half time
+
+The Black Bulls eventually took the lead again in the second half, where a shot outside of the box was followed in.
+
+> 3-2
+
+The Frothers then poured on the pressure. Which a clear penalty shout waved away as **Evan** was chopped in the box.
+
+Not to be deprived, **Evan** then hammed a shot home as he came in from the right wing.
+
+> 3-3
+
+The end of the match was all Frothers, as another clear foul was waved away as **Will** was taken out on the edge of the box.
+
 ## Man of the Match
 
-**Yarride** for scoring and making the two goals and getting our hopes up.
+**Sam** for all of the driving runs he made from left-back, and shutting down all of the play on that wing.
 
 ## Dick of the Day
 
-**Yarride** for missing his first penalty when it mattered most.
+**Charles** for being out toe-poked, where his effort went well over the bar.
