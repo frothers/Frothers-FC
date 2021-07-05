@@ -1,60 +1,31 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-06-26T12:00:00Z
-description = "Recap of the game against Ball Bulls"
+date = 2021-07-03T12:00:00Z
+description = "Recap of the game against Valley FC"
 draft = true
 friendly = false
-frother_goals = 3
+frother_goals = 2
 images = []
 match = true
-opponent = "Habibis"
-opponent_goals = 3
-result = "Draw"
+opponent = "Valley FC"
+opponent_goals = 4
+result = "Loss"
 title = "2021 Season - Game 12"
 type = "post"
 [[scorers]]
 goals = 1
-scorer = "Evan Hanson"
+scorer = "Yarride Rosario"
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"
-[[scorers]]
-goals = 1
-scorer = "Thomas Sule"
 
 +++
-Keeping the rain theme going, this weeks game was against the bottom of the table Black Bulls.
+Entering the second round of the competition the Frothers were up against Valley FC for the third time this season. With the games 1 apiece it was all on the line.
 
-The game got off to a sluggish pace, with the Frothers eventually scoring first after a toe-poke by **Sule**.
+This match welcomed back for a cameo the Baby Boy, Big Cat, **Stu Escott.** Starting on the bench of course.
 
-> 1-0
-
-The Black Bulls then got back in the game with a cross that wasn't dealt with and their striker poking in the follow-up.
-
-> 1-1
-
-Putting through-ball after through-ball they eventually jumped on an error by **Chris** and slotted home early to up.
-
-> 2-1
-
-Starting to put the pressure on, **Lance** found the keeper off his line and chipped him, with the attempted clearance taking it over.
-
-> 2-2
-
-## Half time
-
-The Black Bulls eventually took the lead again in the second half, where a shot outside of the box was followed in.
-
-> 3-2
-
-The Frothers then poured on the pressure. Which a clear penalty shout waved away as **Evan** was chopped in the box.
-
-Not to be deprived, **Evan** then hammed a shot home as he came in from the right wing.
-
-> 3-3
-
-The end of the match was all Frothers, as another clear foul was waved away as **Will** was taken out on the edge of the box.
+The game started off in a pretty end to end fashion, with no side having the clear upper hand. The deadlock was broken by a shot outside of the box that dipped between **Ryan's** legs. Might pay to wear looser briefs next game.
 
 ## Man of the Match
 
