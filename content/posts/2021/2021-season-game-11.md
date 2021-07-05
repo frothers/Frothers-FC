@@ -2,12 +2,12 @@
 author = "Chris"
 categories = ["Match"]
 date = 2021-06-26T12:00:00Z
-description = "Recap of the game against Ball Bulls"
+description = "Recap of the game against Black Bulls"
 friendly = false
 frother_goals = 3
 images = []
 match = true
-opponent = "Habibis"
+opponent = "Black Bulls"
 opponent_goals = 3
 result = "Draw"
 title = "2021 Season - Game 11"
