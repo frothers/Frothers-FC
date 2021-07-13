@@ -3,7 +3,6 @@ author = "Yarride"
 categories = ["Match"]
 date = 2021-07-10T12:00:00Z
 description = "Recap of the game against Habibis"
-draft = true
 friendly = false
 frother_goals = 5
 images = ["/images/alexkick.jpg"]
@@ -79,3 +78,7 @@ Despite the loss, Frothers play magnificently and also did extremely well to hol
 **Nick**, despite a fantastic performance stepping up at centre back, the cheek to suggest Chris will be getting dropped for next week after conceding 6 goals has Nick picking up this award.
 
 ![](/images/205444166_3420323784860569_1145473977551048363_n.jpg)
+
+{{< rawhtml >}} <div class="row"> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3420326664860281&show_text=true&width=500" width="500" height="701" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div>
+
+{{< /rawhtml >}}
