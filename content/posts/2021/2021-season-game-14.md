@@ -1,72 +1,47 @@
 +++
-author = "Yarride"
+author = "Chris"
 categories = ["Match"]
-date = 2021-07-10T12:00:00Z
-description = "Recap of the game against Habibis"
+date = 2021-07-17T12:00:00Z
+description = "Recap of the game against the Sunday Blazers"
 draft = true
 friendly = false
 frother_goals = 5
-images = ["/images/alexkick.jpg"]
+images = []
 match = true
-opponent = "Habibis"
-opponent_goals = 6
-result = "Loss"
+opponent = "Sunday Blazers"
+opponent_goals = 4
+result = "Win"
 title = "2021 Season - Game 14"
 type = "post"
 [[scorers]]
 goals = 1
-scorer = "Alex Winsley"
-[[scorers]]
-goals = 1
-scorer = "Evan Hanson"
+scorer = "Chris Chester"
 [[scorers]]
 goals = 1
 scorer = "Jarrod Murray"
 [[scorers]]
-goals = 1
+goals = 2
 scorer = "Lance Molyneaux"
 [[scorers]]
 goals = 1
-scorer = "Ring-In"
+scorer = "Yarride Rosario"
 
 +++
-Missing 5 or 6 key players from this season, Frothers game against Habibis this weekend gave other players the chance to step up and shine on Matariki weekend. An even start to the game was not reflected on the scoreboard as Frothers spurned a few good chances while Habibis took all of theirs to quickly race out to a 3-0 lead.
+The big derby to finish the season off, with the Frothers fighting for a bit of pride and to get away from the bottom of the table.
 
-> 0-3
+It was a wet and windy day at Te Whaea with the game almost getting off to a wild start, with **Lance** getting caught in the face with a clearance and the rebound ending up as a decent shot on target.
 
-![](/images/216543118_3420322618194019_1188160773218208971_n.jpg)
+The Blazers took the lead as a player ghosted in at the back post on a corner and headed home.
 
-Needing a change in momentum, Evan’s introduction from the bench had an immediate impact. His corner was cleared only as far as **Alex** on the edge of the box whose low shot took a deflection before sneaking in the bottom corner.
+> 0-1
 
-> 1-3
+Pushing for the equaliser, the Frothers came close many times but couldn't quite find the back of the net.
 
-![](/images/211369758_3420322588194022_869138119888661295_n.jpg)
+It was the Blazers who scored next, however. A ball over the top from the ever-dangerous Alain led to the Blazers striker scoring from a tight angle.
 
-**Evan** then turned goalscorer, good link-up play with Lance leading to a fine left-footed finish from the American at the near post.
+> 0-2
 
-> 2-3
-
-![](/images/207741996_3420322178194063_8267660715029528571_n.jpg)
-
-## Halftime
-
-3-2 at halftime had the Frothers up for a big second half and they soon levelled the score with **Jarrod** running on to a through ball from Nick before powering a strong finish past the keeper.
-
-> 3-3
-
-![](/images/215358086_3420325348193746_8897979304000453098_n.jpg)
-
-Confidence was surging through the Frothers play now and they made it count with **Lance** and **Cole** both scoring from good build-up play to make it 5-3 to the Frothers.
-
-> 5-3
-
-And that was how it ended. Except that the Habibis started getting fired up, using their bodies to put pressure on the defence and their mouths to put pressure on the ref. 1 goal started the comeback before a second tied it up and finally, a third game gave Habibis the win with less than 5 minutes to go.
-
-> 5-6
-
-![](/images/habibisking.jpg)
-
-Despite the loss, Frothers play magnificently and also did extremely well to hold their calm in the face of a verbal onslaught and rather unsporting behaviour from the opposition. One final league match against the old foe, Blazers before what is hopefully a successful cup run.
+Desperate to get back in the game, the Frothers were awarded a freekick just inside the opposition half. With it being wet and windy **Chris** fancied a 
 
 ## Man of the Match
 
