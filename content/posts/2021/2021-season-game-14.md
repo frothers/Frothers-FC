@@ -41,13 +41,39 @@ It was the Blazers who scored next, however. A ball over the top from the ever-d
 
 > 0-2
 
-Desperate to get back in the game, the Frothers were awarded a freekick just inside the opposition half. With it being wet and windy **Chris** fancied a 
+Desperate to get back in the game, the Frothers were awarded a freekick just inside the opposition half. With it being wet and windy **Chris** fancied a tipple. Hitting a hard dipping shot that the keeper could only get fingertips to.
+
+> 1-2
+
+The Blazers kept their pressure up, managing to get a few shots from outside of the box. One of these shots could only be parried and the chasing in Blazers player got there first.
+
+> 1-3
+
+## Halftime
+
+Wit the Blazers going into the changing room for halftime the Frothers stood their ground in the wet. They merely adopted Wellington as a home, we were born in it, moulded by it.
+
+Seeing the success the Blazers had with following in shots, **Jarrod** followed in an effort and was able to put his shot between the keeper's legs.
+
+> 2-3
+
+The Frothers started to get plenty of freedom behind the Blazers defence as they tried to maintain a high line. This time **Lance** was in and able to beat the keeper to the ball. The comeback is on.
+
+> 3-3
+
+Rallying, the Blazers were able to mount another successful attack, with their unmarked striker able to tuck home a first time finish in the box.
+
+> 3-4
+
+Not to be disheartened, the Frothers doubled their efforts. It was **Lance** again who levelled things up with some great interplay with **Evan**.
+
+> 4-4
+
+Determined for the win. The Frothers continued to put the pressure on. 
 
 ## Man of the Match
 
 **Jarrod** for his most effective display in a Frothers shirt, running hard all day and scoring his first goal for the club. **Nick**, **Jack** and **Alex** also stepped up to have their best games of the season meaning the absence of Charles, Chris and Sule were hardly noticed.
-
-![](/images/213641990_3420324324860515_3213069840051839147_n-1.jpg)
 
 ## Dick of the Day
 
