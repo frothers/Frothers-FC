@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-07-17T12:00:00Z
 description = "Recap of the game against the Sunday Blazers"
-draft = true
 friendly = false
 frother_goals = 5
 images = []
@@ -69,18 +68,14 @@ Not to be disheartened, the Frothers doubled their efforts. It was **Lance** aga
 
 > 4-4
 
-Determined for the win. The Frothers continued to put the pressure on. 
+Determined for the win, the Frothers continued to put the pressure on. Running through on goal the keeper was rounded only to have **Jamie's** effort cleared off the line. **Yarride** was there to take it down, nutmeg the keeper, and finish the game for the Frothers!
+
+> 5-4
 
 ## Man of the Match
 
-**Jarrod** for his most effective display in a Frothers shirt, running hard all day and scoring his first goal for the club. **Nick**, **Jack** and **Alex** also stepped up to have their best games of the season meaning the absence of Charles, Chris and Sule were hardly noticed.
+The whole team put in a mammoth effort and it is hard to pick one player. **Jack** gets the nod for playing his second game in a row injury-free and doing some great defensive work.
 
 ## Dick of the Day
 
-**Nick**, despite a fantastic performance stepping up at centre back, the cheek to suggest Chris will be getting dropped for next week after conceding 6 goals has Nick picking up this award.
-
-![](/images/205444166_3420323784860569_1145473977551048363_n.jpg)
-
-{{< rawhtml >}} <div class="row"> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3420326664860281&show_text=true&width=500" width="500" height="701" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div>
-
-{{< /rawhtml >}}
+**Jarrod** for when the game was at 4-4 throwing his toys and leaving the ball on the line when we weren't awarded the corner, killing time when we were pushing for a winner.
