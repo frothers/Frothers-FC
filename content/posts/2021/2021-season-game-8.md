@@ -2,7 +2,7 @@
 author = "Yarride"
 categories = ["Match"]
 date = 2021-05-29T12:00:00Z
-description = "Recap of the game against LBQ"
+description = "Recap of the game against North Wellington"
 friendly = false
 frother_goals = 1
 images = ["/images/190719555_3387268284832786_3277633440813087331_n.jpg"]
