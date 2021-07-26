@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-07-24T12:00:00Z
 description = "Recap of the game against the Fireraiders"
-draft = true
 friendly = false
 frother_goals = 3
 images = ["/images/217683334_3432049300354684_4999570640749370656_n.jpg"]
@@ -66,7 +65,7 @@ But that was all they could muster, and the Frothers were through to the Semis t
 
 ## Man of the Match
 
-Another great team game, this one goes to **_the ladies_**_._
+Another great team game, **football** was the winner on the day_._
 
 ## Dick of the Day
 
