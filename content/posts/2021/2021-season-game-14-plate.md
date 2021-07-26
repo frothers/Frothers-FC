@@ -56,15 +56,21 @@ Floating on cloud 9 after the two-goal lead, the Frothers knew that love was in 
 
 > 3-0
 
-It was never a night for clean sheets. After 
+It was never a night for clean sheets. After not having a proper opportunity in the second half a Fireraiders player was brought down on the edge on the edge of the box. A free-kick was put into the top corner of the goal, with a little help from a flakey wall and a crowded keeper.
+
+> 3-1
+
+But that was all they could muster, and the Frothers were through to the Semis to play Super Patties Fun Club.
+
+![](/images/217937407_3432049830354631_1528675822884803156_n.jpg)
 
 ## Man of the Match
 
-The whole team put in a mammoth effort and it is hard to pick one player. **Jack** gets the nod for playing his second game in a row injury-free and doing some great defensive work.
+Another great team game, this one goes to **_the ladies_**_._
 
 ## Dick of the Day
 
-**Jarrod** for when the game was at 4-4 throwing his toys and leaving the ball on the line when we weren't awarded the corner, killing time when we were pushing for a winner.
+**Jamie** for ducking out of the wall to allow for the goal. A selfish grab for fantasy point supremacy, having already bagged a goal.
 
 {{< rawhtml >}} <div class="row"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3432050170354597&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div>
 
