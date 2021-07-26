@@ -1,30 +1,27 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-07-17T12:00:00Z
-description = "Recap of the game against the Sunday Blazers"
+date = 2021-07-24T12:00:00Z
+description = "Recap of the game against the Fireraiders"
 draft = true
 friendly = false
-frother_goals = 5
+frother_goals = 3
 images = []
 match = true
-opponent = "Sunday Blazers"
-opponent_goals = 4
+opponent = "Fireraiders"
+opponent_goals = 1
 result = "Win"
 title = "2021 Season - Game 14-Plate"
 type = "post"
 [[scorers]]
 goals = 1
-scorer = "Chris Chester"
-[[scorers]]
-goals = 1
-scorer = "Jarrod Murray"
-[[scorers]]
-goals = 2
-scorer = "Lance Molyneaux"
-[[scorers]]
-goals = 1
 scorer = "Yarride Rosario"
+[[scorers]]
+goals = 1
+scorer = "Jamie Hatch"
+[[scorers]]
+goals = 1
+scorer = "Harry Furnish"
 
 +++
 The big derby to finish the season off, with the Frothers fighting for a bit of pride and to get away from the bottom of the table.
@@ -80,3 +77,7 @@ The whole team put in a mammoth effort and it is hard to pick one player. **Jack
 ## Dick of the Day
 
 **Jarrod** for when the game was at 4-4 throwing his toys and leaving the ball on the line when we weren't awarded the corner, killing time when we were pushing for a winner.
+
+{{< rawhtml >}} <div class="row"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3432050170354597&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div>
+
+{{< /rawhtml >}}
