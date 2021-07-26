@@ -6,7 +6,7 @@ description = "Recap of the game against the Fireraiders"
 draft = true
 friendly = false
 frother_goals = 3
-images = []
+images = ["/images/217683334_3432049300354684_4999570640749370656_n.jpg"]
 match = true
 opponent = "Fireraiders"
 opponent_goals = 1
@@ -24,51 +24,39 @@ goals = 1
 scorer = "Harry Furnish"
 
 +++
-The big derby to finish the season off, with the Frothers fighting for a bit of pride and to get away from the bottom of the table.
+> This one goes out to the lovers
 
-It was a wet and windy day at Te Whaea with the game almost getting off to a wild start, with **Lance** getting caught in the face with a clearance and the rebound ending up as a decent shot on target.
+The Frothers looked to keep their unbeaten cup form alive in the first round, and quarterfinals, of the WSFLplate.
 
-The Blazers took the lead as a player ghosted in at the back post on a corner and headed home.
+A still night at Wellington college under a full moon made for a perfect date, with only the high ball under the lights causing any real red flags.
 
-> 0-1
+The game wasn't long gone before the Fire Starters nearly ruined the evening, however. A great save by **Ryan** and then the knight in shining armour, **Alex**, came in with a goal-line clearance.
 
-Pushing for the equaliser, the Frothers came close many times but couldn't quite find the back of the net.
+![](/images/224334702_3432049740354640_3553671481389341508_n.jpg)
 
-It was the Blazers who scored next, however. A ball over the top from the ever-dangerous Alain led to the Blazers striker scoring from a tight angle.
+Realising this wasn't going to be a sure thing the Frothers immediately struck back and **Yarride** was put through on goal by an **Evan** header. They don't call him _the one that got away_ for nothing.
 
-> 0-2
+![](/images/221905301_3432049023688045_6489422378618635866_n.jpg)
 
-Desperate to get back in the game, the Frothers were awarded a freekick just inside the opposition half. With it being wet and windy **Chris** fancied a tipple. Hitting a hard dipping shot that the keeper could only get fingertips to.
+> 1-0
 
-> 1-2
+# Halftime
 
-The Blazers kept their pressure up, managing to get a few shots from outside of the box. One of these shots could only be parried and the chasing in Blazers player got there first.
+Going into the break 1 up the Frothers knew they needed a second against a well-organised Fireraisers. They needed the kiss of death.
 
-> 1-3
+It didn't take long for the Frothers to lean in. **Charles** started the move with a pass to **Yarride** who then sent it to **Jamie**. Not one to wait until the 3rd date, Jamie sent it home.
 
-## Halftime
+![](/images/217693333_3432049900354624_7767114642499689677_n.jpg)
 
-Wit the Blazers going into the changing room for halftime the Frothers stood their ground in the wet. They merely adopted Wellington as a home, we were born in it, moulded by it.
+> 2-0
 
-Seeing the success the Blazers had with following in shots, **Jarrod** followed in an effort and was able to put his shot between the keeper's legs.
+Floating on cloud 9 after the two-goal lead, the Frothers knew that love was in the air. **Lance** this time serenaded the home fans with a twisting and turning tango in the box to then square it to **Harry** who let is body ride the wave of passion.
 
-> 2-3
+![](/images/219705171_3432049533687994_7417058065249744044_n.jpg)
 
-The Frothers started to get plenty of freedom behind the Blazers defence as they tried to maintain a high line. This time **Lance** was in and able to beat the keeper to the ball. The comeback is on.
+> 3-0
 
-> 3-3
-
-Rallying, the Blazers were able to mount another successful attack, with their unmarked striker able to tuck home a first time finish in the box.
-
-> 3-4
-
-Not to be disheartened, the Frothers doubled their efforts. It was **Lance** again who levelled things up with some great interplay with **Evan**.
-
-> 4-4
-
-Determined for the win, the Frothers continued to put the pressure on. Running through on goal the keeper was rounded only to have **Jamie's** effort cleared off the line. **Yarride** was there to take it down, nutmeg the keeper, and finish the game for the Frothers!
-
-> 5-4
+It was never a night for clean sheets. After 
 
 ## Man of the Match
 
