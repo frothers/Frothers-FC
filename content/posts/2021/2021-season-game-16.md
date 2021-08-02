@@ -1,12 +1,11 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-07-24T12:00:00Z
-description = "Recap of the game against the Fireraiders"
-draft = true
+date = 2021-07-31T12:00:00Z
+description = "Recap of the game against LBQ"
 friendly = false
 frother_goals = 3
-images = ["/images/217683334_3432049300354684_4999570640749370656_n.jpg"]
+images = ["/images/img_3513_02.jpg"]
 match = true
 opponent = "Fireraiders"
 opponent_goals = 1
@@ -15,63 +14,48 @@ title = "2021 Season - Game 16"
 type = "post"
 [[scorers]]
 goals = 1
+scorer = "Evan Hanson"
+[[scorers]]
+goals = 2
 scorer = "Yarride Rosario"
-[[scorers]]
-goals = 1
-scorer = "Jamie Hatch"
-[[scorers]]
-goals = 1
-scorer = "Harry Furnish"
 
 +++
-> This one goes out to the lovers
+> Saving quiet Ryan
 
-The Frothers looked to keep their unbeaten cup form alive in the first round, and quarterfinals, of the WSFLplate.
+Coming into this week's match with a bit of a bounce in their step, the Frothers were out to protect that sweet boy between the sticks, **Ryan**.
 
-A still night at Wellington college under a full moon made for a perfect date, with only the high ball under the lights causing any real red flags.
-
-The game wasn't long gone before the Fire Starters nearly ruined the evening, however. A great save by **Ryan** and then the knight in shining armour, **Alex**, came in with a goal-line clearance.
-
-![](/images/224334702_3432049740354640_3553671481389341508_n.jpg)
-
-Realising this wasn't going to be a sure thing the Frothers immediately struck back and **Yarride** was put through on goal by an **Evan** header. They don't call him _the one that got away_ for nothing.
-
-![](/images/221905301_3432049023688045_6489422378618635866_n.jpg)
+Getting started with a bit of rough football the match soon fell into a rhythm of counter-attacking football for the Frothers. Comfortably weathering a few attacks the boys got underway with a nice through ball from Will which the patriot himself **Evan** ran onto and slotted by the keeper's right.
 
 > 1-0
 
-# Halftime
+The first casualty happened just before halftime as **Jamie** injured himself and had to come off. Down to 12, the Frothers still felt confident.
 
-Going into the break 1 up the Frothers knew they needed a second against a well-organised Fireraisers. They needed the kiss of death.
+## Halftime
 
-It didn't take long for the Frothers to lean in. **Charles** started the move with a pass to **Yarride** who then sent it to **Jamie**. Not one to wait until the 3rd date, Jamie sent it home.
+At halftime, the second casualty came. Not wanting to jeopardize the Sule bloodline, **Will** was retired to just leave Thomas in the thick of it. Down to 11.
 
-![](/images/217693333_3432049900354624_7767114642499689677_n.jpg)
+The Frothers really started to take the game as several nice plays resulted in the exploitation of a lot of space at the back. This proved telling as **Yarride** and the remaining **Sule** bounced passes back and forth in the box for **Yarride** to eventually score.
 
 > 2-0
 
-Floating on cloud 9 after the two-goal lead, the Frothers knew that love was in the air. **Lance** this time serenaded the home fans with a twisting and turning tango in the box to then square it to **Harry** who let is body ride the wave of passion.
+The bullets kept on flying, however, and Sule was caught by a rogue sniper in the hamstring. You hate to see it. Down to 10.
 
-![](/images/219705171_3432049533687994_7417058065249744044_n.jpg)
+The Frothers started to sit a bit deeper and tightened up in an attempt to hold the lead. LBQ pushed forward to try to take advantage of this but overcommitted. **Yarride** was put through with 4 in pursuit. The keeper decided to make it 5 players rushing the ball, so **Yarride** expertly put it over him.
 
 > 3-0
 
-It was never a night for clean sheets. After not having a proper opportunity in the second half a Fireraiders player was brought down on the edge on the edge of the box. A free-kick was put into the top corner of the goal, with a little help from a flakey wall and a crowded keeper.
+Back from the brink, **Jamie** came back on to play a pivot role to limit the amount of running. This paid dividends as we were able to break down almost all of their attacks. LBQ did manage to eventually breakthrough, with a bouncing ball in the box not properly cleared, and poked home.
 
 > 3-1
 
-But that was all they could muster, and the Frothers were through to the Semis to play Super Patties Fun Club.
+It was too little too late though, and it easily could have been a wider margin with a couple of near misses from the Frothers.
 
-![](/images/217937407_3432049830354631_1528675822884803156_n.jpg)
+The train continues!
 
-## Man of the Match
+# Man of the Match
 
-Another great team game, **football** was the winner on the day_._
+Big **Sam** shut his wing down all evening and made several impressive runs forward, selling dummies, and on one occasion breaking multiple tackles to get all the way into the box.
 
-## Dick of the Day
+# Dick of the Day
 
-**Jamie** for ducking out of the wall to allow for the goal. A selfish grab for fantasy point supremacy, having already bagged a goal.
-
-{{< rawhtml >}} <div class="row"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3432050170354597&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div>
-
-{{< /rawhtml >}}
+You hate to see it, and I have a special sympathy in my heart. but coming back from injury and not warming to then injure yourself on a nothing ball. **Sule** has to take it.
