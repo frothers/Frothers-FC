@@ -58,4 +58,4 @@ Big **Sam** shut his wing down all evening and made several impressive runs forw
 
 # Dick of the Day
 
-You hate to see it, and I have a special sympathy in my heart. but coming back from injury and not warming to then injure yourself on a nothing ball. **Sule** has to take it.
+You hate to see it, and I have a special sympathy in my heart. Coming back from injury and not warming up to then injure yourself on a nothing ball. **Sule** has to take it.
