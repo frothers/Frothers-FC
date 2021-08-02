@@ -3,6 +3,7 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-07-24T12:00:00Z
 description = "Recap of the game against the Fireraiders"
+draft = true
 friendly = false
 frother_goals = 3
 images = ["/images/217683334_3432049300354684_4999570640749370656_n.jpg"]
@@ -10,7 +11,7 @@ match = true
 opponent = "Fireraiders"
 opponent_goals = 1
 result = "Win"
-title = "2021 Season - Game 15 (Plate)"
+title = "2021 Season - Game 16"
 type = "post"
 [[scorers]]
 goals = 1
