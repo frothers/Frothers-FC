@@ -1,62 +1,46 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-07-31T12:00:00Z
-description = "Recap of the game against LBQ"
+date = 2021-08-14T12:00:00Z
+description = "Recap of the game against North Wellington"
 draft = true
 friendly = false
-frother_goals = 3
-images = ["/images/img_3513_02.jpg"]
+frother_goals = 1
+images = ["/images/228404266_3448410588718555_8093951335355050790_n.jpg"]
 match = true
 opponent = "Fireraiders"
-opponent_goals = 1
+opponent_goals = 0
 result = "Win"
 title = "2021 Season - Game 17"
 type = "post"
 [[scorers]]
 goals = 1
-scorer = "Evan Hanson"
-[[scorers]]
-goals = 2
-scorer = "Yarride Rosario"
+scorer = "Lance Molyneaux"
 
 +++
-> Saving quiet Ryan
+# The 40-year-old Virgin
 
-Coming into this week's match with a bit of a bounce in their step, the Frothers were out to protect that sweet boy between the sticks, **Ryan**.
+This week's game was preceded by the birthday of our favourite Canadian. **Charles '_sweet cherry'_ Daily  
+**
 
-Getting started with a bit of rough football the match soon fell into a rhythm of counter-attacking football for the Frothers. Comfortably weathering a few attacks the boys got underway with a nice through ball from Will which the patriot himself **Evan** ran onto and slotted by the keeper's right.
-
-> 1-0
-
-The first casualty happened just before halftime as **Jamie** injured himself and had to come off. Down to 12, the Frothers still felt confident.
-
-## Halftime
-
-At halftime, the second casualty came. Not wanting to jeopardize the Sule bloodline, **Will** was retired to just leave Thomas in the thick of it. Down to 11.
-
-The Frothers really started to take the game as several nice plays resulted in the exploitation of a lot of space at the back. This proved telling as **Yarride** and the remaining **Sule** bounced passes back and forth in the box for **Yarride** to eventually score.
-
-> 2-0
-
-The bullets kept on flying, however, and Sule was caught by a rogue sniper in the hamstring. You hate to see it. Down to 10.
-
-The Frothers started to sit a bit deeper and tightened up in an attempt to hold the lead. LBQ pushed forward to try to take advantage of this but overcommitted. **Yarride** was put through with 4 in pursuit. The keeper decided to make it 5 players rushing the ball, so **Yarride** expertly put it over him.
-
-> 3-0
-
-Back from the brink, **Jamie** came back on to play a pivot role to limit the amount of running. This paid dividends as we were able to break down almost all of their attacks. LBQ did manage to eventually breakthrough, with a bouncing ball in the box not properly cleared, and poked home.
-
-> 3-1
-
-It was too little too late though, and it easily could have been a wider margin with a couple of near misses from the Frothers.
-
-The train continues!
-
-# Man of the Match
-
-Big **Sam** shut his wing down all evening and made several impressive runs forward, selling dummies, and on one occasion breaking multiple tackles to get all the way into the box.
-
-# Dick of the Day
-
-You hate to see it, and I have a special sympathy in my heart. Coming back from injury and not warming up to then injure yourself on a nothing ball. **Sule** has to take it.
+Playing against a North Wellington side that had put the Frothers to the sword the last couple of times we played. As the saying goes it gets harder the longer you wait. In an attempt to crack this nut we brought the 12th man will a stacked sideline of supporters.  
+  
+The first half was all about quality football winning out. The Frothers let the ball do the talking and had several nice plays going from front to back. In contrast, North Wellington were unable to get anything going past halfway due to an absolute shift being put in by the centre mids.  
+  
+The breakthrough came with another back to front move, with Evan picking up the ball in a good shooting position on the edge of the box. Cutting a disguised pass into the box Lance ran onto it and fired it into the back of the net.  
+  
+After a bit of back and forth, North Wellington got a golden chance. A questionable touch/pass from Jamie lead to an indirect freekick in the box. They blazed it over though.  
+  
+# Half Time  
+  
+Looking and feeling solid the Frothers went into the second half looking at securing the 3 points. Jarrod came close to making it 2 with a squared ball from Lance but had a shot saved and could only find the upright with the rebound.  
+  
+The moment of the half came as a North Wellington player was played in 1-1, with Ryan making himself big and saving.  
+  
+The Frothers saw out the half for the 4th win on the bounce and the first clean-sheet since opening day.  
+  
+# MoTM  
+Evan was huge in midfield both on attack and defence. Supplying the assist made this one a no brainer.  
+  
+# DotD  
+Lance for bodychecking a player, half dying on the field afterwards while getting hip thrusts from an opposing player was pretty good.
