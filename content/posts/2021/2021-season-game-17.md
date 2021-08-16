@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-08-14T12:00:00Z
 description = "Recap of the game against North Wellington"
-draft = true
 friendly = false
 frother_goals = 1
 images = ["/images/228404266_3448410588718555_8093951335355050790_n.jpg"]
@@ -59,3 +58,7 @@ The Frothers saw out the half for the 4th win on the bounce and the first clean-
 **Lance** for bodychecking a player, half dying on the field afterwards, while getting hip thrusts from an opposing player.
 
 ![](/images/231844227_3448411262051821_4418176728637211093_n2.jpg)![](/images/231572515_3448411075385173_1883059002136618240_n-1.jpg)
+
+{{< rawhtml >}} <div class="row"> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3448412895384991&show_text=true&width=500" width="500" height="743" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div>
+
+{{< /rawhtml >}}
