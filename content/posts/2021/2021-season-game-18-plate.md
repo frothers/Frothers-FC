@@ -37,13 +37,13 @@ goals = 2
 scorer = "Yarride Rosario"
 
 +++
-Just as the Frothers were getting on a roll covid struck back and delayed the season 3 weeks.  
-  
+Just as the Frothers were getting on a roll covid struck back and delayed the season 3 weeks.
+
 Looking at repeating the same feat from last year, the Frothers were up against new opposition the super paddies fun club.
 
 # First half
 
-The game started off with the Frothers with the better of the possession, but were unable to find any real purchase in the final third.
+The game started off with the Frothers with the better of the possession but were unable to find any real purchase in the final third.
 
 Super paddies won a questionable free kick on the edge of the area. Lofting a ball into the box resulted in a goalmouth scramble with the ball eventually being poked home.
 
@@ -74,9 +74,11 @@ There were plenty of chances for a third for the Frothers, but it wasn't to be. 
 Supper Paddies won the toss and got to take their penalties first.
 
 Their goalie stepped up first and put one in the corner.
+
 > 0-1
 
 **Lance** then stepped up and put a great penalty in the top left
+
 > 1-1
 
 {{< vimeo 604599433 >}}
@@ -85,39 +87,47 @@ Paddies then scored their next
 1-2
 
 **Sule** stepped up and made sure of it into the bottom left
+
 > 2-2
 
 {{< vimeo 604599146 >}}
 
 The Supper paddies player hit the next penalty well into the bottom right, but **Ryan** had guessed right and saved!
+
 > 2-2
 
 **Chris** stepped up and drilled one into the bottom left
+
 > 3-2
 
 {{< vimeo 604599281 >}}
 
 The next paddies play kept it alive by going high
+
 > 3-3
 
 **Evan** used a good body feint and sent the goalie the wrong way
+
 > 4-3
 
 {{< vimeo 604599030 >}}
 
 The Paddies player kept them alive
+
 > 4-4
 
-**Yarride** stepped up and hit it with enough power to score,even though the keeper got a hand to it 
+**Yarride** stepped up and hit it with enough power to score, even though the keeper got a hand to it
 
 > 5-4
 
-{{< vimeo 604599081 >}}
+{{< vimeo 604657368 >}}
 
 Frother WIN! To the finals
 
 # Man of the Match
+
 **Sule** for having his brunch and eating it too. Fitting in a birthday lunch and then roll in for two match-saving assists is big frother energy.
 
 # Dick of the Day
-~~Yarride~~ took his shirt off after the penalty, but not the undershirt. But scored both the goals and the winning penalty, so itgoes to **Evan** for when the Frothers had one last chance to win it in regular time he put the corner straight out. Against the wind.
+
+~~Yarride~~ took his shirt off after the penalty, but not the undershirt. But scored both the goals and the winning penalty, so it goes to **Evan** for when the Frothers had one last chance to win it in regular time he put the corner straight out. Against the wind.
