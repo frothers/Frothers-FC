@@ -1,7 +1,7 @@
 +++
 author = "Chris Chester"
 categories = ["Match"]
-date = 2020-09-12T11:00:00Z
+date = 2021-09-12T05:00:00Z
 description = "Match report for the cup game against Super Paddy's Fun Club"
 frother_goals = 2
 images = ["/images/120936776_3186811541545129_2625438443920060268_o.jpg"]
@@ -10,7 +10,7 @@ opponent = "Super Paddy's Fun Club"
 opponent_goals = 2
 penalties = true
 result = "Win"
-title = "2020 Season - Game 18 (Plate Semi)"
+title = "2021 Season - Game 18 (Plate Semi)"
 type = "post"
 [[penalty]]
 frother_goal = true
