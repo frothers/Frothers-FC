@@ -84,7 +84,7 @@ Their goalie stepped up first and put one in the corner.
 {{< vimeo 604599433 >}}
 
 Paddies then scored their next
-1-2
+> 1-2
 
 **Sule** stepped up and made sure of it into the bottom left
 
