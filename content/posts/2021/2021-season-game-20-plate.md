@@ -1,11 +1,10 @@
 +++
 author = "Chris Chester"
-draft = true
 categories = ["Match"]
 date = 2021-09-26T05:00:00Z
 description = "Match report for the plate final game against Valley FC Dream"
 frother_goals = 2
-images = ["/images/120936776_3186811541545129_2625438443920060268_o.jpg"]
+images = ["/images/242829345_3480892978803649_2047129873740513097_n.jpg"]
 match = true
 opponent = "Valley FC Dream"
 opponent_goals = 2
@@ -40,39 +39,49 @@ scorer = "Thomas Sule"
 goals = 1
 scorer = "Yarride Rosario"
 
-
 +++
-Entering their second plate final on the trot the Frothers were stoked they could play it this time. Another game at the home on wind, Wakefield park. WSFL had set-up a finals day where simulataneous finals were played one after another.
+
+Entering their second plate final on the trot the Frothers were stoked they could play it this time. Another game at the home on the wind, Wakefield park. WSFL had set up a finals day where simultaneous finals were played one after another.
+
+![](/images/242829345_3480892978803649_2047129873740513097_n.jpg)
 
 # First half
 
-Letting the finals nerves get to them, the Frothers struggled to make their possession count in the early game. Long passes were off the cards due to the swirling wind, unless of course it was over the top...
+Letting the nerves of the final get to them, the Frothers struggled to make their possession count in the early game. Long passes were off the cards due to the swirling wind, unless of course, it was over the top...
 
 Valley Dream decided early on that this was going to be their tactic, bombing ball after ball over the top. This almost paid off except for a great save from **Ryan** on a 1-on-1.
 
+![](/images/242901979_3480893252136955_6427697047754830183_n.jpg)
+
 Still struggling to get their rhythm, it was the Frothers who struck first as **Sule** climbed highest on a corner to head the boys into the lead.
+
+![](/images/242521068_3480894012136879_6969311798146355329_n.jpg)
 
 > 1-0
 
 Rattled after going down, Valley Dream were starting to get loose with their passing. This time spraying a ball to **Yarride** who took off with it. Bearing down on goal he lifted the ball over the keeper to make it two.
 
+![](/images/241911718_3480894062136874_1221096340459109764_n.jpg)
+
 > 2-0
 
 The Frothers were now well in control of the game. Valley Dream needed a bit of luck to get back in the game...
 
-That stroke of luck came off a corner. A punched ball only went as far as a Valley player on the edge on the box. Hitting the shot in off the upright
+That stroke of luck came off a corner. A punched ball only went as far as a Valley player on the edge of the box. Hitting the shot in off the upright
+
+![](/images/241562342_3480893292136951_1373590954514405194_n.jpg)
 
 > 2-1
 
 # Half Time
 
-The goal back took the wind out of the sails of the Frothers a bit. However, it wasn't long before opportunities started to present themselves. Twice hitting the woodwork, the boys were unlucky now to regain the two goal lead.
+The goal back took the wind out of the sails of the Frothers a bit. However, it wasn't long before opportunities started to present themselves. Twice hitting the woodwork, the boys were unlucky now to regain the two-goal lead.
 
-As the half went on it was Valley Dream who were next to score. In a attack starting from the wing and coming almost directly across field the fianl Valley player managed to poke the ball past **Ryan** to level it up.
+As the half went on it was Valley Dream who were next to score. In an attack starting from the wing and coming almost directly across the field the final Valley player managed to poke the ball past **Ryan** to level it up.
 
 > 2-2
 
-Knowing we were the better team on paper the Frothers started to increase the pressure. Again hitting the woodwork through **Lance** who's first time volley came agonisingly close.
+Knowing we were the better team on paper the Frothers started to increase the pressure. Again hitting the woodwork through **Lance** who's first-time volley came agonisingly close.
 
 # Penalties
 
@@ -84,21 +93,25 @@ Their player stepped up first and put one in the corner.
 
 **Lance** then stepped up and had a low shot saved.
 
+![](/images/242594910_3480893755470238_1428693841735028514_n.jpg)
+
 > 0-0
 
 Valley then scored their next to put them two up.
 
 > 0-2
 
-**Chris** stepped up to try claw it back, but hit the crossbar. The goalie was adjudged to have come off his line, but since it was a miss it was nothing doing.
+**Chris** stepped up to try to claw it back but hit the crossbar. The goalie was adjudged to have come off his line, but since it was a miss it was nothing doing.
 
 > 0-2
 
-Following the same technique the valley player also hit the bar.
+Following the same technique, the valley player also hit the bar.
 
 > 0-2
 
 **Will** stepped up and sent the keeper the wrong way.
+
+![](/images/242123262_3480893915470222_4688386159790842298_n.jpg)
 
 > 1-2
 
@@ -110,11 +123,13 @@ The next Valley player kept it low, but **Ryan** guessed right.
 
 > 2-2
 
-Down to the last penalties. The Valley player scored his.
+Down to the last penalties... The Valley player scored his.
 
 > 2-3
 
 **Yarride** stepped up, but the keeper guessed the right way, saving it.
+
+![](/images/242917169_3480893965470217_3727278893197145662_n.jpg)
 
 > 2-3
 
