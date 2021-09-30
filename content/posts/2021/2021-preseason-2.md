@@ -6,6 +6,7 @@ description = "Match recap for the preseason game vs the diamonds"
 friendly = true
 frother_goals = 5
 images = ["/images/161612794_3329281610631454_3320185550024302912_o.jpg"]
+season = "winter"
 match = true
 opponent = "Diamonds"
 opponent_goals = 1

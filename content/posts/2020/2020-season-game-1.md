@@ -5,6 +5,7 @@ date = 2020-06-06T12:00:00Z
 description = "Wrap up of the first game of the 2020 season"
 frother_goals = 0
 images = ["/images/img_4794.jpg"]
+season = "winter"
 match = true
 opponent = "CHONE MIKE FC"
 opponent_goals = 0

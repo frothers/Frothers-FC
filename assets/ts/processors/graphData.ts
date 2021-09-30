@@ -25,11 +25,21 @@ export type matchResult = {
     y: number
 };
 
-export let parsePlayerData = async function (year?: number) {
+export let parsePlayerData = async function (year?: number, season?: string) {
     let data = await getGoalsData();
     if (year) {
       data = data.filter(a => {
         if (a.date.getFullYear() === year){
+            return true;
+        }
+        else {
+            return false;
+        }
+      });
+    }
+    if (season) {
+      data = data.filter(a => {
+        if (a.season === season){
             return true;
         }
         else {
@@ -82,7 +92,7 @@ export let parsePlayerData = async function (year?: number) {
     return playerData;
 }
 
-export let parsePointsData = async function (year: number) {
+export let parsePointsData = async function (year: number, season: string) {
     let data = await getResultsData();
 
     data = data.sort((a, b) => {
@@ -97,6 +107,16 @@ export let parsePointsData = async function (year: number) {
             return false;
         }
     });
+    if (season) {
+      data = data.filter(a => {
+        if (a.season === season){
+            return true;
+        }
+        else {
+            return false;
+        }
+      });
+    }
 
     let resultsData: matchResult[] = [];
 
@@ -130,7 +150,7 @@ export let parsePointsData = async function (year: number) {
     return resultsData;
 }
 
-export let parseCleanSheetData = async function (year: number) {
+export let parseCleanSheetData = async function (year: number, season: string) {
     let data = await getMatchGoalsData();
 
     data = data.sort((a, b) => {
@@ -145,6 +165,16 @@ export let parseCleanSheetData = async function (year: number) {
             return false;
         }
     });
+    if (season) {
+      data = data.filter(a => {
+        if (a.season === season){
+            return true;
+        }
+        else {
+            return false;
+        }
+      });
+    }
 
     let resultsData: cleanSheets[] = [];
 

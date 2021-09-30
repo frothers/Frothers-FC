@@ -5,6 +5,7 @@ date = 2020-09-12T12:00:00Z
 description = "Match report for the game against the Diamonds"
 frother_goals = 3
 images = ["/images/119087893_3159547880938162_1750240838464129405_o2.jpg"]
+season = "winter"
 match = true
 opponent = "Diamonds FC"
 opponent_goals = 1

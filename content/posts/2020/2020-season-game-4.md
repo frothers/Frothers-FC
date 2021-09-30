@@ -5,6 +5,7 @@ date = 2020-06-27T12:00:00Z
 description = "Match report Sudakas at Ascot Park"
 frother_goals = 3
 images = ["/images/106129311_591711131740863_831779244749936274_n.jpg"]
+season = "winter"
 match = true
 opponent = "Sudakas"
 opponent_goals = 2

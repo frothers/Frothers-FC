@@ -5,6 +5,7 @@ date = 2020-07-04T12:00:00Z
 description = "Wrap up of the Frothers game against V-Well FC"
 frother_goals = 1
 images = ["/images/220px-hold_the_line.jpg"]
+season = "winter"
 match = true
 opponent = "V-Well FC"
 opponent_goals = 3

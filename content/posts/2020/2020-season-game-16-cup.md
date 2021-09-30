@@ -5,6 +5,7 @@ date = 2020-09-19T12:00:00Z
 description = "Match report for the cup game against the Ball Tamperers"
 frother_goals = 1
 images = ["/images/120047620_1520350568352603_1479611720152015780_n.jpg"]
+season = "winter"
 match = true
 opponent = "Ball Tamperers"
 opponent_goals = 4

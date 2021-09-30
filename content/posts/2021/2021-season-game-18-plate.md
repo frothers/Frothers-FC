@@ -5,6 +5,7 @@ date = 2021-09-12T05:00:00Z
 description = "Match report for the cup game against Super Paddy's Fun Club"
 frother_goals = 2
 images = ["/images/120936776_3186811541545129_2625438443920060268_o.jpg"]
+season = "winter"
 match = true
 opponent = "Super Paddy's Fun Club"
 opponent_goals = 2

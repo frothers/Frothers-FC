@@ -6,6 +6,7 @@ description = "Recap of the game against North Wellington"
 friendly = false
 frother_goals = 1
 images = ["/images/228404266_3448410588718555_8093951335355050790_n.jpg"]
+season = "winter"
 match = true
 opponent = "Fireraiders"
 opponent_goals = 0

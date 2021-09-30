@@ -5,6 +5,7 @@ date = 2020-08-22T12:00:00Z
 description = "Match reports for the friendly against FC Valley Dream"
 frother_goals = 0
 images = ["/images/img_297011.jpg"]
+season = "winter"
 match = true
 opponent = "Valley FC Dream"
 opponent_goals = 5

@@ -5,6 +5,7 @@ date = 2020-08-15T12:00:00Z
 description = "Match reports for the derby against the Marauders"
 frother_goals = 1
 images = ["/images/jrod.jpg"]
+season = "winter"
 match = true
 opponent = "Marauders"
 opponent_goals = 2

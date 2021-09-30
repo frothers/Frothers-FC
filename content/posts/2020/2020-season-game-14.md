@@ -5,6 +5,7 @@ date = 2020-09-05T12:00:00Z
 description = "Match report for the game against the Blazers"
 frother_goals = 1
 images = ["/images/118796464_3150931498466467_3748398085238433557_o2.jpg"]
+season = "winter"
 match = true
 opponent = "Blazers"
 opponent_goals = 6

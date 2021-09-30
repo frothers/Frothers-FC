@@ -6,6 +6,7 @@ description = "Recap of the game against Habibis"
 friendly = false
 frother_goals = 5
 images = ["/images/alexkick.jpg"]
+season = "winter"
 match = true
 opponent = "Habibis"
 opponent_goals = 6

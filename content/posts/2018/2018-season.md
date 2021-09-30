@@ -4,6 +4,7 @@ categories = []
 date = 2018-04-08T12:00:00Z
 description = "2018 Stats"
 frother_goals = 0
+season = "winter"
 match = true
 opponent = "All"
 opponent_goals = 0

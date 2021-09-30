@@ -6,6 +6,7 @@ description = "Recap of the game against LBQ"
 friendly = false
 frother_goals = 3
 images = ["/images/img_3513_02.jpg"]
+season = "winter"
 match = true
 opponent = "Fireraiders"
 opponent_goals = 1

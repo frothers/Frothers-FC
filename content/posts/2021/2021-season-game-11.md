@@ -6,6 +6,7 @@ description = "Recap of the game against Black Bulls"
 friendly = false
 frother_goals = 3
 images = []
+season = "winter"
 match = true
 opponent = "Black Bulls"
 opponent_goals = 3

@@ -10,22 +10,36 @@ let goalsChart: Chart;
 let pointsChart: Chart;
 let cleanSheetChart: Chart;
 
+let re = /(\d+)\-(\w+)/;
+
+export type YearSeason = {
+  year: number,
+  season: string,
+};
+
 /**
  * @summary Get the filter value
  */
-export let getYearFilter = function (): number {
+export let getYearSeasonFilter = function (): YearSeason {
     let input = <HTMLInputElement>document.getElementById("yearSelect");
     if (input == null) {
       return;
     }
-    return parseInt(input.value);
+    let regex = re.exec(input.value);
+
+    let output: YearSeason = {
+      year: parseInt(regex[1]),
+      season: regex[2]
+    }
+
+    return output;
 }
 
 /**
  * @summary Goal scorers graphics.
  */
-export let populateGsGraph = async function (year: number) {
-    let playerData = await parsePlayerData(year);
+export let populateGsGraph = async function (year: number, season: string) {
+    let playerData = await parsePlayerData(year, season);
 
     let temp = <HTMLCanvasElement>document.getElementById("stats-panel");
 
@@ -119,8 +133,8 @@ export let populateGsGraph = async function (year: number) {
 /**
  * @summary Points graphics.
  */
-export let populatePointsGraph = async function (year: number) {
-    let pointsData = await parsePointsData(year);
+export let populatePointsGraph = async function (year: number, season: string) {
+    let pointsData = await parsePointsData(year, season);
 
     let temp = <HTMLCanvasElement>document.getElementById("results-panel");
 
@@ -217,8 +231,8 @@ export let populatePointsGraph = async function (year: number) {
 /**
  * @summary cleansheet graphics.
  */
-export let populateCleanSheetGraph = async function (year: number) {
-    let data = await parseCleanSheetData(year);
+export let populateCleanSheetGraph = async function (year: number, season: string) {
+    let data = await parseCleanSheetData(year, season);
 
     let temp = <HTMLCanvasElement>document.getElementById("cleansheet-panel");
 
@@ -311,10 +325,10 @@ export let populateCleanSheetGraph = async function (year: number) {
 /**
  * @summary Update all graphs
  */
-export let updateAllGraphs = async function (year: number) {
-    populateGsGraph(year);
-    populatePointsGraph(year);
-    populateCleanSheetGraph(year);
+export let updateAllGraphs = async function (year: number, season: string) {
+    populateGsGraph(year, season);
+    populatePointsGraph(year, season);
+    populateCleanSheetGraph(year, season);
 }
 
 let onClickFunc = function (_e: any, legendItem: { datasetIndex: any; }) {

@@ -5,6 +5,7 @@ date = 2021-09-26T05:00:00Z
 description = "Match report for the plate final game against Valley FC Dream"
 frother_goals = 2
 images = ["/images/242829345_3480892978803649_2047129873740513097_n.jpg"]
+season = "winter"
 match = true
 opponent = "Valley FC Dream"
 opponent_goals = 2

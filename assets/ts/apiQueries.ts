@@ -7,6 +7,7 @@ const squadAPI = '/squad/index.json';
 export type postData = {
   title: string,
   match: string,
+  season: string,
   friendly: string,
   draft: string,
   date: string,
@@ -23,16 +24,19 @@ export type squadData = {
 
 export type gameData = {
   date: Date,
+  season: string,
   scorers: scorerData[]
 };
 
 export type resultData = {
   date: Date,
+  season: string,
   result: string
 };
 
 export type matchGoalsData = {
   date: Date,
+  season: string,
   frother_goals: number,
   opponent_goals: number
 };
@@ -59,6 +63,7 @@ export let getGoalsData = async function () {
 
     let game: gameData = {
       "date": new Date(a.date),
+      "season": a.season,
       "scorers": a.scorers
     }
     return game
@@ -87,6 +92,7 @@ export let getResultsData = async function () {
 
     let result: resultData = {
       "date": new Date(a.date),
+      "season": a.season,
       "result": a.result
     }
     return result
@@ -115,6 +121,7 @@ export let getMatchGoalsData = async function () {
 
     let result: matchGoalsData = {
       date: new Date(a.date),
+      season: a.season,
       frother_goals: parseInt(a.frother_goals),
       opponent_goals: parseInt(a.opponent_goals)
     }

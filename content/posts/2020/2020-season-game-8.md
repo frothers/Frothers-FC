@@ -5,6 +5,7 @@ date = 2020-07-25T12:00:00Z
 description = "Wrap up of the Frothers game against the Marauders"
 frother_goals = 2
 images = ["/images/nickmeg.png"]
+season = "winter"
 match = true
 opponent = "Marauders"
 opponent_goals = 3

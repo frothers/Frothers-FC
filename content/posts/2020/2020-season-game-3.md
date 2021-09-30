@@ -5,6 +5,7 @@ date = 2020-06-20T12:00:00Z
 description = "Wrap up of game 3 against LBQ"
 frother_goals = 1
 images = ["/images/104378714_3077576142468670_116484171552379971_o.jpg"]
+season = "winter"
 match = true
 opponent = "Lokomotiv Beer Quarter FC"
 opponent_goals = 6

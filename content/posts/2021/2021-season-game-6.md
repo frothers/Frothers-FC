@@ -6,6 +6,7 @@ description = "Recap of the game against Valley FC"
 friendly = false
 frother_goals = 1
 images = ["/images/185334635_3374980466061568_3235426851763961959_n.jpg"]
+season = "winter"
 match = true
 opponent = "Valley FC"
 opponent_goals = 2

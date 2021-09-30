@@ -5,6 +5,7 @@ date = 2020-08-08T12:00:00Z
 description = "Match reports for the derby against the Tuscan Raiders"
 frother_goals = 2
 images = ["/images/stuboi.jpg"]
+season = "winter"
 match = true
 opponent = "Tuscan Raiders"
 opponent_goals = 2

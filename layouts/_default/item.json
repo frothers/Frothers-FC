@@ -1,6 +1,7 @@
 {
     "title": "{{ .Title }}",
     "match": "{{ .Params.match }}",
+    "season": "{{ .Params.season }}",
     "date" : "{{ .Params.date }}",
     "result": "{{ .Params.result }}",
     "frother_goals": "{{ .Params.frother_goals }}",

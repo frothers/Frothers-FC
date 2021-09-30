@@ -6,6 +6,7 @@ description = "Match report for the cup game against Edward Street Athletic"
 images = ["/images/chrisvolley.jpg"]
 draft = false
 frother_goals = 1
+season = "winter"
 match = true
 opponent = "Edward Street Athletic"
 opponent_goals = 0

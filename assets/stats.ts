@@ -1,4 +1,4 @@
-import { getYearFilter, updateAllGraphs } from "./ts/graphs";
+import { getYearSeasonFilter, updateAllGraphs } from "./ts/graphs";
 
 window.addEventListener('load', function () {
   populateAllGraphs();
@@ -15,6 +15,6 @@ window.addEventListener('load', function () {
 })
 
 function populateAllGraphs() {
-  let year = getYearFilter();
-  updateAllGraphs(year);
+  let yearSeason = getYearSeasonFilter();
+  updateAllGraphs(yearSeason.year, yearSeason.season);
 }
