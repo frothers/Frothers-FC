@@ -25,11 +25,20 @@ export let getYearSeasonFilter = function (): YearSeason {
     if (input == null) {
       return;
     }
-    let regex = re.exec(input.value);
+    let output: YearSeason;
+    if (input.value === "all") {
+      output = {
+        year: null,
+        season: null
+      }
+    }
+    else {
+      let regex = re.exec(input.value);
 
-    let output: YearSeason = {
-      year: parseInt(regex[1]),
-      season: regex[2]
+      output = {
+        year: parseInt(regex[1]),
+        season: regex[2]
+      }
     }
 
     return output;
@@ -83,7 +92,7 @@ export let populateGsGraph = async function (year: number, season: string) {
                 xAxes: [{
                     type: 'time',
                     time: {
-                        unit: 'week'
+                        unit: (year?'week':'year')
                     }
                 }],
                 yAxes: [{
@@ -122,7 +131,7 @@ export let populateGsGraph = async function (year: number, season: string) {
                     },
                     afterLabel: function (item, data) {
                         let dataItem = <matchGoals>data.datasets[item.datasetIndex].data[item.index];
-                        return "(Gameday Goals:\t" + dataItem.goals + ")";
+                        return (year?"(Gameday Goals:\t":"(Season Goals:\t") + dataItem.goals + ")";
                     },
                 },
             }

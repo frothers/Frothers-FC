@@ -37,7 +37,7 @@ export let parsePlayerData = async function (year?: number, season?: string) {
         }
       });
     }
-    if (season) {
+    else if (season) {
       data = data.filter(a => {
         if (a.season === season){
             return true;
@@ -67,6 +67,8 @@ export let parsePlayerData = async function (year?: number, season?: string) {
         return a.date.getTime() - b.date.getTime()
     })
 
+    // Change it from Game to Scorer for the key, then make it cumulative
+    // if (year) {
     data.forEach(game => {
         scorerNames.forEach((scorer) => {
             let playerIndex = playerData.findIndex(e => e.label == scorer)
@@ -88,6 +90,25 @@ export let parsePlayerData = async function (year?: number, season?: string) {
             })
         })
     })
+    
+    if (!year){
+        playerData.forEach((playersData,index) => {
+            playerData[index].data = _.values(_.reduce(playersData.data,function(result: any,obj){
+                let year = obj.t.getFullYear();
+                result[year] = {
+                    t: Date.parse(year.toString()),
+                    goals:obj.goals + (result[year]?result[year].goals:0),
+                    y:obj.goals + (result[year]?result[year].goals:0)
+                };
+                return result;
+            },{}));
+
+            // Add up
+            playerData[index].data.forEach((yearGoals, index2) => {
+                playerData[index].data[index2].y = yearGoals.y + (playerData[index].data[index2-1]?playerData[index].data[index2-1].y:0); 
+            })
+        });
+    }
 
     return playerData;
 }
