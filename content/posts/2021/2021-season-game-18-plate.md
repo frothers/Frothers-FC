@@ -7,6 +7,7 @@ frother_goals = 2
 images = ["/images/120936776_3186811541545129_2625438443920060268_o.jpg"]
 season = "winter"
 match = true
+team = "Frothers"
 opponent = "Super Paddy's Fun Club"
 opponent_goals = 2
 penalties = true

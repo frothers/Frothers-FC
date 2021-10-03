@@ -7,6 +7,7 @@ frother_goals = 3
 images = ["/images/jackf.png"]
 season = "winter"
 match = true
+team = "Frothers"
 opponent = "Unicorns"
 opponent_goals = 3
 result = "Draw"

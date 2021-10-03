@@ -6,6 +6,7 @@ description = "2017 Stats"
 frother_goals = 0
 season = "winter"
 match = true
+team = "Frothers"
 opponent = "All"
 opponent_goals = 0
 result = "Win"

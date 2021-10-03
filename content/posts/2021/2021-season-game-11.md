@@ -8,6 +8,7 @@ frother_goals = 3
 images = []
 season = "winter"
 match = true
+team = "Frothers"
 opponent = "Black Bulls"
 opponent_goals = 3
 result = "Draw"

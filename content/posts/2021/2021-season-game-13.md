@@ -8,6 +8,7 @@ frother_goals = 5
 images = ["/images/alexkick.jpg"]
 season = "winter"
 match = true
+team = "Frothers"
 opponent = "Habibis"
 opponent_goals = 6
 result = "Loss"

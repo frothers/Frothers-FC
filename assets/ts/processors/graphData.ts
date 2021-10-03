@@ -37,7 +37,7 @@ export let parsePlayerData = async function (year?: number, season?: string) {
         }
       });
     }
-    else if (season) {
+    if (season) {
       data = data.filter(a => {
         if (a.season === season){
             return true;
