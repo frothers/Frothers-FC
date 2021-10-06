@@ -57,11 +57,45 @@ fields:
   showOnly:
     field: match
     value: true
+- name: team
+  type: select
+  default: Frothers
+  config:
+    required: true
+    options:
+    - Frothers
+    - Foam Generators
+    source:
+      type: simple
+      section: players
+      file: content/squad/FoamGenerators.md
+      path: 
+  label: Team
+  showOnly:
+    field: match
+    value: true
 - name: opponent
   type: text
   config:
     required: true
   label: Opponent
+  showOnly:
+    field: match
+    value: true
+- name: season
+  type: select
+  default: winter
+  config:
+    required: true
+    options:
+    - summer
+    - winter
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Season
   showOnly:
     field: match
     value: true
