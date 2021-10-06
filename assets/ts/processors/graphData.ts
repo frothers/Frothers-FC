@@ -25,7 +25,7 @@ export type matchResult = {
     y: number
 };
 
-export let parsePlayerData = async function (year?: number, season?: string) {
+export let parsePlayerData = async function (year?: number, season?: string, squadName:string ="frothers") {
     let data = await getGoalsData();
     if (year) {
       data = data.filter(a => {
@@ -47,9 +47,19 @@ export let parsePlayerData = async function (year?: number, season?: string) {
         }
       });
     }
+    if (squadName) {
+        data = data.filter(a => {
+          if (a.team.toLowerCase().replace(/\s/g, '') === squadName){
+              return true;
+          }
+          else {
+              return false;
+          }
+        });
+      }
     
     let scorers = _.map(_.flatten(_.map(data, "scorers")), "scorer");
-    let squadData = await getSquadData();
+    let squadData = await getSquadData(squadName);
 
     scorers = scorers.concat(squadData.players);
     let scorerNames = _.uniq(scorers);

@@ -8,6 +8,7 @@ export type postData = {
   title: string,
   match: string,
   season: string,
+  team: string,
   friendly: string,
   draft: string,
   date: string,
@@ -19,12 +20,14 @@ export type postData = {
 };
 
 export type squadData = {
-  players: string[]
+  players: string[],
+  name: string
 };
 
 export type gameData = {
   date: Date,
   season: string,
+  team: string,
   scorers: scorerData[]
 };
 
@@ -64,6 +67,7 @@ export let getGoalsData = async function () {
     let game: gameData = {
       "date": new Date(a.date),
       "season": a.season,
+      "team": a.team,
       "scorers": a.scorers
     }
     return game
@@ -137,10 +141,17 @@ export let getMatchGoalsData = async function () {
 /**
  * @summary Goal scorers graphics.
  */
-export let getSquadData = async function () {
+export let getSquadData = async function (name: string) {
   let response = await axios.get(squadAPI);
   let data = response.data.data;
-  let squad: squadData = data.items[0];
+
+  let squad: squadData;
+  data.items.forEach((element: squadData) => {
+      let cleanName = element.name.toLowerCase().replace(/\s/g, '');
+      if (cleanName === name){
+        squad = element;
+      }
+  });
 
   return squad;
 };

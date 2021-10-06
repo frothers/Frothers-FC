@@ -16,5 +16,5 @@ window.addEventListener('load', function () {
 
 function populateAllGraphs() {
   let yearSeason = getYearSeasonFilter();
-  updateAllGraphs(yearSeason.year, yearSeason.season);
+  updateAllGraphs(yearSeason.year, yearSeason.season, yearSeason.squadName);
 }

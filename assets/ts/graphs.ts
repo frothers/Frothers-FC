@@ -10,11 +10,12 @@ let goalsChart: Chart;
 let pointsChart: Chart;
 let cleanSheetChart: Chart;
 
-let re = /(\d+)\-(\w+)/;
+let re = /(\d+)\-(\w+)\-(\w+)/;
 
 export type YearSeason = {
   year: number,
   season: string,
+  squadName: string
 };
 
 /**
@@ -29,7 +30,8 @@ export let getYearSeasonFilter = function (): YearSeason {
     if (input.value === "all") {
       output = {
         year: null,
-        season: null
+        season: null,
+        squadName: "frothers"
       }
     }
     else {
@@ -37,7 +39,8 @@ export let getYearSeasonFilter = function (): YearSeason {
 
       output = {
         year: parseInt(regex[1]),
-        season: regex[2]
+        season: regex[2],
+        squadName: regex[3],
       }
     }
 
@@ -47,8 +50,8 @@ export let getYearSeasonFilter = function (): YearSeason {
 /**
  * @summary Goal scorers graphics.
  */
-export let populateGsGraph = async function (year: number, season: string) {
-    let playerData = await parsePlayerData(year, season);
+export let populateGsGraph = async function (year: number, season: string, squadName: string) {
+    let playerData = await parsePlayerData(year, season, squadName);
 
     let temp = <HTMLCanvasElement>document.getElementById("stats-panel");
 
@@ -334,8 +337,8 @@ export let populateCleanSheetGraph = async function (year: number, season: strin
 /**
  * @summary Update all graphs
  */
-export let updateAllGraphs = async function (year: number, season: string) {
-    populateGsGraph(year, season);
+export let updateAllGraphs = async function (year: number, season: string, squadName: string) {
+    populateGsGraph(year, season, squadName);
     populatePointsGraph(year, season);
     populateCleanSheetGraph(year, season);
 }

@@ -1,4 +1,5 @@
 {
     "players": {{ .Params.players | jsonify }},
+    "name": "{{ .Params.name }}",
     "permalink" : "{{ .Permalink }}"
 }
