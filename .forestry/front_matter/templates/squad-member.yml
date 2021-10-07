@@ -80,6 +80,7 @@ fields:
   label: FUT Card
   description: Fifa ultimate team card
 pages:
+- content/squad-members/alain-bruner.md
 - content/squad-members/alex-winsley.md
 - content/squad-members/angus-hay-chapman.md
 - content/squad-members/charles.md
