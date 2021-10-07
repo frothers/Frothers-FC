@@ -11,7 +11,7 @@ opponent = "The Geckos"
 opponent_goals = 0
 result = "Win"
 season = "summer"
-team = "Frothers"
+team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 1"
 type = "post"
 [[scorers]]

@@ -1,6 +1,7 @@
 +++
 active = true
 blurb = "A rookie for the 2021 season. Some much needed young blood in the centre of defence."
+teams = ["OG Frothers", "Foam Generators"]
 fut_card = ""
 kit_number = 13
 mug_shot = "/images/168898791_3346319445594337_3652744537790515798_n.jpg"

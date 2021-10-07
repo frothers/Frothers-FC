@@ -16,9 +16,12 @@
                 src="{{ .Params.mug_shot | relURL }}" alt="Card image cap">
               <div class="card-body">
                 <h5 class="card-title">{{.Params.title}} <span style="float:right;">{{.Params.kit_number}}</span></h5>
-                <p class="card-text">{{.Params.position}} 
+                <p class="card-text">{{.Params.position}}</p>
+                    {{ range .Params.teams }}
+                    <span class="badge bg-primary text-light">{{.}}</span>
+                  {{ end }}
                   {{ if eq .Params.active false }}
-                    <span style="float:right; color:rgb(170, 43, 43);">Retired</span></p>
+                    <span style="float:right; color:rgb(170, 43, 43);">Retired</span>
                   {{ end }}
               </div>
             </a>

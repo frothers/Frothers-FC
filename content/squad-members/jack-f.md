@@ -1,6 +1,7 @@
 +++
 active = false
 blurb = "An OF Frother. Fulli Furnish had been a ever present figure in the middle of the park for the Frothers. Sadly in 2020 he was drawn to the bright lights of the Bay of Plenty, being put out to stud."
+teams = ["OG Frothers"]
 fut_card = ""
 kit_number = 14
 mug_shot = "/images/110336529_3103631753196442_117674519767884099_o.jpg"

@@ -1,6 +1,7 @@
 +++
 active = true
 blurb = "An OG Frother. Nick is the enforcer of the team with a repertoire of tackles to interest even the most checked-out referee. Known for picking up the occasional ranged beauty, Nick reps Taranaki in whatever he does."
+teams = ["OG Frothers"]
 fut_card = "/images/141186293_990965441393303_8098840952476116295_n.jpg"
 kit_number = 12
 mug_shot = "/images/nick.jpg"

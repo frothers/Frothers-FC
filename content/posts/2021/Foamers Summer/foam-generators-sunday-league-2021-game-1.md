@@ -3,7 +3,6 @@ author = "Yarride"
 categories = ["Match"]
 date = 2021-10-02T11:00:00Z
 description = "The opening match against Punishing Chat"
-draft = true
 friendly = false
 frother_goals = 1
 images = []

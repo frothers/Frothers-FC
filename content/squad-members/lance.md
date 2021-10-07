@@ -1,6 +1,7 @@
 +++
 active = true
 blurb = "An OG Frother. Lance is the purest footballer in the Frother's squad. With the ability to play almost anywhere on the park, Lance eases selection headaches with his versatility and class around the park and his ability to beat a man. Oppositions beware when those finishing boots are on."
+teams = ["OG Frothers"]
 fut_card = "/images/123920759_2431563010486557_7983285790720972163_n.jpg"
 kit_number = 7
 mug_shot = "/images/img_33502.JPG"

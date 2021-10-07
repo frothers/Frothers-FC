@@ -1,6 +1,7 @@
 +++
 active = true
 blurb = "An OG Frother. Jamie is a rock in the Frothers line-up and offers great pace and fitness wherever he plays. Mister Minutes, Jamie has somehow managed to rack-up 4 seasons with very few missed games. Somehow managing to only miss half a game after breaking his foot.."
+teams = ["OG Frothers"]
 fut_card = "/images/141369397_437391447457479_1166891387999560000_n.jpg"
 kit_number = 77
 mug_shot = "/images/img_3351.JPG"

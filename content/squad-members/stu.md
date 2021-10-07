@@ -1,6 +1,7 @@
 +++
 active = false
 blurb = "The Big Cat, Frother's own acrobat at the back. King of the action shot, big Stu lives to bicycle kick an otherwise innocuous ball. Though not a true OG, Stu is made his presence felt and is now a core Frother."
+teams = ["OG Frothers"]
 fut_card = "/images/141469021_2836385726636122_3739404872701916700_n.jpg"
 kit_number = 3
 mug_shot = "/images/img_3235.JPG"

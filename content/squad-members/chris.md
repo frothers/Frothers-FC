@@ -1,6 +1,7 @@
 +++
 active = true
 blurb = "An OG Frother. Chris is the big poppa who takes the coin tosses at the beginning of the match. Recently discovering where the goal is, Chris netted a penalty and then the winning goal in the semi-final to break his Frother's duck egg. Is this a new dawn?"
+teams = ["OG Frothers"]
 fut_card = "/images/142052077_409466267009831_4679043851438603120_n.jpg"
 kit_number = 5
 mug_shot = "/images/img_3353.JPG"

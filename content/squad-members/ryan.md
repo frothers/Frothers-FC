@@ -1,6 +1,7 @@
 +++
 active = true
 blurb = "New tricks between the sticks. Ryan joined as a rookie in the 2020 season and has brought a top Frothers attitude getting him Rookie of the Year. As Ryan establishes himself further he may even be allowed to touch the ball with his feet."
+teams = ["OG Frothers"]
 fut_card = "/images/141759910_2818801971780917_4597269747799784329_n.jpg"
 kit_number = 1
 mug_shot = "/images/img_3358.JPG"

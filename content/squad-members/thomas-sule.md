@@ -1,6 +1,7 @@
 +++
 active = true
 blurb = "A rookie for the 2021 season. Another scouting masterclass from Yash Rosario "
+teams = ["OG Frothers", "Foam Generators"]
 fut_card = ""
 kit_number = 9
 mug_shot = "/images/170377218_3346319752260973_7298786848166324973_n3.jpg"
