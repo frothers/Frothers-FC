@@ -16,8 +16,11 @@ team = "Frothers"
 title = "Frothers Summer League 2021 - Game 1"
 type = "post"
 [[scorers]]
-goals = nil
-scorer = ""
+goals = 1
+scorer = "Alain Bruner"
+[[scorers]]
+goals = 2
+scorer = "Will Sule"
 [[scorers]]
 goals = 1
 scorer = "Harry Furnish"
