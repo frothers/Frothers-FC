@@ -61,26 +61,13 @@ export let populateStats = async function (name: string) {
   appearancesElement.innerText = totalAppearances.toString();
 
 
-  let playerYearGoals: ChartPoint[] = playerData.data.map(goals => {
+  let goals: ChartPoint[] = playerData.data.map(goal => {
     let point: ChartPoint = {
-      x: goals.t.getFullYear(),
-      y: goals.goals
+      x: new Date (goal.t).getFullYear(),
+      y: goal.goals
     }
     return point;
   })
-
-  let goals : ChartPoint[] =
-    _(playerYearGoals)
-      .groupBy('x')
-      .map((objs, key) => {
-        let goal = {
-          "x": parseInt(key),
-          "y": _.sumBy(objs, 'y'),
-        }
-
-        return goal;
-      })
-      .value();
 
   // Populate missing appearance years
   goals.forEach(goalYear => {

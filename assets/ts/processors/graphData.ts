@@ -27,7 +27,7 @@ export type matchResult = {
     y: number
 };
 
-export let parsePlayerData = async function (year?: number, season?: string, squadName:string ="frothers") {
+export let parsePlayerData = async function (year?: number, season?: string, squadName:string ="frothersfc") {
     let data = await getGoalsData();
     if (year) {
       data = data.filter(a => {
@@ -105,6 +105,7 @@ export let parsePlayerData = async function (year?: number, season?: string, squ
     
     if (!year){
         playerData.forEach((playersData,index) => {
+            // Aggregate all of the goals for a year
             playerData[index].data = _.values(_.reduce(playersData.data,function(result: any,obj){
                 let year = obj.t.getFullYear();
                 result[year] = {
