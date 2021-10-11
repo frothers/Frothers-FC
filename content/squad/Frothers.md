@@ -1,7 +1,7 @@
 +++
-name = "OG Frothers"
-players = ["Jamie Bunting", "Tavis Wells", "Will Sule", "Alain Bruner", "Sean Dougherty", "Angus Hay-Chapman", "OG", "Alex Winsley", "Thomas Sule", "Ring-In", "Charles Daily", "Jamie Hatch", "Jarrod Murray", "Milan Mrdalj", "Harry Furnish", "Nick Jones", "Sam Abbiss", "Evan Hanson", "Jack Kos", "Ryan Kindell", "Yarride Rosario", "Lance Molyneaux", "Chris Chester"]
-title = "OG Frothers Squad"
+name = "Frothers FC"
+players = ["Jamie Bunting", "Tavis Wells", "Will Sule", "Alain Bruner", "Sean Dougherty", "Angus Hay-Chapman", "OG", "Alex Winsley", "Thomas Sule", "Ring-In", "Charles Daily", "Jamie Hatch", "Jarrod Murray", "Milan Mrdalj", "Harry Furnish", "Nick Jones", "Sam Abbiss", "Evan Hanson", "Jack Kos", "Ryan Kindell", "Yarride Rosario", "Lance Molyneaux", "Chris Chester", "Paddy Shonakan", "Harry Chote", "Nick Ryan", "Rio Bell", "Emil Gilchrist", "Alex Hunt", "Sam Wright", "Alex Bickers", "Yvan Weeresinghe", "Yash Rosario", "Aidan Jagers", "Samuel Millmow", "Joe Gordon", "Kenny Graham","Sam Woodley"]
+title = "Full Frothers Club"
 weight = 2
 
 +++

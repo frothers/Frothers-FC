@@ -1,6 +1,8 @@
 import { getGoalsData, getResultsData, getSquadData, getMatchGoalsData } from "../apiQueries";
 import * as _ from 'lodash';
 
+export const AllSquadName = "frothersfc";
+
 export type chartGoalsData = {
     label: string,
     fill: boolean,
@@ -47,7 +49,7 @@ export let parsePlayerData = async function (year?: number, season?: string, squ
         }
       });
     }
-    if (squadName) {
+    if (squadName && squadName != AllSquadName) {
         data = data.filter(a => {
           if (a.team.toLowerCase().replace(/\s/g, '') === squadName){
               return true;

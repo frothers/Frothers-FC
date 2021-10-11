@@ -2,7 +2,7 @@ import { Chart } from 'chart.js';
 import 'chartjs-plugin-colorschemes';
 import * as _ from 'lodash';
 
-import { parsePlayerData, parsePointsData, parseCleanSheetData, matchGoals, matchResult, chartGoalsData } from './processors/graphData'
+import { parsePlayerData, parsePointsData, parseCleanSheetData, matchGoals, matchResult, AllSquadName } from './processors/graphData'
 
 let screenWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
 
@@ -31,7 +31,7 @@ export let getYearSeasonFilter = function (): YearSeason {
       output = {
         year: null,
         season: null,
-        squadName: "frothers"
+        squadName: AllSquadName
       }
     }
     else {
