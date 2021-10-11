@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-10-09T11:00:00Z
 description = "Frothers summer league game against Unilateral"
-draft = true
 friendly = false
 frother_goals = 2
 images = ["/images/img_3513_02.jpg"]
@@ -40,3 +39,11 @@ A stunning volley from the opposition and bad finishing from a range of Frothers
 > 2-1
 
 Notably, **Charles Daily** with a header off the line with the last touch of the game.
+
+## Man of the Match
+
+**Alain** for having a solid game at the back and picking up a goal to boot.
+
+## Dick of the Day
+
+**Alain** with the double, for rocking a basketball jersey all match when there were spare Frothers jerseys.
