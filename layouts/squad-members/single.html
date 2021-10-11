@@ -69,6 +69,12 @@
                 <img src="/images/banner/gold-medal.svg" width=50>
                 {{ else if eq .award "Best Rookie" }}
                 <img src="/images/banner/baby-face.svg" width=50>
+                {{ else if eq .award "Freeman" }}
+                <img src="/images/banner/empty-beer.svg" alt="Forgot the beers" width=50>
+                {{ else if eq .award "Grass Cutter" }}
+                <img src="/images/banner/boxer.svg" alt="Forgot the beers" width=50>
+                {{ else if eq .award "Academy Award" }}
+                <img src="/images/banner/oscar.png" width=50>
                 {{ else }}
                 <img src="/images/banner/gold-winner-trophy.svg" width=50>
                 {{ end }}
