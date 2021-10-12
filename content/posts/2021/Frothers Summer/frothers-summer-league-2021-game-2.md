@@ -11,7 +11,7 @@ opponent = "Unilateral"
 opponent_goals = 1
 result = "Win"
 season = "summer"
-team = "Frothers"
+team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 2"
 type = "post"
 [[scorers]]
