@@ -63,8 +63,8 @@ fields:
   config:
     required: true
     options:
-    - Frothers
     - Foam Generators
+    - OG Frothers
     source:
       type: simple
       section: players
