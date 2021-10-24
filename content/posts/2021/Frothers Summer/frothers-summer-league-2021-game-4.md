@@ -1,14 +1,14 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-10-16T11:00:00Z
-description = "Frothers summer league game against ESKA DYNAMO"
+date = 2021-10-23T11:00:00Z
+description = "Frothers summer league game against Valley FC Dream"
 draft = true
 friendly = false
 frother_goals = 3
 images = ["/images/img_3513_02.jpg"]
 match = true
-opponent = "ESKA DYNAMO"
+opponent = "Valley FC Dream"
 opponent_goals = 0
 result = "Win"
 season = "summer"
@@ -17,19 +17,14 @@ title = "Frothers Summer League 2021 - Game 4"
 type = "post"
 [[scorers]]
 goals = 1
-scorer = "Lance Molyneaux"
+scorer = "Thomas Sule"
 [[scorers]]
-goals = 1
-scorer = "Jamie Hatch"
-[[scorers]]
-goals = 1
-scorer = "Jamie Bunting"
+goals = 2
+scorer = "Will Sule"
 
 +++
-Next up were the Frothers and thankfully the rain had stopped. With the wind in the first half, Frothers took control early.
+In the rematch of the plate final a month ago, the Frothers were out looking for revenge against the Valley Dream.
 
-Some beautiful interchange play between **Charles** and **Lance** found **Jamie** with acres of space on the right side who composed himself well to find an opening **Bunting** in unmarked in the box who calmly slotted his first Frothers goal.
+It didn't take long for the Frothers to take control of the game and as the wind picked up **Charles** put a nice ball over the top for **Sule** to run onto and then it put it over the top of the keeper.
 
-**Lance** then scored a meat pie for himself, pressuring the goalkeeper who could only clear it straight into **Lance** with the rebound finding the open net.
-
-Dynamo turned it on in the second half with the wind, **Harry** needing to make a smart goal-line header to keep things at 2-0. Frothers slowly took control back and eventually it paid off with **Jamie** scoring a 3rd to tidy things off.
+> 1-0
