@@ -25,4 +25,4 @@ goals = 1
 scorer = "Jamie Bunting"
 
 +++
-Report to come...
+Next up were the Frothers and thankfully the rain had stopped. With the wind in the first half, Frothers took control early. Some beautiful interchange play between Charles and Lance found Jamie with acres of space on the right side who composed himself well to find an opening Bunting in unmarked in the box who calmly slotted his first Frothers goal. Lance then scored a meat pie for himself, pressuring the goalkeeper who could only clear it straight into Lance with the rebound finding the open net. Dynamo turned it on in the second half with the wind, Harry needing to make a smart goal line header to keep things at 2-0. Frothers slowly took control back and eventually it paid off with Jamie scoring a 3rd to tidy things off.

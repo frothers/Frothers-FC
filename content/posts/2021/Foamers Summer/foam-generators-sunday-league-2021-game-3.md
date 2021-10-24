@@ -19,4 +19,4 @@ goals = 1
 scorer = "Joe Gordon"
 
 +++
-Coming up against a revamped LBQ team the Foam Generators scored the first goal on a windy and rainy day. Going into the break 1-1 the Foam Generators couldn't keep up the momentum into the second half and conceded 4 unanswered goals.
+In a classic summer league battle, the Foamies has to contend with a strong LBQ team as well as torrential rain and gale-force winds. Joe got the boys off to a good start scoring first. Shortly after Sule had a chance to go 2-0 up, but the defender cut it out and LBQ went upfield immediately to equalise. The halftime break did no favours for the Foamies with 4 injuries happening in short succession. The worsening conditions and the lack of subs contributed to a tough second half, LBQ scoring a few late goals to flatter the scoreline. 5-1 it finished. 
