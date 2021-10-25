@@ -32,7 +32,7 @@ After a few more nearly attacks, the Frothers struck again. This time for **Will
 
 > 2-0
 
-Looking to dispell the ghosts of the final where we also had a 2-0 lead the boys were putting their bodies on the line. **Yarride** got crunched when arriving second to an aerial challenge while playing at centreback. but, it was enough to get the boys into halftime.
+Looking to dispel the ghosts of the final where we also had a 2-0 lead the boys were putting their bodies on the line. **Yarride** got crunched when arriving second to an aerial challenge while playing at centreback. but, it was enough to get the boys into halftime.
 
 ## Second Half
 
@@ -44,10 +44,14 @@ The Frothers then put the foot down, with another great passing play finished of
 
 > 3-0
 
-The game was still to have some controversy, as a ball that was being guided out by defences and goalkeeper was able to be played bkac into the middle of the box. The Valley player though that it was only **Yarride** on the line to beat. However, **Yarride _Suarez_ Rosario** pulled a move right out of the **Charles Dailey** playbook and swatted the ball away using his hand.
+The game was still to have some controversy, as a ball that was being guided out by defences and goalkeeper was able to be played back into the middle of the box. The Valley player thought that it was only **Yarride** on the line to beat. However, **Yarride _Suarez_ Rosario** pulled a move right out of the **Charles Dailey** playbook and swatted the ball away using his hand.
 
 With no choice, the Ref sent **Yarride** off for the first red card since **Charles** also handled a ball several seasons ago.
 
-This turned out to the an ultimate power move however, as **Ryan** stepped up to deny the same penalty taker that won Valley the final. Proving again is Tim Krul status of being all about the penalties.
+This turned out to be the ultimate power move, however, as **Ryan** stepped up to deny the same penalty taker that won Valley the final. Proving again is Tim Krul status of being all about the penalties.
 
 {{< youtube  dM-29hy-Qyw>}}
+
+{{< rawhtml >}} <div class="row"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3503347423224871&show_text=true&width=500" width="500" height="793" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div>
+
+{{< /rawhtml >}}
