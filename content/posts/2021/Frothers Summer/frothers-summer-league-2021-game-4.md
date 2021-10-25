@@ -50,4 +50,4 @@ With no choice, the Ref sent **Yarride** off for the first red card since **Char
 
 This turned out to the an ultimate power move however, as **Ryan** stepped up to deny the same penalty taker that won Valley the final. Proving again is Tim Krul status of being all about the penalties.
 
-{{< youtube  tDpx9GGH79I?t=203>}}
+{{< youtube  dM-29hy-Qyw>}}
