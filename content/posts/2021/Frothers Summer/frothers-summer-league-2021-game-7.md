@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-11-06T11:00:00Z
 description = "Frothers summer league game against the Diamonds"
-draft = true
 friendly = false
 frother_goals = 2
 images = ["/images/img_6514.JPG"]
