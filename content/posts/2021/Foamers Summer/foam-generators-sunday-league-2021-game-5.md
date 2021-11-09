@@ -27,6 +27,6 @@ scorer = "Will Sule"
 +++
 A quality win for the Foamies who put on quite a performance. Taking the game right to the wire in a tight affair that included a missed penalty from the CMP.
 
-{{< rawhtml >}} <div class="row"><iframe src="[https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3515154365377510&show_text=true&width=500](https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3515154365377510&show_text=true&width=500 "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3515154365377510&show_text=true&width=500")" width="500" height="784" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
+{{< rawhtml >}} <div class="row"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3515154365377510&show_text=true&width=500" width="500" height="784" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
 
 {{< /rawhtml >}}
