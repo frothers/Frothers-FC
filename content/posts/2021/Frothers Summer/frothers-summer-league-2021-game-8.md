@@ -1,56 +1,63 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-11-06T11:00:00Z
-description = "Frothers summer league game against the Diamonds"
-draft = true
+date = 2021-11-13T11:00:00Z
+description = "Frother's summer league game against Big Kicks"
 friendly = false
-frother_goals = 2
-images = ["/images/img_6514.JPG"]
+frother_goals = 3
+images = ["/images/228404266_3448410588718555_8093951335355050790_n.jpg"]
 match = true
-opponent = "The Diamonds"
-opponent_goals = 1
+opponent = "Big Kicks"
+opponent_goals = 2
 result = "Win"
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 8"
 type = "post"
 [[scorers]]
-goals = 1
-scorer = "Jamie Hatch"
+goals = 2
+scorer = "Lance Molyneaux"
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
 
 +++
-Looking to keep their hot run of form going, the Frothers next match was against the Diamonds.
-
-Looking to bring home the 3 points for the newest Frother, **Javier Frother Daily**.
+Top of the table clash against Big Kicks, going for 8 wins in a row.
 
 ## First Half
 
-The Frothers struggled to find that final pass in the first half. They dominated possession and had the majority of the chances, but couldn't quite find the killer edge.
-
-## Second Half
-
-It didn't take long in the second half until the Frothers turned to their trusted source of goals, **Yarride**. Having the ball put on an absolute plate by **Will**, he calmly put it to the keepers right.
+On a windy day at Wellington College, the Frothers took early control of the possession and were dictating the play. Lacking the last pass the Frothers just needed one shot of inspiration to get the lead. This came through **Yarride** coming off the bench to race onto a through-ball by **Will** and finish past the keeper off his left.
 
 > 1-0
 
-Not long after the Frothers won a freekick just within the opposition half. Batting away the pretenders, Yarride took the ball and curled a beautiful ball into the box which **Evan** headed on for **Jamie Hatch** to finish.
+Big Kicks hadn't really created everything, with most of their attacks coming through long punts over the top. They managed to get themselves a corner off pressuring a resulting throw-in. The ball was half-cleared before **Alain** scuffed a Big Kicks player with a slightly mistimed challenge. The resultant shriek from the player was enough to convince the ref to award a soft penalty.
 
-> 2-0
+Sending **Ryan** the wrong way the Big Kicks player levelled it up.
 
-Looking for all the world like it was going to be yet another clean sheet the Diamonds managed to ride their luck to get back in it. Overhitting a long free-kick, the ball managed to loop into the top of the goal on the full.
+> 1-1 
+
+## Second Half
+
+Arriving in time for the second half, it took **Lance** no time at all to get the Frother back ahead. Running onto an over the top ball from **Nester**, **Lance** chipped the keeper with his first real touch of the ball.
 
 > 2-1
 
-That was to be the last of the Diamonds chances though. As the Frothers saw the game out for 6 wins in a row.
+The Big Kicks managed to win themselves a freekick in a similar spot to which the Frother conceded from last week. Again the delivery was overhit going straight to, and through, **Ryan.**
+
+> 2-2
+
+Heartened from levelling the score, Big Kicks had several long-range shot parried away before Frothers could start to play their football again.
+
+It was **Lance** again who was the man with the eye for goal. Racing through on goal and finishing off the far post.
+
+> 3-2
+
+The Big Kicks almost pulled it level with one of the last kicks of the game. A quickly taken freekick forced a great straight arm diving save out of **Ryan**.
 
 # Man of the Match
 
-**Jamie Bunting** bossed the middle of the park and is really starting to feel more comfortable in the Frother's uniform.
+**Lance,** only showing up at halftime scored two very well taken goals and looked very sharp.
 
 # Dick of the Day
 
-**Jamie Hatch** comes close for kicking the ball into a Diamonds player's back when trying to give them the ball back after an injury. However, it goes to **Ryan** for keeping 3 clean sheets in a row but to let one drift in over his head from 35 out.
+**Ryan** has this name all over this for the second week running before pulling out a redemption story of biblical proportions. The prize then falls to the grub in the middle, **Alain**.
