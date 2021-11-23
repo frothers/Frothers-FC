@@ -1,64 +1,60 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-11-13T11:00:00Z
-description = "Frother's summer league game against Big Kicks"
-draft = true
+date = 2021-11-20T11:00:00Z
+description = "Frother's summer league game against Majin Blue"
 friendly = false
-frother_goals = 3
-images = ["/images/228404266_3448410588718555_8093951335355050790_n.jpg"]
+frother_goals = 1
+images = []
 match = true
-opponent = "Big Kicks"
-opponent_goals = 2
-result = "Win"
+opponent = "Majin Blue"
+opponent_goals = 3
+result = "Loss"
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 9"
 type = "post"
 [[scorers]]
-goals = 2
-scorer = "Lance Molyneaux"
-[[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
 
 +++
-Top of the table clash against Big Kicks, going for 8 wins in a row.
+This was the game everyone had been waiting for, a clash between the two best teams in the division.
 
-## First Half
+On another classic wet and windy Wellington college night, the Frothers got to start the game with the wind at their back.
 
-On a windy day at Wellington College, the Frothers took early control of the possession and were dictating the play. Lacking the last pass the Frothers just needed one shot of inspiration to get the lead. This came through **Yarride** coming off the bench to race onto a through-ball by **Will** and finish past the keeper off his left.
+It didn't take long before they took the lead with a great ball through by **Jamie Bunting** found **Yarride** 1-on-1 with the keeper. Keeping his cool he made it count to keep the race to 1:1 goals per game alive.
 
 > 1-0
 
-Big Kicks hadn't really created everything, with most of their attacks coming through long punts over the top. They managed to get themselves a corner off pressuring a resulting throw-in. The ball was half-cleared before **Alain** scuffed a Big Kicks player with a slightly mistimed challenge. The resultant shriek from the player was enough to convince the ref to award a soft penalty.
+The half was all Frothers with several nearly plays not quite doing it.
 
-Sending **Ryan** the wrong way the Big Kicks player levelled it up.
+The Blues somehow found their way back into it with a ball over the top expertly brought down by their striker and finished.
 
-> 1-1 
+> 1-1
 
-## Second Half
+The Frothers should have had a shot to go back ahead before the break as **Yarride** was clearly brought down in the area by the opposition goalie, only for the ref to wave it away.
 
-Arriving in time for the second half, it took **Lance** no time at all to get the Frother back ahead. Running onto an over the top ball from **Nester**, **Lance** chipped the keeper with his first real touch of the ball.
+## Halftime
 
-> 2-1
+The Frothers were ruing their missed chances as they knew they had the wind to contest within the second half.
 
-The Big Kicks managed to win themselves a freekick in a similar spot to which the Frother conceded from last week. Again the delivery was overhit going straight to, and through, **Ryan.**
+The two sides were even until a couple of Frothers mistakes changed the game.
 
-> 2-2
+An attempted quick free-kick that went straight to a Blues player led to a goalkeeper clearance that again only found the first Blues player who fired into the top of the goal to take the lead.
 
-Heartened from levelling the score, Big Kicks had several long-range shot parried away before Frothers could start to play their football again.
+> 1-2
 
-It was **Lance** again who was the man with the eye for goal. Racing through on goal and finishing off the far post.
+The next goal was also the result of a couple of missed defensive clearances that resulted in a shot on an open net.
 
-> 3-2
+> 1-3
 
-The Big Kicks almost pulled it level with one of the last kicks of the game. A quickly taken freekick forced a great straight arm diving save out of **Ryan**.
+Disappointing result, but the run had to end sometime 🤷‍♂️.
 
-# Man of the Match
+# Man of the match
 
-**Lance,** only showing up at halftime scored two very well taken goals and looked very sharp.
+**Yarride** for keeping his scoring streak alive while having two decent penalty shouts ignored.
 
-# Dick of the Day
+# Dick of the day
 
-**Ryan** has this name all over this for the second week running before pulling out a redemption story of biblical proportions. The prize then falls to the grub in the middle, **Alain**.
+**Jamie Bunting** for having a bit of a brain explosion coming straight off the bench to quickly take a free-kick to catch the defence off guard. Pity it was the wrong defence...
