@@ -1,61 +1,66 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-11-20T11:00:00Z
-description = "Frother's summer league game against Majin Blue"
+date = 2021-12-04T11:00:00Z
+description = "Frother's summer league game against Valley Dream"
 draft = true
 friendly = false
-frother_goals = 1
-images = ["/images/246347433_3503346636558283_8182038338326154047_n.jpg"]
+frother_goals = 3
+images = ["/images/262418174_3537766359782977_6677563142140133745_n.jpg"]
 match = true
-opponent = "Majin Blue"
-opponent_goals = 3
-result = "Loss"
+opponent = "Valley Dream"
+opponent_goals = 0
+result = "Win"
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 10"
 type = "post"
 [[scorers]]
-goals = 1
+goals = 2
 scorer = "Yarride Rosario"
+[[scorers]]
+goals = 1
+scorer = "Lance Molyneaux"
 
 +++
-This was the game everyone had been waiting for, a clash between the two best teams in the division.
+It was the deciding game against the Valley dream and it was all too play for, with a win enough to take the Frothers to the top of the table.
 
-On another classic wet and windy Wellington college night, the Frothers got to start the game with the wind at their back.
+The Frothers took control of the match from the start on yet another windy day at Wellington College.
 
-It didn't take long before they took the lead with a great ball through by **Jamie Bunting** found **Yarride** 1-on-1 with the keeper. Keeping his cool he made it count to keep the race to 1:1 goals per game alive.
+The first real moment of note came with the loss of **Jack Hayden** to a rolled ankle. Leaving the Frothers without any subs. Luckily these boys have been doing their conditioning training and have the bodies to show for it.
+
+As if taking this as a challenge, the balls over the top started to rain. **Lance** and **Evan**, given the task of chasing the windblown balls, eventually got their just rewards by combining for the first goal.
 
 > 1-0
 
-The half was all Frothers with several nearly plays not quite doing it.
+![](/images/262923911_3537766683116278_6590443830196082527_n.jpg)
 
-The Blues somehow found their way back into it with a ball over the top expertly brought down by their striker and finished.
-
-> 1-1
-
-The Frothers should have had a shot to go back ahead before the break as **Yarride** was clearly brought down in the area by the opposition goalie, only for the ref to wave it away.
+A corner in was headed straight back to **Evan**, whose first-time ball on the valley found **Lance**. Beating the keep to the jump, it is yet another headed goal for the team's coxswain.
 
 ## Halftime
 
-The Frothers were ruing their missed chances as they knew they had the wind to contest within the second half.
+A little disappointed to only have the one goal in a wind which is known to have goals with it, but the Frothers knew they had more than just the wind up their sleeves.
 
-The two sides were even until a couple of Frothers mistakes changed the game.
+The second half started again with the Frothers controlling the match, but the Valley nearly snuck a goal as a long ball from deep came off the crossbar and hit their player to go in. Unfortunately for the player he had raised his hands and caught the ball, which some keen-eyed Frothers spotted. So the goal was ruled out.
 
-An attempted quick free-kick that went straight to a Blues player led to a goalkeeper clearance that again only found the first Blues player who fired into the top of the goal to take the lead.
+Riding in to save the day, my boy **Yarride** strolls on after 60 mins in the wind and the rain to help himself to two goals.
 
-> 1-2
+![](/images/263065167_3537766306449649_3043965072748974918_n.jpg)
 
-The next goal was also the result of a couple of missed defensive clearances that resulted in a shot on an open net.
+The second goal came from a low clearance from your boy, that the Valley defender let slip under his boot and **Evan** picked it up and put **Yarride** in. Who put a clinic on of how close you can put it by the keeper and still score.
 
-> 1-3
+> 2-0
 
-Disappointing result, but the run had to end sometime 🤷‍♂️.
+![](/images/260669261_3537765193116427_3813064399803645458_n.jpg)
 
-# Man of the match
+Not long after Valley started a counter-attack down the right where they had acres of space. However, they managed to pick out the only Frother there, **Jamie Hatch**. **Hatch** then put **Yarride** in for his second and a much more ruthless finish.
 
-**Yarride** for keeping his scoring streak alive while having two decent penalty shouts ignored.
+> 3-0
 
-# Dick of the day
+The end wasn't without drama as a charging **Ryan** went for a knee slide collection of a ball in his box, only to sail right by. The striker could only put it right across the goal from a tight angle.
 
-**Jamie Bunting** for having a bit of a brain explosion coming straight off the bench to quickly take a free-kick to catch the defence off guard. Pity it was the wrong defence...
+## Man of the match
+
+Lots of candidates for this one. **Lance** and **Yarride** for their goals. The defence for the clean sheet and low xGA. But this week it goes to the cameraman's favourite, **Evan**. Two good assists and a top work rate.
+
+## Dick of the Day
