@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-12-04T11:00:00Z
 description = "Frother's summer league game against Valley Dream"
-draft = true
 friendly = false
 frother_goals = 3
 images = ["/images/262418174_3537766359782977_6677563142140133745_n.jpg"]
@@ -69,7 +68,7 @@ Lots of candidates for this one. **Lance** and **Yarride** for their goals. The 
 
 ## Dick of the Day
 
-**Charles "Family Man" Daily** for teasing us with the prospect that he will come to a game for a couple of weeks and yet another no show.
+**Charles "Family Man" Daily** for teasing us with the prospect that he will come to a game for a couple of weeks and yet another no show. Sleep is temporary, football is forever.
 
 ![](/images/231572515_3448411075385173_1883059002136618240_n2.jpg)
 
