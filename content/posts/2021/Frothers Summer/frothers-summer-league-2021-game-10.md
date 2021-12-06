@@ -68,3 +68,9 @@ Lots of candidates for this one. **Lance** and **Yarride** for their goals. The 
 ![](/images/261783735_3537767233116223_1392694831424390180_n.jpg)
 
 ## Dick of the Day
+
+{{< rawhtml >}} <div class="row"> 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3537767933116153&show_text=true&width=500" width="500" height="823" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+</div> {{< /rawhtml >}} 
