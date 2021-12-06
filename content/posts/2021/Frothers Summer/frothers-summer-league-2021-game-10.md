@@ -59,8 +59,12 @@ Not long after Valley started a counter-attack down the right where they had acr
 
 The end wasn't without drama as a charging **Ryan** went for a knee slide collection of a ball in his box, only to sail right by. The striker could only put it right across the goal from a tight angle.
 
+![](/images/262378467_3537767016449578_9061987880670747591_n.jpg)
+
 ## Man of the match
 
 Lots of candidates for this one. **Lance** and **Yarride** for their goals. The defence for the clean sheet and low xGA. But this week it goes to the cameraman's favourite, **Evan**. Two good assists and a top work rate.
+
+![](/images/261783735_3537767233116223_1392694831424390180_n.jpg)
 
 ## Dick of the Day
