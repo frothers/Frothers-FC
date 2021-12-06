@@ -1,21 +1,29 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-11-27T11:00:00Z
-description = "Foam generators summer league match against Punishing Chat FC"
+date = 2021-12-04T11:00:00Z
+description = "Foam generators summer league match against Certified Rubber Boys"
 draft = true
 friendly = false
 frother_goals = 1
-images = ["/images/259933123_3537635286462751_6528397557469759693_n.jpg"]
+images = ["/images/261746923_3537633923129554_7508734849579894194_n.jpg"]
 match = true
-opponent = "Punishing Chat FC"
-opponent_goals = 2
-result = "Loss"
-scorers = []
+opponent = "Certified Rubber Boys"
+opponent_goals = 0
+result = "Win"
 season = "summer"
 team = "Foam Generators"
 title = "Foam Generators Sunday League 2021 - Game 9"
 type = "post"
+[[scorers]]
+goals = 1
+scorer = "Ring-In"
 
 +++
-A loss against Punishing Chat FC
+A win against Certified Rubber Boys
+
+<raw>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3537635709796042&show_text=true&width=500" width="500" height="765" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+</raw>
