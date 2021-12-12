@@ -41,6 +41,7 @@ export type resultData = {
 export type matchGoalsData = {
   date: Date,
   season: string,
+  team: string,
   frother_goals: number,
   opponent_goals: number
 };
@@ -128,6 +129,7 @@ export let getMatchGoalsData = async function () {
     let result: matchGoalsData = {
       date: new Date(a.date),
       season: a.season,
+      "team": a.team,
       frother_goals: parseInt(a.frother_goals),
       opponent_goals: parseInt(a.opponent_goals)
     }

@@ -194,7 +194,7 @@ export let parsePointsData = async function (year: number, season: string, squad
     return resultsData;
 }
 
-export let parseCleanSheetData = async function (year: number, season: string) {
+export let parseCleanSheetData = async function (year: number, season: string, squadName: string = "frothersfc") {
     let data = await getMatchGoalsData();
 
     data = data.sort((a, b) => {
@@ -212,6 +212,16 @@ export let parseCleanSheetData = async function (year: number, season: string) {
     if (season) {
         data = data.filter(a => {
             if (a.season === season) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+    if (squadName && squadName != AllSquadName) {
+        data = data.filter(a => {
+            if (a.team.toLowerCase().replace(/\s/g, '') === squadName) {
                 return true;
             }
             else {

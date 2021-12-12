@@ -243,8 +243,8 @@ export let populatePointsGraph = async function (year: number, season: string, s
 /**
  * @summary cleansheet graphics.
  */
-export let populateCleanSheetGraph = async function (year: number, season: string) {
-    let data = await parseCleanSheetData(year, season);
+export let populateCleanSheetGraph = async function (year: number, season: string, squadName: string) {
+    let data = await parseCleanSheetData(year, season, squadName);
 
     let temp = <HTMLCanvasElement>document.getElementById("cleansheet-panel");
 
@@ -340,7 +340,7 @@ export let populateCleanSheetGraph = async function (year: number, season: strin
 export let updateAllGraphs = async function (year: number, season: string, squadName: string) {
     populateGsGraph(year, season, squadName);
     populatePointsGraph(year, season, squadName);
-    populateCleanSheetGraph(year, season);
+    populateCleanSheetGraph(year, season, squadName);
 }
 
 let onClickFunc = function (_e: any, legendItem: { datasetIndex: any; }) {
