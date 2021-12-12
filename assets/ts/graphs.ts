@@ -145,8 +145,8 @@ export let populateGsGraph = async function (year: number, season: string, squad
 /**
  * @summary Points graphics.
  */
-export let populatePointsGraph = async function (year: number, season: string) {
-    let pointsData = await parsePointsData(year, season);
+export let populatePointsGraph = async function (year: number, season: string, squadName: string) {
+    let pointsData = await parsePointsData(year, season, squadName);
 
     let temp = <HTMLCanvasElement>document.getElementById("results-panel");
 
@@ -339,7 +339,7 @@ export let populateCleanSheetGraph = async function (year: number, season: strin
  */
 export let updateAllGraphs = async function (year: number, season: string, squadName: string) {
     populateGsGraph(year, season, squadName);
-    populatePointsGraph(year, season);
+    populatePointsGraph(year, season, squadName);
     populateCleanSheetGraph(year, season);
 }
 

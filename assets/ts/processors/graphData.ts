@@ -27,39 +27,39 @@ export type matchResult = {
     y: number
 };
 
-export let parsePlayerData = async function (year?: number, season?: string, squadName:string ="frothersfc") {
+export let parsePlayerData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
     let data = await getGoalsData();
     if (year) {
-      data = data.filter(a => {
-        if (a.date.getFullYear() === year){
-            return true;
-        }
-        else {
-            return false;
-        }
-      });
+        data = data.filter(a => {
+            if (a.date.getFullYear() === year) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
     }
     if (season) {
-      data = data.filter(a => {
-        if (a.season === season){
-            return true;
-        }
-        else {
-            return false;
-        }
-      });
+        data = data.filter(a => {
+            if (a.season === season) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
     }
     if (squadName && squadName != AllSquadName) {
         data = data.filter(a => {
-          if (a.team.toLowerCase().replace(/\s/g, '') === squadName){
-              return true;
-          }
-          else {
-              return false;
-          }
+            if (a.team.toLowerCase().replace(/\s/g, '') === squadName) {
+                return true;
+            }
+            else {
+                return false;
+            }
         });
-      }
-    
+    }
+
     let scorers = _.map(_.flatten(_.map(data, "scorers")), "scorer");
     let squadData = await getSquadData(squadName);
 
@@ -102,23 +102,23 @@ export let parsePlayerData = async function (year?: number, season?: string, squ
             })
         })
     })
-    
-    if (!year){
-        playerData.forEach((playersData,index) => {
+
+    if (!year) {
+        playerData.forEach((playersData, index) => {
             // Aggregate all of the goals for a year
-            playerData[index].data = _.values(_.reduce(playersData.data,function(result: any,obj){
+            playerData[index].data = _.values(_.reduce(playersData.data, function (result: any, obj) {
                 let year = obj.t.getFullYear();
                 result[year] = {
                     t: Date.parse(year.toString()),
-                    goals:obj.goals + (result[year]?result[year].goals:0),
-                    y:obj.goals + (result[year]?result[year].goals:0)
+                    goals: obj.goals + (result[year] ? result[year].goals : 0),
+                    y: obj.goals + (result[year] ? result[year].goals : 0)
                 };
                 return result;
-            },{}));
+            }, {}));
 
             // Add up
             playerData[index].data.forEach((yearGoals, index2) => {
-                playerData[index].data[index2].y = yearGoals.y + (playerData[index].data[index2-1]?playerData[index].data[index2-1].y:0); 
+                playerData[index].data[index2].y = yearGoals.y + (playerData[index].data[index2 - 1] ? playerData[index].data[index2 - 1].y : 0);
             })
         });
     }
@@ -126,7 +126,7 @@ export let parsePlayerData = async function (year?: number, season?: string, squ
     return playerData;
 }
 
-export let parsePointsData = async function (year: number, season: string) {
+export let parsePointsData = async function (year: number, season: string, squadName: string = "frothersfc") {
     let data = await getResultsData();
 
     data = data.sort((a, b) => {
@@ -134,7 +134,7 @@ export let parsePointsData = async function (year: number, season: string) {
     })
 
     data = data.filter(a => {
-        if (a.date.getFullYear() === year){
+        if (a.date.getFullYear() === year) {
             return true;
         }
         else {
@@ -142,14 +142,24 @@ export let parsePointsData = async function (year: number, season: string) {
         }
     });
     if (season) {
-      data = data.filter(a => {
-        if (a.season === season){
-            return true;
-        }
-        else {
-            return false;
-        }
-      });
+        data = data.filter(a => {
+            if (a.season === season) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+    if (squadName && squadName != AllSquadName) {
+        data = data.filter(a => {
+            if (a.team.toLowerCase().replace(/\s/g, '') === squadName) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
     }
 
     let resultsData: matchResult[] = [];
@@ -192,7 +202,7 @@ export let parseCleanSheetData = async function (year: number, season: string) {
     })
 
     data = data.filter(a => {
-        if (a.date.getFullYear() === year){
+        if (a.date.getFullYear() === year) {
             return true;
         }
         else {
@@ -200,14 +210,14 @@ export let parseCleanSheetData = async function (year: number, season: string) {
         }
     });
     if (season) {
-      data = data.filter(a => {
-        if (a.season === season){
-            return true;
-        }
-        else {
-            return false;
-        }
-      });
+        data = data.filter(a => {
+            if (a.season === season) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
     }
 
     let resultsData: cleanSheets[] = [];

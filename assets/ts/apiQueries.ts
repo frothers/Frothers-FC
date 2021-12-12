@@ -34,6 +34,7 @@ export type gameData = {
 export type resultData = {
   date: Date,
   season: string,
+  team: string,
   result: string
 };
 
@@ -97,6 +98,7 @@ export let getResultsData = async function () {
     let result: resultData = {
       "date": new Date(a.date),
       "season": a.season,
+      "team": a.team,
       "result": a.result
     }
     return result
