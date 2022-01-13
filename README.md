@@ -22,6 +22,8 @@ npm start
 
 You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) versions installed in order to use this Static Website builder.
 
+Hugo is also required [hugo](https://gohugo.io/)
+
 Next step, clone this repository and run:
 
 ```bash
@@ -116,7 +118,6 @@ All tasks starting with _build_ set the environment variable to `production` - t
 *Todo*
 
 ## Deploying to Netlify
-
 
 - [Create a new site on Netlify](https://app.netlify.com/start) and link the repository.
 
