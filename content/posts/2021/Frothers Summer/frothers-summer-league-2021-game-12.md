@@ -1,66 +1,69 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2021-12-11T11:00:00Z
-description = "Frother's summer league game against Big Kicks"
+date = 2022-01-22T11:00:00Z
+description = "Frother's summer league game against Diamonds"
 draft = true
 friendly = false
-frother_goals = 3
-images = ["/images/153573137_252044303218942_3772365738518511282_o.jpg"]
+frother_goals = 1
+images = ["/images/272045640_3576969502529329_7093411131054043663_n.jpg"]
 match = true
-opponent = "Big Kicks"
-opponent_goals = 1
-result = "Win"
+opponent = "Diamonds"
+opponent_goals = 3
+result = "Loss"
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 12"
 type = "post"
 [[scorers]]
-goals = 2
-scorer = "Yarride Rosario"
-[[scorers]]
 goals = 1
-scorer = "Lance Molyneaux"
+scorer = "Yarride Rosario"
 
 +++
-A top of the table clash against Big Kicks and it gave the Frothers the opportunity to open up the gap at the top of the table.
+Starting the second half of the summer season the Frothers played an unrecognisable Diamonds team (because it was full of div 1 players...). It was also a debut for **Jacob**, another transfer from the Kindle connection.
 
-The Frothers had a bare-bones XI, with several of the players either coming back from injury or sporting minor niggles.
+The Frothers were showing they were no strangers to a Christmas pud with some slow legs and dusty touches. However, they hadn't lost their discipline and kept the game relatively even for most of the first half.
 
-The first half was a tight affair, with the Frother's best opportunities coming off the back of a couple of corners. **Lance** was also denied by a great save.
+The Alts Diamonds ended up taking the lead with a great lofted ball in from the right and headed home.
 
-## Halftime
+> 0-1
 
-Playing with the wind, the Frothers knew they could up the ante in the second half.
+![](/images/272022509_3576969449196001_8417782585787198562_n.jpg)
 
-It didn't take long until the boys got into their stride. **Alain** won a great challenge in the middle to set up the counter-attack. **Evan**? then put **Yarride** in who wriggled away from the two defenders to score.
+Ryan performed several great saves to keep the goals to just the one at the break.
 
-> 1-0
+The Frothers managed to rally at halftime, and it didn't take long before they equalled it up. Milan finding Lance, who broke through a double challenge to get through to the opposition penalty area. Unselfishly laying it off to Yarride to finish off the left.
 
-Not long after the Frother's doubled their lead. This time coming from a full field passing move from centre back through the midfield. It finally fell to **Bunting** who played **Yarride** clean through. You know what comes next.
+> 1-1
 
-> 2-0
+![](/images/272155679_3576967832529496_6209852704550025789_n.jpg)
 
-The Frothers were now starting to strut a little, with more slick passing and confident possession.
+That is what the boys were needing and the Frothers started to find their passing rhythm.
 
-Big Kicks managed to get back in the game with a pretty nothing punt that eluded the backline and fell to the Big Kicks' winger. Cutting inside he finished with a filthy robona.
+However, with injury forcing Lance off the boys were struggling to find any real opportunities.
 
-> 2-1
+It was the Diamonds who got the next opportunity. With a handball on the line from Milan being spotted by the ref, a penalty was awarded. The diamonds player could only find the crossbar, however.
 
-Feeling there was something in the game for them the Big Kicks kept coming. It wasn't long until a scoop turn nutmeg in the box was enough to get **Jamie Hatch** to throw out the leg and give the Big Kicks a penalty.
+> Penalty miss
 
-The same penalty taker from the last match stepped up. Luckily **Ryan** had done his homework and correctly guessed he would shoot in the same spot.
+A later attack resulted in another goal-line clearance from Milan, legally this time, but this time the diamonds player finished the follow-up.
 
-> Save!
+> 1-2
 
-With Big kicks deflated by the missed penalty, the Frothers took advantage. **Jamie Hatch**, making amends for the penalty, intercepted a ball and quickly put **Lance** in who gave the defender a quick body feint to get through 1-on-1 and finish to the right.
+A third goal followed after
 
-> 3-1
+> 1-3
+
+![](/images/272047271_3576969719195974_7307356696688012496_n.jpg)
 
 ## Man of the match
 
-**Harry** bossed the midfield against what was easily the opponents best players.
+Ryan had a near faultless game, with several big saves and bringing big Buffon energy to penalties yet again.
 
-## Dick of the Day
+## Dick of the day
 
-**Milan** for making his way right up into the box, getting the pass, and then doing a dummy when no one was behind him. Understandable to get a bit light-headed that far up the pitch.
+A few contenders for this one. Yarride for getting sent off by the ref for no shin pads. Baby daddy Nester for the unstoppable freight train run into their keeper. But the award goes to the man about to get his own trip down fatherhood, Milan.
+
+Doing his best Saurez, lying about it, only getting a yellow. And then rolling the dice all over again. You love to see it, you hate to live it.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3576969939195952&show_text=true&width=500" width="500" height="745" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
