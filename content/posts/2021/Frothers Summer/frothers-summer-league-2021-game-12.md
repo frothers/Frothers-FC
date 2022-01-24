@@ -19,7 +19,7 @@ goals = 1
 scorer = "Yarride Rosario"
 
 +++
-![](/images/froth-wordle.png)
+![](/images/froth-wordle-2.png)
 
 Starting the second half of the summer season the Frothers played an unrecognisable Diamonds team (because it was full of div 1 players...). It was also a debut for **Jacob**, another transfer from the Kindle connection.
 
