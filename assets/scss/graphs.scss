@@ -32,3 +32,20 @@ section .section-title {
   color: $primary-color;
   font-size: 20px;
 }
+
+.green-field-stripe {
+  border-color: transparent transparent #f3f3f3;
+  min-height: 60px;
+  background-color: green;
+}
+
+.white-field-stripe {
+  border-color: transparent transparent #f3f3f3;
+  min-height: 60px;
+  background-color: rgb(138, 204, 138);
+}
+
+.footy-field {
+ color: honeydew;
+ text-align: center;
+}

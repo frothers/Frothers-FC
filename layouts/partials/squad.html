@@ -1,0 +1,72 @@
+<!-- Squad -->
+{{ if isset .Params "xi_and_subs" }}
+<div class="container footy-field">
+    <div class="row align-items-center">
+        <div class="col"></div>
+        <div class="col green-field-stripe">
+        </div>
+        <div class="col white-field-stripe">
+        </div>
+        <div class="col green-field-stripe">
+            {{ index ($.Params.xi_and_subs) 0 }}
+        </div>
+        <div class="col white-field-stripe">
+        </div>
+        <div class="col green-field-stripe">
+        </div>
+        <div class="col"></div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col"></div>
+        <div class="col green-field-stripe">
+            {{ index ($.Params.xi_and_subs) 1 }}
+        </div>
+        <div class="col white-field-stripe">
+            {{ index ($.Params.xi_and_subs) 2 }}
+        </div>
+        <div class="col green-field-stripe">
+        </div>
+        <div class="col white-field-stripe">
+            {{ index ($.Params.xi_and_subs) 3 }}
+        </div>
+        <div class="col green-field-stripe">
+            {{ index ($.Params.xi_and_subs) 4 }}
+        </div>
+        <div class="col"></div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col"></div>
+        <div class="col green-field-stripe">
+            {{ index ($.Params.xi_and_subs) 5 }}
+        </div>
+        <div class="col white-field-stripe">
+            {{ index ($.Params.xi_and_subs) 6 }}
+        </div>
+        <div class="col green-field-stripe">
+        </div>
+        <div class="col white-field-stripe">
+            {{ index ($.Params.xi_and_subs) 7 }}
+        </div>
+        <div class="col green-field-stripe">
+            {{ index ($.Params.xi_and_subs) 8 }}
+        </div>
+        <div class="col"></div>
+    </div>
+    <div class="row align-items-center">
+        <div class="col"></div>
+        <div class="col green-field-stripe">
+        </div>
+        <div class="col white-field-stripe">
+            {{ index ($.Params.xi_and_subs) 9 }}
+        </div>
+        <div class="col green-field-stripe">
+        </div>
+        <div class="col white-field-stripe">
+            {{ index ($.Params.xi_and_subs) 10 }}
+        </div>
+        <div class="col green-field-stripe">
+        </div>
+        <div class="col"></div>
+    </div>
+</div>
+{{ end }}
