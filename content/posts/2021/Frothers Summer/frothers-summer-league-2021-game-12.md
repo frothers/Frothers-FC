@@ -14,6 +14,7 @@ season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 12"
 type = "post"
+xi_and_subs = ["Charles Daily", "Yarride Rosario", "Yarride Rosario"]
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
