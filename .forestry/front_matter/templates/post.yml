@@ -194,7 +194,8 @@ fields:
       file: content/squad/Frothers.md
       path: players
   label: XI and Subs
-  description: The first XI plus the subs for the game
+  description: The first XI plus the subs for the game<br>in the following order<br>GK,
+    4x Def, 4xMid, 2xSt
   showOnly:
     field: match
     value: true
