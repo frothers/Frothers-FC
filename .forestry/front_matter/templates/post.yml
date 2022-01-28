@@ -182,27 +182,19 @@ fields:
   showOnly:
     field: match
     value: true
-- name: starting_xi
-  type: field_group_list
-  fields:
-  - name: player
-    type: select
-    default: ''
-    config:
-      required: false
-      options: []
-      source:
-        type: documents
-        section: players
-        file: content/squad/Frothers.md
-        path: players
-    label: Player
+- name: xi_and_subs
+  type: list
   config:
+    use_select: true
     min: 
     max: 
-    labelField: player
-  label: Starting XI + Subs
-  description: The XI
+    source:
+      type: documents
+      section: players
+      file: content/squad/Frothers.md
+      path: players
+  label: XI and Subs
+  description: The first XI plus the subs for the game
   showOnly:
     field: match
     value: true
