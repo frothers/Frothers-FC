@@ -34,18 +34,35 @@ section .section-title {
 }
 
 .green-field-stripe {
+  padding-top: 15px;
+  padding-left: 0;
+  padding-right: 0;
   border-color: transparent transparent #f3f3f3;
   min-height: 60px;
   background-color: green;
 }
 
 .white-field-stripe {
+  padding-top: 15px;
+  padding-left: 0;
+  padding-right: 0;
   border-color: transparent transparent #f3f3f3;
   min-height: 60px;
-  background-color: rgb(138, 204, 138);
+  background-color: rgb(67, 151, 67);
 }
+
+.subs-bench {
+  padding-top: 15px;
+  padding-left: 0;
+  padding-right: 0;
+  border-color: transparent transparent #f3f3f3;
+  min-height: 60px;
+  background-color: rgb(98, 100, 98);
+}
+
 
 .footy-field {
  color: honeydew;
+ font-size: x-small;
  text-align: center;
 }
