@@ -14,7 +14,7 @@ season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 13"
 type = "post"
-xi_and_subs = ["Charles Daily", "Yarride Rosario", "Yarride Rosario"]
+xi_and_subs = ["Ryan Kindell", "Jacob Williamson", "Charles Daily", "Nick Jones", "Jamie Hatch", "Evan Hanson", "Jamie Bunting", "Harry Furnish", "Cole Hosking Berge", "Yarride Rosario", "Nestor Behring", "Alain Bruner", "Yash Rosario", "Ring-In"]
 [[scorers]]
 goals = 1
 scorer = "Cole Hosking Berge"
