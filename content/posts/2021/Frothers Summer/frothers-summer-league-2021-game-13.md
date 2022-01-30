@@ -83,3 +83,9 @@ The man trying to make sense of the new world he lives in, **Nester**, gets the 
 Honourable mentions go to **Alain's** free-kick which is currently off to join the new James Webb telescope 🔭.
 
 ![](/images/img_0529-1.jpg)
+
+## Special Mention
+
+OG Frother and club legend **Yarride** is moving up to Gisbourne this week for the foreseeable future. Yarride has been a fundamental part of the Frothers both on and off the field, being both the top scorer and team social coordinator. Though it is not a long goodbye as Yarride will be playing occasionally throughout the season. We will be hoping the bright lights of Wellington and the allure of Frother football will be able to temp you back before too long 😘.
+
+![](/images/img_0530-1.jpg)
