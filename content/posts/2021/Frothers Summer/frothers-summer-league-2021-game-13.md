@@ -1,72 +1,68 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2022-01-22T11:00:00Z
-description = "Frother's summer league game against Diamonds"
+date = 2022-01-29T11:00:00Z
+description = "Frother's summer league game against Majin Blues"
 draft = true
 friendly = false
-frother_goals = 1
-images = ["/images/272045640_3576969502529329_7093411131054043663_n.jpg"]
+frother_goals = 5
+images = []
 match = true
-opponent = "Diamonds"
-opponent_goals = 3
-result = "Loss"
+opponent = "Majin Blues"
+opponent_goals = 1
+result = "Win"
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 13"
 type = "post"
 xi_and_subs = ["Charles Daily", "Yarride Rosario", "Yarride Rosario"]
 [[scorers]]
-goals = 1
-scorer = "Yarride Rosario"
+goals = 0
+scorer = ""
 
 +++
-![](/images/froth-wordle-2.png)
+Second game back and the Frothers were looking at bouncing back and both avenge the loss in the reverse figure. Getting back into winning ways would also be a treat.
 
-Starting the second half of the summer season the Frothers played an unrecognisable Diamonds team (because it was full of div 1 players...). It was also a debut for **Jacob**, another transfer from the Kindle connection.
+Happening on the same day as the Australian Open final, this game had all the billings of a final as well; the Blues were the primary contender for the top spot this season. A Serbian was also notably missing from this match as **Milan** was bringing life into this world, rather than trying to do the opposite 👀.
 
-The Frothers were showing they were no strangers to a Christmas pud with some slow legs and dusty touches. However, they hadn't lost their discipline and kept the game relatively even for most of the first half.
+In a baking hot day at Te Whaea the Frothers started the game on the front foot. The new signings of **Cole** and secondment of **Isaac** ensured we could be dangerous with every possession.
 
-The ~~Alts~~ Diamonds ended up taking the lead with a great lofted ball in from the right and headed home.
+A few early opportunities went begging, but some quick feet and a cheeky toe by **Cole** meant we went into the drinks break 1-0.
 
-> 0-1
+> 1-0
 
-![](/images/272022509_3576969449196001_8417782585787198562_n.jpg)
+It was more dominance by the Frothers after the break with the offside trap being sprung to put **Isaac** through for the first of his goals.
 
-**Ryan** performed several great saves to keep the goals to just the one at the break.
+> 2-0
 
-The Frothers managed to rally at halftime, and it didn't take long before they equalled it up. **Milan** finding **Lance**, who broke through a double challenge to get through to the opposition penalty area. Unselfishly laying it off to **Yarride** to finish off on the left.
+## Halftime
 
-> 1-1
+A few additional reinforcements turned up for the Blues during the halftime break, but they would need more than that.
 
-![](/images/272155679_3576967832529496_6209852704550025789_n.jpg)
+A similar pattern emerged in the 3rd quarter, with Isaac again being put in to grab his second.
 
-That is what the boys were needing and the Frothers started to find their passing rhythm.
+> 3-0
 
-However, with injury forcing **Lance** off the boys were struggling to find any real opportunities.
+Just before the break the Blues managed to find themselves a way back into the game. A shot from outside the box ended up being pushed into the path of an on running Blues striker who found the open net.
 
-It was the Diamonds who got the next opportunity. With a handball on the line from **Milan** being spotted by the ref, a penalty was awarded. The diamonds player could only find the crossbar, however.
+> 3-1
 
-> Penalty miss
+The fourth quarter would be all Frothers, however. A well-won freekick in the opposition half gave **Nick** the opportunity to put in a beauty of a delivery that lured the keeper into no man's land and left **Alain** with a simple header.
 
-A later attack resulted in another goal-line clearance from **Milan**, legally this time, but this time the Diamonds player finished the follow-up.
+> 4-1
 
-> 1-2
+In the game's dying moments **Harry** was dancing all around the Blue's LB who eventual had enough and fouled him. Playing the freekick quickly, **Harry** delivered a peach of a ball for **Isaac** to volley in his stride for the hattrick.
 
-A third goal followed after. 🤷‍♂️
+> 5-1
 
-> 1-3
+## Man of the Match
 
-![](/images/272047271_3576969719195974_7307356696688012496_n.jpg)
+**Harry Furnish** for the excellent scouting and a great game for himself too.
 
-## Man of the match
+## Dick of the Day
 
-**Ryan** had a near faultless game, with several big saves and bringing big Buffon energy to penalties yet again.
+There were a few moments in the match where the Frothers risked being a shithouse team. Yelling at the ref, claiming the ball had gone out, pushing other players... You never want to be the worst team in the league at it. Just second worst.
 
-## Dick of the day
+The man trying to make sense of the new world he lives in, **Nester**, gets the nod for running his mouth more than his legs today.
 
-A few contenders for this one. **Yarride** for getting sent off by the ref for no shin pads. Baby daddy **Nester** for the unstoppable freight train run into their keeper. But the award goes to the man about to get his own turn at fatherhood, **Milan**.
-
-Doing his best Saurez, lying about it, only getting a yellow. And then rolling the dice all over again. You love to see it, you hate to live it.
-
-{{< rawhtml >}} <div class="row"> <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3576969939195952&show_text=true&width=500" width="500" height="745" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div> {{< /rawhtml >}}
+Honourable mentions go to **Alain's** free-kick which is currently off to join the new James Webb telescope 🔭.
