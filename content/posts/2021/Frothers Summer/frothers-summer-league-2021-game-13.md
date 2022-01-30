@@ -17,13 +17,13 @@ type = "post"
 xi_and_subs = ["Charles Daily", "Yarride Rosario", "Yarride Rosario"]
 [[scorers]]
 goals = 1
-scorer = "Alain Bruner"
+scorer = "Cole Hosking Berge"
 [[scorers]]
 goals = 3
 scorer = "Ring-In"
 [[scorers]]
 goals = 1
-scorer = "Cole Hosking Berge"
+scorer = "Alain Bruner"
 
 +++
 Second game back and the Frothers were looking at bouncing back and both avenge the loss in the reverse figure. Getting back into winning ways would also be a treat.
