@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-01-29T11:00:00Z
 description = "Frother's summer league game against Majin Blues"
-draft = true
 friendly = false
 frother_goals = 5
 images = ["/images/img_0512-1.jpg"]
