@@ -74,6 +74,8 @@ In the game's dying moments **Harry** was dancing all around the Blue's LB who e
 
 **Harry Furnish** for the excellent scouting and a great game for himself too.
 
+![](/images/img_0536-2.jpg)
+
 ## Dick of the Day
 
 There were a few moments in the match where the Frothers risked being a shithouse team. Yelling at the ref, claiming the ball had gone out, pushing other players... You never want to be the worst team in the league at it. Just second worst.
