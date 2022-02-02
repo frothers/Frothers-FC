@@ -86,7 +86,6 @@ export let parsePlayerData = async function (year?: number, season?: string, squ
     })
 
     // Change it from Game to Scorer for the key, then make it cumulative
-    // if (year) {
     data.forEach(game => {
         scorerNames.forEach((scorer) => {
             let playerIndex = playerData.findIndex(e => e.label == scorer)
@@ -135,18 +134,6 @@ export let parsePlayerData = async function (year?: number, season?: string, squ
 export let parsePointsData = async function (year: number, season: string, squadName: string = "frothersfc") {
     let data = await getResultsData();
 
-    data = data.sort((a, b) => {
-        return a.date.getTime() - b.date.getTime()
-    })
-
-    data = data.filter(a => {
-        if (a.date.getFullYear() === year) {
-            return true;
-        }
-        else {
-            return false;
-        }
-    });
     if (season) {
         data = data.filter(a => {
             if (a.season === season) {
@@ -157,6 +144,37 @@ export let parsePointsData = async function (year: number, season: string, squad
             }
         });
     }
+    if (year) {
+        let month = 0;
+        if (season === "summer"){
+            month = 6;
+        }
+        let startDate = new Date(year, month);
+        let endDate   = new Date(year + 1, month);
+        data = data.filter(a => {
+            if (a.date > startDate && a.date < endDate) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+    if (squadName && squadName != AllSquadName) {
+        data = data.filter(a => {
+            if (a.team.toLowerCase().replace(/\s/g, '') === squadName) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+
+    data = data.sort((a, b) => {
+        return a.date.getTime() - b.date.getTime()
+    })
+
     if (squadName && squadName != AllSquadName) {
         data = data.filter(a => {
             if (a.team.toLowerCase().replace(/\s/g, '') === squadName) {
@@ -207,17 +225,35 @@ export let parseCleanSheetData = async function (year: number, season: string, s
         return a.date.getTime() - b.date.getTime()
     })
 
-    data = data.filter(a => {
-        if (a.date.getFullYear() === year) {
-            return true;
-        }
-        else {
-            return false;
-        }
-    });
     if (season) {
         data = data.filter(a => {
             if (a.season === season) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+    if (year) {
+        let month = 0;
+        if (season === "summer"){
+            month = 6;
+        }
+        let startDate = new Date(year, month);
+        let endDate   = new Date(year + 1, month);
+        data = data.filter(a => {
+            if (a.date > startDate && a.date < endDate) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+    if (squadName && squadName != AllSquadName) {
+        data = data.filter(a => {
+            if (a.team.toLowerCase().replace(/\s/g, '') === squadName) {
                 return true;
             }
             else {
