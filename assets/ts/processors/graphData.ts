@@ -29,9 +29,9 @@ export type matchResult = {
 
 export let parsePlayerData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
     let data = await getGoalsData();
-    if (year) {
+    if (season) {
         data = data.filter(a => {
-            if (a.date.getFullYear() === year) {
+            if (a.season === season) {
                 return true;
             }
             else {
@@ -39,9 +39,15 @@ export let parsePlayerData = async function (year?: number, season?: string, squ
             }
         });
     }
-    if (season) {
+    if (year) {
+        let month = 0;
+        if (season === "summer"){
+            month = 6;
+        }
+        let startDate = new Date(year, month);
+        let endDate   = new Date(year + 1, month);
         data = data.filter(a => {
-            if (a.season === season) {
+            if (a.date > startDate && a.date < endDate) {
                 return true;
             }
             else {
