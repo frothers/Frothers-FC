@@ -14,6 +14,7 @@ season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 7"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Jack Kos","Jamie Hatch","Jack Hayden","Milan Mrdalj","Alain Bruner","Evan Hanson","Jamie Bunting","Yarride Rosario","Nestor Behring","Will Sule"]
 [[scorers]]
 goals = 1
 scorer = "Jamie Hatch"

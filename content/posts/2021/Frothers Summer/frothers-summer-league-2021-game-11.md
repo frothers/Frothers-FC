@@ -14,6 +14,7 @@ season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 11"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Jamie Hatch","Milan Mrdalj","Harry Furnish","Alain Bruner","Evan Hanson","Jamie Bunting","Yarride Rosario","Lance Molyneaux","Tavis Wells"]
 [[scorers]]
 goals = 2
 scorer = "Yarride Rosario"

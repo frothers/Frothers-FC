@@ -14,6 +14,7 @@ season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 2"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Jamie Hatch","Milan Mrdalj","Harry Furnish","Alain Bruner","Charles Daily","Jamie Bunting","Yarride Rosario","Lance Molyneaux","Nestor Behring","Will Sule"]
 [[scorers]]
 goals = 1
 scorer = "Thomas Sule"
