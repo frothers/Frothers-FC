@@ -15,6 +15,7 @@ result = "Loss"
 scorers = []
 title = "2021 Season - Game 9"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Angus Hay-Chapman","Sam Abbiss","Jamie Hatch","Charles Daily","Evan Hanson","Yarride Rosario","Lance Molyneaux","Thomas Sule","Milan Mrdalj","Jarrod Murray"]
 
 +++
 On a wet night at the St Pats turf, a rather uninspiring match played out between the Blazers and the Frothers. Even the ref looked like he couldn't be arsed.

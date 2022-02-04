@@ -15,6 +15,7 @@ result = "Loss"
 scorers = []
 title = "2021 Season - Game 5"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Angus Hay-Chapman","Sam Abbiss","Jamie Hatch","Milan Mrdalj","Charles Daily","Harry Furnish","Evan Hanson","Yarride Rosario","Jack Kos","Sean Dougherty","Thomas Sule"]
 
 +++
 > The streak ends..

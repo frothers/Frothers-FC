@@ -14,6 +14,7 @@ opponent_goals = 1
 result = "Win"
 title = "2021 Season - Game 16"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Sam Abbiss","Jamie Hatch","Milan Mrdalj","Charles Daily","Harry Furnish","Evan Hanson","Yarride Rosario","Jack Kos","Thomas Sule","Will Sule"]
 [[scorers]]
 goals = 1
 scorer = "Evan Hanson"

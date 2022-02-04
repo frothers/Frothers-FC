@@ -14,6 +14,7 @@ opponent_goals = 3
 result = "Loss"
 title = "2021 Season - Game 10"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Sam Abbiss","Jamie Hatch","Milan Mrdalj","Charles Daily","Harry Furnish","Evan Hanson","Alex Winsley","Lance Molyneaux","Thomas Sule","Yash Rosario","Nick Jones","Yarride Rosario"]
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"

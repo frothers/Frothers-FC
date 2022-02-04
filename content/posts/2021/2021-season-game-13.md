@@ -14,6 +14,7 @@ opponent_goals = 6
 result = "Loss"
 title = "2021 Season - Game 13"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Sam Abbiss","Jamie Hatch","Harry Furnish","Yarride Rosario","Jack Kos","Alex Winsley","Jarrod Murray","Lance Molyneaux","Evan Hanson","Cole Hosking Berge ","Simon"]
 [[scorers]]
 goals = 1
 scorer = "Alex Winsley"

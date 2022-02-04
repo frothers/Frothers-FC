@@ -2,18 +2,19 @@
 author = "Chris"
 categories = ["Match"]
 date = 2021-09-18T12:00:00Z
-description = "Recap of the game against Tuscan Raiders"
+description = "Recap of the game against Tuskan Raiders"
 friendly = false
 frother_goals = 3
 images = ["/images/img_4840.jpg"]
 season = "winter"
 match = true
 team = "OG Frothers"
-opponent = "Tuscan Raiders"
+opponent = "Tuskan Raiders"
 opponent_goals = 4
 result = "Loss"
 title = "2021 Season - Game 19"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Sam Abbiss","Jamie Hatch","Milan Mrdalj","Harry Furnish","Evan Hanson","Jack Kos","Jarrod Murray","Lance Molyneaux","Angus Hay-Chapman","Charles Daily","Yarride Rosario","Thomas Sule"]
 [[scorers]]
 goals = 1
 scorer = "Jarrod Murray"

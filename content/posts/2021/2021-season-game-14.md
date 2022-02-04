@@ -14,6 +14,7 @@ opponent_goals = 4
 result = "Win"
 title = "2021 Season - Game 14"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Sam Abbiss","Charles Daily","Harry Furnish","Evan Hanson","Yarride Rosario","Jack Kos","Jarrod Murray","Lance Molyneaux","Jamie Hatch","Milan Mrdalj"]
 [[scorers]]
 goals = 1
 scorer = "Chris Chester"

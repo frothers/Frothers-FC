@@ -13,6 +13,7 @@ opponent = "LBQ"
 opponent_goals = 1
 result = "Win"
 title = "2021 Season - Game 7"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Angus Hay-Chapman","Sam Abbiss","Jamie Hatch","Milan Mrdalj","Charles Daily","Evan Hanson","Yarride Rosario","Jarrod Murray","Lance Molyneaux","Thomas Sule", "Jamie Bunting"]
 type = "post"
 [[scorers]]
 goals = 1

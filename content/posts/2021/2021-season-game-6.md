@@ -14,6 +14,7 @@ opponent_goals = 2
 result = "Loss"
 title = "2021 Season - Game 6"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Chris Chester","Angus Hay-Chapman","Sam Abbiss","Jamie Hatch","Milan Mrdalj","Charles Daily","Evan Hanson","Yarride Rosario","Lance Molyneaux","Thomas Sule","Nick Jones","Harry Furnish","Jarrod Murray"]
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"

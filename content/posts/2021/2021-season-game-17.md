@@ -9,11 +9,12 @@ images = ["/images/228404266_3448410588718555_8093951335355050790_n.jpg"]
 season = "winter"
 match = true
 team = "OG Frothers"
-opponent = "Fireraiders"
+opponent = "North Wellington"
 opponent_goals = 0
 result = "Win"
 title = "2021 Season - Game 17"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Sam Abbiss","Milan Mrdalj","Harry Furnish","Evan Hanson","Jack Kos","Alex Winsley","Jarrod Murray","Lance Molyneaux","Jamie Hatch","Charles Daily","Yarride Rosario"]
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"

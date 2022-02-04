@@ -14,6 +14,7 @@ opponent_goals = 2
 result = "Win"
 title = "2021 Season - Game 3"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Chris Chester","Sam  Abbiss","Jamie Hatch","Milan Mrdalj","Harry Furnish","Alex Winsley","Evan Hanson","Yarride Rosario","Lance Molyneaux","Thomas Sule","Angus Hay-Chapman","Jarrod Murray","Sean Dougherty"]
 [[scorers]]
 goals = 2
 scorer = "Thomas Sule"

@@ -14,6 +14,7 @@ opponent_goals = 5
 result = "Loss"
 title = "2021 Season - Game 8"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Sam Abbiss","Milan Mrdalj","Charles Daily","Will Sule","Jamie Bunting","Evan Hanson","Yarride Rosario","Sean Dougherty","Lance Molyneaux","Thomas Sule"]
 [[scorers]]
 goals = 1
 scorer = "Thomas Sule"

@@ -14,6 +14,7 @@ opponent_goals = 1
 result = "Win"
 title = "2021 Season - Game 15 (Plate)"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Chris Chester","Sam Abbiss","Jamie Hatch","Milan Mrdalj","Harry Furnish","Evan Hanson","Yarride Rosario","Jack Kos","Alex Winsley","Lance Molyneaux","Nick Jones","Charles Daily","Jarrod Murray"]
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"

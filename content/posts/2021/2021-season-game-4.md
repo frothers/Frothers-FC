@@ -14,6 +14,7 @@ opponent_goals = 2
 result = "Win"
 title = "2021 Season - Game 4"
 type = "post"
+xi_and_subs = ["Jack Kos","Nick Jones","Chris Chester","Angus Hay-Chapman","Jamie Hatch","Charles Daily","Harry Furnish","Alex Winsley","Evan Hanson","Lance Molyneaux","Thomas Sule","Sam Abbiss","Milan Mrdalj","Yarride Rosario", "Emil", "Luke"]
 [[scorers]]
 goals = 1
 scorer = "Thomas Sule"

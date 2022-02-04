@@ -14,6 +14,7 @@ opponent_goals = 3
 result = "Draw"
 title = "2021 Season - Game 11"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Jamie Hatch","Chris Chester","Milan Mrdalj","Sam Abbiss","Charles Daily","Harry Furnish","Yarride Rosario","Jarrod Murray","Lance Molyneaux","Thomas Sule","Nick Jones","Evan Hanson","Will Sule"]
 [[scorers]]
 goals = 1
 scorer = "Evan Hanson"

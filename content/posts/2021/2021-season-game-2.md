@@ -14,6 +14,7 @@ opponent_goals = 1
 result = "Win"
 title = "2021 Season - Game 2"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Angus Hay-Chapman","Sam Abbiss","Milan Mrdalj","Charles Daily","Evan Hanson","Yarride Rosario","Lance Molyneaux","Thomas Sule","Jack Kos","Jamie Hatch","Alex Winsley","Jarrod Murray"]
 [[scorers]]
 goals = 1
 scorer = "OG"

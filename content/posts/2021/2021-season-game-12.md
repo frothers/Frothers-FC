@@ -14,6 +14,7 @@ opponent_goals = 4
 result = "Loss"
 title = "2021 Season - Game 12"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Jamie Hatch","Milan Mrdalj","Charles Daily","Evan Hanson","Yarride Rosario","Alex Winsley","Jarrod Murray","Lance Molyneaux","Sam Abbiss","Harry Furnish","Sean Dougherty","Thomas Sule", "Will Sule", "Stu Escott"]
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"

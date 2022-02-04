@@ -14,6 +14,7 @@ penalties = true
 result = "Win"
 title = "2021 Season - Game 18 (Plate Semi)"
 type = "post"
+xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Sam Abbiss","Jamie Hatch","Milan Mrdalj","Charles Daily","Evan Hanson","Yarride Rosario","Jack Kos","Lance Molyneaux","Angus Hay-Chapman","Harry Furnish","Jarrod Murray","Thomas Sule","Will Sule"]
 [[penalty]]
 frother_goal = true
 opponent_goal = true
