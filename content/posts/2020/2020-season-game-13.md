@@ -13,6 +13,7 @@ opponent_goals = 1
 result = "Draw"
 title = "2020 Season - Game 13"
 type = "post"
+xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stuart Escott','Sam  Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Jarrod  Murray','Lance Molyneaux','Lee Greengrass',]
 [[scorers]]
 goals = 1
 scorer = "Luke Stancliffe-White"

@@ -13,6 +13,7 @@ opponent_goals = 3
 result = "Loss"
 title = " 2020 Season - Game 8"
 type = "post"
+xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Nick Jones','Milan Mrdalj','Charles Daily','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Lance Molyneaux','Yarride Rosario','Lee Greengrass',]
 [[scorers]]
 goals = 1
 scorer = "Jamie Hatch"

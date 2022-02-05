@@ -13,6 +13,7 @@ opponent_goals = 1
 result = "Win"
 title = "2020 Season - Game 15"
 type = "post"
+xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stuart Escott','Sam  Abbiss','Milan Mrdalj','Charles Daily','Evan Hanson','Harry Furnish','Jarrod  Murray','Lance Molyneaux','Lee Greengrass',]
 [[scorers]]
 goals = 1
 scorer = "Luke Stancliffe-White"
