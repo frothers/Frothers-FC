@@ -2,6 +2,7 @@ import * as _ from 'lodash';
 import { Chart, ChartDataSets, ChartPoint } from 'chart.js';
 
 import { parsePlayerData } from './processors/graphData'
+import { getPlayerAppearances, yearlyAppearances } from './processors/statsData'
 
 let careerChart: Chart;
 
@@ -40,7 +41,10 @@ export let populateStats = async function (name: string) {
 
   // Populate graph
   let chartData = <HTMLElement>document.getElementById("individual-stats-panel");
-  let dataAppearances: { year: number; appearances: number; }[] = JSON.parse(chartData.getAttribute("data-appearances"));
+  let dataAppearances: yearlyAppearances[] = JSON.parse(chartData.getAttribute("data-appearances"));
+  let gameAppearances = await getPlayerAppearances(name);
+
+  dataAppearances = dataAppearances.concat(gameAppearances)
 
   let appearances: ChartPoint[] = dataAppearances.map(apps => {
     let app: ChartPoint = {
@@ -59,6 +63,7 @@ export let populateStats = async function (name: string) {
 
   // Set appearances string
   appearancesElement.innerText = totalAppearances.toString();
+
 
 
   let goals: ChartPoint[] = playerData.data.map(goal => {

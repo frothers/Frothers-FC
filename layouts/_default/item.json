@@ -9,5 +9,6 @@
     "team": "{{ .Params.team }}",
     "permalink" : "{{ .Permalink }}",
     "friendly": "{{ .Params.friendly }}",
-    "scorers": {{ .Params.scorers | jsonify }}
+    "scorers": {{ .Params.scorers | jsonify }},
+    "xi" : "{{ .Params.xi_and_subs }}"
 }

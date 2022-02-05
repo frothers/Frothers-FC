@@ -16,7 +16,8 @@ export type postData = {
   frother_goals: string,
   opponent_goals: string,
   permalink: string,
-  scorers: any[]
+  scorers: any[],
+  xi: string[]
 };
 
 export type squadData = {
@@ -29,6 +30,13 @@ export type gameData = {
   season: string,
   team: string,
   scorers: scorerData[]
+};
+
+export type appearanceData = {
+  date: Date,
+  season: string,
+  team: string,
+  xi_and_subs: string[]
 };
 
 export type resultData = {
@@ -79,6 +87,36 @@ export let getGoalsData = async function () {
   goalscorers = goalscorers.filter((a: any) => a != null);
 
   return goalscorers;
+};
+
+/**
+ * @summary Goal scorers graphics.
+ */
+ export let getAppearancesData = async function () {
+  let response = await axios.get(postsAPI);
+  let data = response.data.data;
+
+  let appearances: appearanceData[] = data.items.map((a: postData) => {
+    if (a.xi === null
+      || a.match.includes("true") !== true
+      || (a.friendly && a.friendly.includes("true") === true)
+      || (a.draft && a.draft.includes("true") === true)) {
+      return null;
+    }
+
+    let game: appearanceData = {
+      "date": new Date(a.date),
+      "season": a.season,
+      "team": a.team,
+      "xi_and_subs": a.xi,
+    }
+    return game
+  }
+  );
+
+  appearances = appearances.filter((a: any) => a != null);
+
+  return appearances;
 };
 
 /**
