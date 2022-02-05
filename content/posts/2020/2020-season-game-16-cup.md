@@ -13,7 +13,7 @@ opponent_goals = 4
 result = "Loss"
 title = "2020 Season - Game 16 (Cup)"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Nick Jones','Sam  Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Jarrod  Murray','Yarride Rosario',]
+xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Nick Jones','Sam Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Jarrod Murray','Yarride Rosario',]
 [[scorers]]
 goals = 1
 scorer = "Charles Daily"

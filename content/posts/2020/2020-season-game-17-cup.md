@@ -14,7 +14,7 @@ opponent_goals = 3
 result = "Win"
 title = "2020 Season - Game 17 (Cup)"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Chris Chester','Sam  Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Lance Molyneaux','Yarride Rosario','Lee Greengrass','Cole Hosking Berge','Ian Rayns',]
+xi_and_subs = ['Ryan Kindell','Chris Chester','Sam Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Lance Molyneaux','Yarride Rosario','Lee Greengrass','Cole Hosking Berge','Ian Rayns',]
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"

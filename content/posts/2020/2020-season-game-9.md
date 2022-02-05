@@ -13,7 +13,7 @@ opponent_goals = 2
 result = "Win"
 title = "2020 Season - Game 9"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Nick Jones','Sam  Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Jarrod  Murray','Lance Molyneaux','Yarride Rosario',]
+xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Nick Jones','Sam Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Jarrod Murray','Lance Molyneaux','Yarride Rosario',]
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"

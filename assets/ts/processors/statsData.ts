@@ -17,7 +17,7 @@ export let getPlayerAppearances = async function (name: string) {
     let appearancesData = data.map(match => {
         let appearance =  {
             appeared: match.xi_and_subs.includes(name),
-            date: match.date.getFullYear()
+            date: match.date
         }
 
         return appearance;

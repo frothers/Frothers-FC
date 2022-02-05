@@ -13,7 +13,7 @@ opponent_goals = 6
 result = "Loss"
 title = "2020 Season - Game 2"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stuart Escott','Nick Jones','Sam  Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Lance Molyneaux','Yarride Rosario',]
+xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stuart Escott','Nick Jones','Sam Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Lance Molyneaux','Yarride Rosario',]
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"
