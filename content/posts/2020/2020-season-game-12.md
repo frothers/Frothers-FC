@@ -14,7 +14,7 @@ result = "Win"
 scorers = []
 title = "2020 Season - Game 12 (Friendly)"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stuart Escott','Nick Jones','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Lance Molyneaux','Lee Greengrass',]
+xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stu Escott','Nick Jones','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Lance Molyneaux','Lee Greengrass',]
 
 +++
 A dirty friendly, so time to ring the changes!

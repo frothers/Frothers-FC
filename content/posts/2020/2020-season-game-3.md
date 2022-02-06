@@ -13,7 +13,7 @@ opponent_goals = 6
 result = "Loss"
 title = "2020 Season - Game 3"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stuart Escott','Nick Jones','Milan Mrdalj','Charles Daily','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Lance Molyneaux','Yarride Rosario','Lee Greengrass',]
+xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stu Escott','Nick Jones','Milan Mrdalj','Charles Daily','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Lance Molyneaux','Yarride Rosario','Lee Greengrass',]
 [[scorers]]
 goals = 1
 scorer = "Lee Greengrass"

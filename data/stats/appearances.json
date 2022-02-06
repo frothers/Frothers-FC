@@ -41,7 +41,7 @@
         "year": 2017
       },
       {
-        "appearances": 8,
+        "appearances": 9,
         "year": 2018
       },
       {
@@ -100,7 +100,7 @@
         "year": 2019
       },
       {
-        "appearances": 2,
+        "appearances": 1,
         "year": 2021
       }
     ]
@@ -404,6 +404,34 @@
         "appearances": 4,
         "year": 2018
       }
+    ]
+  },
+  {
+    "title": "Sam Abbiss",
+    "appearances": [
+    ]
+  },
+  {
+    "title": "Thomas Sule",
+    "appearances": [
+      {
+        "appearances": 11,
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "title": "Jarrod Murray",
+    "appearances": [
+    ]
+  },
+  {
+    "title": "Angus Hay-Chapman",
+    "appearances": [
+        {
+          "appearances": 8,
+          "year": 2021
+        }
     ]
   }
 ]

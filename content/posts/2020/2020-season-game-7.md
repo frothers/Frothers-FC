@@ -13,7 +13,7 @@ opponent_goals = 3
 result = "Draw"
 title = " 2020 Season - Game 7"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Jack Kos','Jamie Hatch','Stuart Escott','Nick Jones','Milan Mrdalj','Charles Daily','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Jarrod Murray','Lance Molyneaux','Yarride Rosario','Jack Furnish',]
+xi_and_subs = ['Ryan Kindell','Jack Kos','Jamie Hatch','Stu Escott','Nick Jones','Milan Mrdalj','Charles Daily','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Jarrod Murray','Lance Molyneaux','Yarride Rosario','Jack Furnish',]
 [[scorers]]
 goals = 1
 scorer = "Ring-In"

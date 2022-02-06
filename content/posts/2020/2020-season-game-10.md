@@ -13,7 +13,7 @@ opponent_goals = 2
 result = "Draw"
 title = "2020 Season - Game 10"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stuart Escott','Nick Jones','Sam Abbiss','Milan Mrdalj','Charles Daily','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Jarrod Murray','Lance Molyneaux','Yarride Rosario','Lee Greengrass',]
+xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stu Escott','Nick Jones','Sam Abbiss','Milan Mrdalj','Charles Daily','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Jarrod Murray','Lance Molyneaux','Yarride Rosario','Lee Greengrass',]
 [[scorers]]
 goals = 1
 scorer = "Harry Furnish"

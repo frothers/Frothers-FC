@@ -13,7 +13,7 @@ opponent_goals = 2
 result = "Loss"
 title = "2020 Season - Game 11"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stuart Escott','Nick Jones','Sam Abbiss','Milan Mrdalj','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Jarrod Murray','Lance Molyneaux',]
+xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stu Escott','Nick Jones','Sam Abbiss','Milan Mrdalj','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Harry Furnish','Jarrod Murray','Lance Molyneaux',]
 [[scorers]]
 goals = 1
 scorer = "Stu Escott"

@@ -15,7 +15,7 @@ penalties = false
 result = "Win"
 title = "2020 Season - Game 18 (Cup Semi-Final)"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stuart Escott','Nick Jones','Sam Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Jarrod Murray','Lance Molyneaux','Yarride Rosario','Lee Greengrass',]
+xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stu Escott','Nick Jones','Sam Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Jarrod Murray','Lance Molyneaux','Yarride Rosario','Lee Greengrass',]
 [[scorers]]
 goals = 1
 scorer = "Chris Chester"

@@ -13,7 +13,7 @@ opponent_goals = 2
 result = "Win"
 title = "2020 Season - Game 4"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Jack Kos','Jamie Hatch','Stuart Escott','Nick Jones','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Lance Molyneaux','Yarride Rosario','Yash Rosario','Muzz',]
+xi_and_subs = ['Ryan Kindell','Jack Kos','Jamie Hatch','Stu Escott','Nick Jones','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Lance Molyneaux','Yarride Rosario','Yash Rosario','Muzz',]
 [[scorers]]
 goals = 1
 scorer = "Ring-In"
