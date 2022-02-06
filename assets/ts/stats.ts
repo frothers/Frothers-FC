@@ -44,7 +44,18 @@ export let populateStats = async function (name: string) {
   let dataAppearances: yearlyAppearances[] = JSON.parse(chartData.getAttribute("data-appearances"));
   let gameAppearances = await getPlayerAppearances(name);
 
-  dataAppearances = dataAppearances.concat(gameAppearances)
+  let allAppearances = dataAppearances;
+
+  gameAppearances.forEach(element => {
+    let arrayPos = _.findIndex(dataAppearances, ["year", element.year]);
+
+    if (arrayPos > -1) {
+      allAppearances[arrayPos].appearances = dataAppearances[arrayPos].appearances + element.appearances;
+    }
+    else {
+      allAppearances.push(element);
+    }
+  });
 
   let appearances: ChartPoint[] = dataAppearances.map(apps => {
     let app: ChartPoint = {
