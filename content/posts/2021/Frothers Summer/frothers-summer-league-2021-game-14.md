@@ -1,94 +1,38 @@
 +++
-author = "Chris"
+author = "Yarride"
 categories = ["Match"]
-date = 2022-01-29T11:00:00Z
-description = "Frother's summer league game against Majin Blues"
+date = 2022-02-12T11:00:00Z
+description = "Frother's summer league game against the Vultures "
 draft = true
 friendly = false
-frother_goals = 5
-images = ["/images/img_0512-1.jpg"]
+frother_goals = 0
+images = []
 match = true
-opponent = "Majin Blues"
-opponent_goals = 1
-result = "Win"
+opponent = "Vultures"
+opponent_goals = 0
+result = "Draw"
+scorers = []
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 14"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Jacob Williamson", "Charles Daily", "Nick Jones", "Jamie Hatch", "Evan Hanson", "Jamie Bunting", "Harry Furnish", "Cole Hosking Berge", "Yarride Rosario", "Nestor Behring", "Alain Bruner", "Yash Rosario", "Ring-In"]
-[[scorers]]
-goals = 1
-scorer = "Cole Hosking Berge"
-[[scorers]]
-goals = 3
-scorer = "Ring-In"
-[[scorers]]
-goals = 1
-scorer = "Alain Bruner"
 
 +++
-Second game back and the Frothers were looking at bouncing back and both avenge the loss in the reverse figure. Getting back into winning ways would also be a treat.
+Much of the build-up to Sundays game with the Vultures was focused on the weather with a couple of Frother Fathers pleading for a cancellation. However, the club’s philosophy of “playing no matter how shite Welly gets” came to the fore and the boys were ready to go. 
 
-Happening on the same day as the Australian Open final, this game had all the billings of a final as well; the Blues were the primary contender for the top spot this season. A Serbian was also notably missing from this match as **Milan** was bringing life into this world, rather than trying to do the opposite 👀.
+At this point, the writer would like to be (James) Blunt with you and say the game was pretty boring. Most of the 90 minutes were spent watching the ball roll to every corner of Wakefield Park bar the white nets. However, 5 players stood out in the wind and rain and deserve special mention. 
 
-On a baking hot day at Te Whaea, the Frothers started the game on the front foot. The new signings of **Cole** and the secondment of **Isaac** ensured we could be dangerous with every possession.
+**Charles Daily** made his presence felt like a truckie in downtown Ottawa. The one dad in the team who prioritises playing football over staying healthy for their child absolutely bossed the midfield and led the boys well.
 
-A few early opportunities went begging, but some quick feet and a cheeky toe by **Cole** meant we went into the drinks break 1-0.
+**Jamie Bunting** showed all the class of a 20-year-old kiwi snowboarder in Beijing, earning a strong 92.88. Was the most creative on the field and his partnership with Charles hinted at what Waikato uni were blessed with all those years ago.
 
-> 1-0
+In the absence of regular CB Chris Maldini, **Nick Jones** stepped up to lead the backline in the face of a dangerous Vultures attack. Apparently, he is now being scouted by the Ukrainian army for his ruthless defensive work. Did get a yellow for a dirty tackle though.
 
-![](/images/img_0517-1.jpg)
+**Jamie Hatch** was Cyclone Dovi in human form creating havoc down the east coast all day. The only player seemingly unaffected by the weather, **Hatch** was a constant threat with his speed from minute 1 to 90. A huge performance.
 
-It was more dominance by the Frothers after the break with the offside trap being sprung to put **Isaac** through for the first of his goals.
+**Ryan** made use of the slick surface, as he slid around his box quicker than a cat slides along a French centre back’s living room in west London. (Frothers FC stands with SPCA in the battle against animal cruelty.) In tough conditions for any goalkeeper, **Kindell** showed great hands and composure to keep a clean sheet. 
 
-> 2-0
+All the impressive work done by the team, it counted for nothing with **Yarride** proving as effective up front as Trevor Mallard’s scare tactics. The Frothers thought they were in with a chance when **Alain** confidently stepped up to take a free kick but could only hit the wall from 45 metres out.
 
-![](/images/img_0520-1.jpg)
-
-## Halftime
-
-A few additional reinforcements turned up for the Blues during the halftime break, but they would need more than that.
-
-![](/images/img_0516-1.jpg)
-
-A similar pattern emerged in the 3rd quarter, with Isaac again being put in to grab his second.
-
-> 3-0
-
-Just before the break, the Blues managed to find themselves a way back into the game. A shot from outside the box ended up being pushed into the path of an on running Blues striker who found the open net.
-
-> 3-1
-
-![](/images/img_0525-1.jpg)
-
-The fourth quarter would be all Frothers, however. A well-won freekick in the opposition half gave **Nick** the opportunity to put in a beauty of a delivery that lured the keeper into no man's land and left **Alain** with a simple header.
-
-> 4-1
-
-In the game's dying moments **Harry** was dancing all around the Blue's LB who eventual had enough and fouled him. Playing the freekick quickly, **Harry** delivered a peach of a ball for **Isaac** to volley in his stride for the hattrick.
-
-> 5-1
-
-![](/images/img_0539-1.jpg)
-
-## Man of the Match
-
-**Harry Furnish** for the excellent scouting and a great game for himself too.
-
-![](/images/img_0536-2.jpg)
-
-## Dick of the Day
-
-There were a few moments in the match where the Frothers risked being a shithouse team. Yelling at the ref, claiming the ball had gone out, pushing other players... You never want to be the worst team in the league at it. Just second worst.
-
-The man trying to make sense of the new world he lives in, **Nester**, gets the nod for running his mouth more than his legs today.
-
-Honourable mentions go to **Alain's** free-kick which is currently off to join the new James Webb telescope 🔭.
-
-![](/images/img_0529-1.jpg)
-
-## Special Mention
-
-OG Frother and club legend **Yarride** is moving up to Gisbourne this week for the foreseeable future. Yarride has been a fundamental part of the Frothers both on and off the field, being both the top scorer and team social coordinator. Though it is not a long goodbye as Yarride will be playing occasionally throughout the season. We will be hoping the bright lights of Wellington and the allure of Frother football will be able to temp you back before too long 😘.
-
-![](/images/img_0530-1.jpg)
+Shooting blanks is strictly a football problem for the club though as the next generation continues to grow. Massive congratulations to Club President Lance Molyneaux and his wife Kate who gave birth to a beautiful baby boy over the weekend. And also to OG Frother Max Hall and his partner Shauni who also had a boy last week. Watch out Sunday League season 2050. 👶👶👶
