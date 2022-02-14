@@ -15,7 +15,7 @@ season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 14"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Jack Kos", "Nick Jones", "Jack Hayden", "Charles Daily", "Ring-In", "Harry Furnish", "Jamie Bunting", "Evan Hanson", "Yarride Rosario", "Alain Bruner"]
+xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Jack Kos", "Nick Jones", "Jack Hayden", "Charles Daily", "Sanny Orr", "Harry Furnish", "Jamie Bunting", "Evan Hanson", "Yarride Rosario", "Alain Bruner"]
 
 +++
 Much of the build-up to Sundays game with the Vultures was focused on the weather with a couple of Frother Fathers pleading for a cancellation. However, the club’s philosophy of “playing no matter how shite Welly gets” came to the fore and the boys were ready to go. 
