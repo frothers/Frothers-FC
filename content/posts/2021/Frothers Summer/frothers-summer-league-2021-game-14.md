@@ -3,10 +3,9 @@ author = "Yarride"
 categories = ["Match"]
 date = 2022-02-12T11:00:00Z
 description = "Frother's summer league game against the Vultures "
-draft = true
 friendly = false
 frother_goals = 0
-images = []
+images = ["/images/153573137_252044303218942_3772365738518511282_o.jpg"]
 match = true
 opponent = "Vultures"
 opponent_goals = 0
@@ -16,7 +15,7 @@ season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 14"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Jacob Williamson", "Charles Daily", "Nick Jones", "Jamie Hatch", "Evan Hanson", "Jamie Bunting", "Harry Furnish", "Cole Hosking Berge", "Yarride Rosario", "Nestor Behring", "Alain Bruner", "Yash Rosario", "Ring-In"]
+xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Jack Kos", "Nick Jones", "Jack Hayden", "Charles Daily", "Ring-In", "Harry Furnish", "Jamie Bunting", "Evan Hanson", "Yarride Rosario", "Alain Bruner"]
 
 +++
 Much of the build-up to Sundays game with the Vultures was focused on the weather with a couple of Frother Fathers pleading for a cancellation. However, the club’s philosophy of “playing no matter how shite Welly gets” came to the fore and the boys were ready to go. 
@@ -33,6 +32,6 @@ In the absence of regular CB Chris Maldini, **Nick Jones** stepped up to lead th
 
 **Ryan** made use of the slick surface, as he slid around his box quicker than a cat slides along a French centre back’s living room in west London. (Frothers FC stands with SPCA in the battle against animal cruelty.) In tough conditions for any goalkeeper, **Kindell** showed great hands and composure to keep a clean sheet. 
 
-All the impressive work done by the team counted for nothing with **Yarride** proving as effective up front as Trevor Mallard’s scare tactics. The Frothers thought they were in with a chance when **Alain** confidently stepped up to take a free kick but could only hit the wall from 45 metres out.
+All the impressive work done by the team counted for nothing with **Yarride** proving as effective upfront as Trevor Mallard’s scare tactics. The Frothers thought they were in with a chance when **Alain** confidently stepped up to take a free-kick but could only hit the wall from 45 metres out.
 
 Shooting blanks is strictly a football problem for the club though as the next generation continues to grow. Massive congratulations to Club President Lance Molyneaux and his wife Kate who gave birth to a beautiful baby boy over the weekend. And also to OG Frother Max Hall and his partner Shauni who also had a boy last week. Watch out Sunday League season 2050. 👶👶👶
