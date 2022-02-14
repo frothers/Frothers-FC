@@ -14,7 +14,7 @@ season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Derby with Foamies"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Ring-in", "Charles Daily", "Chris Chester", "Jack Hayden",  "Alain Bruner", "Evan Hanson", "Harry Furnish", "Jack Furnish", "Yarride Rosario", "Will Sule", "Jamie Bunting"]
+xi_and_subs = ["Ryan Kindell", "Ring-in", "Charles Daily", "Chris Chester", "Jack Hayden", "Alain Bruner", "Evan Hanson", "Harry Furnish", "Jack Furnish", "Yarride Rosario", "Will Sule", "Jamie Bunting"]
 [[scorers]]
 goals = 1
 scorer = "OG"
@@ -22,12 +22,11 @@ scorer = "OG"
 goals = 1
 scorer = "Alain Bruner"
 [[scorers]]
-goals = 2
+goals = 1
 scorer = "Jamie Bunting"
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
 
 +++
-
 ## The Derby
