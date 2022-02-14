@@ -33,6 +33,6 @@ In the absence of regular CB Chris Maldini, **Nick Jones** stepped up to lead th
 
 **Ryan** made use of the slick surface, as he slid around his box quicker than a cat slides along a French centre back’s living room in west London. (Frothers FC stands with SPCA in the battle against animal cruelty.) In tough conditions for any goalkeeper, **Kindell** showed great hands and composure to keep a clean sheet. 
 
-All the impressive work done by the team, it counted for nothing with **Yarride** proving as effective up front as Trevor Mallard’s scare tactics. The Frothers thought they were in with a chance when **Alain** confidently stepped up to take a free kick but could only hit the wall from 45 metres out.
+All the impressive work done by the team counted for nothing with **Yarride** proving as effective up front as Trevor Mallard’s scare tactics. The Frothers thought they were in with a chance when **Alain** confidently stepped up to take a free kick but could only hit the wall from 45 metres out.
 
 Shooting blanks is strictly a football problem for the club though as the next generation continues to grow. Massive congratulations to Club President Lance Molyneaux and his wife Kate who gave birth to a beautiful baby boy over the weekend. And also to OG Frother Max Hall and his partner Shauni who also had a boy last week. Watch out Sunday League season 2050. 👶👶👶
