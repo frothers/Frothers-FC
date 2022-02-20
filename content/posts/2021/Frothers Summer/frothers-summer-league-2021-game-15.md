@@ -21,7 +21,7 @@ goals = 1
 scorer = "Chris Chester"
 
 +++
-> Cooler than a polar bears toenails
+> Cooler than a polar bear's toenails
 
 This one goes out to the greatest, Ray Hudson.
 
