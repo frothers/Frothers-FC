@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-02-19T11:00:00Z
 description = "Frother's summer league game against Valley Dream"
-draft = true
 friendly = false
 frother_goals = 1
 images = ["/images/241911718_3480894062136874_1221096340459109764_n.jpg"]
@@ -51,7 +50,9 @@ The second half was a battle of the midfield. Both teams were pushing for a goal
 
 ## Man of the Match
 
-Goes to the big man with drama in his veins, **Chris**. Clean sheet, goal, and 90 mins back from injury enough to command this one.
+Goes to the big man with drama in his veins, **Chris**. A clean sheet, goal, and 90 mins back from injury were enough to get this one.
+
+![](/images/chrisvolley.jpg)
 
 ## Dick of the Day
 
