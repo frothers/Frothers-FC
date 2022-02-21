@@ -24,7 +24,7 @@ scorer = "Chris Chester"
 
 This one goes out to the greatest, Ray Hudson.
 
-Riding into the tail-end of the season looking to open up the lead at the top of the table the Frothers had a fresh lineup. **Chris** and **Travis** were back from injury, **Lance** was out with a new mokopuna and there was a Frothers Oldboy in town for the game, guys name was **Yarride** 🤷‍♂️.
+Riding into the tail-end of the season looking to open up the lead at the top of the table the Frothers had a fresh lineup. **Chris** and **Travis** were back from injury, **Lance** was out with a new tamatāne and there was a Frothers Oldboy in town for the game, guys name was **Yarride** 🤷‍♂️.
 
 With a couple of the Frother's organising committee out for the match, the first XI was still being decided right up until kickoff. The Frothers managed to switch on from the whistle though, pinning Valley in their own half and putting the pressure on. The Frothers were struggling to find their final ball, however, with most of the danger coming from high balls into the box.
 
