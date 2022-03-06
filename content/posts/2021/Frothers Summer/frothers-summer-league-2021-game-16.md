@@ -1,62 +1,68 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2022-02-19T11:00:00Z
-description = "Frother's summer league game against Valley Dream"
+date = 2022-03-05T11:00:00Z
+description = "Frother's summer league game against Super Paddy's Fun Club"
 draft = true
 friendly = false
-frother_goals = 1
-images = ["/images/241911718_3480894062136874_1221096340459109764_n.jpg"]
+frother_goals = 5
+images = []
 match = true
-opponent = "Valley Dream"
+opponent = "Super Paddy's Fun Club"
 opponent_goals = 0
 result = "Win"
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 16"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Charles Daily", "Chris Chester", "Nick Jones", "Jack Hayden", "Alain Bruner", "Sanny Orr", "Harry Furnish", "Nestor Behring", "Evan Hanson", "Jamie Hatch", "Jamie Bunting", "Yarride Rosario", "Tavis Wells"]
+xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Nick Jones", "Jack Kos", "Jack Hayden", "Alain Bruner", "Harry Furnish", "Charles Daily", "Evan Hanson", "Jamie Bunting", "Chris Chester", "Sanny Orr", "Ring-In"]
 [[scorers]]
 goals = 1
 scorer = "Chris Chester"
+[[scorers]]
+goals = 2
+scorer = "Alain Bruner"
+[[scorers]]
+goals = 2
+scorer = "Jack Hayden"
 
 +++
-> Cooler than a polar bear's toenails
+Riding into the game with just 2 points needed in the next 3 games to seal the season the Frothers knew they could see it out today. They were playing a Super Paddies team that defaulted last week for a stag do, the boys knew there were likely some cobwebs still knocking around.
 
-This one goes out to the greatest, Ray Hudson.
+The dynamic Strike pair of **Lance** and **Yarride** were absent due to wider life decisions. One in an unending cycle of torment, secretly questioning his life choices about breaking a cycle he knew and could control, and the other having a baby. This left a void in the starting 11 that the boys were only too keen to fill.
 
-Riding into the tail-end of the season looking to open up the lead at the top of the table the Frothers had a fresh lineup. **Chris** and **Travis** were back from injury, **Lance** was out with a new tamatāne and there was a Frothers Oldboy in town for the game, guys name was **Yarride** 🤷‍♂️.
+Coming off the back of scoring a penalty in the last game, I (**Chris**) fancied myself as a bit of a goal scorer. However, It wasn't long before delusion became revelation. Big Daddy chemistry came into full swing as **Charles** chipped a through ball over with a touch of leg break that would make Warne proud. Running onto the ball a first time shot off the left from the edge of the box was enough to find the bottom corner and start the belief.
 
-With a couple of the Frother's organising committee out for the match, the first XI was still being decided right up until kickoff. The Frothers managed to switch on from the whistle though, pinning Valley in their own half and putting the pressure on. The Frothers were struggling to find their final ball, however, with most of the danger coming from high balls into the box.
+> 1-0
 
-The breakthrough came when **Sanny** drove into the box and was roughed off the ball. Credit to the ref for calling the penalty for what was an obvious foul, but rarely called.
+The hot-out-the-gates start took a bit of a hit, and for the rest of the half it was pretty evenly matched, with the Frothers struggling to recapture the magic. A clearance off the line by the Frothers and a shot off the post by **Alain** were as close as it got.
 
-> Running like he’s got a food mixer down his shorts and it’s set to beat
+## Halftime
 
-With **Yarride** on the bench, there was no obvious penalty taker on the pitch. Seeing his chance, **Chris** wrestled the ball off the surrounding players and put it on the spot. Looking to redeem his last penalty which came off the crossbar against the same opposition. There was to be no repeat as he hit it hard into the top left corner.
+A bit of a charge up of positions at halftime reaped almost instant rewards. **Alain**, seeing that anyone had a shot at scoring up top, took his chance. After initially punting a kickoff straight out, he found a much better opportunity in the next play. Being played in by a deflected touch that **Bunting** is claiming as an assist, **Alain** calmly finished into the far corner to make it 2.
 
-> Sweeter than a mother’s kiss at bedtime.
+> 2-0
 
-The Frothers had the majority of the opportunities for the remainder of the half. A ball by **Evan** across the goal and sucked the goalkeeper in. **Yarride** was off like a prom dress but could only put the ball over.
+Not long afterwards he claimed his second. A floated in freekick by **Nick** found **Alain** all alone in the box. An excellent touch and a hard shot were enough to extend the lead.
 
-> Normally would have finished it off with half a dozen blindfolds on
+> 3-0
 
-The first half ended on a sour note as a Valley defender stomped over **Tavis** ending his comeback game.
+Really hitting his stride, it wasn't long until **Alain** was amongst another goal. This time as the provider. A corner into a dangerous area found **Jack H** who cleanly headed it into the back of the net.
 
-> If football doesn't work out for him he will always have a job in a butcher shop
+> 4-0
 
-The second half was a battle of the midfield. Both teams were pushing for a goal but couldn't find a rhythm. Both keepers commanded their boxes well.
+Passing the batten on, **Jack H** was the next player to be in the thick of it. Being played in by a glorious ball, he kept his run going and powered a bouncing ball into the top of the net.
 
-> They may not be the most illuminating with the football, but, man, they are tighter than a fish’s backside
+> 5-0
 
-## Man of the Match
+### Man of the Match
 
-Goes to the big man with drama in his veins, **Chris**. A clean sheet, goal, and 90 mins back from injury were enough to get this one.
+**Alain** really changed the tide of the game and had several handy contributions throughout.
 
-![](/images/chrisvolley.jpg)
+### Dick of the day
 
-## Dick of the Day
+Poor old **Jack K** still can't get that monkey off his back. Got put up top for the last 20 and had some really good chances that he couldn't quite find a way to finish.
 
-No clear standouts for this one. Don't need to force it.
+### Extend the clan
 
-> Absolutely magnificent in orgiastic proportions. I’m telling ya people, that was just hotter than Jessica Rabbit
+Another week, another Frother baby. This time from an Ex-Frother with deep roots in the team, **Jack Furnish**. Congrats jack! 👼
