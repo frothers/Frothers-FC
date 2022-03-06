@@ -3,10 +3,9 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-03-05T11:00:00Z
 description = "Frother's summer league game against Super Paddy's Fun Club"
-draft = true
 friendly = false
 frother_goals = 5
-images = []
+images = ["/images/lewa.jpg"]
 match = true
 opponent = "Super Paddy's Fun Club"
 opponent_goals = 0
@@ -29,7 +28,7 @@ scorer = "Jack Hayden"
 +++
 Riding into the game with just 2 points needed in the next 3 games to seal the season the Frothers knew they could see it out today. They were playing a Super Paddies team that defaulted last week for a stag do, the boys knew there were likely some cobwebs still knocking around.
 
-The dynamic Strike pair of **Lance** and **Yarride** were absent due to wider life decisions. One in an unending cycle of torment, secretly questioning his life choices about breaking a cycle he knew and could control, and the other having a baby. This left a void in the starting 11 that the boys were only too keen to fill.
+The dynamic strike pair of **Lance** and **Yarride** were absent due to wider life decisions. One in an unending cycle of torment, secretly questioning his life choices about breaking a cycle he knew and could control, and the other having a baby. This left a void in the starting 11 that the boys were only too keen to fill.
 
 Coming off the back of scoring a penalty in the last game, I (**Chris**) fancied myself as a bit of a goal scorer. However, It wasn't long before delusion became revelation. Big Daddy chemistry came into full swing as **Charles** chipped a through ball over with a touch of leg break that would make Warne proud. Running onto the ball a first time shot off the left from the edge of the box was enough to find the bottom corner and start the belief.
 
@@ -65,4 +64,4 @@ Poor old **Jack K** still can't get that monkey off his back. Got put up top for
 
 ### Extend the clan
 
-Another week, another Frother baby. This time from an Ex-Frother with deep roots in the team, **Jack Furnish**. Congrats jack! 👼
+Another week, another Frother baby. This time from an Ex-Frother with deep roots in the team, **Jack Furnish**. Congrats Jack! 👼
