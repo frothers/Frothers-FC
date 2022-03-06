@@ -54,13 +54,17 @@ Passing the batten on, **Jack H** was the next player to be in the thick of it. 
 
 > 5-0
 
+**Jack H** also came really close to making it the hattrick, with a header coming off the bar.
+
 ### Man of the Match
 
 **Alain** really changed the tide of the game and had several handy contributions throughout.
 
 ### Dick of the day
 
-Poor old **Jack K** still can't get that monkey off his back. Got put up top for the last 20 and had some really good chances that he couldn't quite find a way to finish.
+**Nick** ended up yelling at the opposition striker who was a teenager for missing an open goal.
+
+Special mention goes to poor old **Jack K** still can't get that monkey off his back. Got put up top for the last 20 and had some really good chances that he couldn't quite find a way to finish.
 
 ### Extend the clan
 
