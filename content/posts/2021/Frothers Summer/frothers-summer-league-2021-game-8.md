@@ -39,7 +39,7 @@ Sending **Ryan** the wrong way the Big Kicks player levelled it up.
 
 ## Second Half
 
-Arriving in time for the second half, it took **Lance** no time at all to get the Frother back ahead. Running onto an over the top ball from **Nester**, **Lance** chipped the keeper with his first real touch of the ball.
+Arriving in time for the second half, it took **Lance** no time at all to get the Frother back ahead. Running onto an over the top ball from **Nestor**, **Lance** chipped the keeper with his first real touch of the ball.
 
 > 2-1
 

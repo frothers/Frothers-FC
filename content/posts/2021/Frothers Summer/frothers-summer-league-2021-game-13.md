@@ -80,7 +80,7 @@ In the game's dying moments **Harry** was dancing all around the Blue's LB who e
 
 There were a few moments in the match where the Frothers risked being a shithouse team. Yelling at the ref, claiming the ball had gone out, pushing other players... You never want to be the worst team in the league at it. Just second worst.
 
-The man trying to make sense of the new world he lives in, **Nester**, gets the nod for running his mouth more than his legs today.
+The man trying to make sense of the new world he lives in, **Nestor**, gets the nod for running his mouth more than his legs today.
 
 Honourable mentions go to **Alain's** free-kick which is currently off to join the new James Webb telescope 🔭.
 

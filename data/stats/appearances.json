@@ -444,6 +444,10 @@
         {
           "appearances": 4,
           "year": 2019
+        },
+        {
+          "appearances": 1,
+          "year": 2021
         }
     ]
   },
@@ -454,6 +458,15 @@
   },
   {
     "title": "Will Sule",
+    "appearances": [
+      {
+        "appearances": 4,
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "title": "Nestor Behring",
     "appearances": [
       {
         "appearances": 4,
