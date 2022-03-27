@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-03-26T11:00:00Z
 description = "Frother's summer league game against Majin Blues"
-draft = true
 friendly = false
 frother_goals = 2
 images = ["/images/jamie-shock.png"]
@@ -50,4 +49,30 @@ Things only went one way for Hamilton's favourite son... Barely 5 minutes had pa
 
 ![](/images/277173907_3627564984136447_2447524762809463227_n.jpg)
 
-Another chance went begging for the Frothers, this time by **Yarride**. A squared ball could only find the standing leg. Luckily the Frothers bat deep. **Evan** stepped up to give the Frothers the breathing room they deserved. Hitting a 
+Another chance went begging for the Frothers, this time by **Yarride**. A squared ball could only find the standing leg. Luckily the Frothers bat deep. **Evan** stepped up to give the Frothers the breathing room they deserved. Hitting a dipping shot that the keeper could only swat at.
+
+> 2-0
+
+![](/images/277000934_3627562957469983_988470858776516093_n.jpg)
+
+## Halftime
+
+The second half resulted in the Frothers being under the pump for the majority of the half. **Ryan** came up with a couple more great stops to keep the Frother in front.
+
+![](/images/277107143_3627562854136660_4863541436445677158_n-1.jpg)
+
+The Blues eventually scored through a through-ball that the attacker had all day to run onto.
+
+> 2-1
+
+But it was too little too late and the Frothers opened up the lead on the table to a staggering 20 points 🤯. 👋👋 See ya!
+
+![](/images/276246280_3627568134136132_8902907733177749763_n.jpg)
+
+## Man of the Match
+
+Yet another penalty save with a handful of solid saves, the lad **Ryan** has really come alive in summer league.
+
+## Dick of the Day
+
+Could only be one. To miss a penalty to only concede one minutes later is a pretty high bar **Charles**. At least it didn't matter in the end 🤷‍♀️
