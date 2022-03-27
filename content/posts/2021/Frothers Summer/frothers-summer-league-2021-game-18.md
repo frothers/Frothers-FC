@@ -75,4 +75,4 @@ Yet another penalty save with a handful of solid saves, the lad **Ryan** has rea
 
 ## Dick of the Day
 
-Could only be one. To miss a penalty to only concede one minutes later is a pretty high bar **Charles**. At least it didn't matter in the end 🤷‍♀️
+Could only be one. To miss a penalty to only concede one minutes later is a pretty high bar **Charles**. At least it didn't matter in the end 🤷‍♀️ Hang in there, King
