@@ -75,6 +75,10 @@ Yet another penalty save with a handful of solid saves, the lad **Ryan** has rea
 
 ## Dick of the Day
 
-Could only be one. To miss a penalty to only concede one minutes later is a pretty high bar **Charles**. At least it didn't matter in the end 🤷‍♀️ Hang in there, King
+Could only be one. To miss a penalty to only concede one minutes later is a pretty high bar, **Charles**. At least it didn't matter in the end 🤷‍♀️ Hang in there, King
 
 Special mention to **Yarride**, who after seeing **Alain** fluff a couple of shots of the kick-off decided to get himself a round of boos as well.
+
+{{< rawhtml >}} <div class="row"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3627568807469398&show_text=true&width=500" width="500" height="745" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
+
+{{< /rawhtml >}}
