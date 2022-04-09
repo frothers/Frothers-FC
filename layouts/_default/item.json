@@ -10,5 +10,5 @@
     "permalink" : "{{ .Permalink }}",
     "friendly": "{{ .Params.friendly }}",
     "scorers": {{ .Params.scorers | jsonify }},
-    "xi" : "{{ .Params.xi_and_subs }}"
+    "xi" : {{ .Params.xi_and_subs | jsonify  }}
 }

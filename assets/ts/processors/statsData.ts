@@ -40,6 +40,5 @@ export let getPlayerAppearances = async function (name: string) {
         })
     }
 
-    console.log(obj);
     return yearlyAppearances;
 }

@@ -6,6 +6,6 @@
     "result": "{{ .Params.result }}",
     "scorers": {{ .Params.scorers | jsonify }},
     "friendly": "{{ .Params.friendly }}",
-    "xi" : "{{ .Params.xi_and_subs }}",
+    "xi" : {{ .Params.xi_and_subs  | jsonify }},
     "permalink" : "{{ .Permalink }}"
 }

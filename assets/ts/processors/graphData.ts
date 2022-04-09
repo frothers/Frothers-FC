@@ -1,4 +1,4 @@
-import { getGoalsData, getResultsData, getSquadData, getMatchGoalsData } from "../apiQueries";
+import { getGoalsData, getResultsData, getSquadData, getMatchGoalsData, getAppearancesData } from "../apiQueries";
 import * as _ from 'lodash';
 
 export const AllSquadName = "frothersfc";
@@ -9,9 +9,21 @@ export type chartGoalsData = {
     data: matchGoals[]
 };
 
+export type chartAppearancesData = {
+    label: string,
+    fill: boolean,
+    data: matchAppearances[]
+};
+
 export type matchGoals = {
     t: Date,
     goals: number,
+    y: number
+};
+
+export type matchAppearances = {
+    t: Date,
+    appearance: boolean,
     y: number
 };
 
@@ -117,6 +129,117 @@ export let parsePlayerData = async function (year?: number, season?: string, squ
                     t: Date.parse(year.toString()),
                     goals: obj.goals + (result[year] ? result[year].goals : 0),
                     y: obj.goals + (result[year] ? result[year].goals : 0)
+                };
+                return result;
+            }, {}));
+
+            // Add up
+            playerData[index].data.forEach((yearGoals, index2) => {
+                playerData[index].data[index2].y = yearGoals.y + (playerData[index].data[index2 - 1] ? playerData[index].data[index2 - 1].y : 0);
+            })
+        });
+    }
+
+    return playerData;
+}
+
+export let parseAppearancesData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
+    let data = await getAppearancesData();
+    
+    // Todo get historic
+
+    if (season) {
+        data = data.filter(a => {
+            if (a.season === season) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+    if (year) {
+        let month = 0;
+        if (season === "summer"){
+            month = 6;
+        }
+        let startDate = new Date(year, month);
+        let endDate   = new Date(year + 1, month);
+        data = data.filter(a => {
+            if (a.date > startDate && a.date < endDate) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+    if (squadName && squadName != AllSquadName) {
+        data = data.filter(a => {
+            if (a.team.toLowerCase().replace(/\s/g, '') === squadName) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+
+    let players: string[] = [];
+    data.forEach(game => {
+        players = players.concat(game.xi_and_subs);
+    })
+
+    let squadData = await getSquadData(squadName);
+
+    players = players.concat(squadData.players);
+    let playersNames = _.uniq(players);
+
+
+    let playerData = playersNames.map(name => {
+        let record: chartAppearancesData = {
+            "label": name,
+            "fill": false,
+            "data": []
+        }
+        return record;
+    });
+
+    data = data.sort((a, b) => {
+        return a.date.getTime() - b.date.getTime()
+    })
+
+    // Change it from Game to Scorer for the key, then make it cumulative
+    data.forEach(game => {
+        playersNames.forEach((player) => {
+            let playerIndex = playerData.findIndex(e => e.label == player)
+            let played = game.xi_and_subs.includes(player)
+
+            let lastMatch = playerData[playerIndex].data[playerData[playerIndex].data.length - 1] || { y: 0 };
+            let prevTotal = lastMatch.y;
+
+            let newAppearances = prevTotal;
+            if (played) {
+                newAppearances = newAppearances + 1;
+            }
+
+            playerData[playerIndex].data.push({
+                t : game.date,
+                appearance: played,
+                y : newAppearances
+            })
+        })
+    })
+
+    if (!year) {
+        playerData.forEach((playersData, index) => {
+            // Aggregate all of the goals for a year
+            playerData[index].data = _.values(_.reduce(playersData.data, function (result: any, obj) {
+                let year = obj.t.getFullYear();
+                result[year] = {
+                    t: Date.parse(year.toString()),
+                    appearance: obj.appearance + (result[year] ? result[year].appearance : 0),
+                    y: obj.appearance + (result[year] ? result[year].appearance : 0)
                 };
                 return result;
             }, {}));

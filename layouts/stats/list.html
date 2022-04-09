@@ -31,16 +31,23 @@
           <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
             <a class="nav-item nav-link active" id="nav-goals-tab" data-toggle="tab" href="#nav-goals" role="tab"
               aria-controls="nav-goals" aria-selected="true">Goals</a>
+            <a class="nav-item nav-link" id="nav-appearances-tab" data-toggle="tab" href="#nav-appearances" role="tab"
+              aria-controls="nav-appearances" aria-selected="false">Appearances</a>
             <a class="nav-item nav-link" id="nav-points-tab" data-toggle="tab" href="#nav-points" role="tab"
               aria-controls="nav-points" aria-selected="false">Points</a>
             <a class="nav-item nav-link" id="nav-cleansheet-tab" data-toggle="tab" href="#nav-cleansheet" role="tab"
               aria-controls="nav-cleansheet" aria-selected="false">Clean Sheets</a>
           </div>
         </nav>
-        <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
+        <div class="tab-content py-4 px-4 px-sm-0" id="nav-tabContent">
           <div class="tab-pane fade show active" id="nav-goals" role="tabpanel" aria-labelledby="nav-goals-tab">
             <div class="text-center graph">
               <canvas id="stats-panel"></canvas>
+            </div>
+          </div>
+          <div class="tab-pane fade" id="nav-appearances" role="tabpanel" aria-labelledby="nav-appearances-tab">
+            <div class="text-center graph">
+              <canvas id="appearances-panel"></canvas>
             </div>
           </div>
           <div class="tab-pane fade" id="nav-points" role="tabpanel" aria-labelledby="nav-points-tab">

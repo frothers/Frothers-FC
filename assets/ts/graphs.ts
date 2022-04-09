@@ -2,7 +2,7 @@ import { Chart } from 'chart.js';
 import 'chartjs-plugin-colorschemes';
 import * as _ from 'lodash';
 
-import { parsePlayerData, parsePointsData, parseCleanSheetData, matchGoals, matchResult, AllSquadName } from './processors/graphData'
+import { parsePlayerData, parsePointsData, parseCleanSheetData, matchGoals, matchResult, AllSquadName, parseAppearancesData } from './processors/graphData'
 
 let screenWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
 
@@ -54,6 +54,101 @@ export let populateGsGraph = async function (year: number, season: string, squad
     let playerData = await parsePlayerData(year, season, squadName);
 
     let temp = <HTMLCanvasElement>document.getElementById("stats-panel");
+
+    if (temp == null) {
+        return;
+    }
+
+    let ctx = temp.getContext("2d");
+
+    if (goalsChart) {
+        goalsChart.destroy();
+    }
+
+    goalsChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            datasets: playerData
+        },
+        options: {
+            elements: {
+                line: {
+                    tension: 0, // disables bezier curves
+                }
+            },
+            responsive: true,
+            maintainAspectRatio: false,
+            layout: {
+                padding: {
+                    left: 50,
+                    right: 50,
+                    top: 0,
+                    bottom: 0
+                }
+            },
+            legend: {
+                display: screenWidth > 500,
+                position: 'bottom',
+                onClick: onClickFunc
+            },
+            scales: {
+                xAxes: [{
+                    type: 'time',
+                    time: {
+                        unit: (year?'week':'year')
+                    }
+                }],
+                yAxes: [{
+                    ticks: {
+                        suggestedMin: 0,
+                        suggestedMax: 15,
+                    }
+                }]
+            },
+            plugins: {
+                colorschemes: {
+                    scheme: 'brewer.Paired12'
+                }
+            },
+            tooltips: {
+                callbacks: {
+                    title: function (items, data) {
+                        let title = "";
+                        items.forEach((item, index) => {
+                            title += data.datasets[item.datasetIndex].label;
+                            if (index != (items.length - 1)) {
+                                title += ", "
+                            }
+                        })
+
+                        return title
+                    },
+                    footer: function (item, data) {
+                        let dataItem = <matchGoals>data.datasets[item[0].datasetIndex].data[item[0].index];
+                        let yourDate = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'short', day: '2-digit' }).format(dataItem.t);
+                        return yourDate
+                    },
+                    label: function (item, data) {
+                        let dataItem = <matchGoals>data.datasets[item.datasetIndex].data[item.index];
+                        return "Total:\t" + dataItem.y;
+                    },
+                    afterLabel: function (item, data) {
+                        let dataItem = <matchGoals>data.datasets[item.datasetIndex].data[item.index];
+                        return (year?"(Gameday Goals:\t":"(Season Goals:\t") + dataItem.goals + ")";
+                    },
+                },
+            }
+        }
+    })
+}
+
+/**
+ * @summary Appearances graphics.
+ */
+ export let populateAppearancesGraph = async function (year: number, season: string, squadName: string) {
+    let playerData = await parseAppearancesData(year, season, squadName);
+
+    let temp = <HTMLCanvasElement>document.getElementById("appearances-panel");
 
     if (temp == null) {
         return;
@@ -339,6 +434,7 @@ export let populateCleanSheetGraph = async function (year: number, season: strin
  */
 export let updateAllGraphs = async function (year: number, season: string, squadName: string) {
     populateGsGraph(year, season, squadName);
+    populateAppearancesGraph(year, season, squadName);
     populatePointsGraph(year, season, squadName);
     populateCleanSheetGraph(year, season, squadName);
 }
