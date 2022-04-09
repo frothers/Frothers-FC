@@ -2,11 +2,12 @@ import { Chart } from 'chart.js';
 import 'chartjs-plugin-colorschemes';
 import * as _ from 'lodash';
 
-import { parsePlayerData, parsePointsData, parseCleanSheetData, matchGoals, matchResult, AllSquadName, parseAppearancesData } from './processors/graphData'
+import { parsePlayerData, parsePointsData, parseCleanSheetData, matchGoals, matchResult, AllSquadName, parseAppearancesData, matchAppearances } from './processors/graphData'
 
 let screenWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
 
 let goalsChart: Chart;
+let appearancesChart: Chart;
 let pointsChart: Chart;
 let cleanSheetChart: Chart;
 
@@ -156,11 +157,11 @@ export let populateGsGraph = async function (year: number, season: string, squad
 
     let ctx = temp.getContext("2d");
 
-    if (goalsChart) {
-        goalsChart.destroy();
+    if (appearancesChart) {
+        appearancesChart.destroy();
     }
 
-    goalsChart = new Chart(ctx, {
+    appearancesChart = new Chart(ctx, {
         type: 'line',
         data: {
             datasets: playerData
@@ -219,17 +220,17 @@ export let populateGsGraph = async function (year: number, season: string, squad
                         return title
                     },
                     footer: function (item, data) {
-                        let dataItem = <matchGoals>data.datasets[item[0].datasetIndex].data[item[0].index];
+                        let dataItem = <matchAppearances>data.datasets[item[0].datasetIndex].data[item[0].index];
                         let yourDate = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'short', day: '2-digit' }).format(dataItem.t);
                         return yourDate
                     },
                     label: function (item, data) {
-                        let dataItem = <matchGoals>data.datasets[item.datasetIndex].data[item.index];
+                        let dataItem = <matchAppearances>data.datasets[item.datasetIndex].data[item.index];
                         return "Total:\t" + dataItem.y;
                     },
                     afterLabel: function (item, data) {
-                        let dataItem = <matchGoals>data.datasets[item.datasetIndex].data[item.index];
-                        return (year?"(Gameday Goals:\t":"(Season Goals:\t") + dataItem.goals + ")";
+                        let dataItem = <matchAppearances>data.datasets[item.datasetIndex].data[item.index];
+                        return (year?"(Gameday Appearance:\t":"(Season Appearances:\t") + dataItem.appearance + ")";
                     },
                 },
             }
