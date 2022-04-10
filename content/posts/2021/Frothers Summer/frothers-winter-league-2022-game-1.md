@@ -15,7 +15,7 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 1"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Nick Jones", "Angus Hay-Chapman", "Chris Chester", "Jacob Williamson", "Milan Mrdalj", "Alain Bruner", "Evan Hanson", "Lance Molyneaux", "Jarrod Murray", "Yarride Rosario", "Harry Furnish", "Charles Daily"]
+xi_and_subs = ["Ryan Kindell", "Nick Jones", "Angus Hay-Chapman", "Chris Chester", "Jacob Williamson", "Milan Mrdalj", "Alain Bruner", "Evan Hanson", "Jarrod Murray", "Lance Molyneaux", "Tyler Jackson", "Yarride Rosario", "Harry Furnish", "Charles Daily"]
 [[scorers]]
 goals = 1
 scorer = "Evan Hanson"
