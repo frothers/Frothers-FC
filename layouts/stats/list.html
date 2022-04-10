@@ -9,6 +9,7 @@
 </div>
 
 <section id="tabs">
+  {{ $appearances := .Site.Data.stats.appearances }}
   <div class="container">
     <div class="row">
       <div class="input-group mb-3">
@@ -47,7 +48,7 @@
           </div>
           <div class="tab-pane fade" id="nav-appearances" role="tabpanel" aria-labelledby="nav-appearances-tab">
             <div class="text-center graph">
-              <canvas id="appearances-panel"></canvas>
+              <canvas id="appearances-panel" data-appearances="{{ $appearances | jsonify}}"></canvas>
             </div>
           </div>
           <div class="tab-pane fade" id="nav-points" role="tabpanel" aria-labelledby="nav-points-tab">

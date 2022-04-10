@@ -147,9 +147,8 @@ export let populateGsGraph = async function (year: number, season: string, squad
  * @summary Appearances graphics.
  */
  export let populateAppearancesGraph = async function (year: number, season: string, squadName: string) {
-    let playerData = await parseAppearancesData(year, season, squadName);
-
     let temp = <HTMLCanvasElement>document.getElementById("appearances-panel");
+    let playerData = await parseAppearancesData(year, season, squadName);
 
     if (temp == null) {
         return;

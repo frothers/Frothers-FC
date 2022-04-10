@@ -1,4 +1,5 @@
-import { getGoalsData, getResultsData, getSquadData, getMatchGoalsData, getAppearancesData } from "../apiQueries";
+import { getGoalsData, getResultsData, getSquadData, getMatchGoalsData, getAppearancesData, appearanceData } from "../apiQueries";
+import { yearlyAppearances } from './statsData'
 import * as _ from 'lodash';
 
 export const AllSquadName = "frothersfc";
@@ -37,6 +38,11 @@ export type matchResult = {
     points: number,
     result: string,
     y: number
+};
+
+export type historicAppearances = {
+    title: string,
+    appearances: yearlyAppearances[]
 };
 
 export let parsePlayerData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
@@ -145,9 +151,13 @@ export let parsePlayerData = async function (year?: number, season?: string, squ
 
 export let parseAppearancesData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
     let data = await getAppearancesData();
-    
-    // Todo get historic
+    let temp = <HTMLCanvasElement>document.getElementById("appearances-panel");
 
+    let dataAppearances: historicAppearances[] = JSON.parse(temp.getAttribute("data-appearances"));
+    let historicData = await parseHistricAppearances(dataAppearances);
+
+    data = data.concat(historicData);
+    
     if (season) {
         data = data.filter(a => {
             if (a.season === season) {
@@ -417,4 +427,24 @@ export let parseCleanSheetData = async function (year: number, season: string, s
     })
 
     return resultsData;
+}
+
+let parseHistricAppearances = async function (histAppearances: historicAppearances[]){
+    let appearances: appearanceData[] = [];
+    histAppearances = histAppearances || [];
+    histAppearances.forEach(playerAppearances => {
+        playerAppearances.appearances.forEach(yearly => {
+            let appearance: appearanceData = {
+                date: new Date(yearly.year.toString()),
+                season: "",
+                team: "",
+                xi_and_subs: [playerAppearances.title]
+            } 
+            for (let i = 0; i < yearly.appearances; i++) {
+                appearances.push(appearance)
+            }
+        })
+    })
+
+    return appearances
 }
