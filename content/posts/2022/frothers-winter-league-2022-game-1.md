@@ -2,7 +2,7 @@
 author = "Chris"
 categories = ["Match"]
 date = 2022-04-09T12:00:00Z
-description = "Frother's summer league game against LBQ"
+description = "Frother's winter league game against LBQ"
 friendly = false
 frother_goals = 1
 images = ["/images/277679972_3638876819671930_4431478068662613848_n.jpg"]
