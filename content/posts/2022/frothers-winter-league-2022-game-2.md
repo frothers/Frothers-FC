@@ -14,7 +14,7 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 2"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Nick Jones", "Angus Hay-Chapman", "Chris Chester", "Jacob Williamson", "Milan Mrdalj", "Alain Bruner", "Evan Hanson", "Jarrod Murray", "Lance Molyneaux", "Tyler Jackson", "Yarride Rosario", "Harry Furnish", "Charles Daily"]
+xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Charles Daily", "Chris Chester", "Jack Hayden", "Harry Furnish", "Lance Molyneaux", "Alain Bruner", "Jarrod Murray", "Tyler Jackson", "Yarride Rosario", "Nestor Behring"]
 [[scorers]]
 goals = 1
 scorer = "Chris Chester"
