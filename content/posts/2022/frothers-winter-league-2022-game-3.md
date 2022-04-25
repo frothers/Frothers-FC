@@ -1,79 +1,44 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2022-04-16T12:00:00Z
-description = "Frother's winter league game against Habibis"
+date = 2022-04-23T12:00:00Z
+description = "Frother's winter league game against the Blazers"
 draft = true
 friendly = false
-frother_goals = 2
+frother_goals = 1
 images = ["/images/278290443_3644399422453003_4164193355341083461_n.jpg"]
 match = true
-opponent = "Habibis"
-opponent_goals = 2
+opponent = "Blazers"
+opponent_goals = 1
 result = "Draw"
 season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 3"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Charles Daily", "Chris Chester", "Jack Hayden", "Harry Furnish", "Lance Molyneaux", "Alain Bruner", "Jarrod Murray", "Tyler Jackson", "Yarride Rosario", "Nestor Behring"]
+xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Angus Hay-Chapman", "Chris Chester", "Jamie Hatch", "Harry Furnish", "Lance Molyneaux", "Alain Bruner", "Evan Hanson", "Tyler Jackson", "Yarride Rosario"]
 [[scorers]]
 goals = 1
-scorer = "Chris Chester"
-[[scorers]]
-goals = 1
-scorer = "Alain Bruner"
+scorer = "Tyler Jackson"
 
 +++
-> The real Phoenix story
-
-Playing a Habibis team that comfortably won the league last season the Frothers came into the game with a sense of foreboding following last week's results.
-
-The stress started to tell as the Frothers started to have a go at their own players. And the Habibis capitalised and scored a scrappy first goal on the back of several mistakes.
-
-> 0-1
-
-![](/images/278385785_3644397305786548_7243675953753078030_n.jpg)
-
-The Frothers held on well for the majority of the half but were caught in possession and the Habibis scored a sweaty goal to go two up.
-
-> 0-2
-
-![](/images/278705463_3644398225786456_3238691629542300233_n.jpg)
-
-## Halftime
-
-The boys regrouped at halftime and good vibes won out with a tactic of if they could get a goal we knew we were in with a shout.
-
-Moving **Yarride** into CB, **Alain** up top and **Charles** in the mid paid dividends as the boys started to take control.
-
-The breakthrough came from a **Yarride** freekick from wide into the sun which missed everybody and fell to an unmarked **Chris**. Dinking it over a diving keeper the ball crept over the line.
-
-> 1-2
-
-![](/images/278514626_3644397345786544_4747336094831798469_n.jpg)
-
-Feeling the momentum shift the boys started to play the game. Frustrating the Habibis who are known for their tempers it wasn't long until they started to turn on themselves and the ref.
-
-Using this as a catalyst, a great passage of play saw passing right through the backline, midfield and forwards culminating in **Charles** finding **Alain** who drove a hard shot through the Keeper.
-
-> 2-2
-
-![](/images/278756544_3644398862453059_7354465226103988659_n.jpg)
-
-The boys were tiring but a couple of chances came at the end. **Lance** was bundled over on the edge of the box but the freekick could only sail over the bar.
-
-## Man of the Match
-
-Playing in the unfamiliar RB position, **Milan** really took the position into his own. After a bit of a shaky start, he performed excellent defensive work to keep the wing quiet. Especially in the second half where most of their attack was coming down the left.
-
-On the attack, there were a few saucy pullbacks 🥵💦 out of the blue to keep possession and emasculate the opposition.
-
-![](/images/278120393_3644398292453116_2416063350369682209_n.jpg)
-
-## Dick of the Day
-
-**Alain** got lost in the sauce a bit in the first half and started directing his anger toward the baby boys. He did manage to turn it around with a great second half display though...
-
-{{< rawhtml >}} <div class="row"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2F3644400815786197&show_text=true&width=500" width="500" height="745" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
-
-{{< /rawhtml >}}
+The Blazers derby.  
+  
+In an unusually early 11 am kickoff a few of the boys were still waking up when the game kicked off.  
+  
+The start of the game was all Blazers with the Frothers being pinned back in our half. They eventually took the lead through a freekick which was deflected into the middle of the box and the Blazers player shooting the resulting rebound into the corner.  
+  
+> 0-1  
+  
+The Frothers managed to rally and string together a couple of good moves until a great cross in by **Yarride** found **Tayler** who put an expertly placed first time finish on the half volley to the left of the goal.  
+  
+> 1-1  
+  
+The no subs for the Frothers started to take its toll though. A sneaky move of seconding one of the Blazers players payed some dividends as there was a bit of respite for the lads.  
+  
+\## Second half  
+  
+The game started to stretch out as both sets of players continued to tire on a hot April day. The Blazers had the next big opportunity with a chip over the keeper cleared off the line by **Angus**.  
+  
+The Frothers then had the next few opportunities with Alain having a strong shot saved and putting a header off a corner just wide.  
+  
+The game came to an end with a few more half chances, but nothing looking like breaking the deadlock
