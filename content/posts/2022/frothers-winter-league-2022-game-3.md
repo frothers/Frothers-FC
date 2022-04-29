@@ -47,3 +47,5 @@ The game came to an end with a few more half-chances, but nothing looked like br
 **Angus'** goal-line clearance was the real difference-maker on the day and he takes home the award.
 
 ## Dick of the Day
+
+None this week, a pretty good showing from everyone!
