@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-04-23T12:00:00Z
 description = "Frother's winter league game against the Blazers"
-draft = true
 friendly = false
 frother_goals = 1
 images = ["/images/banner/frother_logo.svg"]
