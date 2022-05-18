@@ -1,62 +1,47 @@
 +++
-author = "Chris"
+author = "Charles"
 categories = ["Match"]
-date = 2022-05-07T12:00:00Z
+date = 2022-05-14T12:00:00Z
 description = "Frother's winter league game against the Tuscan Raiders"
 draft = true
 friendly = false
 frother_goals = 2
-images = ["/images/img_3513.png"]
+images = ["/images/frothers-goalie_jersey.png"]
 match = true
-opponent = "Tuscan Raiders"
-opponent_goals = 2
-result = "Draw"
+opponent = "Blazers"
+opponent_goals = 3
+result = "Loss"
 season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 6"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Nick Jones", "Chris Chester", "Jack Hayden", "Charles Daily", "Harry Furnish", "Evan Hanson", "Lance Molyneaux", "Tyler Jackson", "Jarrod Murray", "Jacob Williamson", "Jamie Hatch", "Alain Bruner"]
 [[scorers]]
-goals = 2
+goals = 1
+scorer = "Alain Bruner"
+[[scorers]]
+goals = 1
 scorer = "Tyler Jackson"
 
 +++
-## Back at a reasonable hour against a more reasonable opposition.
+It has been a _Sign o’ the Times_ that this winter season is a different beast to the summer stroll we all enjoyed. It was lovely to welcome some of _The Beautiful Ones_ back to the _Revolution_ - always a pleasure and never a choir seeing **Angus Hay-Chapman**, **Jack Kos**, and **Jamie Bunting**.
 
-The first half was dogged by a bit of classic Wellington wind, but it was nonetheless eventful. Tuscan earned themselves a penalty as the defender's nightmare **Hector** was brought down in the box. There was redemption in the air as **Ryan** chose the right side _again_ to keep it nill all. This lad really is a penalty specialist, definitely studying the tapes.
+Playing at our favoured ground of Te Whaea, the Frothers were ready to bring some _Purple Rain_ to an old enemy. We went straight for the dance floor off an early corner when **Evan** delivered to the most surprised person on the pitch **Alain**. With the ball missing about three people, a nice _Kiss_ off his boot from a meter out ended in glory. Showing the loyalty of Ryan Giggs towards his former brother(s), **Alain** was off celebrating like it was _1999._
 
-The Frothers also had a great chance go begging as two open shots on goal were scuffed.
+Things were looking on the up but Blazers had other plans. A couple of their strikers and wingers hopped in a _Little Red Corvette_ and reminded the Frothers that _When Doves Cry,_ it pours, conceding 3 goals in probably as many minutes.
 
-## Halftime
+## **HALFTIME**
 
-The Frothers went from 3 subs to 1 with **Lance** leaving and **Evan** getting injured. But the Frothers had the wind with them and were feeling confident.
+The second half started with a flier, **Lance** chasing down a _Raspberry Beret_ and cutting a delightful ball back to a man who couldn’t stop scoring if he tried, **Tyler**. The new guy truly giving us the feeling that _Nothin’ compares to you._
 
-The Frothers started the half feeling good and began to push. The added confidence was their downfall though, as a backpass from **Chris** was intercepted and bundled home after a couple of attempts.
+After a bit of commotion, there was no _Controversy_, and one of their defenders was sent. After a few close calls at either end, the Frothers were left clutching their _Diamonds and Pearls_ and coming up short. Football can be cruel but each player was coming away thinking _I Would Die 4 U._
 
-> 0-1
+Bring on next weekend and _Let’s Go Crazy!_
 
-The Frothers weren't behind for long as **Alain** played a lovely ball over the top which **Tyler** bet the keeper to and chipped it high and with the wind to find the next.
+## **Man of the Match**
 
-> 1-1
+The real MVP - the kit man, **Chrissy Chester**.
 
-The Raiders then started to play Hector-ball. This eventual paid dividends as he was found on the edge of the box and shot low into the corner.
+## **Dick of the Day**
 
-> 1-2
-
-**Jack** then also had to come off injured. This gave the impetus to try a bit of a change in positions.
-
-It was almost two behind, however, as the 3 Tuskan raiders players waiting at the back post could only sky the ball over the bar from a cross.
-
-This turned out to be costly when a ball in from **Jamie** wasn't properly dealt with and **Tyler** pounced, hitting an unstoppable volley off the weak foot.
-
-> 2-2
-
-The Frothers had the best of the last part of the game. **Jamie** intercepted a poor goal kick and had the whole net at his mercy, but dragged a shot well wide.
-
-## Man of the match
-
-**Tyler** grabbing back-to-back braces with two outrageous goals is hard to ignore.
-
-## Dick of the day
-
-**Jarrod** is going to pick this one up. Though there were a few moments from the Frothers where a bit of composure would have won us the match. Telling **Hector** to fuck-off on probably his least physical play brought some weird vibes 🤸‍♂️.
+**Jack H** - for volunteering but more accurately we should be giving it to the opposition player formerly known as Joey Barton/Jack Grealish for axing the nicest guy on the pitch.
