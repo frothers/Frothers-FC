@@ -3,7 +3,6 @@ author = "Charles"
 categories = ["Match"]
 date = 2022-05-14T12:00:00Z
 description = "Frother's winter league game against the Tuscan Raiders"
-draft = true
 friendly = false
 frother_goals = 2
 images = ["/images/frothers-goalie_jersey.png"]
@@ -15,7 +14,7 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 6"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Nick Jones", "Chris Chester", "Jack Hayden", "Charles Daily", "Harry Furnish", "Evan Hanson", "Lance Molyneaux", "Tyler Jackson", "Jarrod Murray", "Jacob Williamson", "Jamie Hatch", "Alain Bruner"]
+xi_and_subs = ["Ryan Kindell", "Jacob Williamson", "Angus Hay-Chapman", "Nick Jones", "Jack Hayden", "Jamie Bunting", "Charles Daily", "Alain Bruner", "Evan Hanson", "Lance Molyneaux", "Tyler Jackson", "Jack Kos", "Jamie Hatch"]
 [[scorers]]
 goals = 1
 scorer = "Alain Bruner"
