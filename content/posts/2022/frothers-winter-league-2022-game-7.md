@@ -28,4 +28,8 @@ The game kicked off with a handful of half-chances for the boys to take an early
 
 Half time came too soon and feeling hard done by with a 0-1 scoreline. With both some soft turn overs and some slick passages of play, the Frothers were running hot and cold until one of those passages of play pulled through with a nice ball down the line being cut back into a half shot half cross that was forced past the opposing keeper. Goal-line technology was needed to confirm but the ref pointed to the halfway line and it was given. 
 
+> 1-1
+
 A lofted corner floated into the danger zone gave the Ball Tamps the lead when an unfortunate clearance ended up with the ball in the Frothers own net. On a day where the opposition seemed surely beatable, the Frothers were unable to find the spark in the final third to bring the points home.
+
+> 1-2
