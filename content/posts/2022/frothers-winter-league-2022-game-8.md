@@ -1,36 +1,70 @@
 +++
-author = "Lance"
+author = "Chris"
 categories = ["Match"]
-date = 2022-05-21T12:00:00Z
-description = "Frother's winter league game against the Ball Tampers "
-draft = true
+date = 2022-05-28T12:00:00Z
+description = "Frother's winter league game against North Wellington "
 friendly = false
-frother_goals = 1
+frother_goals = 3
 images = ["/images/frothers-goalie_jersey.png"]
 match = true
-opponent = "Ball Tampers"
-opponent_goals = 2
+opponent = "North Wellington"
+opponent_goals = 8
 result = "Loss"
 season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 8"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Jack Kos", "Nick Jones", "Jack Hayden", "Milan Mrdalj", "Jamie Bunting", "Alain Bruner", "Evan Hanson", "Jarrod Murray", "Tyler Jackson", "Lance Molyneaux", "Harry Furnish", "Jacob Williamson"]
+xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Jack Kos", "Chris Chester", "Jacob Williamson", "Harry Furnish", "Charles Daily", "Evan Hanson", "Lance Molyneaux", "Alain Bruner", "Jarrod Murray", "Jamie Bunting", "Yarride Rosario"]
 [[scorers]]
 goals = 1
-scorer = "Tyler Jackson"
+scorer = "Jarrod Murray"
+[[scorers]]
+goals = 2
+scorer = "Evan Hanson"
 
 +++
-Frothers FC continued to struggle to get into second gear coming up against the Ball Tamperers in Week ~~5~~7 of the 2022 Winter WSFL. 
+Football on the day of the Champions League final is always destined to draw comparisons, however, 11 goals flowing in Wellington was in stark contrast to the 1-0 in Paris.
 
-The game kicked off with a handful of half-chances for the boys to take an early lead but which were unable to be converted. It was then a soft penalty for what appeared to be a clean shoulder to shoulder challenge that broke the deadlock. Frothers FC felt quietly confident that **Ryan** might continue to defy all odds and reproduce another of his trademark penalty saves, but the coin had been flipped too many times.
+Both games did start late as North Wellington only had 9 players to start. They were the first to score as they took advantage of the COVID lungs loophole in defence.
 
 > 0-1
 
-Half time came too soon and feeling hard done by with a 0-1 scoreline. With both some soft turn overs and some slick passages of play, the Frothers were running hot and cold until one of those passages of play pulled through with a nice ball down the line being cut back into a half shot half cross that was forced past the opposing keeper. Goal-line technology was needed to confirm but the ref pointed to the halfway line and it was given. 
+The Frothers levelled after a good passage of passing found **Evan** all alone on the edge of the box. Careful not to overdo it he shot it just to the keeper's left and under.
 
 > 1-1
 
-A lofted corner floated into the danger zone gave the Ball Tamps the lead when an unfortunate clearance ended up with the ball in the Frothers own net. On a day where the opposition seemed surely beatable, the Frothers were unable to find the spark in the final third to bring the points home.
+The Frothers then managed to take the lead as one of the North Wellington players had been watching the NBA finals rather than the football. He tried moving off the ball screen in the box which resulted in Evan taking a hit to the face.
 
-> 1-2
+The resultant penalty was taken by **Evan**, who sent the keeper the wrong way.
+
+> 2-1
+
+North Wellington then got a penalty of their own as **Jacob** brushed by the brick shithouse they have upfront and nearly ended his career by the look of it.
+
+**Ryan** could only watch the ball go to his right.
+
+> 2-2
+
+North Wellington then got 11 men on the pitch and scored another.
+
+> 2-3
+
+## Halftime
+
+Sadly, the foul on **Evan** ruled him out of the game.
+
+North Wellington went on to score one or two more goals.
+
+> 8-2
+
+**Jarrod** scored a late consultation goal after being put one on one with the keeper out wide.
+
+> 8-3
+
+## Man of the Match
+
+**Evan,** with one half and two goals. Backing up an excellent showing in the quiz the night before. Really missed him when he came off
+
+## Dick of the Day
+
+Not today
