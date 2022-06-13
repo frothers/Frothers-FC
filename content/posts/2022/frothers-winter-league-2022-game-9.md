@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-06-11T12:00:00Z
 description = "Frother's winter league game against Lazy XI"
-draft = true
 friendly = false
 frother_goals = 1
 images = ["/images/frothers-goalie_jersey.png"]
