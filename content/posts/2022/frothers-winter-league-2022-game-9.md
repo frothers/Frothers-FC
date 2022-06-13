@@ -43,7 +43,7 @@ A couple of decent chances came for each side throughout the half, with **Ryan**
 
 A couple of formation change experiments didn't pay off as the Frothers were struggling to find options on attack.
 
-A late opportunity to win the game came to **Jacob** who headed a corner into the bottom righthand side, but was cleared off the line.
+A late opportunity to win the game came to **Jacob** who headed a corner into the bottom right-hand side but was cleared off the line.
 
 ## Man of the Match
 
