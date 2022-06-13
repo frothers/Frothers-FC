@@ -1,71 +1,52 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2022-05-28T12:00:00Z
-description = "Frother's winter league game against North Wellington "
+date = 2022-06-11T12:00:00Z
+description = "Frother's winter league game against Lazy XI"
 draft = true
 friendly = false
-frother_goals = 3
+frother_goals = 1
 images = ["/images/frothers-goalie_jersey.png"]
 match = true
 opponent = "North Wellington"
-opponent_goals = 8
-result = "Loss"
+opponent_goals = 1
+result = "Draw"
 season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 9"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Jack Kos", "Chris Chester", "Jacob Williamson", "Harry Furnish", "Charles Daily", "Evan Hanson", "Lance Molyneaux", "Alain Bruner", "Jarrod Murray", "Jamie Bunting", "Yarride Rosario"]
+xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Jack Kos", "Chris Chester", "Jacob Williamson", "Charles Daily", "Tyler Jackson", "Ring-In", "Lance Molyneaux", "Jamie Hatch", "Evan Hanson", "Jamie Bunting", "Yash Rosario"]
 [[scorers]]
 goals = 1
-scorer = "Jarrod Murray"
-[[scorers]]
-goals = 2
-scorer = "Evan Hanson"
+scorer = "Lance Molyneaux"
 
 +++
-Football on the day of the Champions League final is always destined to draw comparisons, however, 11 goals flowing in Wellington was in stark contrast to the 1-0 in Paris.
+A wet and windy Sunday morning in the capital resulted in a depleted Frothers squad being available for their first match in Div 2 of the winter. A couple of timely ring-ins saved the day.
 
-Both games did start late as North Wellington only had 9 players to start. They were the first to score as they took advantage of the COVID lungs loophole in defence.
+As with previous encounters with the Lazy XI they defended well as a unit, locking up the middle of the pitch and leaving the Frothers frustrated. Balls over the top were also difficult due to the wind.
+
+The first real point of action in the game came with **Lance** being taken out in the box from behind. This was waved away.
+
+Lazy XI took the lead through a deflected shot from the edge of the box.
 
 > 0-1
 
-The Frothers levelled after a good passage of passing found **Evan** all alone on the edge of the box. Careful not to overdo it he shot it just to the keeper's left and under.
+## Halftime
+
+The Frothers knew they were still well in this match and the change on end could help them with the reversed wind.
+
+Moments into the second half this proved to be the case. **Jacob** intercepted the ball and played **Lance** in behind. Bending the ball around the keeper the Frothers were level with minutes on the clock.
 
 > 1-1
 
-The Frothers then managed to take the lead as one of the North Wellington players had been watching the NBA finals rather than the football. He tried moving off the ball screen in the box which resulted in Evan taking a hit to the face.
+A couple of decent chances came for each side throughout the half, with **Ryan** making two good saves to keep the Frothers in it. **Lance** was unable to convert a similar opportunity to his earlier goal too.
 
-The resultant penalty was taken by **Evan**, who sent the keeper the wrong way.
+A couple of formation change experiments didn't pay off as the Frothers were struggling to find options on attack.
 
-> 2-1
-
-North Wellington then got a penalty of their own as **Jacob** brushed by the brick shithouse they have upfront and nearly ended his career by the look of it.
-
-**Ryan** could only watch the ball go to his right.
-
-> 2-2
-
-North Wellington then got 11 men on the pitch and scored another.
-
-> 2-3
-
-## Halftime
-
-Sadly, the foul on **Evan** ruled him out of the game.
-
-North Wellington went on to score one or two more goals.
-
-> 8-2
-
-**Jarrod** scored a late consultation goal after being put one on one with the keeper out wide.
-
-> 8-3
+A late opportunity to win the game came to **Jacob** who headed a corner into the bottom righthand side, but was cleared off the line.
 
 ## Man of the Match
 
-**Evan,** with one half and two goals. Backing up an excellent showing in the quiz the night before. Really missed him when he came off
+**Jacob** with a really solid defensive game, an assist and almost the winner. Was lovely to watch.
 
 ## Dick of the Day
-
-Not today
