@@ -35,7 +35,7 @@ Lazy XI took the lead through a deflected shot from the edge of the box.
 
 The Frothers knew they were still well in this match and the change on end could help them with the reversed wind.
 
-Moments into the second half this proved to be the case. **Jacob** intercepted the ball and played **Lance** in behind. Bending the ball around the keeper the Frothers were level with minutes on the clock.
+Moments into the second half this proved to be the case. After some questionable passing, the Frothers got the ball under control through **Jacob** who played **Lance** in behind. Bending the ball around the keeper the Frothers were level with minutes on the clock.
 
 > 1-1
 
@@ -50,3 +50,7 @@ A late opportunity to win the game came to **Jacob** who headed a corner into th
 **Jacob** with a really solid defensive game, an assist and almost the winner. Was lovely to watch.
 
 ## Dick of the Day
+
+Big **Jack K** for sending everyone's favourite baby boy to the canvas like Orton in his prime. But you gotta love to see an uncompromising clearance. 
+
+![](/images/1013690ac035b2e5a16c569d96661b8d.gif)
