@@ -14,7 +14,7 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 10"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Nick Jones", "Chris Chester", "Jacob Williamson", "Charles Daily", "Jamie Bunting", "Lance Molyneaux", "Evan Hanson", "Tyler Jackson", "Milan Mrdalj"]
+xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Nick Jones", "Chris Chester", "Jacob Williamson", "Charles Daily", "Jamie Bunting", "Harry Furnish", "Lance Molyneaux", "Evan Hanson", "Tyler Jackson", "Milan Mrdalj"]
 [[scorers]]
 goals = 1
 scorer = "Tyler Jackson"
