@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-06-18T12:00:00Z
 description = "Frother's winter league game against the Black Bull"
-draft = true
 friendly = false
 frother_goals = 1
 images = ["/images/frothers-goalie_jersey.png"]
@@ -51,10 +50,14 @@ You have to give it to them, weighing 65 kgs soaking wet, the Bulls didn't pull 
 
 Taking exception to this, and the slightly relaxed stance the ref had of these, one of the Bulls players lashed out at **Evan** with a knee-high challenge on the ground. The Ref then rewarded this act of petulance with a red card.
 
-It was a relentless tirade of Frother attacks from then, with another yellow card or two being given to the Bulls. The final ball was still lacking and the Bulls managed to hold on.
+It was a relentless tirade of Frother attacks from then, with another yellow card or two being given to the Bulls. **Tyler** can desperately close again, hitting the keeper and having the ball come off the crossbar.
+
+The Bulls managed to hold on.
 
 ## Man of the Match
 
+**Tyler** starting up that scoring run again.
+
 ## Dick of the Day
 
-**Milan** saved my blushes after wasting two good freekick opportunities by yelling at **Charles** when dribbling into the attacking third. **Charles**, who found himself in on the wing couldn'yt  
+**Milan** saved my blushes after wasting two good freekick opportunities by yelling at **Charles** when dribbling into the attacking third. **Charles**, who found himself on the wing couldn't help but call for the ball like he was being left out of a round. The resulting retort from **Milan** about "Having so much time in the middle" was made all the funnier by the fact he was dispossessed.  
