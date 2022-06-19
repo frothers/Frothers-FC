@@ -1,56 +1,60 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2022-06-11T12:00:00Z
-description = "Frother's winter league game against Lazy XI"
+date = 2022-06-18T12:00:00Z
+description = "Frother's winter league game against the Black Bull"
 draft = true
 friendly = false
 frother_goals = 1
 images = ["/images/frothers-goalie_jersey.png"]
 match = true
-opponent = "North Wellington"
-opponent_goals = 1
-result = "Draw"
+opponent = "Black Bulls"
+opponent_goals = 2
+result = "Loss"
 season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 10"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Jack Kos", "Chris Chester", "Jacob Williamson", "Charles Daily", "Tyler Jackson", "Ring-In", "Lance Molyneaux", "Jamie Hatch", "Evan Hanson", "Jamie Bunting", "Yash Rosario"]
+xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Nick Jones", "Chris Chester", "Jacob Williamson", "Charles Daily", "Jamie Bunting", "Lance Molyneaux", "Evan Hanson", "Tyler Jackson", "Milan Mrdalj"]
 [[scorers]]
 goals = 1
-scorer = "Lance Molyneaux"
+scorer = "Tyler Jackson"
 
 +++
-A wet and windy Sunday morning in the capital resulted in a depleted Frothers squad being available for their first match in Div 2 of the winter. A couple of timely ring-ins saved the day.
+> At least it wasn't raining this week
 
-As with previous encounters with the Lazy XI they defended well as a unit, locking up the middle of the pitch and leaving the Frothers frustrated. Balls over the top were also difficult due to the wind.
+Playing a Black Bulls team that always seem to save their best for the Frothers it was time to test the hoodoo of Ascott Park. Maybe we would get a break with some more of the boys living in the hood.
 
-The first real point of action in the game came with **Lance** being taken out in the box from behind. This was waved away.
+Bringing Big Roach Energy, seemingly every player on the Bulls team was 5' 8", fast, and could dribble.
 
-Lazy XI took the lead through a deflected shot from the edge of the box.
+The Frothers really battled to get passes to stick in the first half. On the back of one of these missed passes, the Bulls were able to counter and some slick one-twos got them one-on-one with **Ryan**, whom they also dribbled around.
 
 > 0-1
 
 ## Halftime
 
-The Frothers knew they were still well in this match and the change on end could help them with the reversed wind.
+The Frothers knew that the second half was their time to shine.
 
-Moments into the second half this proved to be the case. After some questionable passing, the Frothers got the ball under control through **Jacob** who played **Lance** in behind. Bending the ball around the keeper the Frothers were level with minutes on the clock.
+Tyler sent an early header just wide off a corner.
 
-> 1-1
+The Bulls somehow were the next to score, keeping in a ball the Frothers had given up on and then shooting through **Ryan's** legs
 
-A couple of decent chances came for each side throughout the half, with **Ryan** making two good saves to keep the Frothers in it. **Lance** was unable to convert a similar opportunity to his earlier goal too.
+> 0-2
 
-A couple of formation change experiments didn't pay off as the Frothers were struggling to find options on attack.
+The boys decided it was time to play to their strengths, the extra kgs we were pulling around. In short, the man-or-ball technique was instated.
 
-A late opportunity to win the game came to **Jacob** who headed a corner into the bottom right-hand side but was cleared off the line.
+This paid off pretty quickly as **Lance** was able to make inroads down the wing and send a good cross into **Tyler**, whose first header was saved by the keeper, but the follow-up found the net. No assist for **Lance**.
+
+> 1-2
+
+You have to give it to them, weighing 65 kgs soaking wet, the Bulls didn't pull out of any 50/50s. This did mean they were eating a lot of shit though as the Frothers flew through the challenges.
+
+Taking exception to this, and the slightly relaxed stance the ref had of these, one of the Bulls players lashed out at **Evan** with a knee-high challenge on the ground. The Ref then rewarded this act of petulance with a red card.
+
+It was a relentless tirade of Frother attacks from then, with another yellow card or two being given to the Bulls. The final ball was still lacking and the Bulls managed to hold on.
 
 ## Man of the Match
 
-**Jacob** with a really solid defensive game, an assist and almost the winner. Was lovely to watch.
-
 ## Dick of the Day
 
-Big **Jack K** for sending everyone's favourite baby boy to the canvas like Orton in his prime. But you gotta love to see an uncompromising clearance. 
-
-![](/images/1013690ac035b2e5a16c569d96661b8d.gif)
+**Milan** saved my blushes after wasting two good freekick opportunities by yelling at **Charles** when dribbling into the attacking third. **Charles**, who found himself in on the wing couldn'yt  
