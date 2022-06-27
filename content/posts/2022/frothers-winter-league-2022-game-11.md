@@ -25,7 +25,7 @@ scorer = "Charles Daily"
 
 Playing the team with the second-best purple kit in the league, the Frothers were desperate to get some more points on the board.
 
-On a slippery Sunday evening at Wellington College, the boys were back in blue and trying to turn around the last couple of results. Second-time baby daddy **Alain** was back in the squad to bring an additional bit of quality in attack.
+On a slippery Sunday evening at Wellington College, the boys were back in blue and trying to turn around the last couple of results. Second-time baby daddy **Alain** was back in the squad to bring an additional bit of quality in attack. **Angus** and **Sule** also came out of the wilderness to bring some much-needed stability to the lineup.
 
 The first half had no goals but a lot to talk about.
 
