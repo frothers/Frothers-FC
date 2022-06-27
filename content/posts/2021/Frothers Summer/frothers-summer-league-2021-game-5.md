@@ -12,9 +12,9 @@ opponent_goals = 0
 result = "Win"
 season = "summer"
 team = "OG Frothers"
-title = "Frothers Summer League 2021 - Game 6"
+title = "Frothers Summer League 2021 - Game 5"
 type = "post"
-xi_and_subs = ["Ryan Kindell","Nick Jones","Jack Kos","Jamie Hatch","Jack Hayden","Milan Mrdalj","Harry Furnish","Alain Bruner","Charles Daily","Evan Hanson","Yarride Rosario","Lance Molyneaux","Nestor Behring","Will Sule"]
+xi_and_subs = ["Ryan Kindell", "Nick Jones", "Jack Kos", "Jamie Hatch", "Jack Hayden", "Milan Mrdalj", "Harry Furnish", "Alain Bruner", "Charles Daily", "Evan Hanson", "Yarride Rosario", "Lance Molyneaux", "Nestor Behring", "Will Sule"]
 [[scorers]]
 goals = 1
 scorer = "Charles Daily"
