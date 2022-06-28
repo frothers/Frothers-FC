@@ -58,4 +58,4 @@ Pouring on the pressure, the Frothers pushed hard for an equaliser but again wer
 
 ## Dick of the Day
 
-Pretty good showing from the boys today.
+Actually had a lot of fun in this one despite the result, good showing from the boys today.
