@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-06-25T12:00:00Z
 description = "Frother's winter league game against Mark Ave FC"
-draft = true
 friendly = false
 frother_goals = 1
 images = ["/images/frothers_jersey.png"]
@@ -58,3 +57,5 @@ Pouring on the pressure, the Frothers pushed hard for an equaliser but again wer
 **Charles** popping up for his first goal of the year was a pleasure to see. Suddenly every set piece had **Charles** standing over the ball. A couple of nice corners were sent in too.
 
 ## Dick of the Day
+
+Pretty good showing from the boys today.
