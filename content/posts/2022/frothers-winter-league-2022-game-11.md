@@ -14,7 +14,7 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 11"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Nick Jones", "Angus Hay-Chapman", "Chris Chester", "Jamie Hatch", "Charles Daily", "Evan Hanson", "Alain Bruner", "Harry Furnish", "Lance Molyneaux", "Jarrod Murray", "Jamie Bunting", "Jack Hayden"]
+xi_and_subs = ["Ryan Kindell", "Nick Jones", "Angus Hay-Chapman", "Chris Chester", "Jamie Hatch", "Charles Daily", "Evan Hanson", "Harry Furnish", "Alain Bruner", "Jarrod Murray", "Lance Molyneaux", "Jamie Bunting", "Jack Hayden"]
 [[scorers]]
 goals = 1
 scorer = "Charles Daily"
