@@ -14,7 +14,7 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 12"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Jack Kos", "Chris Chester", "Jack Hayden", "Charles Daily", "Evan Hanson", "Harry Furnish", "Alain Bruner", "Jarrod Murray", "Nick Jones", "Jacob Williamson", "Yarride Rosario"]
+xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Jack Kos", "Chris Chester", "Jack Hayden", "Charles Daily", "Evan Hanson", "Harry Furnish", "Alain Bruner", "Jarrod Murray", "Tyler Jackson", "Nick Jones", "Jacob Williamson", "Yarride Rosario"]
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
