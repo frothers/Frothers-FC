@@ -1,62 +1,86 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2022-06-25T12:00:00Z
-description = "Frother's winter league game against Mark Ave FC"
-draft = true
+date = 2022-07-02T12:00:00Z
+description = "Frother's winter league game against ESKA"
 friendly = false
-frother_goals = 1
-images = ["/images/frothers_jersey.png"]
+frother_goals = 4
+images = ["/images/frothers-goalie_jersey.png"]
 match = true
-opponent = "Mark Ave FC"
-opponent_goals = 2
-result = "Loss"
+opponent = "ESKA"
+opponent_goals = 3
+result = "Win"
 season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 12"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Nick Jones", "Angus Hay-Chapman", "Chris Chester", "Jamie Hatch", "Charles Daily", "Evan Hanson", "Harry Furnish", "Alain Bruner", "Jarrod Murray", "Lance Molyneaux", "Jamie Bunting", "Jack Hayden"]
+xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Jack Kos", "Chris Chester", "Jack Hayden", "Charles Daily", "Evan Hanson", "Harry Furnish", "Alain Bruner", "Jarrod Murray", "Nick Jones", "Jacob Williamson", "Yarride Rosario"]
 [[scorers]]
 goals = 1
-scorer = "Charles Daily"
+scorer = "Yarride Rosario"
+[[scorers]]
+goals = 3
+scorer = "Tyler Jackson"
 
 +++
-> The boys are really missing the paparazzi
+> Sweet as apple pie
 
-Playing the team with the second-best purple kit in the league, the Frothers were desperate to get some more points on the board.
+The Frothers took on ESKA at Te Whaea on an almost perfect night for football.
 
-On a slippery Sunday evening at Wellington College, the boys were back in blue and trying to turn around the last couple of results. Second-time baby daddy **Alain** was back in the squad to bring an additional bit of quality in attack. **Angus** and **Sule** also came out of the wilderness to bring some much-needed stability to the lineup.
+The later-than-usual kickoff meant that the new daddies were dropping like flies, but a strong turnout plus the allure of knockout football bringing **Yarride** down meant there were a few subs.
 
-The first half had no goals but a lot to talk about.
+The Frothers started the match with the upper hand. Levelling several good attacks the Frothers put the ball in the back of the net, but it was called back for an alleged foul in the box.
 
-**Lance** was forced off early through injury on the back of a bad challenge. This was especially hard to swallow due to the new homeowner looking really dangerous.
+**Tyler** got his goal minutes later, however. The keeper made a risky call coming out to the edge of the box, allowing Tyler to turn back inside and shoot into an empty net.
 
-A couple of excellent saves from **Ryan** kept the Frothers in the game. A stray ball landed at the feet of a Mark Ave player at the back post, but Ryan made himself big.
+> 1-0
 
-A travesty of a call proceeded, as **Harry** took the ball down on the back post, cut inside and finished, but was adjudged to be offside on a deep sitting defence.. the spectators couldn't believe their eyes.
+The sun then went down, and so did the level of chat. An ESKA player resembling half Zlatan, half Sharapova, and all cock entered the game and promptly ended **Jack H**'s comeback. Kicking him in the same injured ankle to end his night.
 
-## Halftime
-
-The Frothers came out in the second half with some fresh energy and a determination to avenge the wrongs of the first half. The Frothers conceded with only minutes on the clock after a great floated ball from outside the box found a Mark Ave player at the back post who finished first-time.
-
-> 0-1
-
-It didn't take long until the Frothers levelled through the most unlikely of sources. A freekick was won on the edge of the box and **Charles** stepped up. Curling a shot into the corner of the goal the keeper could only swat at the shot.
+The Frothers struggled to keep the rhythm going with the level of the light and the slickness of the pitch. ESKA were able to level through a counterattack in the middle of the park.
 
 > 1-1
 
-The Frothers were really solid for the rest of the half, with a lot of good link-up play and providing options for each other. A particularly nice run saw **Bunting** wind back the years and pull out some hot stepping down the left-wing.
+A couple of near chances, with **Jack K** having an effort put onto the bar, saw out the half.
 
-There was one slip-up as who Frothers players went for the same ball and then both pulled out, allowing Mark Ave to counter. The striker was able to break the line and round the keeper to put them in front.
+## Halftime
+
+The boys were determined to get back on top, with **Alain** frantically cashing in brownie points to buy another 10 minutes.
+
+Getting going in the second half the lads were looking better. But some early confusion between defence and keeper lead to a coach killer, an attacker charging down a clearance and the rebound going in.
 
 > 1-2
 
-Pouring on the pressure, the Frothers pushed hard for an equaliser but again were unable to make the sustained pressure count.
+It was now late in the game and the boys needed to rally, and coach **Yarride** started to pull some strings. Putting **Chris** into the mids for the departed **Alain** to keep the bruiser appeal.
+
+The Frothers managed to get back in it from a lovely bit of football. A cheeky back heel from your baby boy to **Jarrod** who spread the play to **Jamie** whose low cross was finished by **Tyler**.
+
+> 2-2
+
+The boys must have already been thinking about penalties, as a loosely marked ESKA player was able to take a pot shot from outside of the box to steal the lead in the dying minutes of the game.
+
+> 2-3
+
+But don't rule out the Frothers in knockout football.
+
+A free kick in the Frothers half over the top led to a ball spilling out the side of the box. **Yarride**, who had been saving up his energy all match for this moment, dashed out to the ball first. The keeper, again going rush goalie, came flying out. Employing a little of the dark arts, **Yarride** turned a minor contact into a stonewall penalty.
+
+**Taylor** stepped up for the Hattrick and sent the shot in off the post to establish dominance.
+
+> 3-3
+
+But the boys weren't finished. Like every Man U fan, the boys weren't interested in the current reality but instead wanted to relive the 1999 CL final.
+
+The boys put ESKA's composure under the gun on the edge of their box. The defender's clearance could only find their first man and ricocheted back into the path of an on-running **Yarride**.
+
+The man on a 6-month goal drought calmly put it to bed, sealing the win.
+
+> 4-3
 
 ## Man of the Match
 
-**Charles** popping up for his first goal of the year was a pleasure to see. Suddenly every set piece had **Charles** standing over the ball. A couple of nice corners were sent in too.
+Quite a few nods for this award this week, but hard to go past the man that on his return from big daddy Rona bagged a Hattrick. **Tyler** continues to be the Frothers goal machine and style icon.
 
 ## Dick of the Day
 
-Actually had a lot of fun in this one despite the result, good showing from the boys today.
+In a rare turn of events, this award goes to an opposition player who embodied the award. Talking this much trash in a live knockout game is hubris at its best and befitting the award. Capped off by a truly anonymous performance by the Afghan hound.
