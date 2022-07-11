@@ -121,4 +121,6 @@ Honourable mention to the man in the field, **Jamie Hatch**
 
 ## Dick of the Day
 
+Slightly stitched up by **Jamie**, **Charles** gets the nod today for the only piece of footage showing crap footy. You could see he fancied putting it on the keeper again, and why not.
+
 {{< vimeo 728765900 >}}
