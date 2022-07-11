@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-07-09T12:00:00Z
 description = "Frother's winter league game against K'NYAW AFC"
-draft = true
 friendly = false
 frother_goals = 5
 images = ["/images/frothers-goalie_jersey.png"]
@@ -32,9 +31,9 @@ scorer = "Jarrod Murray"
 +++
 We had our very own Geoff Shreeves sideline reporter in **Jamie Hatch** this week.
 
-## Kick off
+## Kick-off
 
-dTen in, both sides had a couple of half-chances. We are Definitely looking like the better team so far.
+Ten in, both sides had a couple of half-chances. We are definitely looking like the better team so far.
 
 A break down the right by harry finds **Jarrod** open at far post but it’s put wide
 
@@ -94,18 +93,32 @@ Frothers pulling on the pressure at the moment. A great ball in from **Tavis** a
 
 **Jarrod** was taken down in the box. Not a dirty tackle but definitely a foul
 
+{{< vimeo 728765855 >}}
+
+> 4-0
+
 Another chance from **Jarrod**. He’s getting a lot today, but it’s sent into the hockey pitch
 
 More shots from the Frothers. Stat sheet going to be stacked this game. **Bunting** with the one-on-one but it’s kicked straight at the keeper
 
-Quick redemption though as he scores. I was too busy retrieving the ball so didn’t see it. Frothers 
+Quick redemption though as he scores. I was too busy retrieving the ball so didn’t see it. Frothers
 
 > 5-0
 
-Jarrods everywhere. Very similar 50/50, headered over the keeper at the 18 yard. Side by side sprint against a defender who does a shit attempt at a clearance. So bad it’s good though as Jarrod can’t control it and it’s out for a goal kick
+**Jarrods** everywhere. Very similar 50/50, headered over the keeper at the 18-yard. Side by side sprint against a defender who does a shit attempt at a clearance. So bad it’s good though as **Jarrod** can’t control it and it’s out for a goal kick
 
-Jarrod chips the keeper for a hatty but it’s called offside. The refs missed a defender who was holding his dick on the 6 yard box. Realises the error and gives a drop ball. Not going to help Jarrod sleep tonight
+**Jarrod** chips the keeper for a hatty but it’s called offside. The refs missed a defender who was holding his dick on the 6-yard box. Realises the error and gives a drop ball. Not going to help **Jarrod** sleep tonight
 
-Chris glances a header just over the cross bar wrapping up a dominant frother spell.
+**Chris** glances a header just over the crossbar wrapping up a dominant frother spell.
 
-Full time, 5-0 end to end win
+## Full-time, 5-0 end-to-end win
+
+## Man of The Match
+
+The man who will still be haunting the dreams of the KNyaw defenders. **Jarrod** was relentless and displayed a great combo of pace and power to bully the opposition and bag himself two goals.
+
+Honourable mention to the man in the field, **Jamie Hatch**
+
+## Dick of the Day
+
+{{< vimeo 728765900 >}}
