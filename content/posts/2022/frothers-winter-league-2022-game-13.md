@@ -124,3 +124,9 @@ Honourable mention to the man in the field, **Jamie Hatch**
 Slightly stitched up by **Jamie**, **Charles** gets the nod today for the only piece of footage showing crap footy. You could see he fancied putting it on the keeper again, and why not.
 
 {{< vimeo 728765900 >}}
+
+## Special Mention
+
+**Evan** brings up his 100th cap for the Frothers with today's game. Truly impressive considering he wasn't in the team the first season
+
+![](/images/277575861_3638870366339242_3543232711284385475_n.jpg)
