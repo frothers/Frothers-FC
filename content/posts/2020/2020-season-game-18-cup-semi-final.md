@@ -3,19 +3,18 @@ author = "Chris Chester"
 categories = ["Match"]
 date = 2020-10-17T11:00:00Z
 description = "Match report for the cup game against Edward Street Athletic"
-images = ["/images/chrisvolley.jpg"]
-draft = false
 frother_goals = 1
-season = "winter"
+images = ["/images/chrisvolley.jpg"]
 match = true
-team = "OG Frothers"
 opponent = "Edward Street Athletic"
 opponent_goals = 0
 penalties = false
 result = "Win"
+season = "winter"
+team = "OG Frothers"
 title = "2020 Season - Game 18 (Cup Semi-Final)"
 type = "post"
-xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stu Escott','Nick Jones','Sam Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Jarrod Murray','Lance Molyneaux','Yarride Rosario','Lee Greengrass',]
+xi_and_subs = ["Ryan Kindell", "Chris Chester", "Jamie Hatch", "Stu Escott", "Nick Jones", "Sam Abbiss", "Milan Mrdalj", "Charles Daily", "Harry Freeman", "Evan Hanson", "Harry Furnish", "Jarrod Murray", "Lance Molyneaux", "Yarride Rosario", "Lee Greengrass"]
 [[scorers]]
 goals = 1
 scorer = "Chris Chester"
@@ -60,4 +59,5 @@ Big **Sam** for forgetting a hair tie and scrambling around for one before the m
 ![](/images/sampony.jpg)
 
 ## Photos
-Due to graphic content these cannot be published (or their was no photographer...)
+
+Due to graphic content these cannot be published (or there was no photographer...)
