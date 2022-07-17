@@ -3,10 +3,9 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-07-16T12:00:00Z
 description = "Frother's winter league game against Valley Dream"
-draft = true
 friendly = false
 frother_goals = 2
-images = []
+images = ["/images/nicky.jpg"]
 match = true
 opponent = "Valley Dream"
 opponent_goals = 0
@@ -45,6 +44,8 @@ The wind picked up in the second half, and that heralded some classic bang-it-lo
 In a half relatively devoid of chances **Evan** came closest with a whipped-in corner that came off the crossbar, and a freekick that went narrowly over.
 
 That's 4 clean-sheets in a row against Valley, 6 hours of football. 🔒
+
+![](/images/the-boys.jpg)
 
 ## Man of the Match
 
