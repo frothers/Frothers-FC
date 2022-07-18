@@ -5,6 +5,7 @@ fut_card = ""
 kit_number = 19
 mug_shot = "/images/jacob.png"
 photos = ["/images/277750315_511928873897149_8533464918862542220_n.jpg"]
+teams = ["OG Frothers"]
 position = "Defender"
 title = "Jacob Williamson"
 year_joined = "2022"

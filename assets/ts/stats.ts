@@ -41,7 +41,8 @@ export let populateStats = async function (name: string) {
 
   // Populate graph
   let chartData = <HTMLElement>document.getElementById("individual-stats-panel");
-  let dataAppearances: yearlyAppearances[] = JSON.parse(chartData.getAttribute("data-appearances"));
+  let b = chartData.getAttribute("data-appearances");
+  let dataAppearances: yearlyAppearances[] = JSON.parse(b);
   let gameAppearances = await getPlayerAppearances(name);
 
   let allAppearances = dataAppearances;

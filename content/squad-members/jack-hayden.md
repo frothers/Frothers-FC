@@ -4,6 +4,7 @@ blurb = "A regular from the 2021/22 summer league, Jack joined the Frothers in t
 fut_card = ""
 kit_number = 18
 mug_shot = "/images/276175002_3619884111571201_8134861318424251116_n.jpg"
+teams = ["OG Frothers"]
 photos = []
 position = "Defender"
 title = "Jack Hayden"

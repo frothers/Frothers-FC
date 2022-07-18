@@ -4,6 +4,7 @@ blurb = "Tyler is a product of the Frother's academy, AKA the Sunday Blazers. Af
 fut_card = ""
 kit_number = 14
 mug_shot = "/images/tyler.png"
+teams = ["OG Frothers"]
 photos = []
 position = "Forward"
 title = "Tyler Jackson"
