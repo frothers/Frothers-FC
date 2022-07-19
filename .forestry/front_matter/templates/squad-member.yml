@@ -79,7 +79,7 @@ fields:
     maxSize: 64
   label: FUT Card
   description: Fifa ultimate team card
-- name: team
+- name: teams
   type: list
   config:
     use_select: true
