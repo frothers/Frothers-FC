@@ -79,6 +79,16 @@ fields:
     maxSize: 64
   label: FUT Card
   description: Fifa ultimate team card
+- name: team
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: players
+  label: Team
 pages:
 - content/squad-members/alain-bruner.md
 - content/squad-members/alex-winsley.md
