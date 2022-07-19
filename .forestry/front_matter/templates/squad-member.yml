@@ -86,8 +86,11 @@ fields:
     min: 
     max: 
     source:
-      type: pages
+      type: simple
       section: players
+    options:
+    - Foam Generators
+    - OG Frothers
   label: Team
 pages:
 - content/squad-members/alain-bruner.md
