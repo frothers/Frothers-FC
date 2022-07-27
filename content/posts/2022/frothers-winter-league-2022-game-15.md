@@ -21,38 +21,28 @@ goals = 1
 scorer = "Tyler Jackson"
 
 +++
-> Got the mojo back.
+The boys were their own worst enemies on this one. Starting the game with 10 men the Frothers were out of sorts from the kickoff. Charles made it after a couple of minutes to get XI on the field, but there was still confusion a-plenty.
 
-Another weekend back at Fraser Park and another match against Valley Dream. Having played Valley 5 times in the last year we knew we were up for a solid contest.
+GoTI took advance of the chaos by bombing aerial through balls for their striker to run onto. The striker made two surprisingly good finishes with these opportunities in the first half.
 
-The first real chance of the Match came to **Nick**, who, on this Century for the club, struck the crossbar. The ball bounced down with some calls saying it went over the line.
-
-Not long after the first goal did come. **Tyler** drove up the middle and then disguised a through ball through to **Lance**. Taking what felt like an embarrassment of touches in the box, **Lance** finished without fuss into the keeper's right.
-
-> 1-0
-
-The all New Plymouth front line kept the good thing going with another goal, this time with switched roles. **Lance** played **Tyler** in who did what he had been threatening for a few weeks and chipped the diving keeper.
-
-> 2-0
+> 0-2
 
 ## Halftime
 
-The wind picked up in the second half, and that heralded some classic bang-it-long football.
+An inquiry led to some positional changes and the boys were back to it.
 
-In a half relatively devoid of chances **Evan** came closest with a whipped-in corner that came off the crossbar, and a freekick that went narrowly over.
+A lot better football and a few opportunities later the Frothers were making looking a lot more competitive.
 
-That's 4 clean-sheets in a row against Valley, 6 hours of football. 🔒
+Another long ball led to a third got GoTi.
 
-![](/images/the-boys.jpg)
+> 0-3
+
+The Frothers managed to convert their pressure, by the way of a penalty. **Tyler** won it and grabbed the ball to take it. Hitting it into the top of the net with confidence to keep the ratio up. No consideration for the occasion, though.
+
+> 1-3
 
 ## Man of the Match
 
-**Lance** was getting crazy FOMO missing the Frother's season turnaround. On relatively little sleep he came out the gates and was a constant threat and fan favourite.
-
-![](/images/lance.jpg)
+**Jack Hayden** for DotD for the foul throw and dressing down by his old mate the referee.
 
 ## Dick of the Day
-
-The man with the sweetest double pump fake in the team. **Milan** looking like he was about to drop the ultimate clutch game 6 championship bucket of a foul throw. Flexing.
-
-![](/images/luka_doncic_-51916621145.jpg)
