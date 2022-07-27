@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-07-23T12:00:00Z
 description = "Frother's winter league game against Game of Throw-ins"
-draft = true
 friendly = false
 frother_goals = 1
 images = ["/images/img_3316.JPG"]
@@ -37,12 +36,14 @@ Another long ball led to a third got GoTi.
 
 > 0-3
 
-The Frothers managed to convert their pressure, by the way of a penalty. **Tyler** won it and grabbed the ball to take it. Hitting it into the top of the net with confidence to keep the ratio up. No consideration for the occasion, though.
+The Frothers managed to convert their pressure, by the way of a penalty. **Tyler** won it and grabbed the ball to take it. Hitting it into the top of the net with confidence to keep the ratio up. No consideration for the occasion, though 😢.
 
 > 1-3
 
 ## Man of the Match
 
-**Jack Hayden** for DotD for the foul throw and dressing down by his old mate the referee.
+No votes, so it goes to **Charles** for making it back for the match he said he couldn't make. Also, he must have passed me the ball at least 10 times over the match. Unreal.
 
 ## Dick of the Day
+
+**Jack Hayden** for DotD for the foul throw and dressing down by his old mate the referee.
