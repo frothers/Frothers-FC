@@ -1,24 +1,21 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2022-07-16T12:00:00Z
-description = "Frother's winter league game against Valley Dream"
+date = 2022-07-23T12:00:00Z
+description = "Frother's winter league game against Game of Throw-ins"
 draft = true
 friendly = false
-frother_goals = 2
-images = ["/images/nicky.jpg"]
+frother_goals = 1
+images = ["/images/img_3316.JPG"]
 match = true
-opponent = "Valley Dream"
-opponent_goals = 0
-result = "Win"
+opponent = "Game of Throw-ins"
+opponent_goals = 3
+result = "Loss"
 season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 15"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Angus Hay-Chapman", "Chris Chester", "Jacob Williamson", "Charles Daily", "Evan Hanson", "Nick Jones", "Jamie Bunting", "Lance Molyneaux", "Tyler Jackson", "Ring-In", "Ring-In"]
-[[scorers]]
-goals = 1
-scorer = "Lance Molyneaux"
+xi_and_subs = ["Ryan Kindell", "Jacob Williamson", "Nick Jones", "Chris Chester", "Jack Hayden", "Milan Mrdalj", "Charles Daily", "Evan Hanson", "Jamie Bunting", "Jamie Hatch", "Tyler Jackson", "Yarride Rosario"]
 [[scorers]]
 goals = 1
 scorer = "Tyler Jackson"
