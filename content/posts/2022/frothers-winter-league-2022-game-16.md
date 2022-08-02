@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-07-30T12:00:00Z
 description = "Frother's winter league game against ESKA"
-draft = true
 friendly = false
 frother_goals = 3
 images = ["/images/img_1278.jpg"]
@@ -57,3 +56,25 @@ The Frothers were pressing again and again in the opposition box. This time **Ch
 > Penalty
 
 A real toss-up here of who should take the penalty. **Charles** on his 100th game and winning it, or **Nick** on his final game for the Frothers.
+
+This was a real win-win scenario for the spectators.
+
+**Nicky** somehow convinced **Charles** to let him have it and produced an effort fit for the occasion, a tame shot down the middle that the keeper could easily parry 🥧.
+
+## Man of the Match
+
+Honourable mention goals to **Angus** who was rock solid all game with a couple of trademark big slide tackles. The award goes to the man just back from illness, **Lance,** who played out of his skin. Some of the touches were like prime Bergkamp. A couple of goals to top things off.
+
+![](/images/img_1359.jpg)
+
+## Dick of the Day
+
+Fitting that in his last match he picks up the award. **Nick** gets it for missing the penalty and leaving the boys. A minor redemption piece was when Nick kicked shit Haaland when the ball went out. Gonna miss you, bud.
+
+![](/images/img_1374.jpg) 
+
+## Special Mention
+
+100 games for that guy, **Charles**. The big number 4 and midfield operator is the definition of evergreen.
+
+ ![](/images/img_1335.jpg)
