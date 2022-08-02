@@ -1,50 +1,59 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2022-07-23T12:00:00Z
-description = "Frother's winter league game against Game of Throw-ins"
+date = 2022-07-30T12:00:00Z
+description = "Frother's winter league game against ESKA"
 draft = true
 friendly = false
-frother_goals = 1
-images = ["/images/img_3316.JPG"]
+frother_goals = 3
+images = ["/images/img_1278.jpg"]
 match = true
-opponent = "Game of Throw-ins"
-opponent_goals = 3
-result = "Loss"
+opponent = "ESKA"
+opponent_goals = 0
+result = "Win"
 season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 16"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Jacob Williamson", "Nick Jones", "Chris Chester", "Jack Hayden", "Milan Mrdalj", "Charles Daily", "Evan Hanson", "Jamie Bunting", "Jamie Hatch", "Tyler Jackson", "Yarride Rosario"]
+xi_and_subs = ["Ryan Kindell", "Nick Jones", "Angus Hay-Chapman", "Chris Chester", "Milan Mrdalj", "Charles Daily", "Evan Hanson", "Ring-In", "Jamie Bunting", "Harry Furnish", "Lance Molyneaux", "Thomas Sule", "Ring-In"]
+[[scorers]]
+goals = 2
+scorer = "Lance Molyneaux"
 [[scorers]]
 goals = 1
-scorer = "Tyler Jackson"
+scorer = "Thomas Sule"
 
 +++
-The boys were their own worst enemies on this one. Starting the game with 10 men the Frothers were out of sorts from the kickoff. Charles made it after a couple of minutes to get XI on the field, but there was still confusion a-plenty.
+It was off to Ascott Park to take on ESKA who the Frothers just pipped in the last time we played. A couple of familiar-faced ring-ins were required to make the numbers.
 
-GoTI took advance of the chaos by bombing aerial through balls for their striker to run onto. The striker made two surprisingly good finishes with these opportunities in the first half.
+Yet another windy and slightly rainy day saw the Frothers struggling to make an XI for the game before **Angus** came in tops with the ring-ins.
 
-> 0-2
+The boys struggled to make passes meet in the first half and couldn't quite get going.
 
-## Halftime
+![](/images/img_1299.jpg)
 
-An inquiry led to some positional changes and the boys were back to it.
+## Second half
 
-A lot better football and a few opportunities later the Frothers were making looking a lot more competitive.
+The wind died down and it was actually nice to play at Ascott Park for once. The breakthrough came through **Sule** who was able to cut back inside and unleash a shot from outside the box that had the keeper flapping.
 
-Another long ball led to a third got GoTi.
+> 1-0
 
-> 0-3
+![](/images/img_1361.jpg)
 
-The Frothers managed to convert their pressure, by the way of a penalty. **Tyler** won it and grabbed the ball to take it. Hitting it into the top of the net with confidence to keep the ratio up. No consideration for the occasion, though 😢.
+This was precisely what the Frothers were in need of and turned up the juice. Dominating in all areas of the park, the boys' confidence grew almost arrogant. **Lance**, playing as an outright centre-forward, took a delicious touch in the box to set himself up for a quality goal.
 
-> 1-3
+> 2-0
 
-## Man of the Match
+![](/images/img_1282.jpg)
 
-No votes, so it goes to **Charles** for making it back for the match he said he couldn't make. Also, he must have passed me the ball at least 10 times over the match. Unreal.
+The Frother's attacks were relentless and **Lance** was playing like an absolute demon up top. It wasn't long before he added himself a second with an assist from **Sule**.
 
-## Dick of the Day
+> 3-0
 
-**Jack Hayden** for DotD for the foul throw and dressing down by his old mate the referee.
+He could have easily had his hat-trick had it not been for some dubious refereeing calling an offside.
+
+The Frothers were pressing again and again in the opposition box. This time **Charles** found himself with the ball. Losing track of the ball it looked like the danger might pass, but the opposition defender decided that **Charles** was too dangerous to live and went straight through him.
+
+> Penalty
+
+A real toss-up here of who should take the penalty. **Charles** on his 100th game and winning it, or **Nick** on his final game for the Frothers.
