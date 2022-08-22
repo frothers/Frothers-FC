@@ -3,7 +3,6 @@ author = "Yarride"
 categories = ["Match"]
 date = 2022-08-20T12:00:00Z
 description = "Frother's winter league game against Marks Ave"
-draft = true
 friendly = false
 frother_goals = 3
 images = ["/images/img_9492-custom.jpg"]
