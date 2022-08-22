@@ -24,7 +24,7 @@ goals = 2
 scorer = "Yarride Rosario"
 
 +++
-Battles between brothers always have an extra edge to them and the **Sule** boys going at each other this weekend was no different. Throwing themselves at each other for 90 minutes, there were shades of Mufasa and Scar taking their sibling rivalry to new levels at Pride Rock in 1994. 
+Battles between brothers always have an extra edge to them and the **Sule** boys going at each other this weekend was no different. Throwing themselves at each other for 90 minutes, there were shades of Mufasa and Scar taking their sibling rivalry to new levels at Pride Rock in 1994.
 
 Forced out of their beloved purple and made to play at their least favourite ground, the Frothers were going to need some Disney magic to upset the division champions. The loss of big daddy **Mufasa Chester** is always heartbreaking no matter how many times you’ve seen it before but the Frothers were up for this one and started with the wind at their backs.
 
@@ -49,5 +49,7 @@ A sudden torrential downpour and boys were scampering away to save their belongi
 > 2-0
 
 The climax of the game saw the Frothers finally defeat the foe, a quick counter-attack and **Yarride** was able to set up **Tyler** for his weekly goal.
+
+> 3-0
 
 Special mention to the older **Sule**, stepping up and making us all Remember Him. Also **Angus** and **Jack** in the back, a pairing as good as Timon and Pumba, the real heroes of the day. As the sun may have set on **Yarride’s** Frothers career, he was able to walk off a king. Not in any way a great king, more like a Ledley King. But he’ll take it.
