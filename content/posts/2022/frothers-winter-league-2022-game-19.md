@@ -40,3 +40,31 @@ The Frothers definitely had the better of the first half 15 minutes but couldn't
 The Black bulls started to take the upper hand with possession, but it was to be their undoing as their centre-back got cute with the ball and got his pocket picked by **Tyler.** Driving onto goal Tyler held off the challenges and was able to slot a shot around the keeper
 
 > 1-0
+
+The Black bulls managed to get back level not too long afterwards with a great shot into the top corner.
+
+> 1-1
+
+## Halftime
+
+Into the break and **Milan** was off to get into a fight of his own, bedtime.
+
+Some classic Frothers organisation as they entered the second half with a centreback down. Luckily there were players who couple deputise.
+
+The Frothers again took the lead through a great first-time cross from **Tavis** that picked **Lance** out in the centre of the box. Taking a fantastic touch **Lance** had almost too much time in the box but picked out the side of the goal after making the keeper sweat.
+
+> 2-1
+
+Again, it wasn't too long afterwards that the Black Bulls were able to equalise. A well-weighted through-ball allowed their striker to run through and level things up.
+
+> 2-2
+
+The Black Bulls then managed to sneak themselves into the lead in the unlikeliest of avenues, off a corner. The vertically challenged Bulls pumped a ball right onto the keeper and then were able to sweep home the resultant bouncing ball.
+
+> 2-3
+
+Pushing hard for an equaliser the Frothers won a corner in the dying minutes. The corner by **Harry** found the head of **Chris** whose header was cleared off the line. This only went as far as **Charles** who chested it down and powered a shot home from a couple metres out to rescue a point for the Frothers.
+
+## Dick of the Day
+
+**Ryan** picks this one up for getting a personal dressing down by the ref for asking how much he had been paid off. This was followed up with **Ryan** claiming all the offsides were incorrect, especially those in our favour. 
