@@ -3,10 +3,9 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-08-27T12:00:00Z
 description = "Frother's winter league game against Black Bulls"
-draft = true
 friendly = false
 frother_goals = 3
-images = ["/images/img_1278.jpg"]
+images = ["/images/img_1335.jpg"]
 match = true
 opponent = "Black Bulls"
 opponent_goals = 3
@@ -63,8 +62,18 @@ The Black Bulls then managed to sneak themselves into the lead in the unlikelies
 
 > 2-3
 
-Pushing hard for an equaliser the Frothers won a corner in the dying minutes. The corner by **Harry** found the head of **Chris** whose header was cleared off the line. This only went as far as **Charles** who chested it down and powered a shot home from a couple metres out to rescue a point for the Frothers.
+Pushing hard for an equaliser the Frothers won a corner in the dying minutes. The corner by **Harry** found the head of **Chris** whose header was cleared off the line. This only went as far as **Charles** who chested it down and powered a shot home from a couple of metres out to rescue a point for the Frothers.
+
+> 3-3
+
+## Man of the Match
+
+A couple of good options on this one. **Tavis** got a sweet assist and didn't take the bait on what was to surely have been the most one-sided fight of his life. **Lance** is continuing his sweet run of form. Man of the match goes to the man who couldn't stay away any longer and had to Froth, **Milan**. Seemingly everywhere along the backline in the first half (for better or worse..) **Milan** couldn't help but tear up the Aotea roads to be Frother and Dad all in one evening.
+
+![](/images/img_1278.jpg)
 
 ## Dick of the Day
 
-**Ryan** picks this one up for getting a personal dressing down by the ref for asking how much he had been paid off. This was followed up with **Ryan** claiming all the offsides were incorrect, especially those in our favour. 
+**Ryan** picks this one up for getting a personal dressing down by the ref for asking how much he had been paid off. This was followed up with **Ryan** claiming all the offsides were incorrect, especially those in our favour.
+
+![](/images/277775199_3638871163005829_32872231595914579_n.jpg)
