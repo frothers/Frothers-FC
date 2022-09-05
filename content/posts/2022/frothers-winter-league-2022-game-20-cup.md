@@ -4,26 +4,29 @@ categories = ["Match"]
 date = 2022-09-03T12:00:00Z
 description = "Frother's winter league game against Pelicans"
 friendly = false
-frother_goals = 3
+frother_goals = 5
 images = ["/images/305210654_483052963830036_6950221835356894886_n.jpg"]
 match = true
-opponent = "Black Bulls"
+opponent = "Pelicans"
 opponent_goals = 3
-result = "Draw"
+result = "Win"
 season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 20 (cup)"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Angus Hay-Chapman", "Jacob Williamson", "Jack Hayden", "Milan Mrdalj", "Chris Chester", "Harry Furnish", "Jarrod Murray", "Lance Molyneaux", "Tyler Jackson", "Charles Daily", "Jamie Bunting", "Tavis Wells"]
+xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Angus Hay-Chapman", "Chris Chester", "Jack Hayden", "Harry Furnish", "Charles Daily", "Jamie Bunting", "Jamie Hatch", "Tavis Wells", "Jarrod Murray", "Lance Molyneaux", "Jack Kos", "Evan Hanson", "Ring-In"]
 [[scorers]]
-goals = 1
-scorer = "Charles Daily"
-[[scorers]]
-goals = 1
+goals = 2
 scorer = "Lance Molyneaux"
 [[scorers]]
 goals = 1
-scorer = "Tyler Jackson"
+scorer = "Tavis Wells"
+[[scorers]]
+goals = 1
+scorer = "Chris Chester"
+[[scorers]]
+goals = 1
+scorer = "Jamie Bunting"
 
 +++
 ## Father's Day Energy
