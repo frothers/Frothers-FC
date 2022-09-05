@@ -3,10 +3,9 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-09-03T12:00:00Z
 description = "Frother's winter league game against Pelicans"
-draft = true
 friendly = false
 frother_goals = 3
-images = []
+images = ["/images/305210654_483052963830036_6950221835356894886_n.jpg"]
 match = true
 opponent = "Black Bulls"
 opponent_goals = 3
@@ -70,6 +69,46 @@ The boys were sensing blood now. Having all the possession and putting pressure 
 > 2-2
 
 The Pelicans were on full tilt now, and one of their players decided it was a good time to go in for a late challenge. Worthy of a yellow, the decided red was the colour de jour.
+
+It should have been all Frothers from here, but calamity stuck again. In seemingly the only time they got into the box **Angus** threw down a trademark slide tackle. Catching the ball against the man it appeared to some that he had completely missed the ball. The ref called it a penalty much to the astonishment of the Frothers defence. **Milan**, accustomed to threatening the refs at Red Star games, gave the ref a lesson in direct hostility. Not taking too kindly to this the ref gave him a yellow, thought about it, and then changed it to a red.
+
+**Ryan** was unable to repeat his heroics on this penalty.
+
+> 2-3
+
+Losing the lead and the man-up advantage it would have been easy for the Frothers to lose heart. However, they regrouped with 3 at the back and got on the attack again with 13 minutes to play.
+
+This paid off almost directly afterwards, as after challenging for every ball the Frothers had shot cleared off the line, but only as far as **Tavis** who was able to bundle it over to level the game up.
+
+> 3-3
+
+![](/images/305115390_483049820497017_1704678467484898296_n.jpg)
+
+Knowing there was still time on the clock and being firmly in control of the football the Frothers pushed for a winner. It wasn't long before **Lance** was played in, whose first touch took him clear of the defence and a well hit left footed shot found the back of the net.
+
+> 4-3
+
+![](/images/305036601_483051620496837_5263630277793428701_n.jpg)
+
+In the dying stages of the game the Frothers got their first goal kick of the half. Forgetting the wind had changed the Pelicans defenders were sitting past halfway. Seeing this **Chris** was able to send the kick over them for **Lance** to run onto. Putting the ball around the keeper and the match out of doubt.
+
+> 5-3
+
+![](/images/302291593_483051897163476_5310256614134633096_n.jpg)
+
+## Man of the Match
+
+Some great performances to turn this one around. **Ryan** with some great saves and the peno, **Lance** with the two late goals. **Evan** baiting another red card.
+
+This week it goes to **Chris**, a clean goal off a corner, an assist and 1 minute on the bench. Big Game Player.
+
+![](/images/302337789_483051983830134_6123124614407505674_n.jpg)
+
+## Dick of the Day
+
+This one picks itself. **Milan** risking it all to let off a bit of steam from his first year of fatherhood. Wasn't even a good insult. "Fuck you ref"
+
+![](/images/img_9506-custom.jpg)
 
 Photo Credit :
 
