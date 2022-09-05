@@ -1,12 +1,12 @@
 +++
 author = "Chris"
 categories = ["Match"]
-date = 2022-08-27T12:00:00Z
-description = "Frother's winter league game against Black Bulls"
+date = 2022-09-03T12:00:00Z
+description = "Frother's winter league game against Pelicans"
 draft = true
 friendly = false
 frother_goals = 3
-images = ["/images/img_1335.jpg"]
+images = []
 match = true
 opponent = "Black Bulls"
 opponent_goals = 3
@@ -27,54 +27,56 @@ goals = 1
 scorer = "Tyler Jackson"
 
 +++
-## Thrilla in Manila
+## Father's Day Energy
 
-The boys were treated to some blood sports before the game, well those who showed up on time were. In the match before there was a dust-up after a late challenge resulted in a sucker punch and then a good old bit of personal assault as the goalkeeper wanted to get a hand on the ball.
+Back in the cup competition and with a point to provide the Frothers were back to playing in Wellington Central after weeks in P town. Playing on Father's day the boys were repping 5 daddies who were still digesting their brunch.
 
-## Onto the Football
+The opportunity to make their 3rd final on the trot was too good an opportunity and the boys came out of the woodwork to have a 15-man squad.
 
-The boys are now playing non-stop at Ascott it appears. Don't even worry about them photos then.
+The toss was a defining moment in the match, with a strong wind and glaring sunlight **Chris**, with the advice of an uninjured **Tavis** elected to start against the wind.
 
-The Frothers definitely had the better of the first half 15 minutes but couldn't quite weight the final passes on a slipper windy afternoon.
+It was a hard slog in the first half, as the ball got stuck underfoot and aerial balls were ineffective.
 
-The Black bulls started to take the upper hand with possession, but it was to be their undoing as their centre-back got cute with the ball and got his pocket picked by **Tyler.** Driving onto goal Tyler held off the challenges and was able to slot a shot around the keeper
+The Frothers were holding their own well and, though only creating a few chances weren't under too much pressure themselves.
 
-> 1-0
+The first moment of consequence came when the ref, making up his own definition of the handball law, decided that the Pelicans deserved a penalty. **Ryan** knew this couldn't stand and saved big daddy **Chris'** blushes by saving his 17th penalty of the season.
 
-The Black bulls managed to get back level not too long afterwards with a great shot into the top corner.
+![](/images/302428427_483051650496834_3912033470077153648_n.jpg)
 
-> 1-1
+However, only moments later the Frothers defence were caught in possession and a quick finish to the near-post gave the Pelicans the lead
+
+> 0-1
+
+![](/images/301507237_483051680496831_7541477778878338828_n.jpg)
+
+Again the Pelicans pressured the Frother's defence and again a mistake was forced. This time the pelicans player was able to finish a nice shot from the edge of the box.
+
+> 0-2
+
+Dropping **Charles** into CB the boys had to solidify things and hold the scoreline till Halftime.
 
 ## Halftime
 
-Into the break and **Milan** was off to get into a fight of his own, bedtime.
+Knowing that this was a five-goal wind the boys weren't too disheartened at halftime. There was a lot of football to play.
 
-Some classic Frothers organisation as they entered the second half with a centreback down. Luckily there were players who couple deputise.
+Coming out strong in the second half it only took a minute for the boys to get back in it. **Bunting** got on the end of a good spell of play from the Frothers and decided to let one loose from outside the box. Slipping on contact the ball went into goalkeeper noman's land, just too far to stop with the feet but too close to dive.
 
-The Frothers again took the lead through a great first-time cross from **Tavis** that picked **Lance** out in the centre of the box. Taking a fantastic touch **Lance** had almost too much time in the box but picked out the side of the goal after making the keeper sweat.
+> 1-2
 
-> 2-1
+![](/images/302445434_483052550496744_6931658842732258065_n.jpg)
 
-Again, it wasn't too long afterwards that the Black Bulls were able to equalise. A well-weighted through-ball allowed their striker to run through and level things up.
+The boys were sensing blood now. Having all the possession and putting pressure on every part of the opposition's play it was a question of when. After several back-to-back corners, the forbidden combination of **Evan** to **Chris** finally occurred. A high header from the centre of the box looped over the keeper and into the net.
 
 > 2-2
 
-The Black Bulls then managed to sneak themselves into the lead in the unlikeliest of avenues, off a corner. The vertically challenged Bulls pumped a ball right onto the keeper and then were able to sweep home the resultant bouncing ball.
+The Pelicans were on full tilt now, and one of their players decided it was a good time to go in for a late challenge. Worthy of a yellow, the decided red was the colour de jour.
 
-> 2-3
+Photo Credit :
 
-Pushing hard for an equaliser the Frothers won a corner in the dying minutes. The corner by **Harry** found the head of **Chris** whose header was cleared off the line. This only went as far as **Charles** who chested it down and powered a shot home from a couple of metres out to rescue a point for the Frothers.
+[Natural Light Photography](https://www.facebook.com/naturallightphotographycompany?__cft__\[0\]=AZXEiZDcuhrmVo_M6TKTudvmbLe5X-vYCiQNwhhA1xJWqKTfj_TVp8WgxcRIFIvcM0UWib0koHOkpoHnkII_CUXr5A0_mSnxzGIwDhg4hseqMPC79tTdd1LHd_DkTtoj9DV6_mPsk_xUNn4j7Skd_htTbz95jk01Qn0YCANUWSYPWA&__tn__=-\]K-R) / IG : natural_lightphotogram
 
-> 3-3
+{{< rawhtml >}}
 
-## Man of the Match
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2Fpfbid0GQ8UqK2f1EdTR1oR1nnTKVeTJeRAjoCCmX1XqebHjaVuLqh1Jor1cosuzPrzx4NGl&show_text=true&width=500" width="500" height="823" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-A couple of good options on this one. **Tavis** got a sweet assist and didn't take the bait on what was to surely have been the most one-sided fight of his life. **Lance** is continuing his sweet run of form. Man of the match goes to the man who couldn't stay away any longer and had to Froth, **Milan**. Seemingly everywhere along the backline in the first half (for better or worse..) **Milan** couldn't help but tear up the Aotea roads to be Frother and Dad all in one evening.
-
-![](/images/img_1278.jpg)
-
-## Dick of the Day
-
-**Ryan** picks this one up for getting a personal dressing down by the ref for asking how much he had been paid off. This was followed up with **Ryan** claiming all the offsides were incorrect, especially those in our favour.
-
-![](/images/277775199_3638871163005829_32872231595914579_n.jpg)
+{{< /rawhtml >}}
