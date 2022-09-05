@@ -1,5 +1,5 @@
 +++
-active = false
+active = true
 blurb = "Playing a handful of games in the Summer league of 2021, Tavis was unlucky to be dogged by injuries. A handy ring-in and useful around the park."
 fut_card = ""
 kit_number = 9
