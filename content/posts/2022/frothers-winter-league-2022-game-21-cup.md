@@ -36,7 +36,7 @@ This also marked a rallying of the troops, with a bumper squad of 16 Frothers an
 
 The Frothers started into the wind again in an attempt to replicate the game plan of the semifinals. It meant a hard first-half of through balls to the young lads from Mark Ave.
 
-The first real chance of the game came to **Jarrod**, whose shot could only find the outside of the upright. Mark Ave followed this up with a decent penalty shout as Will felt contact in the box, but it was waved away.
+The first real chance of the game came to **Jarrod**, whose shot could only find the outside of the upright. Mark Ave followed this up with a decent penalty shout as **Will** felt contact in the box, but it was waved away.
 
 Mark Ave then got on their bikes. Will was played in down the right and a low cross found Byron Bay Hatch at the back post.
 
@@ -79,3 +79,13 @@ Tyler, for kicking the ball away then we won a free kick and were behind. As min
 # End of Season
 
 A marathon season for the Frothers. With 5 new babies, 4 rookies, 6 centurions, a summer title, a mid-season relegation, 21 games, and 0 remaining brownie points the Frothers take a break until next winter.
+
+**Photo Credit**: AP Sports Photography
+
+{{< rawhtml >}} <div class="row">
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAPSportsPhotographyNZ%2Fposts%2Fpfbid024ndzJwUP7KHKXCrZDPBeHaZjNP3SYHAwGqibssXg3gGbSXu11dKkxNyA1LQcJMNil&show_text=true&width=500" width="500" height="652" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+</div>
+
+{{< /rawhtml >}}
