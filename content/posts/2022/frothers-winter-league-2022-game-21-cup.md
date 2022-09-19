@@ -3,7 +3,6 @@ author = "Chris"
 categories = ["Match"]
 date = 2022-09-17T12:00:00Z
 description = "Frother's winter league game against Mark Ave FC"
-draft = true
 friendly = false
 frother_goals = 2
 images = []
@@ -24,7 +23,7 @@ goals = 1
 scorer = "Jacob Williamson"
 
 +++
-## Another shot at the cup
+# Another shot at the cup
 
 Last game of the season and it is a third straight year of making it to the plate final.
 
@@ -44,7 +43,9 @@ Mark Ave then got on their bikes. Will was played in down the right and a low cr
 
 > 0-1
 
-The goal put the Frothers on tilt and only a couple of minutes later **Sule** was found on the edge of the box after some careless possession. An outside of the boot shot found the corner with disgusting ease.
+![](/images/307040338_449156970609867_3252314779312686047_n.jpg)
+
+The goal put the Frothers on tilt and only a couple of minutes later **Sule** was found on the edge of the box after some careless possession. An outside of the boot shot found the corner with disgusting ease. Even wearing the Frothers shorts.
 
 > 0-2
 
@@ -84,13 +85,19 @@ The Frothers started pouring forwards to try to find a winner in the dying stage
 
 **Jacob** had to weather a storm down the left side in the first half and then popped up with a goal when playing further up the pitch.
 
+![](/images/307916034_449151140610450_1912140457110022528_n.jpg)
+
 ## Dick of the day
 
 **Tyler**, for kicking the ball away then we won a free kick and were behind. As mindless as the sacking of Tuchel. Sources report he was also asking for the head of the Frothers manager after the match.
 
+![](/images/307101397_449156683943229_891662395653066670_n.jpg)
+
 # End of Season
 
 A marathon season for the Frothers. With 5 new babies, 4 rookies, 6 centurions, a summer title, a mid-season relegation, 21 games, and 0 remaining brownie points the Frothers take a break until next winter.
+
+![](/images/307099441_449156770609887_3936592749605837399_n.jpg)
 
 **Photo Credit**: AP Sports Photography
 
