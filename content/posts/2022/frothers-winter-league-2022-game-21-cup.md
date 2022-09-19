@@ -83,7 +83,7 @@ The Frothers started pouring forwards to try to find a winner in the dying stage
 
 ## Man of the Match
 
-**Jacob** had to weather a storm down the left side in the first half and then popped up with a goal when playing further up the pitch.
+**Jacob** had to weather a storm down the left side in the first half and then popped up with a goal when playing further up the pitch. A great first season from the rookie. Special mention for **Angus** for dropping **Will** with a bigtime challenge. 
 
 ![](/images/307916034_449151140610450_1912140457110022528_n.jpg)
 
