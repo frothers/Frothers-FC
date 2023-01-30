@@ -6,7 +6,7 @@
     }
   }
   @include desktop {
-    background: $white;
+    background: $secondary-background-color;
   }
 }
 
@@ -26,7 +26,7 @@
 }
 
 .nav-bg {
-  background-color: $white;
+  background: $secondary-background-color;
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.161);
 }
 
@@ -38,8 +38,20 @@
   }
 }
 
+.navbar-light .navbar-brand {
+    color: $text-color;
+}
+
+.navbar-light .navbar-toggler {
+    color: $text-color;
+}
+
+.navbar-light .navbar-brand:hover {
+    color: $text-color-dark;
+}
+
 .navbar-light .navbar-nav .nav-link {
-  color: $text-color-dark;
+  color: $text-color;
   &:hover{
     color: $primary-color;
   }

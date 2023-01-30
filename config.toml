@@ -25,23 +25,23 @@ section = ["JSON", "HTML"]
 [params]
 author = "Chris Chester"
 contact_form_action = "#"
-copyright = "&copy; 2021 Chris Chester. All Rights Reserved"
+copyright = "&copy; 2023 Chris Chester. All Rights Reserved"
 description = "The official website for Frothers F.C., a Wellington based football club"
 googleAnalytics = "G-FQC0K3GZF5"
 google_tag_manager = ""
 home = "Home"
 images = ["images/badge.jpg"]
-logo = "images/banner/frother_logo.svg"
+logo = "images/svgs/frother_logo.svg"
 logoTitle = "Frothers F.C."
 title = "Frothers F.C."
 [params.banner]
-bgImage = "images/banner/sleeves.svg"
-image = "images/banner/frother_logo.svg"
+bgImage = "images/svgs/sleeves.svg"
+image = "images/svgs/frother_logo.svg"
 title = "Wellington Frothers FC"
 [params.cta]
 description = "Check the table."
 enable = true
-image = "images/highkick.svg"
+image = "images/svgs/highkick.svg"
 title = "Check the sunday league table"
 [params.cta.button]
 enable = true

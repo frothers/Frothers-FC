@@ -3,6 +3,30 @@ body {
   overflow-x: hidden;
 }
 
+.text-dark{
+    color: $text-color-dark!important;
+  }
+
+.card {
+    background-color: $secondary-background-color
+}
+
+.page-link {
+    background-color: $secondary-background-color
+}
+
+.list-group-item {
+    background-color: $primary-color
+}
+
+.badge-primary {
+    background-color: $body-color
+}
+
+canvas {
+    color: $text-color;
+}
+
 ::selection {
   background: lighten($color: $primary-color, $amount: 10);
   color: $white;
