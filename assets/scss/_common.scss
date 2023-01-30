@@ -23,10 +23,10 @@ body {
     background-color: $body-color
 }
 
-canvas {
+.custom-select {
+    background-color: $secondary-background-color;
     color: $text-color;
 }
-
 ::selection {
   background: lighten($color: $primary-color, $amount: 10);
   color: $white;
