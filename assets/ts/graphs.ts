@@ -12,6 +12,10 @@ let pointsChart: Chart;
 let cleanSheetChart: Chart;
 
 let re = /(\d+)\-(\w+)\-(\w+)/;
+const defaultColour = "#e6e6e6";
+
+Chart.defaults.global.defaultFontColor = defaultColour;
+Chart.defaults.global.defaultColor = defaultColour;
 
 export type YearSeason = {
   year: number,

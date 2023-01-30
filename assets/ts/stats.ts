@@ -6,6 +6,11 @@ import { getPlayerAppearances, yearlyAppearances } from './processors/statsData'
 
 let careerChart: Chart;
 
+const defaultColour = "#e6e6e6";
+
+Chart.defaults.global.defaultFontColor = defaultColour;
+Chart.defaults.global.defaultColor = defaultColour;
+
 /**
  * @summary Get the filter value
  */
@@ -152,6 +157,7 @@ export let populateStats = async function (name: string) {
       legend: {
         display: true,
         position: 'bottom',
+        
       },
       scales: {
         xAxes: [{
