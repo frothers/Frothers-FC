@@ -21,7 +21,8 @@ body {
 }
 
 .list-group-item {
-    background-color: $primary-color
+    background-color: $primary-color;
+    color: $body-color;
 }
 
 .badge-primary {

@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 blurb = "A man who has been dying to froth since he got his first taste a couple of years ago. An in-league transfer, Alain was found in the Frother's carpark on transfer day. The Frothers were more than happy to sign Alain and bring him into the fold, no-one more so than Ryan."
 fut_card = ""
 kit_number = 14

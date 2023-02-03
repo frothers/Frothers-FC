@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 blurb = "The Fabio of the Southern Hemisphere. Jack brings a commanding presence on the field with several 'don't argue' challenges and a dominance in the air. "
 teams = ["OG Frothers"]
 fut_card = "/images/141342615_435495897895389_3517719388078462203_n.jpg"

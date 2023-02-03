@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 blurb = "A rookie for the 2021 season. Some much needed young blood in the centre of defence."
 fut_card = ""
 kit_number = 13
