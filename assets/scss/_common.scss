@@ -5,7 +5,12 @@ body {
 
 .text-dark{
     color: $text-color-dark!important;
-  }
+}
+
+.right-alert{
+    color: $alert-color;
+    float:right;
+}
 
 .card {
     background-color: $secondary-background-color
