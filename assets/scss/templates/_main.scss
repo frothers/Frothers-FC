@@ -30,6 +30,15 @@
     @include desktop {
       display: block;
     }
+    padding: 40px;
+  }
+  .desktop-heading {
+    @include desktop-xl {
+        max-width: 600px;
+      }
+    @include desktop {
+        display: none;
+      }
   }
 }
 
