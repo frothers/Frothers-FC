@@ -14,7 +14,7 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers 2023 Preseason against the Sunday Blazers"
 type = "post"
-xi_and_subs = []
+xi_and_subs = ["Ryan Kindell", "Ian Rayns", "Chris Chester", "Ring-In", "Farshid Shokoohi", "Milan Mrdalj", "Charles Daily", "Evan Hanson", "Lance Molyneaux", "Yash Rosario", "Aaron Jackson", "Jamie Hatch"]
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"
