@@ -5,7 +5,7 @@ date = 2023-04-01T11:00:00Z
 description = "Preseason against Blazers"
 friendly = true
 frother_goals = 1
-images = []
+images = ["/images/918c18086594018ff798d7bc0576f0c0_crop_north.jpg"]
 match = true
 opponent = "Sunday Blazers"
 opponent_goals = 6
@@ -14,7 +14,7 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers 2023 Preseason against the Sunday Blazers"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Ian Rayns", "Chris Chester", "Ring-In", "Farshid Shokoohi", "Milan Mrdalj", "Charles Daily", "Evan Hanson", "Lance Molyneaux", "Yash Rosario", "Aaron Jackson", "Jamie Hatch"]
+xi_and_subs = ["Ryan Kindell", "Ian Rayns", "Chris Chester", "Ring-In", "Farshid Shokoohi", "Milan Mrdalj", "Charles Daily", "Evan Hanson", "Lance Molyneaux", "Yash Rosario", "Aaron Jackson", "Jamie Hatch", "Evan Doube"]
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"
