@@ -13,7 +13,7 @@
         "preview:webpack": "webpack serve --mode development --config webpack.dev.js --host 0.0.0.0 --public",
         "build": "npm run build:webpack && npm run build:hugo",
         "build:preview": "npm run build:webpack && npm run build:hugo:preview",
-        "build:hugo": "hugo -d ./dist -v -b $URL",
+        "build:hugo": "hugo -d ./dist -v -b $SITE_URL",
         "build:hugo:preview": "npm run build:hugo -- -D -F",
         "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
     },
