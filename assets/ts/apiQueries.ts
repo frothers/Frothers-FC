@@ -66,14 +66,17 @@ export let getGoalsData = async function () {
   let response = await axios.get(postsAPI);
   let data = response.data.data;
 
-  let goalscorers: gameData[] = data.items.map((a: postData) => {
+  let filteredData: postData[] = data.items.filter((a: postData) => {
     if (a.scorers === null
       || a.match.includes("true") !== true
       || (a.friendly && a.friendly.includes("true") === true)
       || (a.draft && a.draft.includes("true") === true)) {
-      return null;
+      return false;
     }
+    return true;
+  });
 
+  let goalscorers: gameData[] = filteredData.map(a => {
     let game: gameData = {
       "date": new Date(a.date),
       "season": a.season,
@@ -81,10 +84,7 @@ export let getGoalsData = async function () {
       "scorers": a.scorers
     }
     return game
-  }
-  );
-
-  goalscorers = goalscorers.filter((a: any) => a != null);
+  });
 
   return goalscorers;
 };
