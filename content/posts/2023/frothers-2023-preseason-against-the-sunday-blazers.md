@@ -1,6 +1,6 @@
 +++
 author = "Chris"
-categories = []
+categories = ["match"]
 date = 2023-04-01T11:00:00Z
 description = "Preseason against Blazers"
 friendly = true
