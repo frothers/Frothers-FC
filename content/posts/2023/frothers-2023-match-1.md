@@ -27,7 +27,7 @@ goals = 1
 scorer = "Aaron Jackson"
 
 +++
-> No machine can replace me.
+## No machine can replace me.
 
 ![](/images/screenshot_20230416_204832.png)
 
@@ -45,4 +45,20 @@ Luckily, it didn't take long for the Frothers to get into the swing of things. A
 
 > 1-2
 
-The 
+The worm had really turned, and the luck was finally starting to go the Frother's way. Pressing for more goals, the ball found **Shand** on the wing. Was it a cross? Was it a shot? The pros make these one in the same, and **Shand** managed to find the back post.
+
+> 2-2
+
+The Frothers almost took the lead within the first half, **Aaron** received the ball inside the opposition half, put the foot down, and was all of a sudden through on goal. Should he curl it? Should he chip it? The end result was not quite either and could only go wide. But the end result was the Geckos defense questioning why they decided football was meant to be fun.
+
+## Halftime
+
+The Frothers were back in the game and the lights were on. Time to bring it home
+
+Pouring on the pressure all half, it was coming. **Shand** narrowly missed two headers, and several near chances went begging. The xG was steadily creeping. A foul right on the edge of the box was just the opportunity that the Frothers were looking for.
+
+**Lance** stepped up and caught the keeper trying to get a head-start, thinking he was going over the wall. A low driven shot to the other side of the goal  found the back of the net and has opened up the door for several blazed set-peice attempts from **Lance** for the rest of the season.
+
+> 3-2
+
+The last 15 minutes appeared to draged-on, but the Frothers managed to keep their composure and take the 3 point, or at least the grading win... Maybe not the smartest result.
