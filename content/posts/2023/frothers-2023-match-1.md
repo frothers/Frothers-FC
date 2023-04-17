@@ -30,7 +30,7 @@ scorer = "Aaron Jackson"
 
 ![](/images/screenshot_20230416_204832.png)
 
-The boys are back and with a handful of new Frothers making their full debuts: Aaron, **Shand**, **Yash**, **Patrick** (TBD), **Farshid**, **Ian**, and **Doube**. **Doube** in particular came in clutch, filling in for Ryan in goal.
+The boys are back and with a handful of new Frothers making their full debuts: **Aaron**, **Shand**, **Yash**, **Patrick** (TBD), **Farshid**, **Ian**, and **Doube**. **Doube** in particular came in clutch, filling in for **Ryan** in goal.
 
 The Frothers were having the majority of possession and chances against div new boys, the Geckos. The rust did show for the Frothers though, and the first goal came through a combination of a missed header and the Geckos winger ghosting in. Shooting low, **Doube** could only get a foot on it.
 
