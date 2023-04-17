@@ -11,8 +11,8 @@ opponent = "Geckos FC"
 opponent_goals = 2
 result = "Win"
 season = "winter"
-team = "Foam Generators"
-title = "Frothers 2023 - Match 1"
+team = "OG Frothers"
+title = "Frothers 2023 - Game 1"
 type = "post"
 xi_and_subs = ["Evan Doube", "Ian Rayns", "Farshid Shokoohi", "Chris Chester", "Milan Mrdalj", "Ring-In", "Jamie Bunting", "Lance Molyneaux", "Yash Rosario", "Josh Shand", "Aaron Jackson", "Evan Hanson"]
 [[scorers]]
