@@ -27,7 +27,7 @@ Hugo is also required [hugo](https://gohugo.io/)
 Next step, clone this repository and run:
 
 ```bash
-npm install
+yarn install
 ```
 
 This will take some time and will install all packages necessary to run Hugo and its tasks.
@@ -44,13 +44,13 @@ git submodule update
 While developing your website, use:
 
 ```bash
-npm start
+yarn start
 ```
 
 or for developing your website with `hugo server --buildDrafts --buildFuture`, use:
 
 ```bash
-npm run preview
+yarn run preview
 ```
 
 Then visit http://localhost:1313/ _- or a new browser windows popped-up already -_ to preview your new website. Webpack Dev Server will automatically reload the CSS or refresh the whole page, when stylesheets or content changes.
@@ -60,7 +60,7 @@ Then visit http://localhost:1313/ _- or a new browser windows popped-up already 
 To build a static version of the website inside the `/dist` folder, run:
 
 ```bash
-npm run build
+yarn run build
 ```
 
 See [package.json](package.json#L8) for all tasks.

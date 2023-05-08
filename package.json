@@ -11,10 +11,10 @@
         "preview": "cross-env PORT=8080 run-p preview:**",
         "preview:hugo": "hugo -d ./dist -s site -vw -D -F ",
         "preview:webpack": "webpack serve --mode development --config webpack.dev.js --host 0.0.0.0 --public",
-        "build": "npm run build:webpack && npm run build:hugo",
-        "build:preview": "npm run build:webpack && npm run build:hugo:preview",
-        "build:hugo": "hugo -d ./dist -v -b $URL",
-        "build:hugo:preview": "npm run build:hugo -- -D -F",
+        "build": "yarn run build:webpack && yarn run build:hugo",
+        "build:preview": "yarn run build:webpack && yarn run build:hugo:preview",
+        "build:hugo": "hugo -d ./dist -v",
+        "build:hugo:preview": "yarn run build:hugo -- -D -F",
         "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
     },
     "repository": {
@@ -55,5 +55,9 @@
     },
     "hugo-bin": {
         "buildTags": "extended"
+    },
+    "dependencies": {
+        "@tinacms/cli": "1.5.11",
+        "tinacms": "1.5.4"
     }
 }
