@@ -45,7 +45,8 @@ After going 260 minutes without conceding The Frothers then let 3 in in 10 minut
 ![](/images/IMG_0608.JPG)
 
 ## Man of the Match
-The commonwealth will be asking Serbia to join after todays performance by **Milan Mrdalj**. Slotting in seamlessly in the midfield as well as both full back roles, **Milan** was crucial in attack and defence. A couple killer through balls giving him a pair of assists that Nikola Jokic would have been proud of.
+The commonwealth will be asking Serbia to join after todays performance by **Milan Mrdalj**. Slotting in seamlessly in the midfield as well as both full back roles, **Milan** was crucial in attack and defence. A couple killer through balls giving him a pair of assists that Nikola Jokic would have been proud of. Sorry for the photo.
+![](/images/345269035_623676713111736_2409131355427410467_n.jpg)
 
 ## Dick of the Day
 **Chris Chester** for bringing some bad vibes down and seeing a 4-0 lead cut to 1 in the 15 minutes he was present. Further cementing the award, he then threw the blame at The Frothers own beloved 74 year old **King Charles**.
