@@ -30,7 +30,7 @@ export default defineConfig({
         label: "Posts",
         name: "posts",
         path: "content/posts",
-        frontmatterFormat: "yaml",
+        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -50,7 +50,7 @@ export default defineConfig({
         label: "Squad Members",
         name: "squad_members",
         path: "content/squad-members",
-        frontmatterFormat: "yaml",
+        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -70,7 +70,7 @@ export default defineConfig({
         label: "Squad",
         name: "squad",
         path: "content/squad",
-        frontmatterFormat: "yaml",
+        frontmatterFormat: "toml",
         match: {
           include: "**/*",
         },
@@ -90,7 +90,7 @@ export default defineConfig({
         label: "Stats",
         name: "stats",
         path: "data/stats",
-        frontmatterFormat: "yaml",
+        frontmatterFormat: "json",
         match: {
           include: "*",
         },
@@ -109,7 +109,7 @@ export default defineConfig({
         label: "Next Match Info",
         name: "next_match_info",
         path: "data",
-        frontmatterFormat: "yaml",
+        frontmatterFormat: "toml",
         ui: {
           allowedActions: {
             create: false,
