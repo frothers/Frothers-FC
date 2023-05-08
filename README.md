@@ -11,16 +11,16 @@ To run:
 git clone
 git submodule init
 git submodule update
-npm install
+yarn install
 
-npm start
+yarn start
 
 
 ## Usage
 
 ### :exclamation: Prerequisites
 
-You need to have the latest/LTS [node](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) versions installed in order to use this Static Website builder.
+You need to have the latest/LTS [node](https://nodejs.org/en/download/) and yarn versions installed in order to use this Static Website builder.
 
 Hugo is also required [hugo](https://gohugo.io/)
 

@@ -1,7 +1,7 @@
 services:
   frothers:
     build: .
-    command: "npm start"
+    command: "yarn start"
     volumes:
       - ".:/app"
     ports:

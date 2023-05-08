@@ -1,4 +1,4 @@
 services:
   frothers:
     build: .
-    command: "npm run build"
+    command: "yarn run build"

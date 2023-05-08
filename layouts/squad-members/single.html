@@ -109,7 +109,7 @@
         <br>
 
         <!--Fut Card -->
-        {{ if gt (len .Params.fut_card) 0 }}
+        {{ if (.Params.fut_card) }}
         <div class="card">
           <img class="card-img-top" src="{{ .Params.fut_card | relURL }}" alt="{{.Params.title}}">
         </div>
