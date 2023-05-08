@@ -1,5 +1,5 @@
 +++
-author = "Yarride"
+"author" = "Yarride"
 categories = ["match"]
 date = 2023-04-29T12:00:00Z
 description = "Third of the grading games, against the Black Bulls"
