@@ -13,7 +13,7 @@
         "preview:webpack": "webpack serve --mode development --config webpack.dev.js --host 0.0.0.0 --public",
         "build": "yarn run build:webpack && yarn run build:hugo",
         "build:preview": "yarn run build:webpack && yarn run build:hugo:preview",
-        "build:hugo": "hugo -d ./dist -v",
+        "build:hugo": "hugo -d ./dist -v -b $URL",
         "build:hugo:preview": "yarn run build:hugo -- -D -F",
         "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
     },
