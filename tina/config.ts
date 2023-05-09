@@ -56,16 +56,7 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
-        fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
-          ...squad_memberFields(),
-        ],
+        fields: squad_memberFields()
       },
       {
         format: "md",

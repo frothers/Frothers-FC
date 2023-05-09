@@ -58,7 +58,9 @@ export function postFields() {
     {
       type: "string",
       name: "type",
+      options: ["post"],
       label: "type",
+      defaultItem: "post",
     },
     {
       type: "image",
@@ -71,11 +73,13 @@ export function postFields() {
       name: "categories",
       label: "categories",
       list: true,
+      defaultItem: ["match"],
     },
     {
       type: "boolean",
       name: "match",
       label: "For a match?",
+      defaultItem: true,
     },
     {
       type: "boolean",
@@ -86,7 +90,8 @@ export function postFields() {
       type: "string",
       name: "team",
       label: "Team",
-      options: ["Foam Generators", "OG Frothers"],
+      options: ["OG Frothers", "Foam Generators"],
+      defaultItem: "OG Frothers",
       required: true,
     },
     {
@@ -100,6 +105,7 @@ export function postFields() {
       name: "season",
       label: "Season",
       options: ["summer", "winter"],
+      defaultItem: "winter",
       required: true,
     },
     {
@@ -119,7 +125,6 @@ export function postFields() {
           type: "string",
           name: "scorer",
           label: "Scorer",
-          options: ["Lance", "Chris", "Yarride"],
         },
         {
           type: "number",
