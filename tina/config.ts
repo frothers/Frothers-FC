@@ -31,6 +31,7 @@ export default defineConfig({
         name: "posts",
         path: "content/posts",
         frontmatterFormat: "toml",
+        frontmatterDelimiters: "+++",
         match: {
           include: "**/*",
         },
@@ -51,6 +52,7 @@ export default defineConfig({
         name: "squad_members",
         path: "content/squad-members",
         frontmatterFormat: "toml",
+        frontmatterDelimiters: "+++",
         match: {
           include: "**/*",
         },
@@ -71,6 +73,7 @@ export default defineConfig({
         name: "squad",
         path: "content/squad",
         frontmatterFormat: "toml",
+        frontmatterDelimiters: "+++",
         match: {
           include: "**/*",
         },
@@ -90,7 +93,8 @@ export default defineConfig({
         label: "Stats",
         name: "stats",
         path: "data/stats",
-        frontmatterFormat: "json",
+        frontmatterFormat: "toml",
+        frontmatterDelimiters: "+++",
         match: {
           include: "*",
         },
@@ -110,6 +114,7 @@ export default defineConfig({
         name: "next_match_info",
         path: "data",
         frontmatterFormat: "toml",
+        frontmatterDelimiters: "+++",
         ui: {
           allowedActions: {
             create: false,
