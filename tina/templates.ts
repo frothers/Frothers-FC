@@ -1,4 +1,7 @@
 import type { TinaField } from "tinacms";
+
+let squadList = ["Yash Rosario", "Evan Doube", "Aaron Jackson", "Josh Shand", "Ian Rayns", "Farshid Shokoohi","Jacob Williamson", "Jamie Bunting", "OG", "Ring-In", "Charles Daily", "Jarrod Murray", "Milan Mrdalj", "Harry Furnish", "Evan Hanson", "Ryan Kindell", "Lance Molyneaux", "Chris Chester"];
+
 export function generic_pageFields() {
   return [
     {
@@ -120,11 +123,19 @@ export function postFields() {
       name: "scorers",
       label: "Scorers",
       list: true,
+      ui: {
+        itemProps: (item) => {
+          // Field values are accessed by item?.<Field name>
+          return { label: item?.scorer };
+        },
+      },
       fields: [
         {
+          component: "select",
           type: "string",
           name: "scorer",
           label: "Scorer",
+          options: squadList,
         },
         {
           type: "number",
@@ -146,9 +157,15 @@ export function postFields() {
       required: true,
     },
     {
+    //   type: "select",
       type: "string",
       name: "xi_and_subs",
       label: "XI and Subs",
+      component: 'list',
+      field: {
+        component: 'select',
+        options: squadList,
+      },
       list: true,
     },
   ] as TinaField[];
