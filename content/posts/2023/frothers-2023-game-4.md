@@ -2,7 +2,7 @@
 author = "Yarride"
 categories = ["match"]
 date = 2023-05-07T12:00:00Z
-description = "Third of the grading games, against Lazy XI"
+description = "Fourth of the grading games, against Lazy XI"
 friendly = false
 frother_goals = 4
 images  = ["/images/IMG_0622.JPG"]

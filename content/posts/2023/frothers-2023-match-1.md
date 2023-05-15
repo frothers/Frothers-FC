@@ -14,7 +14,7 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers 2023 - Game 1"
 type = "post"
-xi_and_subs = ["Evan Doube", "Ian Rayns", "Farshid Shokoohi", "Chris Chester", "Milan Mrdalj", "Ring-In", "Jamie Bunting", "Yash Rosario", "Lance Molyneaux", "Josh Shand", "Aaron Jackson", "Evan Hanson"]
+xi_and_subs = ["Evan Doube", "Ian Rayns", "Farshid Shokoohi", "Chris Chester", "Milan Mrdalj", "Patrick Cameron", "Jamie Bunting", "Yash Rosario", "Lance Molyneaux", "Josh Shand", "Aaron Jackson", "Evan Hanson"]
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"

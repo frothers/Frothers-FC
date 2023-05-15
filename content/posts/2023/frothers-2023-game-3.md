@@ -14,7 +14,7 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers 2023 - Game 3"
 type = "post"
-xi_and_subs = ["Ryan Kindell", "Ian Rayns", "Jacob Williamson", "Farshid Shokoohi", "Milan Mrdalj", "Evan Hanson", "Charles Daily", "Josh Shand", "Jamie Bunting", "Lance Molyneaux", "Jarrod Murray", "Yash Rosario", "Ring-In", "Evan Doube", "Yarride Rosario" ]
+xi_and_subs = ["Ryan Kindell", "Ian Rayns", "Jacob Williamson", "Farshid Shokoohi", "Milan Mrdalj", "Evan Hanson", "Charles Daily", "Josh Shand", "Jamie Bunting", "Lance Molyneaux", "Jarrod Murray", "Yash Rosario", "Patrick Cameron", "Evan Doube", "Yarride Rosario" ]
 [[scorers]]
 goals = 2
 scorer = "Jamie Bunting"

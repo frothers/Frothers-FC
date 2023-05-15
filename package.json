@@ -7,6 +7,7 @@
     "scripts": {
         "start": "run-p start:**",
         "start:hugo": "hugo -d ./dist -vw",
+        "start:tina": "npx tinacms dev",
         "start:webpack": "webpack serve --mode development --config webpack.dev.js --hot",
         "preview": "cross-env PORT=8080 run-p preview:**",
         "preview:hugo": "hugo -d ./dist -s site -vw -D -F ",
