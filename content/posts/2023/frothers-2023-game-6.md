@@ -55,7 +55,7 @@ Trying to regroup the Frothers suffered from an unforced error from your Baby Bo
 
 > 0-2, the most dangerous lead
 
-\~~Redemption~~ ~~Justice~~
+~~Redemption~~ ~~Justice~~
 
 The Frothers earned a freekick just inside the opponent's half and up stepped up **Chris** for an obligatory long-range freekick, courtesy of **Charles** supposedly. Just like the big man, Ronnie, I get one every so often that doesn't go into low orbit.
 
