@@ -15,14 +15,16 @@ module.exports = merge(common, {
 
   devServer: {
     port: process.env.PORT || 1313,
-    contentBase: path.join(process.cwd(), "./dist"),
-    watchContentBase: true,
-    quiet: false,
+    static: path.resolve(process.cwd(), "./dist"),
+
     open: true,
-    disableHostCheck: true,
+    allowedHosts: "auto",
     historyApiFallback: {
       rewrites: [{from: /./, to: "404.html"}]
     }
+  },
+  infrastructureLogging: {
+    level: 'verbose',
   },
 
   plugins: [

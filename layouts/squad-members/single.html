@@ -1,8 +1,5 @@
 {{ define "main" }}
-{{ $script := .Site.Data.webpack.squad }}
-{{ with $script.js }}
-<script src="{{ relURL . }}"></script>
-{{ end }}
+
 <section class="section">
   {{ $appearances := slice }}
   {{ $years := slice }}
@@ -95,7 +92,6 @@
             <h5 class="card-title">Frothers Career Stats</h5>
             <div class="graph" id="individual-stats-panel" data-player-name="{{ .Params.Title }}"
               data-years="{{ $years | jsonify}}" data-appearances="{{ $appearances | jsonify}}">
-              <canvas id="career-panel"></canvas>
             </div>
             <br>
             <a href="/stats/goalscrorers/" class="card-link">Team stats page</a>
@@ -120,4 +116,9 @@
     </div>
   </div>
 </section>
+
+{{ $script := .Site.Data.webpack.squad }}
+{{ with $script.js }}
+<script src="{{ relURL . }}"></script>
+{{ end }}
 {{ end }}

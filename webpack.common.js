@@ -7,9 +7,9 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
     entry: {
-        main: path.join(__dirname, "assets", "index.ts"),
-        stats: path.join(__dirname, "assets", "stats.ts"),
-        squad: path.join(__dirname, "assets", "squad.ts"),
+        main: path.join(__dirname, "assets", "index.tsx"),
+        stats: path.join(__dirname, "assets", "stats.tsx"),
+        squad: path.join(__dirname, "assets", "squad.tsx"),
     },
     devtool: 'source-map',
     output: {
