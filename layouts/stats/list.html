@@ -1,15 +1,12 @@
 {{ define "main" }}
-{{ $script := .Site.Data.webpack.stats }}
-{{ with $script.js }}
-<script src="{{ relURL . }}"></script>
-{{ end }}
+{{ $appearances := .Site.Data.stats.appearances }}
 
 <div class="text-center">
   <h2>Frothers Statistics</h2>
 </div>
 
-<section id="tabs">
-  {{ $appearances := .Site.Data.stats.appearances }}
+<section id="tabs" data-appearances="{{ $appearances | jsonify}}">
+  x
   <div class="container">
     <div class="row">
       <div class="input-group mb-3">
@@ -45,28 +42,35 @@
         <div class="tab-content py-4 px-4 px-sm-0" id="nav-tabContent">
           <div class="tab-pane fade show active" id="nav-goals" role="tabpanel" aria-labelledby="nav-goals-tab">
             <div class="text-center graph">
-              <canvas id="stats-panel"></canvas>
+              <div id="stats-panel"></div>
             </div>
           </div>
           <div class="tab-pane fade" id="nav-appearances" role="tabpanel" aria-labelledby="nav-appearances-tab">
             <div class="text-center graph">
-              <canvas id="appearances-panel" data-appearances="{{ $appearances | jsonify}}"></canvas>
+              {{/*  <div id="appearances-panel"></div>  */}}
             </div>
           </div>
           <div class="tab-pane fade" id="nav-points" role="tabpanel" aria-labelledby="nav-points-tab">
             <div class="text-center graph">
-              <canvas id="results-panel"></canvas>
+              <div id="results-panel"></div>
             </div>
           </div>
           <div class="tab-pane fade" id="nav-cleansheet" role="tabpanel" aria-labelledby="nav-cleansheet-tab">
             <div class="text-center graph">
-              <canvas id="cleansheet-panel"></canvas>
+              <div id="cleansheet-panel"></div>
             </div>
           </div>
 
         </div>
       </div>
     </div>
+
 </section>
+<div id="appearances-panel"></div>
+
+{{ $script := .Site.Data.webpack.stats }}
+{{ with $script.js }}
+<script src="{{ relURL . }}"></script>
+{{ end }}
 
 {{ end }}

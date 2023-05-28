@@ -23,7 +23,7 @@ export type matchGoals = {
 };
 
 export type matchAppearances = {
-    t: Date,
+    x: number,
     appearance: boolean,
     y: number
 };
@@ -234,7 +234,7 @@ export let parseAppearancesData = async function (year?: number, season?: string
             }
 
             playerData[playerIndex].data.push({
-                t : game.date,
+                x : game.date.valueOf(),
                 appearance: played,
                 y : newAppearances
             })
@@ -245,7 +245,7 @@ export let parseAppearancesData = async function (year?: number, season?: string
         playerData.forEach((playersData, index) => {
             // Aggregate all of the goals for a year
             playerData[index].data = _.values(_.reduce(playersData.data, function (result: any, obj) {
-                let year = obj.t.getFullYear();
+                let year = new Date(obj.x).getFullYear();
                 result[year] = {
                     t: Date.parse(year.toString()),
                     appearance: obj.appearance + (result[year] ? result[year].appearance : 0),
