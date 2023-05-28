@@ -1,44 +1,21 @@
 import * as React from 'react'
-import {
-  Chart as ChartJS,
-  Colors,
-  ChartDataset,
-  CategoryScale,
-  LinearScale,
-  ChartData, ChartOptions,
-  PointElement,
-  Point,
-  LineElement,
-  TimeScale,
-  Title,
-  Tooltip,
-  Legend,
-  defaults
-} from 'chart.js';
 import { createRoot } from 'react-dom/client';
-import { Line } from 'react-chartjs-2';
-
-
-ChartJS.register(
-  Colors,
-  CategoryScale,
-  LinearScale,
-  PointElement,
-  LineElement,
-  TimeScale,
-  Title,
-  Tooltip,
-  Legend
-);
-
-import 'chartjs-adapter-date-fns';
-import {enGB} from 'date-fns/locale';
-
+import { Chart } from 'react-charts';
 import * as _ from 'lodash';
 import { parsePlayerData, parsePointsData, parseCleanSheetData, matchGoals, matchResult, cleanSheets,
    AllSquadName, parseAppearancesData, matchAppearances } from './ts/processors/graphData'
 
 import { getPlayerAppearances, yearlyAppearances } from './ts/processors/statsData'
+
+type PersonalStats = {
+  date: Date,
+  value: number,
+}
+
+type Series = {
+  label: string,
+  data: PersonalStats[]
+}
 
 const defaultColour = "#e6e6e6";
 const screenWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
