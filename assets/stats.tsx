@@ -1,138 +1,120 @@
-import * as React from 'react'
-import { createRoot } from 'react-dom/client';
-import { Chart } from 'react-charts';
-import * as _ from 'lodash';
-import { parsePlayerData, parsePointsData, parseCleanSheetData, matchGoals, matchResult, cleanSheets,
-   AllSquadName, parseAppearancesData, matchAppearances } from './ts/processors/graphData'
+import * as React from "react";
+import { createRoot } from "react-dom/client";
+import { Chart } from "react-charts";
+import * as _ from "lodash";
+import {
+  parsePlayerData,
+  parsePointsData,
+  parseCleanSheetData,
+  matchGoals,
+  matchResult,
+  cleanSheets,
+  AllSquadName,
+  parseAppearancesData,
+  matchAppearances,
+} from "./ts/processors/graphData";
 
-import { getPlayerAppearances, yearlyAppearances } from './ts/processors/statsData'
+import {
+  getPlayerAppearances,
+  yearlyAppearances,
+} from "./ts/processors/statsData";
 
 type PersonalStats = {
-  date: Date,
-  value: number,
-}
+  date: Date;
+  value: number;
+};
 
 type Series = {
-  label: string,
-  data: PersonalStats[]
-}
+  label: string;
+  data: PersonalStats[];
+};
 
 const defaultColour = "#e6e6e6";
-const screenWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+const screenWidth = window.innerWidth > 0 ? window.innerWidth : screen.width;
 let displayLegend = screenWidth > 500;
-defaults.color = defaultColour;
 
-export const options: ChartOptions<'line'> = {
-  elements: {
-      line: {
-          tension: 0, // disables bezier curves
-      }
-  },
-  responsive: true,
-  maintainAspectRatio: false,
-  layout: {
-      padding: {
-          left: 50,
-          right: 50,
-          top: 0,
-          bottom: 0
-      }
-  },
-  plugins: {
-      legend: {
-          display: displayLegend,
-          position: 'bottom' as const,
-          // onClick: onClickFunc
-      },
-  },
-  scales: {
-      x: {
-        type: "time",
-        adapters: {
-          date: {locale: enGB}
-        }
-      },
-      y: {
-          suggestedMin: 0,
-          suggestedMax: 15,
-      },
-  },
-  // tooltips: {
-  //     callbacks: {
-  //         title: function (items, data) {
-  //             let title = "";
-  //             items.forEach((item, index) => {
-  //                 title += data.datasets[item.datasetIndex].label;
-  //                 if (index != (items.length - 1)) {
-  //                     title += ", "
-  //                 }
-  //             })
-
-  //             return title
-  //         },
-  //         footer: function (item, data) {
-  //             let dataItem = <matchAppearances>data.datasets[item[0].datasetIndex].data[item[0].index];
-  //             let yourDate = new Intl.DateTimeFormat('en', { year: 'numeric', month: 'short', day: '2-digit' }).format(dataItem.t);
-  //             return yourDate
-  //         },
-  //         label: function (item, data) {
-  //             let dataItem = <matchAppearances>data.datasets[item.datasetIndex].data[item.index];
-  //             return "Total:\t" + dataItem.y;
-  //         },
-  //         afterLabel: function (item, data) {
-  //             let dataItem = <matchAppearances>data.datasets[item.datasetIndex].data[item.index];
-  //             return (year?"(Gameday Appearance:\t":"(Season Appearances:\t") + dataItem.appearance + ")";
-  //         },
-  //     },
-  }
-
-interface LineProps {
-  options: ChartOptions<'line'>;
-  data: ChartData<'line'>;
-}
-interface IProps {
-}
+interface IProps {}
 
 interface IState {
-  stats?: ChartDataset<"line", (number | Point)[]>[];
+  stats?: Series;
 }
 
-class App extends React.Component<IProps, IState>  {
+class App extends React.Component<IProps, IState> {
   constructor(props: IProps) {
     super(props);
 
     this.state = {
-      stats: []
+      stats: {label: "Appear", data: []},
     };
   }
 
   async componentDidMount() {
-    let yearStuff =  getYearSeasonFilter();
-    let playerData = await getAppearancesGraphData(yearStuff.year, yearStuff.season, yearStuff.squadName);
-    this.setState({ stats: playerData });
+    let yearStuff = getYearSeasonFilter();
+    let playerData = await getAppearancesGraphData(
+      yearStuff.year,
+      yearStuff.season,
+      yearStuff.squadName
+    );
+    let stats: PersonalStats[];
+    stats = playerData[0].data.map((data) => {
+      let stat: PersonalStats;
+      stat.date = new Date(data.x);
+      stat.value = data.y;
+
+      return stat;
+    });
+
+    this.setState({ stats: stats });
   }
 
+  primaryAxis = React.useMemo(
+    (): AxisOptions<PersonalStats> => ({
+      getValue: (datum: PersonalStats) => datum.date,
+    }),
+
+    []
+  );
+
+  secondaryAxes = React.useMemo(
+    (): AxisOptions<PersonalStats>[] => [
+      {
+        getValue: (datum: PersonalStats) => datum.value,
+      },
+    ],
+
+    []
+  );
 
   render() {
-    return <Line options={options} data={{ datasets: this.state.stats,  }} />;
+    return (
+      <Chart
+        options={{
+          data : this.state.stats,primaryAxis: this.primaryAxis, secondaryAxes: this.secondaryAxes,
+        }}
+      />
+    );
   }
 }
 
-const container = document.getElementById('appearances-panel');
+const container = document.getElementById("appearances-panel");
 const root = createRoot(container!);
 root.render(<App />);
 
-export let getAppearancesGraphData = async function (year: number, season: string, squadName: string) {
-  let playerData = await parseAppearancesData(year, season, squadName);
-
-  let formatedPlayerData
-  return playerData;
-}
-
-export type YearSeason = {
+export let getAppearancesGraphData = async function (
   year: number,
   season: string,
   squadName: string
+) {
+  let playerData = await parseAppearancesData(year, season, squadName);
+
+  let formatedPlayerData;
+  return playerData;
+};
+
+export type YearSeason = {
+  year: number;
+  season: string;
+  squadName: string;
 };
 
 let re = /(\d+)\-(\w+)\-(\w+)/;
@@ -150,22 +132,20 @@ function getYearSeasonFilter(): YearSeason {
     output = {
       year: null,
       season: null,
-      squadName: AllSquadName
-    }
-  }
-  else {
+      squadName: AllSquadName,
+    };
+  } else {
     let regex = re.exec(input.value);
 
     output = {
       year: parseInt(regex[1]),
       season: regex[2],
       squadName: regex[3],
-    }
+    };
   }
 
   return output;
 }
-
 
 // import { getYearSeasonFilter, updateAllGraphs } from "./ts/graphs";
 
@@ -187,7 +167,6 @@ function getYearSeasonFilter(): YearSeason {
 //   let yearSeason = getYearSeasonFilter();
 //   updateAllGraphs(yearSeason.year, yearSeason.season, yearSeason.squadName);
 // }
-
 
 // let screenWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
 
@@ -306,9 +285,9 @@ function getYearSeasonFilter(): YearSeason {
 //     //         scales: {
 //     //             x: {
 //     //                 type: 'time',
-//     //                 adapters: { 
+//     //                 adapters: {
 //     //                     date: {
-//     //                     //   locale: enNZ, 
+//     //                     //   locale: enNZ,
 //     //                     },
 //     //                   },
 //     //                 time: {
@@ -318,7 +297,7 @@ function getYearSeasonFilter(): YearSeason {
 //     //             y: {
 //     //                 suggestedMin: 0,
 //     //                 suggestedMax: 15,
-                    
+
 //     //             }
 //     //         },
 //     //         // tooltip: {
@@ -401,9 +380,9 @@ function getYearSeasonFilter(): YearSeason {
 //             scales: {
 //                 x: {
 //                     type: 'time',
-//                     adapters: { 
+//                     adapters: {
 //                         date: {
-//                         //   locale: enAU, 
+//                         //   locale: enAU,
 //                         },
 //                     },
 //                     time: {
@@ -413,7 +392,7 @@ function getYearSeasonFilter(): YearSeason {
 //                 y: {
 //                     suggestedMin: 0,
 //                     suggestedMax: 15,
-                
+
 //                 },
 //             },
 //             tooltips: {
@@ -459,7 +438,7 @@ function getYearSeasonFilter(): YearSeason {
 //     if (temp == null) {
 //         return;
 //     }
-    
+
 //     let ctx = temp.getContext("2d");
 
 //     if (pointsChart) {
@@ -495,9 +474,9 @@ function getYearSeasonFilter(): YearSeason {
 //             scales: {
 //                 x: {
 //                     type: 'time',
-//                     adapters: { 
+//                     adapters: {
 //                         date: {
-//                         //   locale: enAU, 
+//                         //   locale: enAU,
 //                         },
 //                     },
 //                     time: {
@@ -505,10 +484,10 @@ function getYearSeasonFilter(): YearSeason {
 //                     }
 //                 },
 //                 y: {
-                    
+
 //                         suggestedMin: 0,
 //                         suggestedMax: 15,
-                    
+
 //                 }
 //             },
 //             plugins: {
@@ -582,7 +561,7 @@ function getYearSeasonFilter(): YearSeason {
 //                     tension: 0, // disables bezier curves
 //                 }
 //             },
-            
+
 //             responsive: true,
 //             maintainAspectRatio: false,
 //             layout: {
@@ -596,9 +575,9 @@ function getYearSeasonFilter(): YearSeason {
 //             scales: {
 //                 x: {
 //                     type: 'time',
-//                     adapters: { 
+//                     adapters: {
 //                         date: {
-//                         //   locale: enAU, 
+//                         //   locale: enAU,
 //                         },
 //                     },
 //                     time: {
@@ -606,10 +585,10 @@ function getYearSeasonFilter(): YearSeason {
 //                     }
 //                 },
 //                 y: {
-                    
+
 //                         suggestedMin: 0,
 //                         suggestedMax: 5,
-                    
+
 //                 }
 //             },
 //             plugins: {
