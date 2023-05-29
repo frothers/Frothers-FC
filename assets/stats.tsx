@@ -44,6 +44,7 @@ class App extends React.Component<IProps, IState> {
   }
 }
 
+
 const container = document.getElementById("appearances-panel");
 const root = createRoot(container!);
 root.render(<App />);

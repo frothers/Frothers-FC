@@ -1,17 +1,18 @@
-import * as React from 'react'
-import { createRoot } from 'react-dom/client';
-import { VictoryChart, VictoryLine, VictoryStyleInterface, VictoryLineProps } from "victory";
-import * as _ from 'lodash';
-import { parsePlayerData } from './ts/processors/graphData'
-import { getPlayerAppearances, yearlyAppearances } from './ts/processors/statsData'
-
-const defaultColour = "#e6e6e6";
+import * as React from "react";
+import { createRoot } from "react-dom/client";
+import { VictoryChart, VictoryLine, VictoryVoronoiContainer } from "victory";
+import { theme, colors } from "./ts/theme";
+import * as _ from "lodash";
+import { parsePlayerData } from "./ts/processors/graphData";
+import {
+  getPlayerAppearances,
+  yearlyAppearances,
+} from "./ts/processors/statsData";
 
 export type Line = {
-  data: { x: number, y: number }[],
-}
-
-
+  data: { x: Date; y: number }[],
+  label: string
+};
 
 /**
  * @summary Get the filter value
@@ -22,22 +23,22 @@ export let getPlayerName = function (): string {
     return "";
   }
   return input.getAttribute("data-player-name");
-}
+};
 
 /**
  * @summary Get player stats
  */
 export let getStats = async function (name: string) {
   let totalGoals = 0;
-  let allPlayerData = await parsePlayerData() || [];
+  let allPlayerData = (await parsePlayerData()) || [];
 
-  let playerData = _.find(allPlayerData, { "label": name });
+  let playerData = _.find(allPlayerData, { label: name });
 
   if (playerData === undefined) {
     return;
   }
 
-  playerData.data.forEach(game => {
+  playerData.data.forEach((game) => {
     totalGoals = game.goals + totalGoals;
   });
 
@@ -54,91 +55,93 @@ export let getStats = async function (name: string) {
 
   let allAppearances = dataAppearances;
 
-  gameAppearances.forEach(element => {
+  gameAppearances.forEach((element) => {
     let arrayPos = _.findIndex(dataAppearances, ["year", element.year]);
 
     if (arrayPos > -1) {
-      allAppearances[arrayPos].appearances = dataAppearances[arrayPos].appearances + element.appearances;
-    }
-    else {
+      allAppearances[arrayPos].appearances =
+        dataAppearances[arrayPos].appearances + element.appearances;
+    } else {
       allAppearances.push(element);
     }
   });
 
-  let appearances = dataAppearances.map(apps => {
+  let appearances = dataAppearances.map((apps) => {
     let app = {
-      x: apps.year,
-      y: apps.appearances
-    }
+      x: new Date(apps.year, 1, 1),
+      y: apps.appearances,
+    };
     return app;
   });
 
   let totalAppearances = 0;
-  appearances.forEach(app => {
+  appearances.forEach((app) => {
     totalAppearances = totalAppearances + app.y;
-  })
+  });
 
   let appearancesElement = document.getElementById("appearances");
 
   // Set appearances string
   appearancesElement.innerText = totalAppearances.toString();
 
-  let goals = playerData.data.map(goal => {
+  let goals = playerData.data.map((goal) => {
+    let year = new Date(goal.t).getFullYear();
     let point = {
-      x: new Date(goal.t).getFullYear(),
-      y: goal.goals
-    }
+      x: new Date(year, 1, 1),
+      y: goal.goals,
+    };
     return point;
-  })
+  });
 
   // Populate missing appearance years
-  goals.forEach(goalYear => {
-    if (0 > _.findIndex(appearances, { "x": goalYear.x })) {
+  goals.forEach((goalYear) => {
+    if (0 > _.findIndex(appearances, { x: goalYear.x })) {
       let point = {
         x: goalYear.x,
-        y: 0
-      }
+        y: 0,
+      };
       appearances.push(point);
     }
-  })
+  });
 
-  appearances.sort((a, b) => (a.x > b.x) ? 1 : -1)
+  appearances.sort((a, b) => (a.x > b.x ? 1 : -1));
 
   let appearanceLine: Line = {
-    data: appearances
-  }
+    data: appearances,
+    label: "Appearances"
+  };
 
   let goalsLine: Line = {
-    data: goals
-  }
+    data: goals,
+    label: "Goals"
+  };
 
-  return [goalsLine, appearanceLine]
-}
+  return [goalsLine, appearanceLine];
+};
 
-interface IProps {
-}
+interface IProps {}
 
 interface IState {
   stats?: Line[];
 }
 
-const style: VictoryStyleInterface = {
-  data: { stroke: "red" }
-}
-
-class App extends React.Component<IProps, IState>  {
+class App extends React.Component<IProps, IState> {
   constructor(props: IProps) {
     super(props);
 
     this.state = {
-      stats: [{
-        data: [
-          { x: 1, y: 13000 },
-          { x: 2, y: 16500 },
-          { x: 3, y: 14250 },
-          { x: 4, y: 19000 }
-        ]
-      }],
+      stats: [
+        {
+          label: "Test",
+          data: [
+            { x: new Date(2001), y: 12 },
+            { x: new Date(2001), y: 10 },
+            { x: new Date(2003), y: 11 },
+            { x: new Date(2004), y: 5 },
+            { x: new Date(2005), y: 4 },
+          ],
+        },
+      ],
     };
   }
 
@@ -149,23 +152,31 @@ class App extends React.Component<IProps, IState>  {
   }
 
   render() {
-
     return (
-      <VictoryChart style={style}>
-        {this.state.stats.map(stat => {
-          return (<VictoryLine
-            data={stat.data}
-            x="x"
-            y="y"
-            style = {style}
-          />)
-        })
-        }
+      <VictoryChart theme={theme} containerComponent={
+        <VictoryVoronoiContainer
+          labels={({ datum }) => `${datum.x.getFullYear()}, ${_.round(datum.y, 2)}`}    />}>
+        {this.state.stats.map((stat, index) => {
+
+          return (
+            // @ts-ignore 
+            <VictoryLine
+              data={stat.data}
+              scale={{ x: "time", y: "linear" }}
+              x="x"
+              y="y"
+              label={stat.label}
+              style={{
+                data: { stroke: colors[index % colors.length], strokeWidth: 5 },
+              }}
+            />
+          );
+        })}
       </VictoryChart>
     );
   }
 }
 
-const container = document.getElementById('individual-stats-panel');
+const container = document.getElementById("individual-stats-panel");
 const root = createRoot(container!);
 root.render(<App />);
