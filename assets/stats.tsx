@@ -1,33 +1,12 @@
 import * as React from "react";
 import { createRoot } from "react-dom/client";
-import { Chart } from "react-charts";
+import { VictoryLine } from "victory"
 import * as _ from "lodash";
 import {
-  parsePlayerData,
-  parsePointsData,
-  parseCleanSheetData,
-  matchGoals,
-  matchResult,
-  cleanSheets,
   AllSquadName,
   parseAppearancesData,
   matchAppearances,
 } from "./ts/processors/graphData";
-
-import {
-  getPlayerAppearances,
-  yearlyAppearances,
-} from "./ts/processors/statsData";
-
-type PersonalStats = {
-  date: Date;
-  value: number;
-};
-
-type Series = {
-  label: string;
-  data: PersonalStats[];
-};
 
 const defaultColour = "#e6e6e6";
 const screenWidth = window.innerWidth > 0 ? window.innerWidth : screen.width;
@@ -36,7 +15,7 @@ let displayLegend = screenWidth > 500;
 interface IProps {}
 
 interface IState {
-  stats?: Series;
+  stats?: [];
 }
 
 class App extends React.Component<IProps, IState> {
@@ -44,7 +23,7 @@ class App extends React.Component<IProps, IState> {
     super(props);
 
     this.state = {
-      stats: {label: "Appear", data: []},
+      stats: [],
     };
   }
 
@@ -55,43 +34,12 @@ class App extends React.Component<IProps, IState> {
       yearStuff.season,
       yearStuff.squadName
     );
-    let stats: PersonalStats[];
-    stats = playerData[0].data.map((data) => {
-      let stat: PersonalStats;
-      stat.date = new Date(data.x);
-      stat.value = data.y;
-
-      return stat;
-    });
-
-    this.setState({ stats: stats });
+    
   }
-
-  primaryAxis = React.useMemo(
-    (): AxisOptions<PersonalStats> => ({
-      getValue: (datum: PersonalStats) => datum.date,
-    }),
-
-    []
-  );
-
-  secondaryAxes = React.useMemo(
-    (): AxisOptions<PersonalStats>[] => [
-      {
-        getValue: (datum: PersonalStats) => datum.value,
-      },
-    ],
-
-    []
-  );
 
   render() {
     return (
-      <Chart
-        options={{
-          data : this.state.stats,primaryAxis: this.primaryAxis, secondaryAxes: this.secondaryAxes,
-        }}
-      />
+      <VictoryLine></VictoryLine>
     );
   }
 }
@@ -107,7 +55,6 @@ export let getAppearancesGraphData = async function (
 ) {
   let playerData = await parseAppearancesData(year, season, squadName);
 
-  let formatedPlayerData;
   return playerData;
 };
 

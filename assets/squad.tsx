@@ -1,38 +1,16 @@
 import * as React from 'react'
 import { createRoot } from 'react-dom/client';
-import { Scatter } from 'react-chartjs-2';
-import {
-  Chart as ChartJS,
-  Colors,
-  ChartDataset,
-  CategoryScale,
-  LinearScale,
-  Tick,
-  PointElement,
-  Point,
-  LineElement,
-  Title,
-  Tooltip,
-  Legend,
-  defaults
-} from 'chart.js';
+import { VictoryChart, VictoryLine, VictoryStyleInterface, VictoryLineProps } from "victory";
 import * as _ from 'lodash';
 import { parsePlayerData } from './ts/processors/graphData'
 import { getPlayerAppearances, yearlyAppearances } from './ts/processors/statsData'
 
 const defaultColour = "#e6e6e6";
-defaults.color = defaultColour;
 
-ChartJS.register(
-  Colors,
-  CategoryScale,
-  LinearScale,
-  PointElement,
-  LineElement,
-  Title,
-  Tooltip,
-  Legend
-);
+export type Line = {
+  data: { x: number, y: number }[],
+}
+
 
 
 /**
@@ -41,7 +19,7 @@ ChartJS.register(
 export let getPlayerName = function (): string {
   let input = document.getElementById("individual-stats-panel");
   if (input == null) {
-    return;
+    return "";
   }
   return input.getAttribute("data-player-name");
 }
@@ -88,7 +66,7 @@ export let getStats = async function (name: string) {
   });
 
   let appearances = dataAppearances.map(apps => {
-    let app: Point = {
+    let app = {
       x: apps.year,
       y: apps.appearances
     }
@@ -106,7 +84,7 @@ export let getStats = async function (name: string) {
   appearancesElement.innerText = totalAppearances.toString();
 
   let goals = playerData.data.map(goal => {
-    let point: Point = {
+    let point = {
       x: new Date(goal.t).getFullYear(),
       y: goal.goals
     }
@@ -116,7 +94,7 @@ export let getStats = async function (name: string) {
   // Populate missing appearance years
   goals.forEach(goalYear => {
     if (0 > _.findIndex(appearances, { "x": goalYear.x })) {
-      let point: Point = {
+      let point = {
         x: goalYear.x,
         y: 0
       }
@@ -126,76 +104,26 @@ export let getStats = async function (name: string) {
 
   appearances.sort((a, b) => (a.x > b.x) ? 1 : -1)
 
-  let appearanceLine: ChartDataset<"scatter", (number | Point)[]> = {
-    label: "Appearances",
-    backgroundColor: "#3e95cd",
-    showLine: true,
+  let appearanceLine: Line = {
     data: appearances
   }
 
-  let goalsLine: ChartDataset<"scatter", (number | Point)[]> = {
-    label: "Goals",
-    backgroundColor: "#8e5ea2",
-    showLine: true,
+  let goalsLine: Line = {
     data: goals
   }
 
   return [goalsLine, appearanceLine]
 }
 
-export const options = {
-  elements: {
-    line: {
-      tension: 0, // disables bezier curves
-      fill: true
-    }
-  },
-  locale: 'en-NZ',
-  responsive: true,
-  maintainAspectRatio: false,
-  layout: {
-    padding: {
-      left: 50,
-      right: 50,
-      top: 0,
-      bottom: 0
-    }
-  },
-  plugins: {
-    legend: {
-      position: 'bottom' as const,
-    },
-    title: {
-      display: false,
-    },
-  },
-  scales: {
-    x: {
-      suggestedMin: 2017,
-      suggestedMax: 2023,
-      ticks: {
-        stepSize: 1,
-        callback: function (tickValue: number | string, index: number, ticks: Tick[]) {
-          return String(tickValue);
-        }
-      }
-    },
-    y: {
-
-      beginAtZero: true,
-      suggestedMin: 0,
-      suggestedMax: 15,
-
-    }
-  },
-
-};
-
 interface IProps {
 }
 
 interface IState {
-  stats?: ChartDataset<"scatter", (number | Point)[]>[];
+  stats?: Line[];
+}
+
+const style: VictoryStyleInterface = {
+  data: { stroke: "red" }
 }
 
 class App extends React.Component<IProps, IState>  {
@@ -203,7 +131,14 @@ class App extends React.Component<IProps, IState>  {
     super(props);
 
     this.state = {
-      stats: []
+      stats: [{
+        data: [
+          { x: 1, y: 13000 },
+          { x: 2, y: 16500 },
+          { x: 3, y: 14250 },
+          { x: 4, y: 19000 }
+        ]
+      }],
     };
   }
 
@@ -213,9 +148,21 @@ class App extends React.Component<IProps, IState>  {
     this.setState({ stats: stats });
   }
 
-  // const labels = ['Goals', 'Appearances'];
   render() {
-    return <Scatter options={options} data={{ datasets: this.state.stats }} />;
+
+    return (
+      <VictoryChart style={style}>
+        {this.state.stats.map(stat => {
+          return (<VictoryLine
+            data={stat.data}
+            x="x"
+            y="y"
+            style = {style}
+          />)
+        })
+        }
+      </VictoryChart>
+    );
   }
 }
 
