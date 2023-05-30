@@ -1,62 +1,62 @@
-import { default as axios } from 'axios';
-import * as _ from 'lodash';
+import { default as axios } from "axios";
+import * as _ from "lodash";
 
-const postsAPI = '/posts/index.json';
-const squadAPI = '/squad/index.json';
+const postsAPI = "/posts/index.json";
+const squadAPI = "/squad/index.json";
 
 export type postData = {
-  title: string,
-  match: string,
-  season: string,
-  team: string,
-  friendly: string,
-  draft: string,
-  date: string,
-  result: string,
-  frother_goals: string,
-  opponent_goals: string,
-  permalink: string,
-  scorers: any[],
-  xi: string[]
+  title: string;
+  match: string;
+  season: string;
+  team: string;
+  friendly: string;
+  draft: string;
+  date: string;
+  result: string;
+  frother_goals: string;
+  opponent_goals: string;
+  permalink: string;
+  scorers: any[];
+  xi: string[];
 };
 
 export type squadData = {
-  players: string[],
-  name: string
+  players: string[];
+  name: string;
 };
 
 export type gameData = {
-  date: Date,
-  season: string,
-  team: string,
-  scorers: scorerData[]
+  date: Date;
+  season: string;
+  team: string;
+  scorers: scorerData[];
 };
 
 export type appearanceData = {
-  date: Date,
-  season: string,
-  team: string,
-  xi_and_subs: string[]
+  date: Date;
+  season: string;
+  team: string;
+  xi_and_subs: string[];
 };
 
 export type resultData = {
-  date: Date,
-  season: string,
-  team: string,
-  result: string
+  date: Date;
+  season: string;
+  team: string;
+  result: string;
 };
 
 export type matchGoalsData = {
-  date: Date,
-  season: string,
-  team: string,
-  frother_goals: number,
-  opponent_goals: number
+  date: Date;
+  season: string;
+  team: string;
+  frother_goals: number;
+  opponent_goals: number;
 };
 
 export type scorerData = {
-  scorer: string,
-  goals: number
+  scorer: string;
+  goals: number;
 };
 
 /**
@@ -67,23 +67,26 @@ export let getGoalsData = async function () {
   let data = response.data.data;
 
   let filteredData: postData[] = data.items.filter((a: postData) => {
-    if (a.scorers === null
-      || a.match.includes("true") !== true
-      || (a.friendly && a.friendly.includes("true") === true)
-      || (a.draft && a.draft.includes("true") === true)) {
+    if (
+      a.scorers === null ||
+      a.match.includes("true") !== true ||
+      (a.friendly && a.friendly.includes("true") === true) ||
+      (a.draft && a.draft.includes("true") === true)
+    ) {
       return false;
     }
     return true;
   });
 
-  let goalscorers: gameData[] = filteredData.map(a => {
+  let goalscorers: gameData[] = filteredData.map((a) => {
+    let date = a.date.replace(/-/g, "/");
     let game: gameData = {
-      "date": new Date(a.date),
-      "season": a.season,
-      "team": a.team,
-      "scorers": a.scorers
-    }
-    return game
+      date: new Date(date),
+      season: a.season,
+      team: a.team,
+      scorers: a.scorers,
+    };
+    return game;
   });
 
   return goalscorers;
@@ -92,27 +95,28 @@ export let getGoalsData = async function () {
 /**
  * @summary Goal scorers graphics.
  */
- export let getAppearancesData = async function () {
+export let getAppearancesData = async function () {
   let response = await axios.get(postsAPI);
   let data = response.data.data;
 
   let appearances: appearanceData[] = data.items.map((a: postData) => {
-    if (a.xi === null
-      || a.match.includes("true") !== true
-      || (a.friendly && a.friendly.includes("true") === true)
-      || (a.draft && a.draft.includes("true") === true)) {
+    if (
+      a.xi === null ||
+      a.match.includes("true") !== true ||
+      (a.friendly && a.friendly.includes("true") === true) ||
+      (a.draft && a.draft.includes("true") === true)
+    ) {
       return null;
     }
-
+    let date = a.date.replace(/-/g, "/");
     let game: appearanceData = {
-      "date": new Date(a.date),
-      "season": a.season,
-      "team": a.team,
-      "xi_and_subs": a.xi,
-    }
-    return game
-  }
-  );
+      date: new Date(date),
+      season: a.season,
+      team: a.team,
+      xi_and_subs: a.xi,
+    };
+    return game;
+  });
 
   appearances = appearances.filter((a: any) => a != null);
 
@@ -127,22 +131,23 @@ export let getResultsData = async function () {
   let data = response.data.data;
 
   let results: resultData[] = data.items.map((a: postData) => {
-    if (a.result === null
-      || a.match.includes("true") !== true
-      || (a.friendly && a.friendly.includes("true") === true)
-      || (a.draft && a.draft.includes("true") === true)) {
+    if (
+      a.result === null ||
+      a.match.includes("true") !== true ||
+      (a.friendly && a.friendly.includes("true") === true) ||
+      (a.draft && a.draft.includes("true") === true)
+    ) {
       return null;
     }
-
+    let date = a.date.replace(/-/g, "/");
     let result: resultData = {
-      "date": new Date(a.date),
-      "season": a.season,
-      "team": a.team,
-      "result": a.result
-    }
-    return result
-  }
-  );
+      date: new Date(date),
+      season: a.season,
+      team: a.team,
+      result: a.result,
+    };
+    return result;
+  });
 
   results = results.filter((a: any) => a != null);
 
@@ -157,23 +162,24 @@ export let getMatchGoalsData = async function () {
   let data = response.data.data;
 
   let matchGoals: matchGoalsData[] = data.items.map((a: postData) => {
-    if (a.result === null
-      || a.match.includes("true") !== true
-      || (a.friendly && a.friendly.includes("true") === true)
-      || (a.draft && a.draft.includes("true") === true)) {
+    if (
+      a.result === null ||
+      a.match.includes("true") !== true ||
+      (a.friendly && a.friendly.includes("true") === true) ||
+      (a.draft && a.draft.includes("true") === true)
+    ) {
       return null;
     }
-
+    let date = a.date.replace(/-/g, "/");
     let result: matchGoalsData = {
-      date: new Date(a.date),
+      date: new Date(date),
       season: a.season,
-      "team": a.team,
+      team: a.team,
       frother_goals: parseInt(a.frother_goals),
-      opponent_goals: parseInt(a.opponent_goals)
-    }
-    return result
-  }
-  );
+      opponent_goals: parseInt(a.opponent_goals),
+    };
+    return result;
+  });
 
   matchGoals = matchGoals.filter((a: any) => a != null);
 
@@ -189,12 +195,11 @@ export let getSquadData = async function (name: string) {
 
   let squad: squadData;
   data.items.forEach((element: squadData) => {
-      let cleanName = element.name.toLowerCase().replace(/\s/g, '');
-      if (cleanName === name){
-        squad = element;
-      }
+    let cleanName = element.name.toLowerCase().replace(/\s/g, "");
+    if (cleanName === name) {
+      squad = element;
+    }
   });
 
   return squad;
 };
-
