@@ -108,3 +108,4 @@ dist
 data/webpack.json
 resources/
 node_modules
+public/

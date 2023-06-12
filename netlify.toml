@@ -1,6 +1,6 @@
 [build.environment]
   YARN_VERSION = "1.22.19"
-  NODE_VERSION = "17.3.0"
+  NODE_VERSION = "18.16.0"
   HUGO_VERSION = "0.91.2"
   SITE_URL = "https://www.frothersfc.com/"
   
