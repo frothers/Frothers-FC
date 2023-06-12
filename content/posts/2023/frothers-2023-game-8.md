@@ -94,8 +94,8 @@ The last real piece of action of the match was when **Ryan** saved a late 1-on-1
 
 ## Man of the Match
 
-Milan's dad for bringing beer and watching the game in cold. Then having to pretend to like Djokovic.
+**Milan**'s dad for bringing beer and watching the game in cold. Then having to pretend to like Djokovic.
 
 ## Dick of the Day
 
-Fresh to the team, but already trying to forge a legacy, Farshid picks up his first of DotD. A missed header followed by an attempted and failed handball. This feels like the beginning of something special.
+Fresh to the team, but already trying to forge a legacy, **Farshid** picks up his first of DotD. A missed header followed by an attempted and failed handball. This feels like the beginning of something special.
