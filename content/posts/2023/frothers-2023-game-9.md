@@ -42,9 +42,39 @@ scorer = "Aaron Jackson"
 goals = 1
 +++
 
+An earlier kick-off and the return of the Evans. The boys were up against a familiar opponent in LBQ and looking at cementing their position in the champions league spots. The photographer even came.
+
 ## First Half
 
+The Frothers took control of the game from the start, but were unable to find much flow going forwards. The midfield was being packed by both teams and decent possession was hard to come by.
+
+![](/355080615_719454136856583_2350150522894641977_n.jpg)
+
+It was time for the Frothers to wind back the clock and go for some classic route 1 football. With the LBQ Midfield all packed together Lance was able to run past the defence and be fed by Chris from deep. With an seeming eternity to pick his spot Lance was able to keep his hot form going.
+
+> 1-0 
+
+![](/354463905_719449723523691_6610508785232527292_n.jpg)
+
+Not to be outdone, Aaron moved level again with Lance as top scorer. After some great work to dispossess the opposition midfielder, it was Lance himself who played Aaron in.
+
+> 2-0
+
+![](/354551452_719454890189841_4360048926953672714_n.jpg)
+
 ## Halftime
+
+The LBQ boys rung some changes and a couple of the old hands came into the game. The Frothers struggled to recapture their momentum and it was all LBQ for the start of the second half.
+
+LBQ finally made the pressure tell and were able to string some good passing together, with the striker taking a composed touch and finish to get LBQ back in the game.
+
+> 2-1
+
+![](/355076801_719454046856592_3345805197226924181_n.jpg)
+
+The boys were able to hang-on for the rest of the match for a hard fought victory, moving them to second on the table!
+
+![](/354879011_719453853523278_4174886285088428668_n.jpg)
 
 ## Man of the Match
 
