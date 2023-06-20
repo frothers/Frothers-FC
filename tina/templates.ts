@@ -81,7 +81,7 @@ export function postFields() {
     {
       type: "boolean",
       name: "draft",
-      label: "draft",
+      label: "Prevent posting on Site? (Draft)",
       defaultItem: true,
     },
     {
