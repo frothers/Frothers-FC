@@ -74,6 +74,8 @@ LBQ finally made the pressure tell and were able to string some good passing tog
 
 ![](/355076801_719454046856592_3345805197226924181_n.jpg)
 
+A hold-up in play happended not long after as **Evan H** went down again for what must be double didgets this season. The glassman grim reeper is surely circling.
+
 The boys were able to hang-on for the rest of the match for a hard fought victory, moving them to second on the table!
 
 ![](/354879011_719453853523278_4174886285088428668_n.jpg)
@@ -84,7 +86,7 @@ The boys were able to hang-on for the rest of the match for a hard fought victor
 
 ## Dick of the Day
 
-**Shand **tried to take the bullet for him, but it has to go to my man **Charles**. Receiving possession in a dangerous position, **Charles** attempted the old-head move of just booting it into an opposition player for a throw, but managed to just toe poke it into touch.
+**Shand** tried to take the bullet for him, but it has to go to my man **Charles**. Receiving possession in a dangerous position, **Charles** attempted the old-head move of just booting it into an opposition player for a throw, but managed to just toe poke it into touch.
 
 {{\< rawhtml >}} <div class="row"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2Fpfbid02UqQTMzaNqR31sn23MpCzeBDeJdRH9WPXANjxfC1nC9dAMdXRCWDiTX5TezzL7iPMl&show_text=true&width=500" width="500" height="765" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div>
 
