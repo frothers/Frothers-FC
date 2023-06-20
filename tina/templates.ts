@@ -80,6 +80,12 @@ export function postFields() {
     },
     {
       type: "boolean",
+      name: "draft",
+      label: "draft",
+      defaultItem: true,
+    },
+    {
+      type: "boolean",
       name: "match",
       label: "For a match?",
       defaultItem: true,
