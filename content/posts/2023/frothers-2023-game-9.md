@@ -44,6 +44,8 @@ goals = 1
 
 An earlier kick-off and the return of the Evans. The boys were up against a familiar opponent in LBQ and looking at cementing their position in the champions league spots. The photographer even came.
 
+![](/354576500_719454746856522_3121542777844665919_n.jpg)
+
 ## First Half
 
 The Frothers took control of the game from the start, but were unable to find much flow going forwards. The midfield was being packed by both teams and decent possession was hard to come by.
@@ -78,11 +80,11 @@ The boys were able to hang-on for the rest of the match for a hard fought victor
 
 ## Man of the Match
 
-**Milan**'s dad for bringing beer and watching the game in cold. Then having to pretend to like Djokovic.
+**Lance**' with the goal, assist, and just being a huge pest to the opposition.
 
 ## Dick of the Day
 
-Fresh to the team, but already trying to forge a legacy, **Farshid** picks up his first of DotD. A missed header followed by an attempted and failed handball. This feels like the beginning of something special.
+**Shand **tried to take the bullet for him, but it has to go to my man **Charles**. Receiving possession in a dangerous position, **Charles** attempted the old-head move of just booting it into an opposition player for a throw, but managed to just toe poke it into touch.
 
 {{\< rawhtml >}} <div class="row"><iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FNZSundayFootball%2Fposts%2Fpfbid02UqQTMzaNqR31sn23MpCzeBDeJdRH9WPXANjxfC1nC9dAMdXRCWDiTX5TezzL7iPMl&show_text=true&width=500" width="500" height="765" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> </div>
 
