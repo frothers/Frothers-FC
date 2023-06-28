@@ -28,7 +28,7 @@ xi_and_subs = [
   "Jarrod Murray",
   "Aaron Jackson"`,
   "Yash Rosario",
-  "Yarride Rosario",
+  "Yarride Rosario"
 ]
 
 [[scorers]]

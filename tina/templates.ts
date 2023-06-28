@@ -1,6 +1,6 @@
 import type { TinaField } from "tinacms";
 
-let squadList = ["", "Yash Rosario", "Evan Doube", "Aaron Jackson", "Josh Shand", "Ian Rayns", "Farshid Shokoohi","Jacob Williamson", "Jamie Bunting", "OG", "Ring-In", "Charles Daily", "Jarrod Murray", "Milan Mrdalj", "Harry Furnish", "Evan Hanson", "Ryan Kindell", "Lance Molyneaux", "Chris Chester", "Patrick Cameron"];
+let squadList = ["", "Yash Rosario", "Yarride Rosario", "Evan Doube", "Aaron Jackson", "Josh Shand", "Ian Rayns", "Farshid Shokoohi","Jacob Williamson", "Jamie Bunting", "OG", "Ring-In", "Charles Daily", "Jarrod Murray", "Milan Mrdalj", "Harry Furnish", "Evan Hanson", "Ryan Kindell", "Lance Molyneaux", "Chris Chester", "Patrick Cameron"];
 
 export function generic_pageFields() {
   return [
