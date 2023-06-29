@@ -26,7 +26,7 @@ xi_and_subs = [
   "Josh Shand",
   "Lance Molyneaux",
   "Jarrod Murray",
-  "Aaron Jackson"`,
+  "Aaron Jackson",
   "Yash Rosario",
   "Yarride Rosario"
 ]
