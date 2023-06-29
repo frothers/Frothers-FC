@@ -68,6 +68,8 @@ With some work down the left wing **Jarrod** dropped the ball in front of **Lanc
 
 The Penny Traders found themselves plagued by injuries, including one poor lad who did a number on his leg. Despite **Ian**'s protestations of not touching the player, the laws of physics said otherwise and the player was brought down for a free kick. The game was brought to a halt for a forever-coming ambulance for the player who was eventually ferried off to the hospital in a car. Thanks Public Health spending. The Penny Traders had to call in ex-Habbibis mercenary reinforcements who were sitting like vultures on the sideline, waiting for a game.
 
+![Rough Tackle](https://media.giphy.com/media/l41YhU1mLz0mh7QHK/giphy.gif)
+
 As the second half kicked off, the goal frenzy took a break, but the opportunities didn't with **Jarrod** almost hitting the net on a couple of occasions; the opposition keeper also making some great saves. While the Frothers may have eased off the gas pedal in the second half, leaving ample space on the field and squandering a few opportunities, it doesn't diminish the sheer magnificence of the resounding and emphatic victory.
 
 On a momentous note, **Yarride** reached a monumental milestone, playing his 100th game for the club. A feat achieved by only a few, despite not officially being part of the squad this year, which seems suspicious. Nevertheless, it's a testament to his dedication and passion for the game as one of the 2017 founders of the club.
