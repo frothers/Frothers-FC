@@ -74,10 +74,12 @@ On a momentous note, **Yarride** reached a monumental milestone, playing his 100
 
 ## Dick of the Day
 
-**Yash** clinched the dubious honour of the "Dick of the Day" award, thanks to the world's worst yellow card, while the rest of the team put in some hard work, with forwards playing out of position in midfield. 
+**Yash** clinched the dubious honour of the "Dick of the Day" award, thanks to the world's worst yellow card, while the rest of the team put in some hard work, with forwards playing out of position in midfield.
 
 ## Man of the Match
 
 **Farshid** showed up with a great offensive and defence display (despite that "clean" tackle) while **Ryan** literally put is face on the line to keep that clean sheet. However, that competition was batted away by **Jarrod** for the MotM award; getting himself into the right places, creating opportunities, working hard upfront as well as the middle and capping it all off with a goal and two assists. Stellar stuff.
 
 Frothers FC delivering an absolute stunner, crushing the Marist Penny Traders with a spectacular 5-0 victory continued their fine form for the season. And as the sun set on that unlikely, beautifully still Wellington afternoon, a beaming **Evan Hansen**, watching from the sidelines, gave his stamp of approval, enviously wishing away his injury and hailing it as one of our team's finest performances of the season.
+
+![Nodding guy](https://media.giphy.com/media/xKy2w6LehxxHa/giphy.gif)
