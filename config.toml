@@ -39,14 +39,14 @@ bgImage = "images/svgs/sleeves.svg"
 image = "images/svgs/frother_logo.svg"
 title = "Wellington Frothers FC"
 [params.cta]
-description = "Check the table."
+description = "See this weekends WSFL fixtures."
 enable = true
 image = "images/svgs/highkick.svg"
-title = "Check the sunday league table"
+title = "Check the Schedule"
 [params.cta.button]
 enable = true
-label = "Open Table"
-link = "https://www.sportzone.org.nz/competitions/124/wellington-sunday-football-league/wellington-sunday-football-league/winter-2021"
+label = "Open Schedule"
+link = "https://www.sportzone.org.nz/competitions/179/wellington-sunday-football-league/wellington-sunday-football-league/winter-2023/schedule"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
