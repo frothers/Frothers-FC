@@ -1,7 +1,7 @@
 +++
 title = "Frothers 2023 - Game 10"
 description = "10th and last grading game, against Marist Penny Traders"
-author = "Chris"
+author = "Lance"
 date = 2023-06-24T12:00:00.000Z
 type = "post"
 images = [ "/356298190_1355208705026197_5317491094537483627_n.jpg" ]
