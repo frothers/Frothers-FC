@@ -4,14 +4,16 @@ import { next_matchFields } from "./templates";
 import { squadFields } from "./templates";
 import { postFields } from "./templates";
 import { squad_memberFields } from "./templates";
+import { config } from 'dotenv';
+config();
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
 
 export default defineConfig({
   branch,
-  clientId: "08520a81-4437-4353-9606-e374b17a11e0", // Get this from tina.io
-  token: "d32b7c957232003fcc5be988d081026c0af592d7", // Get this from tina.io
+  clientId: process.env.TINA_CLIENT_ID,
+  token: process.env.TINA_TOKEN,
   client: { skip: true },
   build: {
     outputFolder: "admin",

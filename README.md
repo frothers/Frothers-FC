@@ -100,19 +100,13 @@ The `assets/index.js` file is the entrypoint for webpack and will be built to `/
 
 ## Environment variables
 
-To separate the development and production _- aka build -_ stages, all gulp tasks run with a node environment variable named either `development` or `production`.
+To separate the development and production _- aka build -_ stages, all tasks run with a node environment variable named either `development` or `production`.
 
 You can access the environment variable inside the theme files with `getenv "NODE_ENV"`. See the following example for a conditional statement:
 
     {{ if eq (getenv "NODE_ENV") "development" }}You're in development!{{ end }}
 
 All tasks starting with _build_ set the environment variable to `production` - the other will set it to `development`.
-
-## Hooking up Forrestry
-
-- Push your clone to your own GitHub repository.
-- Create an account on Forestry.io.
-- Link your repo to your forestry account
 
 **Preview**
 *Todo*
