@@ -22,7 +22,6 @@ xi_and_subs = [
   "Evan Doube",
   "Milan Mrdalj",
   "Charles Daily",
-  "Jamie Bunting",
   "Josh Shand",
   "Lance Molyneaux",
   "Jarrod Murray",
