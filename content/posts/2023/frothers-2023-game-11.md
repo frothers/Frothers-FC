@@ -3,7 +3,7 @@
 title = "Frothers 2023 - Game 11"
 description = "11th game of the Winter Season, against Mark Ave"
 author = "Farshid"
-date = 2023-13-24T12:00:00.000Z
+date = 2023-07-09T12:00:00.000Z
 type = "post"
 draft = true
 images = [ "/356298190_1355208705026197_5317491094537483627_n.jpg" ]
