@@ -20,14 +20,14 @@ xi_and_subs = [
   "Ryan Kindell",
   "Ian Rayns",
   "Farshid Shokoohi",
-  "Jacob Williamson".
+  "Jacob Williamson",
   "Ring-In",
   "Josh Shand",
   "Charles Daily",
   "Evan Hanson",
   "Jarrod Murray",
   "Aaron Jackson",
-  "Yash Rosario",
+  "Yash Rosario"
 ]
 
 +++
