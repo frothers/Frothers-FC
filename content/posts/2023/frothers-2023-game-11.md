@@ -8,7 +8,6 @@ type = "post"
 draft = true
 images = [ "/356298190_1355208705026197_5317491094537483627_n.jpg" ]
 categories = [ "match" ]
-draft = false
 match = true
 friendly = false
 team = "OG Frothers"
