@@ -1,4 +1,3 @@
-
 +++
 title = "Frothers 2023 - Game 11"
 description = "11th game of the Winter Season, against Mark Ave"
@@ -31,7 +30,6 @@ xi_and_subs = [
   "Aaron Jackson",
   "Patrick Cameron"
 ]
-
 +++
 
 On a rainy day at Ascot Park in Porirua, with the absence of  some key players, Frothers FC took to the field for their game. The weather conditions added an extra challenge to the match, with the rain making the pitch wet and potentially affecting the gameplay. Despite the unfavourable weather, both teams battled it out in an attempt to secure a victory.
