@@ -55,6 +55,6 @@ module.exports = {
                 from: "./assets/fonts/",
                 to: "fonts/"
             }]
-        })
+        }),
     ]
 };

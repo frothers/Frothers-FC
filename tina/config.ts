@@ -4,8 +4,6 @@ import { next_matchFields } from "./templates";
 import { squadFields } from "./templates";
 import { postFields } from "./templates";
 import { squad_memberFields } from "./templates";
-import { config } from 'dotenv';
-config();
 
 // Your hosting provider likely exposes this as an environment variable
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";

@@ -59,7 +59,8 @@
         "buildTags": "extended"
     },
     "dependencies": {
-        "@tinacms/cli": "1.5.11",
-        "tinacms": "1.5.4"
+        "@tinacms/cli": "^1.5.24",
+        "process": "^0.11.10",
+        "tinacms": "^1.5.15"
     }
 }
