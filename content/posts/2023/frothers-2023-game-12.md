@@ -10,7 +10,7 @@ draft = false
 match = true
 friendly = false
 team = "OG Frothers"
-opponent = "Mark Ave"
+opponent = "LBQ"
 season = "winter"
 result = "Loss"
 frother_goals = 0
@@ -41,7 +41,7 @@ LBQ weren't letting the rain slow them down and got straight into the match. Aft
 
 After another 10 minutes the Frothers still couldn't find any rhythm and LBQ were able to take advantage and get a second quite soft goal.
 
-> 0-2 
+> 0-2
 
 Feeling they had the football gods on their side, LBQ were able to start stringing together some outrageous stuff. First a backheel flick off a cross for the third.
 
