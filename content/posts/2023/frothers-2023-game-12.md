@@ -28,6 +28,7 @@ xi_and_subs = [
   "Jarrod Murray",
   "Aaron Jackson",
   "Evan Hanson",
+  "Charles Daily",
   "Yash Rosario",
   "Lance Molyneaux"
 ]
