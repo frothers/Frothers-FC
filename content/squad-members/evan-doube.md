@@ -3,11 +3,11 @@ active = true
 blurb = "A new powerhouse in the Frothers backline, Doube is a force to be reckoned with either going forward or on defence. Bringing a positive attitude and youthful spirit to bring a smile to even the crusiest of Frothers."
 fut_card = ""
 kit_number = 15
-mug_shot = ""
-photos = []
+mug_shot = "/IMG_0628.JPG"
+photos = [ "/IMG_0624.JPG" ]
 position = "Defender"
-teams = ["OG Frothers"]
+teams = [ "OG Frothers" ]
 title = "Evan Doube"
-year_joined = "2023"
-
+year_joined = 2023-01-01T00:00:00.000Z
 +++
+
