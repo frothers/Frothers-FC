@@ -158,5 +158,45 @@
     "player": "Harry Furnish",
     "award": "Academy Award",
     "year": 2021
+  },
+  {
+    "player": "Jamie Hatch",
+    "award": "Stormtrooper",
+    "year": 2022
+  },
+  {
+    "player": "Tavis Wells",
+    "award": "Glassman",
+    "year": 2022
+  },
+  {
+    "player": "Tavis Wells",
+    "award": "Glassman",
+    "year": 2022
+  },
+  {
+    "player": "Lance Molyneaux",
+    "award": "Goal of the Season",
+    "year": 2022
+  },
+  {
+    "player": "Tyler Jackson",
+    "award": "Golden Boot",
+    "year": 2022
+  },
+  {
+    "player": "Jacob Williamson",
+    "award": "Best Rookie",
+    "year": 2022
+  },
+  {
+    "player": "Ryan Kindell",
+    "award": "Frother of the Year",
+    "year": 2022
+  },
+  {
+    "player": "Ryan Kindell",
+    "award": "MVP",
+    "year": 2022
   }
 ]
