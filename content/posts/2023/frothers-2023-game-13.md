@@ -1,10 +1,10 @@
 +++
-title = "Frothers 2023 - Game 12"
-description = "12th game of the Winter Season, against LBQ"
+title = "Frothers 2023 - Game 13 Cup"
+description = "First round of the cup, against LBQ"
 author = "Chris"
-date = 2023-07-22T12:00:00.000Z
+date = 2023-07-29T12:00:00.000Z
 type = "post"
-images = [ "/355080615_719454136856583_2350150522894641977_n.jpg" ]
+images = [ "/354576500_719454746856522_3121542777844665919_n.jpg" ]
 categories = [ "match" ]
 draft = false
 match = true
@@ -40,29 +40,33 @@ scorer = "Jarrod Murray"
 goals = 1
 +++
 
-The winter weather had properly set in as the Frothers too on LBQ again at Wellington College. The Frothers had to wait until just before kickoff to get a full XI and the Frothers took this hunger into the match.
+The Frothers had an immediate shot at redemption, facing a LBQ team that soundly beat them last week.
 
-LBQ weren't letting the rain slow them down and got straight into the match. After about ten minutes they made hay down the wing and had a low cross parried directly to one of their player's feet.
+The Frothers love a cup and were going for a 4th straight finals appearance this season.
 
-> 0-1
+## First Half
 
-After another 10 minutes the Frothers still couldn't find any rhythm and LBQ were able to take advantage and get a second quite soft goal.
+The Frothers immediately set-up in a lot more solidly than last week and were able to easily quash any LBQ attacks.
 
-> 0-2
+LBQ were packing the midfield again so the Frothers had to resort to other tactics to get opportunities. A clearance come through-ball from Chris found Jarrod on the edge of the box. Jarrod was able to beat his man to it and cut inside and finish at the near post.
 
-Feeling they had the football gods on their side, LBQ were able to start stringing together some outrageous stuff. First a backheel flick off a cross for the third.
+> 1-0
 
-> 0-3
+Not long after the boys tried around rather than over. Aaron saw Yash breaking free and sent an early through-ball that Yash decided to hit first time with the toe to completely bamboozle the keeper.
 
-Then a volley from a freekick.
+{{\< vimeo 850395736 >}}
 
-> 0-4
+> 2-0
 
 ## Halftime
 
-Ian and  Farshid had had enough and left to go watch the Sweden women's team, purely as research I'm sure.
+LBQ decided to go with a different tactic in the second half now that they had the wind, bombing everyone up the middle.
 
-The second-half was a bit of a wash, with neither team really having any great chances.
+This paid dividends after 20 minutes as a ball bobbled through into the box and through the use of a well timed headlock the LBQ striker was able to get on the end of it.
+
+> 2-1 
+
+This goal was just what LBQ needed to 
 
 ## Man of the Match
 
