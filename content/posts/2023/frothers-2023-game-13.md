@@ -48,7 +48,7 @@ The Frothers love a cup and were going for a 4th straight finals appearance this
 
 The Frothers immediately set-up in a lot more solidly than last week and were able to easily quash any LBQ attacks. Doube did manage to pick himself up a classy yellow got a good old fashioned ball-or-man chop.
 
-LBQ were packing the midfield again so the Frothers had to resort to other tactics to get opportunities. A clearance come through-ball from Chris found Jarrod on the edge of the box. Jarrod was able to beat his man to it and cut inside and finish at the near post.
+LBQ were packing the midfield again so the Frothers had to resort to other tactics to get opportunities. A clearance come through-ball from Chris found Jarrod on the edge of the box. Jarrod was able to beat his man to it and cut inside and finish at the near post, on his 50th appearance no less.
 
 > 1-0
 
