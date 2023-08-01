@@ -8,7 +8,7 @@ photos = [ "/354578347_719454486856548_1478064261683675388_n.jpg", "" ]
 position = "Defender"
 teams = [ "OG Frothers" ]
 title = "Farshid Shokoohi"
-year_joined = 2023-01-01T00:00:00.000Z
+year_joined = 2023
 +++
 
 

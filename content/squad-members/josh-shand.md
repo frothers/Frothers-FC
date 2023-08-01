@@ -8,6 +8,6 @@ photos = [ ]
 position = "Forward"
 teams = [ "OG Frothers" ]
 title = "Josh Shand"
-year_joined = 2023-01-01T00:00:00.000Z
+year_joined = 2023
 +++
 
