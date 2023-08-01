@@ -46,13 +46,13 @@ The Frothers love a cup and were going for a 4th straight finals appearance this
 
 ## First Half
 
-The Frothers immediately set-up in a lot more solidly than last week and were able to easily quash any LBQ attacks. Doube did manage to pick himself up a classy yellow got a good old fashioned ball-or-man chop.
+The Frothers immediately set-up in a lot more solidly than last week and were able to easily quash any LBQ attacks. **Doube** did manage to pick himself up a classy yellow got a good old fashioned ball-or-man chop.
 
-LBQ were packing the midfield again so the Frothers had to resort to other tactics to get opportunities. A clearance come through-ball from Chris found Jarrod on the edge of the box. Jarrod was able to beat his man to it and cut inside and finish at the near post, on his 50th appearance no less.
+LBQ were packing the midfield again so the Frothers had to resort to other tactics to get opportunities. A clearance come through-ball from **Chris** found **Jarrod** on the edge of the box. **Jarrod** was able to beat his man to it and cut inside and finish at the near post, on his 50th appearance no less.
 
 > 1-0
 
-Not long after the boys tried around rather than over. Aaron saw Yash breaking free and sent an early through-ball that Yash decided to hit first time with the toe to completely bamboozle the keeper.
+Not long after the boys tried around rather than over. **Aaron** saw **Yash** breaking free and sent an early through-ball that **Yash** decided to hit first time with the toe to completely bamboozle the keeper.
 
 {{< vimeo 850395736 >}}
 
@@ -64,7 +64,7 @@ LBQ decided to go with a different tactic in the second half now that they had t
 
 This paid dividends after 20 minutes as a ball bobbled through into the box and through the use of a well timed headlock the LBQ striker was able to get on the end of it.
 
-> 2-1 
+> 2-1
 
 This goal was just what LBQ needed to start the bullshit train. A miss-hit potshot somehow floated into the top corner to level things up.
 
@@ -80,8 +80,8 @@ Pushing everyone up the Frothers were it on the break to settle things
 
 ## Man of the Match
 
-Ian had a huge game down the right on both attack and defence. LBQ needed to resort to the dark arts to finally get by him.
+**Ian** had a huge game down the right on both attack and defence. LBQ needed to resort to the dark arts to finally get by him.
 
 ## Dick of the Day
 
-Everyone who fluffed a back-heel, which was everybody who tried one. Special mention goes to **Evan Hansen **who gave **Yash** as dressing down for being wasteful, only to then do the exact same thing 5 mins later.
+Everyone who fluffed a back-heel, which was everybody who tried one. Special mention goes to **Evan Hansen** who gave **Yash** as dressing down for being wasteful, only to then do the exact same thing 5 mins later.
