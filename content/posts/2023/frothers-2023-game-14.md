@@ -28,6 +28,7 @@ xi_and_subs = [
   "Lance Molyneaux",
   "Ring-In"
 ]
+images = [ "/358455333_734176568717673_1931924475458434263_n.jpg" ]
 
 [[scorers]]
 scorer = "Lance Molyneaux"
@@ -62,4 +63,8 @@ As the half dragged on the fatigue really set in an large spaces started to open
 
 ## Man of the Match
 
+**Ian** gets a back to back man of the match. Doing heaps of running up the wing is only bettered by bringing enough beers for the boys to really get stuck in afterwards.
+
 ## Dick of the Day
+
+Anyone that didn't show. One sub would have been the difference.
