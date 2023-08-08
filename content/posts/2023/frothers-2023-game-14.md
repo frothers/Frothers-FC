@@ -18,59 +18,48 @@ xi_and_subs = [
   "Ryan Kindell",
   "Ian Rayns",
   "Farshid Shokoohi",
-  "Chris Chester",
-  "Josh Shand",
   "Jacob Williamson",
-  "Evan Hanson",
-  "Jarrod Murray",
+  "Ring-In",
+  "Chris Chester",
   "Charles Daily",
+  "Josh Shand",
+  "Evan Hanson",
   "Yash Rosario",
-  "Aaron Jackson",
-  "Evan Doube",
-  "Jamie Bunting"
+  "Lance Molyneaux",
+  "Ring-In"
 ]
+
+[[scorers]]
+scorer = "Lance Molyneaux"
+goals = 1
 +++
 
-Out as Ascot part vs Purple Reign 
+Out as Ascot part vs Purple Reign.
 
 ## First Half
 
-The Frothers immediately set-up in a lot more solidly than last week and were able to easily quash any LBQ attacks. **Doube** did manage to pick himself up a classy yellow got a good old fashioned ball-or-man chop.
+A new look Frothers XI this week which must have been repping an average age in the mid thirties. **Salty **was enticed out of physio's pocket and **Ryan M** had his first game for the Frothers after some time on the sideline with an ACL.
 
-LBQ were packing the midfield again so the Frothers had to resort to other tactics to get opportunities. A clearance come through-ball from **Chris** found **Jarrod** on the edge of the box. **Jarrod** was able to beat his man to it and cut inside and finish at the near post, on his 50th appearance no less.
+It didn't take long until the cry of a reawakened injury cut through the air with **Ryan M **getting caught by a challenge in the air. It was going to be a long day with no subs.
+
+The Frothers were well in the match, however, and even opened the scoring as **Lance** was able to take on a man and finish a shot off the left foot into the bottom corner.
 
 > 1-0
 
-Not long after the boys tried around rather than over. **Aaron** saw **Yash** breaking free and sent an early through-ball that **Yash** decided to hit first time with the toe to completely bamboozle the keeper.
+A hard fought half looked like the Frothers would go into halftime in the lead, however a deflected shot following a corner left **Kindle** for dead.
 
-{{\< vimeo 850395736 >}}
-
-> 2-0
+> 1-1
 
 ## Halftime
 
-LBQ decided to go with a different tactic in the second half now that they had the wind, bombing everyone up the middle.
+The Frothers were well in it, but were quickly running out of energy.
 
-This paid dividends after 20 minutes as a ball bobbled through into the box and through the use of a well timed headlock the LBQ striker was able to get on the end of it.
+Purple Reign were able to take the lead as their player was able to glide into the box almost unchallenged and hit it to the keeper's right.
 
-> 2-1
+> 1-2
 
-This goal was just what LBQ needed to start the bullshit train. A miss-hit potshot somehow floated into the top corner to level things up.
-
-> 2-2
-
-Adding a bit on injury to insult LBQ were able to press-on and grab the lead by following through on a challenge on Ryan to allow the ball to fall to an LBQ player with an open net.
-
-> 2-3
-
-Pushing everyone up the Frothers were it on the break to settle things
-
-> 2-4
+As the half dragged on the fatigue really set in an large spaces started to open up.
 
 ## Man of the Match
 
-**Ian** had a huge game down the right on both attack and defence. LBQ needed to resort to the dark arts to finally get by him.
-
 ## Dick of the Day
-
-Everyone who fluffed a back-heel, which was everybody who tried one. Special mention goes to **Evan Hansen** who gave **Yash** as dressing down for being wasteful, only to then do the exact same thing 5 mins later.
