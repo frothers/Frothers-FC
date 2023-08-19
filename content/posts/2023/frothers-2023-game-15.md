@@ -1,6 +1,6 @@
 +++
 title = "Frothers 2023 - Game 15"
-description = "Game 14 of the season against Mark Ave"
+description = "Game 15 of the season against Mark Ave"
 author = "Chris"
 date = 2023-08-12T12:00:00.000Z
 type = "post"
@@ -30,6 +30,10 @@ xi_and_subs = [
   "Ring-In",
   "Farshid Shokoohi"
 ]
+
+[[scorers]]
+scorer = "OG"
+goals = 1
 
 [[scorers]]
 scorer = "Josh Shand"
