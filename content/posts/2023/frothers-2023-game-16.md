@@ -1,6 +1,6 @@
 +++
 title = "Frothers 2023 - Game 16"
-description = "Game 15 of the season against Tuscan Raiders"
+description = "Game 16 of the season against Tuscan Raiders"
 author = "Chris"
 date = 2023-08-26T12:00:00.000Z
 type = "post"
@@ -31,6 +31,12 @@ xi_and_subs = [
 ]
 
 [[scorers]]
+scorer = "Jarrod Murray"
+goals = 1
+
+[[scorers]]
+scorer = "Evan Hanson"
+goals = 1
 +++
 
-A funny old game, 
+A funny old game, strung together some decent play and had a decent share of possession.
