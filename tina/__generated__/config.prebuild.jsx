@@ -170,7 +170,6 @@ function squad_memberFields() {
       type: "string",
       name: "title",
       label: "Name",
-      options: [],
       required: true
     },
     {
