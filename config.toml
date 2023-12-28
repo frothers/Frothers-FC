@@ -14,6 +14,10 @@ name = "Stats"
 url ="/stats"
 weight = 2
 [[menu.main]]
+name = "Squad Builder"
+url ="/squad-builder"
+weight = 2
+[[menu.main]]
 identifier = "Squad"
 name = "Squad"
 url = "/squad-members"

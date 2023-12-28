@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ $script := .Site.Data.webpack.squad_builder }}
+{{ with $script.js }}
+<script src="{{ relURL . }}"></script>
+{{ end }}
+
+<div id="app"></div>
+
+{{ end }}

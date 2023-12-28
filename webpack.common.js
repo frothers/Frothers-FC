@@ -10,6 +10,8 @@ module.exports = {
         main: path.join(__dirname, "assets", "index.ts"),
         stats: path.join(__dirname, "assets", "stats.ts"),
         squad: path.join(__dirname, "assets", "squad.ts"),
+        squad_builder: path.join(__dirname, "assets", "squad_builder.tsx"),
+
     },
     devtool: 'source-map',
     output: {
