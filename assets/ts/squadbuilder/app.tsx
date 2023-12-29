@@ -169,10 +169,10 @@ function App() {
   // Normally you would want to split things out into separate components.
   // But in this example everything is just done in one place for simplicity
   return (
-    <DragDropContext onDragEnd={onDragEnd}>
-      <div style={{ display: "flex", flexDirection: "column" }}>
-        <Droppable droppableId="available">
-          {(provided, snapshot) => (
+    <DragDropContext onDragEnd={(onDragEnd)}>
+       <div style={{ display: "flex", flexDirection: "column" }}>
+         <Droppable droppableId="available">
+           {(provided, snapshot) => (
             <div
               ref={provided.innerRef}
               style={getListStyle(snapshot.isDraggingOver)}
@@ -187,7 +187,7 @@ function App() {
         <div
           style={{ background: "lightGray", width: "266px", height: "50px" }}
         ></div>
-        <Droppable droppableId="droppable2">
+        <Droppable droppableId="playing">
           {(provided, snapshot) => (
             <div
               ref={provided.innerRef}
