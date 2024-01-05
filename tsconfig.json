@@ -3,11 +3,26 @@
         "outDir": "./dist/",
         "noImplicitAny": true,
         "sourceMap": true,
-        "module": "commonjs",
-        "target": "es6",
-        "jsx": "react",
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "lib": [
+            "dom",
+            "dom.iterable",
+            "esnext"
+        ],
         "allowJs": true,
-        "allowSyntheticDefaultImports": true,
+        "skipLibCheck": true,
         "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "strict": true,
+        "forceConsistentCasingInFileNames": true,
+        "noFallthroughCasesInSwitch": true,
+        "resolveJsonModule": true,
+        "isolatedModules": true,
+        // "noEmit": true,
+        "jsx": "react-jsx",
+        "experimentalDecorators": true,
+        "useDefineForClassFields": true
     }
 }
