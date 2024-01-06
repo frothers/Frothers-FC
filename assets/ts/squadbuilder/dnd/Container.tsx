@@ -8,6 +8,16 @@ import type { DragItem } from './interfaces'
 import { ItemTypes } from './ItemTypes'
 import { snapToGrid as doSnapToGrid } from './snapToGrid'
 
+interface Player {
+  name: string,
+  position: "Goalkeeper" | "Defender" | "Midfielder" | "Forward"
+}
+
+const players: Player[] = [{
+  name: "Chris Chester",
+  position: "Defender"
+}]
+
 const styles: CSSProperties = {
   width: 300,
   height: 300,

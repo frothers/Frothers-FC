@@ -13,11 +13,11 @@ export interface BoxProps {
   preview?: boolean
 }
 
-export const Box: FC<BoxProps> = memo(function Box({ title, yellow, preview }) {
-  const backgroundColor = yellow ? 'yellow' : 'white'
+export const Box: FC<BoxProps> = memo(function Box({ title, preview }) {
   return (
     <div
-      style={{ ...styles, backgroundColor }}
+      style={{ ...styles }}
+      className={'squad-player'}
       role={preview ? 'BoxPreview' : 'Box'}
     >
       {title}
