@@ -3,8 +3,6 @@ import { memo, useCallback, useMemo, useState } from 'react'
 import type { DragSourceMonitor } from 'react-dnd'
 import { useDrag } from 'react-dnd'
 
-import { Colors } from './Colours'
-
 const style: CSSProperties = {
   border: '1px dashed gray',
   padding: '0.5rem',
@@ -12,50 +10,38 @@ const style: CSSProperties = {
 }
 
 export interface SourceBoxProps {
-  color: string
+  classNames: string
   forbidDrag: boolean
   children?: ReactNode
 }
 
 export const SourceBox: FC<SourceBoxProps> = memo(function SourceBox({
-  color,
+  classNames,
   forbidDrag,
   children,
 }) {
   const [{ isDragging }, drag] = useDrag(
     () => ({
-      type: color,
+      type: classNames,
       canDrag: forbidDrag,
       collect: (monitor: DragSourceMonitor) => ({
         isDragging: monitor.isDragging(),
       }),
     }),
-    [forbidDrag, color],
+    [forbidDrag],
   )
-
-  const backgroundColor = useMemo(() => {
-    switch (color) {
-      case Colors.YELLOW:
-        return 'lightgoldenrodyellow'
-      case Colors.BLUE:
-        return 'lightblue'
-      default:
-        return 'lightgoldenrodyellow'
-    }
-  }, [color])
 
   const containerStyle = useMemo(
     () => ({
       ...style,
-      backgroundColor,
       opacity: isDragging ? 0.4 : 1,
       cursor: forbidDrag ? 'default' : 'move',
     }),
-    [isDragging, forbidDrag, backgroundColor],
+    [isDragging, forbidDrag],
   )
 
   return (
-    <div ref={drag} style={containerStyle} role="SourceBox" data-color={color}>
+    <div ref={drag} style={containerStyle} role="SourceBox" className={classNames}>
       {children}
     </div>
   )
