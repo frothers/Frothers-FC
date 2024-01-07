@@ -1,13 +1,16 @@
 
-import { render } from 'react-dom'
+import { TouchBackend } from 'react-dnd-touch-backend'
 import SquadPicker from './squadPicker'
 import { DndProvider } from 'react-dnd'
-import { HTML5Backend } from 'react-dnd-html5-backend'
+
+const backendOptions = {
+  enableMouseEvents: true,
+}
 
 function App() {
   return (
     <div className="App">
-      <DndProvider backend={HTML5Backend}>
+      <DndProvider backend={TouchBackend} options={backendOptions}>
         <SquadPicker />
       </DndProvider>
     </div>
