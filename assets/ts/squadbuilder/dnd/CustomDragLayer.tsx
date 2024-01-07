@@ -61,7 +61,7 @@ export const CustomDragLayer: FC<CustomDragLayerProps> = (props) => {
   function renderItem() {
     switch (itemType) {
       case ItemTypes.BOX:
-        return <BoxDragPreview title={item.title} />
+        return <BoxDragPreview title={item.title} position={item.position}/>
       default:
         return null
     }

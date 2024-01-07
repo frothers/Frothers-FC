@@ -1,7 +1,8 @@
 import type { CSSProperties, FC } from 'react'
 import { memo, useEffect, useState } from 'react'
 
-import { Player } from './Box'
+import { Player } from './Player'
+import { Position } from './interfaces'
 
 const styles: CSSProperties = {
   display: 'inline-block',
@@ -10,7 +11,8 @@ const styles: CSSProperties = {
 }
 
 export interface BoxDragPreviewProps {
-  title: string
+  title: string,
+  position: Position
 }
 
 export interface BoxDragPreviewState {
@@ -18,7 +20,7 @@ export interface BoxDragPreviewState {
 }
 
 export const BoxDragPreview: FC<BoxDragPreviewProps> = memo(
-  function BoxDragPreview({ title }) {
+  function BoxDragPreview({ title, position }) {
     const [tickTock, setTickTock] = useState(false)
 
     useEffect(
@@ -31,7 +33,7 @@ export const BoxDragPreview: FC<BoxDragPreviewProps> = memo(
 
     return (
       <div style={styles}>
-        <Player title={title} preview />
+        <Player title={title} position={position} />
       </div>
     )
   },

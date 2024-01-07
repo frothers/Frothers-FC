@@ -4,16 +4,21 @@ import { useCallback, useState } from 'react'
 import { useDrop } from 'react-dnd'
 
 import { DraggableBox } from './DraggableBox'
-import type { DragItem } from './interfaces'
+import type { DragItem, Position } from './interfaces'
 import { ItemTypes } from './ItemTypes'
 import { snapToGrid as doSnapToGrid } from './snapToGrid'
 
-interface Player {
+const playersPerRow = 4;
+const pixelTopShift = 100;
+const pixelLeftShift = 120;
+
+
+interface PlayerDetails {
   name: string,
-  position: "Goalkeeper" | "Defender" | "Midfielder" | "Forward"
+  position: Position
 }
 
-const players: Player[] = [
+const players: PlayerDetails[] = [
   {
     name: "Chris Chester",
     position: "Defender"
@@ -26,27 +31,53 @@ const players: Player[] = [
     name: "Charles Daily",
     position: "Midfielder"
   },
+  {
+    name: "Chris Chester2",
+    position: "Defender"
+  },
+  {
+    name: "Lance Molyneaux2",
+    position: "Forward"
+  },
+  {
+    name: "Charles Daily2",
+    position: "Midfielder"
+  },
+  {
+    name: "Chris Chester3",
+    position: "Defender"
+  },
+  {
+    name: "Lance Molyneaux3",
+    position: "Forward"
+  },
+  {
+    name: "Charles Daily3",
+    position: "Midfielder"
+  },
 ]
 
 export interface ContainerProps {
   snapToGrid: boolean
 }
 
-interface BoxMap {
-  [key: string]: { top: number; left: number; title: string }
+interface PlayerMap {
+  [key: string]: { top: number; left: number; title: string, position: Position }
 }
 
 function initPlayersBoxMap() {
-  let map: BoxMap = {};
+  let map: PlayerMap = {};
   players.forEach((player, index) => {
-    map[player.name] = { top: 20, left: 80 * (index + 1), title: player.name }
+    let leftShift = index % playersPerRow * pixelLeftShift;
+    let topShift = Math.floor(index / playersPerRow) * pixelTopShift;
+    map[player.name] = { top: topShift, left: leftShift, title: player.name, position: player.position }
   });
   return map;
 }
 
 
 export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
-  const [boxes, setBoxes] = useState<BoxMap>(initPlayersBoxMap())
+  const [boxes, setBoxes] = useState<PlayerMap>(initPlayersBoxMap())
 
   const moveBox = useCallback(
     (id: string, left: number, top: number) => {
@@ -105,7 +136,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
             <DraggableBox
               key={key}
               id={key}
-              {...(boxes[key] as { top: number; left: number; title: string })}
+              {...(boxes[key] as { top: number; left: number; title: string,  position: Position })}
             />
           ))}
         </div>
