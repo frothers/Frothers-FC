@@ -4,7 +4,7 @@ import type { DragSourceMonitor } from 'react-dnd'
 import { useDrag } from 'react-dnd'
 import { getEmptyImage } from 'react-dnd-html5-backend'
 
-import { Box } from './Box'
+import { Player } from './Box'
 import { ItemTypes } from './ItemTypes'
 
 function getStyles(
@@ -56,7 +56,7 @@ export const DraggableBox: FC<DraggableBoxProps> = memo(function DraggableBox(
       style={getStyles(left, top, isDragging)}
       role="DraggableBox"
     >
-      <Box title={title} />
+      <Player title={title} />
     </div>
   )
 })

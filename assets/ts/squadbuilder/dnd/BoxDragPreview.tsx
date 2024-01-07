@@ -1,7 +1,7 @@
 import type { CSSProperties, FC } from 'react'
 import { memo, useEffect, useState } from 'react'
 
-import { Box } from './Box'
+import { Player } from './Box'
 
 const styles: CSSProperties = {
   display: 'inline-block',
@@ -31,7 +31,7 @@ export const BoxDragPreview: FC<BoxDragPreviewProps> = memo(
 
     return (
       <div style={styles}>
-        <Box title={title} yellow={tickTock} preview />
+        <Player title={title} preview />
       </div>
     )
   },
