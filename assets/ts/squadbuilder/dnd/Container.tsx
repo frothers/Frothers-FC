@@ -1,9 +1,11 @@
 import update from 'immutability-helper'
-import type { CSSProperties, FC } from 'react'
+import type { FC } from 'react'
 import { useCallback, useState } from 'react'
 import { useDrop } from 'react-dnd'
 
 import { DraggableBox } from './DraggableBox'
+import { Dustbin } from './Dustbin'
+import { AddPlayers } from './AddPlayers'
 import type { DragItem, Position } from './interfaces'
 import { ItemTypes } from './ItemTypes'
 import { snapToGrid as doSnapToGrid } from './snapToGrid'
@@ -19,42 +21,7 @@ interface PlayerDetails {
 }
 
 const players: PlayerDetails[] = [
-  {
-    name: "Chris Chester",
-    position: "Defender"
-  },
-  {
-    name: "Lance Molyneaux",
-    position: "Forward"
-  },
-  {
-    name: "Charles Daily",
-    position: "Midfielder"
-  },
-  {
-    name: "Chris Chester2",
-    position: "Defender"
-  },
-  {
-    name: "Lance Molyneaux2",
-    position: "Forward"
-  },
-  {
-    name: "Charles Daily2",
-    position: "Midfielder"
-  },
-  {
-    name: "Chris Chester3",
-    position: "Defender"
-  },
-  {
-    name: "Lance Molyneaux3",
-    position: "Forward"
-  },
-  {
-    name: "Charles Daily3",
-    position: "Midfielder"
-  },
+ 
 ]
 
 export interface ContainerProps {
@@ -92,13 +59,33 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
     [boxes],
   )
 
+  const addPlayer = useCallback(
+    (playerName: string, position: Position) => {
+      let data: PlayerMap = {}
+      data[playerName] = { left: 10, top: 10, title: playerName, position: position}
+      setBoxes(update(boxes, {$merge: data}));
+    },
+    [boxes],
+  )
+  const handleRemove = useCallback(
+    (item: { id: string }) => {
+      setBoxes(update(boxes, {$unset: [item.id]}));
+    },
+    [boxes],
+  )
+
   const [, drop] = useDrop(
     () => ({
       accept: ItemTypes.BOX,
       drop(item: DragItem, monitor) {
+
         const delta = monitor.getDifferenceFromInitialOffset() as {
           x: number
           y: number
+        }
+
+        if (delta === null){
+          return undefined;
         }
 
         let left = Math.round(item.left + delta.x)
@@ -131,7 +118,15 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
         </div>
         <div className="col-lg-5 player-roster">
 
-
+          <div style={{ overflow: 'hidden', clear: 'both', padding: '15px' }}>
+            <AddPlayers callback={addPlayer}/>
+            <Dustbin
+            accept={[ItemTypes.BOX]}
+            onDrop={(item) => handleRemove(item)}
+            key="Dustbin"
+          />
+          </div>
+         
           {Object.keys(boxes).map((key) => (
             <DraggableBox
               key={key}
