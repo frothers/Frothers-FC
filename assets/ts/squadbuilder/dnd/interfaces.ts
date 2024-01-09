@@ -6,7 +6,7 @@ export interface DragItem {
     top: number
   }
 
-  export type Position = "Goalkeeper" | "Defender" | "Midfielder" | "Forward"
+  export type Position = "Goal Keeper" | "Defender" | "Midfielder" | "Forward"
 
 export type PlayerDetails = {
   position: Position,
