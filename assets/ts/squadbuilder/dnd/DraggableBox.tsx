@@ -4,7 +4,7 @@ import type { DragSourceMonitor } from 'react-dnd'
 import { useDrag } from 'react-dnd'
 import { getEmptyImage } from 'react-dnd-html5-backend'
 
-import { Position } from './interfaces'
+import { PlayerDetails, Position } from './interfaces'
 import { Player } from './Player'
 import { ItemTypes } from './ItemTypes'
 
@@ -27,8 +27,7 @@ function getStyles(
 
 export interface DraggableBoxProps {
   id: string
-  title: string
-  position: Position
+  player: PlayerDetails
   left: number
   top: number
 }
@@ -36,16 +35,16 @@ export interface DraggableBoxProps {
 export const DraggableBox: FC<DraggableBoxProps> = memo(function DraggableBox(
   props,
 ) {
-  const { id, title, position, left, top } = props
+  const { id, player, left, top } = props
   const [{ isDragging }, drag, preview] = useDrag(
     () => ({
       type: ItemTypes.BOX,
-      item: { id, left, top, title, position },
+      item: { id, left, top, player },
       collect: (monitor: DragSourceMonitor) => ({
         isDragging: monitor.isDragging(),
       }),
     }),
-    [id, left, top, title, position],
+    [id, left, top, player],
   )
 
   useEffect(() => {
@@ -58,7 +57,7 @@ export const DraggableBox: FC<DraggableBoxProps> = memo(function DraggableBox(
       style={getStyles(left, top, isDragging)}
       role="DraggableBox"
     >
-      <Player title={title} position={position}/>
+      <Player title={player.name} position={player.position}/>
     </div>
   )
 })

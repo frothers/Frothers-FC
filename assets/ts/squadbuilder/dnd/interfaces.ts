@@ -1,3 +1,4 @@
+
 export interface DragItem {
     id: string
     type: string
@@ -7,3 +8,7 @@ export interface DragItem {
 
   export type Position = "Goalkeeper" | "Defender" | "Midfielder" | "Forward"
 
+export type PlayerDetails = {
+  position: Position,
+  name: string
+}

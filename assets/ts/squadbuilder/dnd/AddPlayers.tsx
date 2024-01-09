@@ -2,24 +2,61 @@ import { useState } from 'react'
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import Form from 'react-bootstrap/Form';
-import Dropdown from 'react-bootstrap/Dropdown';
-import { Position } from './interfaces';
+import { Position, PlayerDetails } from './interfaces';
+import { getAvailableNumberOfCores } from 'css-minimizer-webpack-plugin';
 
 type AddPlayersProps = {
-  callback: (playerName: string, position: Position) => void
+  callback: (player: PlayerDetails) => void
 };
+
+function getActivePlayers(): PlayerDetails[] {
+  return [
+    {
+      name: "Chris Chester",
+      position: "Defender"
+    },
+    {
+      name: "Charles Daily",
+      position: "Midfielder"
+    },
+    {
+      name: "Lance Molyneaux",
+      position: "Forward"
+    },
+    {
+      name: "Ryan Kindle",
+      position: "Goalkeeper"
+    },
+  ]
+}
 
 export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
 
   const [show, setShow] = useState(false);
   const [dropdownValue, setDropdownValue] = useState('');
   const [textValue, setTextValue] = useState('' as Position);
+  const [availablePlayers, setAvailablePlayers] = useState(getActivePlayers());
 
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
   const handleSubmit = () => {
     handleClose();
-    props.callback(dropdownValue, textValue);
+
+    let player: PlayerDetails = {
+      name: "Undefined",
+      position: "Defender",
+    }
+
+    if (dropdownValue){
+      player.name = dropdownValue;
+      player.position = availablePlayers.find((item) => item.name === player.name).position;
+      console.log("dropdownValue ", player.name, player.position)
+    } else {
+      player.name = textValue;
+      console.log("textValue ", player.name, player.position)
+    }
+    
+    props.callback(player);
   };
 
 
@@ -47,14 +84,16 @@ export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
               <Form.Label>Dropdown</Form.Label>
               <Form.Control as="select" onChange={handleDropdownChange} onSelect={handleDropdownChange}>
                 <option value="">Choose Player</option>
-                <option value="Chris">Chris</option>
-                <option value="Charles">Charles</option>
+                {availablePlayers.map((player) => {
+                  return <option key={player.name} value={player.name}>{player.name}</option>
+                })
+                }
               </Form.Control>
             </Form.Group>
 
             <Form.Group className="mb-3" controlId="exampleForm.ControlInput1" onChange={handleTextChange}>
               <Form.Label>Or, enter player</Form.Label>
-              <Form.Control type="text" placeholder="Ring-in"/>
+              <Form.Control type="text" placeholder="Ring-in" />
             </Form.Group>
           </Form>
         </Modal.Body>

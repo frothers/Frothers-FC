@@ -6,7 +6,7 @@ import { useDrop } from 'react-dnd'
 import { DraggableBox } from './DraggableBox'
 import { Dustbin } from './Dustbin'
 import { AddPlayers } from './AddPlayers'
-import type { DragItem, Position } from './interfaces'
+import type { DragItem, Position, PlayerDetails } from './interfaces'
 import { ItemTypes } from './ItemTypes'
 import { snapToGrid as doSnapToGrid } from './snapToGrid'
 
@@ -14,11 +14,6 @@ const playersPerRow = 4;
 const pixelTopShift = 100;
 const pixelLeftShift = 120;
 
-
-interface PlayerDetails {
-  name: string,
-  position: Position
-}
 
 const players: PlayerDetails[] = [
  
@@ -29,7 +24,7 @@ export interface ContainerProps {
 }
 
 interface PlayerMap {
-  [key: string]: { top: number; left: number; title: string, position: Position }
+  [key: string]: { top: number; left: number; player: PlayerDetails}
 }
 
 function initPlayersBoxMap() {
@@ -37,7 +32,7 @@ function initPlayersBoxMap() {
   players.forEach((player, index) => {
     let leftShift = index % playersPerRow * pixelLeftShift;
     let topShift = Math.floor(index / playersPerRow) * pixelTopShift;
-    map[player.name] = { top: topShift, left: leftShift, title: player.name, position: player.position }
+    map[player.name] = { top: topShift, left: leftShift, player: player }
   });
   return map;
 }
@@ -60,9 +55,9 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
   )
 
   const addPlayer = useCallback(
-    (playerName: string, position: Position) => {
+    (player: PlayerDetails) => {
       let data: PlayerMap = {}
-      data[playerName] = { left: 10, top: 10, title: playerName, position: position}
+      data[player.name] = { left: 10, top: 10, player: player}
       setBoxes(update(boxes, {$merge: data}));
     },
     [boxes],
@@ -104,7 +99,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
   return (
     <div ref={drop} className='squad-pitch container'>
       <div className="row h-100">
-        <div className="col-lg-7">
+        <div className="col-lg-9">
           <div className="row h-75">
             <div className="col-sm white-field-stripe">
             </div>
@@ -116,7 +111,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
           <div className="row h-25 subs-bench">
           </div>
         </div>
-        <div className="col-lg-5 player-roster">
+        <div className="col-lg-3 player-roster">
 
           <div style={{ overflow: 'hidden', clear: 'both', padding: '15px' }}>
             <AddPlayers callback={addPlayer}/>
@@ -131,7 +126,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
             <DraggableBox
               key={key}
               id={key}
-              {...(boxes[key] as { top: number; left: number; title: string,  position: Position })}
+              {...(boxes[key] as { top: number; left: number; player: PlayerDetails })}
             />
           ))}
         </div>
