@@ -35,7 +35,7 @@ googleAnalytics = "G-FQC0K3GZF5"
 google_tag_manager = ""
 home = "Home"
 images = ["images/badge.jpg"]
-logo = "images/favicons/dark/favicon.ico"
+logo = "images/favicons/dark/android-chrome-384x384.png"
 logoTitle = "Frothers F.C."
 title = "Frothers F.C."
 [params.banner]
