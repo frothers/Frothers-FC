@@ -11,9 +11,9 @@ export interface PlayerProps {
 export const Player: FC<PlayerProps> = memo(function Player({ title, position }) {
   function renderShirt() {
     if (position === "Goalkeeper") {
-      return <img src="/images/frothers-goalie_jersey.png" width="40" />
+      return <img src="/images/frothers-goalie_jersey.png" />
     } else {
-      return <img src="/images/frothers_jersey.png" width="40" />
+      return <img src="/images/frothers_jersey.png" />
     }
   }
   return (
