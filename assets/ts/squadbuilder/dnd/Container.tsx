@@ -57,7 +57,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
   const addPlayer = useCallback(
     (player: PlayerDetails) => {
       let data: PlayerMap = {}
-      data[player.name] = { left: 10, top: 10, player: player}
+      data[player.name] = { left: -100, top: 10, player: player}
       setBoxes(update(boxes, {$merge: data}));
     },
     [boxes],
@@ -113,7 +113,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
         </div>
         <div className="col-lg-3 player-roster">
 
-          <div style={{ overflow: 'hidden', clear: 'both', padding: '15px' }}>
+          <div style={{ overflow: 'hidden', clear: 'both' }}>
             <AddPlayers callback={addPlayer}/>
             <Dustbin
             accept={[ItemTypes.BOX]}

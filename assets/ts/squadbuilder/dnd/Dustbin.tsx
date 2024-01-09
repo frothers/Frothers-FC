@@ -32,7 +32,7 @@ export const Dustbin: FC<DustbinProps> = memo(function Dustbin({
     <div ref={drop} style={{ backgroundColor }} data-testid="dustbin" className='dustbin'>
       {isActive
         ? 'Release to remove'
-        : 'Remove'}
+        : '🗑️'}
     </div>
   )
 })

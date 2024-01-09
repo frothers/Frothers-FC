@@ -29,12 +29,12 @@ div.squad-pitch {
 }
 
 .player-roster{
-  padding-top: 15px;
-  padding-left: 0;
-  padding-right: 0;
   border-color: transparent transparent $secondary-color;
-  min-height: 60px;
+  min-height: 30px;
   background-color: $secondary-color;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
 }
 
 .dustbin{

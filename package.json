@@ -66,10 +66,12 @@
         "bootstrap": "5.3.2",
         "immutability-helper": "^3.1.1",
         "process": "^0.11.10",
+        "rdndmb-html5-to-touch": "8.0.3",
         "react": "^18.2.0",
         "react-bootstrap": "2.9.2",
         "react-dnd": "^16.0.1",
         "react-dnd-html5-backend": "^16.0.1",
+        "react-dnd-multi-backend": "8.0.3",
         "react-dnd-touch-backend": "^16.0.1",
         "react-dom": "^18.2.0",
         "tinacms": "^1.5.15"

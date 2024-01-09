@@ -64,10 +64,8 @@ export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
     if (dropdownValue) {
       player.name = dropdownValue;
       player.position = availablePlayers.find((item) => item.name === player.name).position;
-      console.log("dropdownValue ", player.name, player.position)
     } else {
       player.name = textValue;
-      console.log("textValue ", player.name, player.position)
     }
 
     props.callback(player);
