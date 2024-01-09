@@ -1,0 +1,9 @@
+{
+    "title": "{{ .Title }}",
+    "kit_number": "{{ .Params.kit_number }}",
+    "year_joined": "{{ .Params.year_joined }}",
+    "fut_card": "{{ .Params.fut_card }}",
+    "mug_shot": "{{ .Params.mug_shot }}",
+    "active": "{{ .Params.active }}",
+    "position": "{{ .Params.position }}"
+}

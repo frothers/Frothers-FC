@@ -3,6 +3,7 @@ import * as _ from "lodash";
 
 const postsAPI = "/posts/index.json";
 const squadAPI = "/squad/index.json";
+const squadMembersAPI = "/squad-members/index.json";
 
 export type postData = {
   title: string;
@@ -23,6 +24,16 @@ export type postData = {
 export type squadData = {
   players: string[];
   name: string;
+};
+
+export type squadMemberData = {
+  title: string,
+  kit_number: string,
+  year_joined: string,
+  fut_card: string,
+  mug_shot: string,
+  active: string,
+  position: string
 };
 
 export type gameData = {
@@ -202,4 +213,13 @@ export let getSquadData = async function (name: string) {
   });
 
   return squad;
+};
+
+/**
+ * @summary Get Player Names and Positions
+ */
+export let getSquadMembersData = async function (): Promise<squadMemberData[]> {
+  let response = await axios.get(squadMembersAPI);
+  let data = response.data.data;
+  return data.items;
 };

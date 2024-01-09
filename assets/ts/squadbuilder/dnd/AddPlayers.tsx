@@ -1,33 +1,28 @@
-import { useState } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
 import Form from 'react-bootstrap/Form';
 import { Position, PlayerDetails } from './interfaces';
 import { getAvailableNumberOfCores } from 'css-minimizer-webpack-plugin';
+import { getSquadMembersData } from '../../apiQueries';
 
 type AddPlayersProps = {
   callback: (player: PlayerDetails) => void
 };
 
-function getActivePlayers(): PlayerDetails[] {
-  return [
-    {
-      name: "Chris Chester",
-      position: "Defender"
-    },
-    {
-      name: "Charles Daily",
-      position: "Midfielder"
-    },
-    {
-      name: "Lance Molyneaux",
-      position: "Forward"
-    },
-    {
-      name: "Ryan Kindle",
-      position: "Goalkeeper"
-    },
-  ]
+async function getActivePlayers(): Promise<PlayerDetails[]> {
+  let response = await getSquadMembersData();
+  let squad: PlayerDetails[] = []
+  response.map((member) => {
+    if (JSON.parse(member.active)) {
+      let player: PlayerDetails = {
+        name: member.title,
+        position: member.position as Position,
+      }
+      squad.push(player);
+    }
+  })
+  return squad;
 }
 
 export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
@@ -35,11 +30,30 @@ export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
   const [show, setShow] = useState(false);
   const [dropdownValue, setDropdownValue] = useState('');
   const [textValue, setTextValue] = useState('' as Position);
-  const [availablePlayers, setAvailablePlayers] = useState(getActivePlayers());
+  const [availablePlayers, setAvailablePlayers] = useState([]);
+  const formRef = useRef<HTMLFormElement>(null);
+
+  useEffect(() => {
+    async function fetchData() {
+      const playerData = await getActivePlayers();
+      setAvailablePlayers(playerData)
+    }
+    fetchData();
+  }, []);
+
+  useEffect(() => {
+    // Create a new form event
+    const newEvent = new Event('submit') as unknown as React.FormEvent<HTMLFormElement>;
+    // Pass the new event to the handleSubmit function
+    if (dropdownValue) {
+      handleSubmit(newEvent);
+    }
+  }, [dropdownValue]);
 
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
-  const handleSubmit = () => {
+  const handleSubmit = (event: React.FormEvent<HTMLFormElement>) => {
+    event.preventDefault();
     handleClose();
 
     let player: PlayerDetails = {
@@ -47,7 +61,7 @@ export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
       position: "Defender",
     }
 
-    if (dropdownValue){
+    if (dropdownValue) {
       player.name = dropdownValue;
       player.position = availablePlayers.find((item) => item.name === player.name).position;
       console.log("dropdownValue ", player.name, player.position)
@@ -55,16 +69,15 @@ export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
       player.name = textValue;
       console.log("textValue ", player.name, player.position)
     }
-    
+
     props.callback(player);
   };
-
 
   const handleTextChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setTextValue(event.target.value as Position);
   };
   const handleDropdownChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setDropdownValue(event.target.value);
+    setDropdownValue(event.target.value)
   };
 
   return (
@@ -77,8 +90,8 @@ export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
         <Modal.Header closeButton>
           <Modal.Title>Modal heading</Modal.Title>
         </Modal.Header>
-        <Modal.Body>
-          <Form onSubmit={handleSubmit}>
+        <Form ref={formRef} onSubmit={handleSubmit}>
+          <Modal.Body>
 
             <Form.Group className="mb-3">
               <Form.Label>Dropdown</Form.Label>
@@ -95,16 +108,17 @@ export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
               <Form.Label>Or, enter player</Form.Label>
               <Form.Control type="text" placeholder="Ring-in" />
             </Form.Group>
-          </Form>
-        </Modal.Body>
-        <Modal.Footer>
-          <Button variant="secondary" onClick={handleClose}>
-            Close
-          </Button>
-          <Button variant="primary" onClick={handleSubmit}>
-            Save Changes
-          </Button>
-        </Modal.Footer>
+          </Modal.Body>
+          <Modal.Footer>
+
+            <Button variant="secondary" onClick={handleClose}>
+              Close
+            </Button>
+            <Button variant="primary" type="submit">
+              Save Changes
+            </Button>
+          </Modal.Footer>
+        </Form>
       </Modal>
     </>
   );
