@@ -1,6 +1,6 @@
 import update from 'immutability-helper'
 import type { FC } from 'react'
-import { useCallback, useState, useRef } from 'react'
+import { useCallback, useState, useRef, useEffect } from 'react'
 import { useDrop } from 'react-dnd'
 
 import { DraggableBox } from './DraggableBox'
@@ -12,15 +12,6 @@ import type { DragItem, Position, PlayerDetails } from './interfaces'
 import { ItemTypes } from './ItemTypes'
 import { snapToGrid as doSnapToGrid } from './snapToGrid'
 
-const playersPerRow = 4;
-const pixelTopShift = 100;
-const pixelLeftShift = 120;
-
-
-const players: PlayerDetails[] = [
- 
-]
-
 export interface ContainerProps {
   snapToGrid: boolean
 }
@@ -29,19 +20,8 @@ interface PlayerMap {
   [key: string]: { top: number; left: number; player: PlayerDetails}
 }
 
-function initPlayersBoxMap() {
-  let map: PlayerMap = {};
-  players.forEach((player, index) => {
-    let leftShift = index % playersPerRow * pixelLeftShift;
-    let topShift = Math.floor(index / playersPerRow) * pixelTopShift;
-    map[player.name] = { top: topShift, left: leftShift, player: player }
-  });
-  return map;
-}
-
-
 export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
-  const [boxes, setBoxes] = useState<PlayerMap>(initPlayersBoxMap())
+  const [boxes, setBoxes] = useState<PlayerMap>(getPlayersFromLS())
   const downloadElementRef = useRef(null);
 
   const moveBox = useCallback(
@@ -56,6 +36,16 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
     },
     [boxes],
   )
+
+  function getPlayersFromLS() {
+    const data = window.localStorage.getItem('FROTHERS_SQUAD');
+    if (data !== null) {
+      return (JSON.parse(data)) as PlayerMap;
+    }
+    else {
+      return {};
+    }
+  }
 
   const addPlayer = useCallback(
     (player: PlayerDetails) => {
@@ -72,6 +62,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
     [boxes],
   )
 
+  // Handle moving and dropping Players
   const [, drop] = useDrop(
     () => ({
       accept: ItemTypes.BOX,
@@ -98,6 +89,17 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
     }),
     [moveBox],
   )
+
+  // Use local storage to save
+  useEffect(() => {
+    window.localStorage.setItem('FROTHERS_SQUAD', JSON.stringify(boxes));
+   }, [boxes]);
+
+   // Populate local storage on load
+   useEffect(() => {
+    setBoxes(getPlayersFromLS());
+   }, []);
+      
 
   return (
     <div ref={drop} className='squad-pitch container'>
