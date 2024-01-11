@@ -1,11 +1,13 @@
 import update from 'immutability-helper'
 import type { FC } from 'react'
-import { useCallback, useState } from 'react'
+import { useCallback, useState, useRef } from 'react'
 import { useDrop } from 'react-dnd'
 
 import { DraggableBox } from './DraggableBox'
 import { Dustbin } from './Dustbin'
 import { AddPlayers } from './AddPlayers'
+import { DownloadImage } from './DownloadImage'
+
 import type { DragItem, Position, PlayerDetails } from './interfaces'
 import { ItemTypes } from './ItemTypes'
 import { snapToGrid as doSnapToGrid } from './snapToGrid'
@@ -40,6 +42,7 @@ function initPlayersBoxMap() {
 
 export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
   const [boxes, setBoxes] = useState<PlayerMap>(initPlayersBoxMap())
+  const downloadElementRef = useRef(null);
 
   const moveBox = useCallback(
     (id: string, left: number, top: number) => {
@@ -57,7 +60,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
   const addPlayer = useCallback(
     (player: PlayerDetails) => {
       let data: PlayerMap = {}
-      data[player.name] = { left: -100, top: 10, player: player}
+      data[player.name] = { left: 0, top: -200, player: player}
       setBoxes(update(boxes, {$merge: data}));
     },
     [boxes],
@@ -99,7 +102,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
   return (
     <div ref={drop} className='squad-pitch container'>
       <div className="row h-100">
-        <div className="col-lg-9">
+        <div ref={downloadElementRef} className="col-lg-9">
           <div className="row h-75">
             <div className="col-sm white-field-stripe">
             </div>
@@ -110,6 +113,13 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
           </div>
           <div className="row h-25 subs-bench">
           </div>
+          {Object.keys(boxes).map((key) => (
+            <DraggableBox
+              key={key}
+              id={key}
+              {...(boxes[key] as { top: number; left: number; player: PlayerDetails })}
+            />
+          ))}
         </div>
         <div className="col-lg-3 player-roster">
 
@@ -120,15 +130,8 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
             onDrop={(item) => handleRemove(item)}
             key="Dustbin"
           />
+          <DownloadImage elementRef={downloadElementRef} />
           </div>
-         
-          {Object.keys(boxes).map((key) => (
-            <DraggableBox
-              key={key}
-              id={key}
-              {...(boxes[key] as { top: number; left: number; player: PlayerDetails })}
-            />
-          ))}
         </div>
       </div>
     </div>
