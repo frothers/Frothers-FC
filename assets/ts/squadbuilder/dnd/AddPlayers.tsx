@@ -5,6 +5,7 @@ import Form from 'react-bootstrap/Form';
 import { Position, PlayerDetails } from './interfaces';
 import { getAvailableNumberOfCores } from 'css-minimizer-webpack-plugin';
 import { getSquadMembersData } from '../../apiQueries';
+import { drop } from 'lodash';
 
 type AddPlayersProps = {
   callback: (player: PlayerDetails) => void
@@ -62,8 +63,18 @@ export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
     }
 
     if (dropdownValue) {
-      player.name = dropdownValue;
-      player.position = availablePlayers.find((item) => item.name === player.name).position;
+      let fullName = dropdownValue;
+      let nameParts = fullName.split(" "); // ["John", "Doe"]
+
+      let firstName = nameParts[0]; // "John"
+      let lastName = nameParts[nameParts.length - 1]; // "Doe"
+
+      let lastNameInitial = lastName[0]; // "D"
+
+      let output = `${firstName} ${lastNameInitial}`; // "John D"
+ 
+      player.name = output;
+      player.position = availablePlayers.find((item) => item.name === dropdownValue).position;
     } else {
       player.name = textValue;
     }
