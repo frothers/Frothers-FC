@@ -1,9 +1,9 @@
 import update from "immutability-helper";
-import type { FC } from "react";
+import type { FC, ChangeEvent } from "react";
 import { useCallback, useState, useRef, useEffect } from "react";
 import { useDrop } from "react-dnd";
 import Button from "react-bootstrap/Button";
-import ButtonGroup from "react-bootstrap/ButtonGroup";
+import Form from "react-bootstrap/Form";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Tab from "react-bootstrap/Tab";
@@ -46,7 +46,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
   );
 
   const handleTabChange = (selectedTab: string) => {
-    setSquad(selectedTab as SquadNames) ;
+    setSquad(selectedTab as SquadNames);
   };
 
   function getPlayersFromLS() {
@@ -56,6 +56,33 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
     } else {
       return {};
     }
+  }
+
+  function saveLSData() {
+    let json = JSON.stringify(getPlayersFromLS());
+    let blob = new Blob([json], { type: "application/json" });
+    let url = URL.createObjectURL(blob);
+    let link = document.createElement("a");
+    link.download = squad + ".json";
+    link.href = url;
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  }
+
+  function loadJsonToLS(event: ChangeEvent<HTMLInputElement>) {
+    const file = event.target.files?.[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = function (e) {
+      const contents = e?.target?.result;
+      if (contents) {
+        localStorage.setItem(squad, contents as string);
+        getPlayersFromLS();
+      }
+    };
+    reader.readAsText(file);
   }
 
   const addPlayer = useCallback(
@@ -151,7 +178,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
           <Row className="justify-content-center">
             <Tabs
               defaultActiveKey={squad}
-              onSelect = {handleTabChange}
+              onSelect={handleTabChange}
               id="squad-selector"
               className="mb-3"
               fill
@@ -162,10 +189,13 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
             </Tabs>
           </Row>
           <Row className="justify-content-center">
-            <ButtonGroup aria-label="Squad Downloads">
-              <Button variant="info">⬇️ JSON</Button>
-              <Button variant="dark">⬆️ Load</Button>
-            </ButtonGroup>
+            <Button variant="info" onClick={saveLSData}>
+              ⬇️ JSON
+            </Button>
+            <Form.Group controlId="formFile" className="mb-3">
+              <Form.Label>Select File</Form.Label>
+              <Form.Control size="sm" type="file" onChange={loadJsonToLS} />
+            </Form.Group>
           </Row>
         </Col>
       </Row>
