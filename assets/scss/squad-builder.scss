@@ -59,3 +59,9 @@ div.squad-pitch {
   float: 'left';
   background-color: $secondary-background-color;
 }
+
+.form-control {
+  background-color: $secondary-background-color;
+  padding: 3px 0;
+  color: $text-color;
+}

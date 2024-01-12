@@ -31,6 +31,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
   const [boxes, setBoxes] = useState<PlayerMap>(getPlayersFromLS());
 
   const downloadElementRef = useRef(null);
+  const fileInputRef = useRef(null);
 
   const moveBox = useCallback(
     (id: string, left: number, top: number) => {
@@ -83,6 +84,12 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
       }
     };
     reader.readAsText(file);
+  }
+
+  function handleUploadButtom(){
+    if (fileInputRef.current) {
+      fileInputRef.current.click();
+    }
   }
 
   const addPlayer = useCallback(
@@ -140,7 +147,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
 
   return (
     <div ref={drop} className="squad-pitch container">
-      <Row className="h-100">
+      <Row>
         <Col lg={9} ref={downloadElementRef} className="col-lg-9">
           <div className="row h-75">
             <div className="col-sm white-field-stripe"></div>
@@ -192,9 +199,9 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
             <Button variant="info" onClick={saveLSData}>
               ⬇️ JSON
             </Button>
+              <Button variant="secondary" onClick={handleUploadButtom}>Upload</Button>
             <Form.Group controlId="formFile" className="mb-3">
-              <Form.Label>Select File</Form.Label>
-              <Form.Control size="sm" type="file" onChange={loadJsonToLS} />
+              <Form.Control size="sm" type="file" ref={fileInputRef} onChange={loadJsonToLS} className="d-none"/>
             </Form.Group>
           </Row>
         </Col>
