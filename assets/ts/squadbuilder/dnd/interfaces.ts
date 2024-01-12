@@ -8,6 +8,9 @@ export interface DragItem {
 
   export type Position = "Goal Keeper" | "Defender" | "Midfielder" | "Forward"
 
+  export type SquadNames = "squad1" | "squad2" | "squad3" ;
+
+
 export type PlayerDetails = {
   position: Position,
   name: string

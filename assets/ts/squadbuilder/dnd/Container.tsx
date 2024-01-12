@@ -14,7 +14,7 @@ import { Dustbin } from "./Dustbin";
 import { AddPlayers } from "./AddPlayers";
 import { DownloadImage } from "./DownloadImage";
 
-import type { DragItem, Position, PlayerDetails } from "./interfaces";
+import type { DragItem, SquadNames, PlayerDetails } from "./interfaces";
 import { ItemTypes } from "./ItemTypes";
 import { snapToGrid as doSnapToGrid } from "./snapToGrid";
 
@@ -27,7 +27,9 @@ interface PlayerMap {
 }
 
 export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
+  const [squad, setSquad] = useState("squad1" as SquadNames);
   const [boxes, setBoxes] = useState<PlayerMap>(getPlayersFromLS());
+
   const downloadElementRef = useRef(null);
 
   const moveBox = useCallback(
@@ -43,8 +45,12 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
     [boxes]
   );
 
+  const handleTabChange = (selectedTab: string) => {
+    setSquad(selectedTab as SquadNames) ;
+  };
+
   function getPlayersFromLS() {
-    const data = window.localStorage.getItem("FROTHERS_SQUAD");
+    const data = window.localStorage.getItem(squad);
     if (data !== null) {
       return JSON.parse(data) as PlayerMap;
     } else {
@@ -60,6 +66,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
     },
     [boxes]
   );
+
   const handleRemove = useCallback(
     (item: { id: string }) => {
       setBoxes(update(boxes, { $unset: [item.id] }));
@@ -96,13 +103,13 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
 
   // Use local storage to save
   useEffect(() => {
-    window.localStorage.setItem("FROTHERS_SQUAD", JSON.stringify(boxes));
+    window.localStorage.setItem(squad, JSON.stringify(boxes));
   }, [boxes]);
 
   // Populate local storage on load
   useEffect(() => {
     setBoxes(getPlayersFromLS());
-  }, []);
+  }, [squad]);
 
   return (
     <div ref={drop} className="squad-pitch container">
@@ -140,8 +147,11 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
           </Row>
           <Row className="justify-content-center">
             <h5>Saved Squads</h5>
+          </Row>
+          <Row className="justify-content-center">
             <Tabs
-              defaultActiveKey="squad1"
+              defaultActiveKey={squad}
+              onSelect = {handleTabChange}
               id="squad-selector"
               className="mb-3"
               fill
@@ -153,8 +163,8 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
           </Row>
           <Row className="justify-content-center">
             <ButtonGroup aria-label="Squad Downloads">
-              <Button variant="primary">⬇️ Save</Button>
-              <Button variant="secondary">⬆️ Load</Button>
+              <Button variant="info">⬇️ JSON</Button>
+              <Button variant="dark">⬆️ Load</Button>
             </ButtonGroup>
           </Row>
         </Col>
