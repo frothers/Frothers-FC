@@ -39,17 +39,16 @@ div.squad-pitch {
 
 .player-roster{
   border-color: transparent transparent $secondary-color;
-  min-height: 30px;
   background-color: $secondary-color;
-  display: flex;
-  justify-content: center;
-  padding: 10px;
+}
+
+.player-roster .row {
+  padding: 1rem 0 0 0;
 }
 
 .dustbin{
   height: 5rem;
-  width: 8rem;
-  margin: 1.5rem 0;
+  width: 100%;
   color: white;
   padding: 1rem;
   text-align: center;
