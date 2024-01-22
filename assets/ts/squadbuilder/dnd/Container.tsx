@@ -147,7 +147,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
 
   return (
     <div ref={drop} className="squad-pitch container">
-      <Row>
+      <Row className="h-75">
         <Col lg={9} ref={downloadElementRef} className="col-lg-9">
           <div className="row h-75">
             <div className="col-sm white-field-stripe"></div>
