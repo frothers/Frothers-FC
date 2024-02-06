@@ -1,36 +1,52 @@
 +++
-author = "Chris"
-categories = []
-date = 2023-04-15T12:00:00Z
-description = "First of the grading games, against the Geckos"
-friendly = false
-frother_goals = 3
-images = ["/images/screenshot_20230416_204832.png"]
-match = true
-opponent = "Geckos FC"
-opponent_goals = 2
-result = "Win"
-season = "winter"
-team = "OG Frothers"
 title = "Frothers 2023 - Game 1"
+description = "First of the grading games, against the Geckos"
+author = "Chris"
+date = 2023-04-15T12:00:00.000Z
 type = "post"
-xi_and_subs = ["Evan Doube", "Ian Rayns", "Farshid Shokoohi", "Chris Chester", "Milan Mrdalj", "Patrick Cameron", "Jamie Bunting", "Yash Rosario", "Lance Molyneaux", "Josh Shand", "Aaron Jackson", "Evan Hanson"]
-[[scorers]]
-goals = 1
-scorer = "Lance Molyneaux"
-[[scorers]]
-goals = 1
-scorer = "Josh Shand"
-[[scorers]]
-goals = 1
-scorer = "Aaron Jackson"
+images = [ "/images/screenshot_20230416_204832.png" ]
+categories = [ ]
+match = true
+friendly = false
+team = "OG Frothers"
+opponent = "Geckos FC"
+season = "winter"
+result = "Win"
+frother_goals = 3
+opponent_goals = 2
+xi_and_subs = [
+  "Evan Doube",
+  "Ian Rayns",
+  "Farshid Shokoohi",
+  "Chris Chester",
+  "Milan Mrdalj",
+  "Patrick Cameron",
+  "Jamie Bunting",
+  "Yash Rosario",
+  "Lance Molyneaux",
+  "Josh Shand",
+  "Aaron Jackson",
+  "Evan Hanson"
+]
 
+[[scorers]]
+scorer = "Lance Molyneaux"
+goals = 1
+
+[[scorers]]
+scorer = "Josh Shand"
+goals = 1
+
+[[scorers]]
+scorer = "Aaron Jackson"
+goals = 1
 +++
+
 ## No machine can replace me.
 
 ![](/images/screenshot_20230416_204832.png)
 
-The boys are back and with a handful of new Frothers making their full debuts: **Aaron**, **Shand**, **Yash**, **Patrick** (TBD), **Farshid**, **Ian**, and **Doube**. **Doube** in particular came in clutch, filling in for **Ryan** in goal.
+The boys are back and with a handful of new Frothers making their full debuts: **Aaron**, **Shand**, **Yash**, **Patrick**, **Farshid**, **Ian**, and **Doube**. **Doube** in particular came in clutch, filling in for **Ryan** in goal.
 
 The Frothers were having the majority of possession and chances against div new boys, the Geckos. The rust did show for the Frothers though, and the first goal came through a combination of a missed header and the Geckos winger ghosting in. Shooting low, **Doube** could only get a foot on it.
 
