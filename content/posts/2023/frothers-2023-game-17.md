@@ -13,7 +13,7 @@ team = "OG Frothers"
 opponent = "Chur Chickens"
 season = "winter"
 result = "Win"
-frother_goals = 4
+frother_goals = 5
 opponent_goals = 1
 xi_and_subs = [
   "Ryan Kindell",
@@ -28,6 +28,10 @@ xi_and_subs = [
   "Aaron Jackson",
   "Matt Salt"
 ]
+
+[[scorers]]
+scorer = "Yash Rosario"
+goals = 1
 
 [[scorers]]
 scorer = "Matt Salt"
