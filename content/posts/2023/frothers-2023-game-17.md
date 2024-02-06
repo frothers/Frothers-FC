@@ -29,6 +29,10 @@ xi_and_subs = [
 ]
 
 [[scorers]]
+scorer = "Evan Hanson"
+goals = 1
+
+[[scorers]]
 scorer = "Aaron Jackson"
 goals = 1
 
