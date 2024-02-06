@@ -25,7 +25,8 @@ xi_and_subs = [
   "Jarrod Murray",
   "Lance Molyneaux",
   "Yash Rosario",
-  "Aaron Jackson"
+  "Aaron Jackson",
+  "Matt Salt"
 ]
 
 [[scorers]]
