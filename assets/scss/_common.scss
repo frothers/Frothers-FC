@@ -22,6 +22,7 @@ h1 {
 
 .card {
     background-color: $secondary-background-color;
+    color: $text-color;
 }
 
 .page-link {
@@ -30,7 +31,6 @@ h1 {
 
 .list-group-item {
     background-color: $primary-color;
-    color: $body-color;
 }
 
 .badge-primary {

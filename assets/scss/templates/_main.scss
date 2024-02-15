@@ -111,6 +111,9 @@
 .post-title:hover{
   text-decoration: underline;
 }
+.post-title{
+  color: $text-color
+}
 .post-meta{
   color: #999;
   a{
