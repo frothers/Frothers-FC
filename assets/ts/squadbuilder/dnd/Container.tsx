@@ -169,15 +169,12 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
         </Col>
         <Col lg={3} className="player-roster">
           <Row className="justify-content-center">
-            <AddPlayers callback={addPlayer} />
-            <DownloadImage elementRef={downloadElementRef} />
-          </Row>
-          <Row>
-            <Dustbin
+            <Col><AddPlayers callback={addPlayer} /></Col>
+            <Col><Dustbin
               accept={[ItemTypes.BOX]}
               onDrop={(item) => handleRemove(item)}
               key="Dustbin"
-            />
+            /></Col>
           </Row>
           <Row className="justify-content-center">
             <h5>Saved Squads</h5>
@@ -196,10 +193,12 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
             </Tabs>
           </Row>
           <Row className="justify-content-center">
+            <DownloadImage elementRef={downloadElementRef} />
             <Button variant="info" onClick={saveLSData}>
               ⬇️ JSON
             </Button>
-              <Button variant="secondary" onClick={handleUploadButtom}>Upload</Button>
+            <Button variant="info" onClick={handleUploadButtom}>
+              ⬆️ JSON</Button>
             <Form.Group controlId="formFile" className="mb-3">
               <Form.Control size="sm" type="file" ref={fileInputRef} onChange={loadJsonToLS} className="d-none"/>
             </Form.Group>

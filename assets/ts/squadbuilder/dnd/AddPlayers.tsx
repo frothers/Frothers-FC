@@ -95,7 +95,7 @@ export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
   return (
     <>
       <Button variant="primary" onClick={handleShow}>
-        Add Player
+      Add Player
       </Button>
 
       <Modal show={show} onHide={handleClose}>
