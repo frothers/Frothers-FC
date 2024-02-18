@@ -1,49 +1,62 @@
 body {
-  background-color: $body-color;
+  background-color: t($body-colour);
   overflow-x: hidden;
 }
 
 h1 {
-    color: $text-color;
+  @include themed() {
+    color: t($text-colour);
+  }
 }
 
 .text-dark {
-    color: $text-color-dark!important;
+  color: t($text-colour-dark) !important;
 }
 
 .text-real-dark {
-    color: $body-color;
+  color: t($body-colour);
 }
 
 .right-alert {
-    color: $alert-color;
-    float:right;
+  color: t($alert-colour);
+  float: right;
 }
 
 .card {
-    background-color: $secondary-background-color;
-    color: $text-color;
+  @include themed() {
+    background-color: t($secondary-background-colour);
+    color: t($text-colour);
+  }
 }
 
 .page-link {
-    background-color: $secondary-background-color
+  @include themed() {
+    background-color: t($secondary-background-colour);
+  }
 }
 
 .list-group-item {
-    background-color: $primary-color;
+  @include themed() {
+    background-color: t($primary-colour);
+  }
 }
 
 .badge-primary {
-    background-color: $body-color
+  @include themed() {
+    background-color: t($body-colour);
+  }
 }
 
 .custom-select {
-    background-color: $secondary-background-color;
-    color: $text-color;
+  @include themed() {
+    background-color: t($secondary-background-colour);
+    color: t($text-colour);
+  }
 }
 ::selection {
-  background: lighten($color: $primary-color, $amount: 10);
-  color: $white;
+  @include themed() {
+    color: t($white);
+  }
 }
 
 /* preloader */
@@ -70,7 +83,7 @@ a,
 button,
 select {
   cursor: pointer;
-  transition: .2s ease;
+  transition: 0.2s ease;
 
   &:focus {
     outline: 0;
@@ -82,14 +95,14 @@ select {
 }
 
 .section {
-    /* And other times this */
-    @include desktop-lg{
-        padding-top: 80px;
-        padding-bottom: 80px;
-    }
-    @include desktop{
-        padding: 0px;
-    }
+  /* And other times this */
+  @include desktop-lg {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  @include desktop {
+    padding: 0px;
+  }
 }
 
 .bg-cover {
@@ -99,7 +112,9 @@ select {
 }
 
 .border-primary {
-  border-color: $border-color !important;
+  @include themed() {
+    border-color: t($border-colour) !important;
+  }
 }
 
 /* overlay */
@@ -107,15 +122,17 @@ select {
 .overlay {
   position: relative;
 
-  &::before {
-    position: absolute;
-    content: '';
-    height: 100%;
-    width: 100%;
-    top: 0;
-    left: 0;
-    background: $black;
-    opacity: .5;
+  @include themed() {
+    &::before {
+      position: absolute;
+      content: "";
+      height: 100%;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: t($black);
+      opacity: 0.5;
+    }
   }
 }
 
@@ -128,27 +145,39 @@ select {
 }
 
 .bg-primary {
-  background: $primary-color !important;
+  @include themed() {
+    background: t($primary-colour) !important;
+  }
 }
 
 .bg-secondary {
-  background: $secondary-color !important;
+  @include themed() {
+    background: t($secondary-colour) !important;
+  }
 }
 
-.bg-light{
-  background: $light !important;
+.bg-light {
+  @include themed() {
+    background: t($light) !important;
+  }
 }
 
 .text-primary {
-  color: $primary-color !important;
+  @include themed() {
+    color: t($primary-colour) !important;
+  }
 }
 
 a.text-primary:hover {
-  color: $primary-color !important;
+  @include themed() {
+    color: t($primary-colour) !important;
+  }
 }
 
 .text-color {
-  color: $text-color;
+  @include themed() {
+    color: t($text-colour);
+  }
 }
 
 .mb-10 {
@@ -200,23 +229,27 @@ a.text-primary:hover {
 }
 
 .shadow {
-  box-shadow: 10px  $primary-color!important;
-}
-
-.form-control{
-  height: 50px;
-  line-height: 50px;
-  &:focus{
-    outline: 0;
-    box-shadow: none;
-    border-color: $primary-color;
+  @include themed() {
+    box-shadow: 10px t($primary-colour) !important;
   }
 }
 
-textarea.form-control{
+.form-control {
+  height: 50px;
+  line-height: 50px;
+  &:focus {
+    outline: 0;
+    box-shadow: none;
+    @include themed() {
+      border-color: t($primary-colour);
+    }
+  }
+}
+
+textarea.form-control {
   height: 150px;
 }
 
-.page-link:focus{
+.page-link:focus {
   box-shadow: none;
 }

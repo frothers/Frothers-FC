@@ -1,4 +1,9 @@
 {{ "<!-- navigation -->" | safeHTML }}
+{{ $script := .Site.Data.webpack.theme_switcher }}
+{{ with $script.js }}
+<script src="{{ relURL . }}"></script>
+{{ end }}
+
 <header class="fixed-top navigation">
     <div class="container">
         <!-- navbar -->
@@ -35,6 +40,7 @@
                     {{ end }}
                     {{ end }}
                 </ul>
+                <div id="toggle" />
                 {{ if .Site.Params.search.enable }}
                 {{ "<!-- search -->" | safeHTML }}
                 <div class="search">

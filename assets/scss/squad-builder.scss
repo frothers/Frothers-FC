@@ -1,15 +1,21 @@
 div.squad-bench {
-  color: $text-color;
-  background-color: $pitch-background-grey;
+  @include themed() {
+    color: t($text-colour);
+    background-color: t($pitch-background-grey);
+  }
 }
 
 div.squad-position {
-  color: $text-color;
+  @include themed() {
+    color: t($text-colour);
+  }
   background-color: blue;
 }
 
 div.squad-player {
-  color: $text-color;
+  @include themed() {
+    color: t($text-colour);
+  }
   padding-top: 15px;
   padding-left: 0;
   padding-right: 0;
@@ -34,12 +40,16 @@ div.squad-pitch {
   height: 800px;
   border: 1px;
   position: static;
-  border-color: $secondary-color;
+  @include themed() {
+    border-color: t($secondary-colour);
+  }
 }
 
-.player-roster{
-  border-color: transparent transparent $secondary-color;
-  background-color: $secondary-color;
+.player-roster {
+  @include themed() {
+    border-color: transparent transparent t($secondary-colour);
+    background-color: t($secondary-colour);
+  }
 }
 
 .player-roster .row {
@@ -50,24 +60,30 @@ div.squad-pitch {
   margin: 0 2px;
 }
 
-.dustbin{
+.dustbin {
   // height: 5rem;
   width: 100%;
   height: 100%;
   color: white;
   padding: 1rem;
   text-align: center;
-  background-color: $secondary-background-color;
+  @include themed() {
+    background-color: t($secondary-background-colour);
+  }
 }
 
 .form-control {
-  background-color: $secondary-background-color;
+  @include themed() {
+    background-color: t($secondary-background-colour);
+    color: t($text-colour);
+  }
   padding: 3px 0;
-  color: $text-color;
 }
 
 .modal-content {
-  background-color: $secondary-background-color;
+  @include themed() {
+    background-color: t($secondary-background-colour);
+  }
 }
 
 .App {

@@ -11,7 +11,7 @@ module.exports = {
         stats: path.join(__dirname, "assets", "stats.ts"),
         squad: path.join(__dirname, "assets", "squad.ts"),
         squad_builder: path.join(__dirname, "assets", "squad_builder.tsx"),
-
+        theme_switcher: path.join(__dirname, "assets", "theme_switcher.tsx"),
     },
     devtool: 'source-map',
     output: {

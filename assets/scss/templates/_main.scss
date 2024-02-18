@@ -25,7 +25,7 @@
       display: none;
     }
   }
-  .illustration-mobile{
+  .illustration-mobile {
     display: none;
     @include desktop {
       display: block;
@@ -34,23 +34,23 @@
   }
   .desktop-heading {
     @include desktop-xl {
-        max-width: 600px;
-      }
+      max-width: 600px;
+    }
     @include desktop {
-        display: none;
-      }
+      display: none;
+    }
   }
 }
 
 .media {
-    .img-thumbnail{
-        max-width: 150px;
-        max-height: 150px;
+  .img-thumbnail {
+    max-width: 150px;
+    max-height: 150px;
 
-          @include desktop {
-            display: none;
-          }
+    @include desktop {
+      display: none;
     }
+  }
 }
 
 .md__image {
@@ -58,7 +58,7 @@
     max-height: 600px;
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
   }
 }
 
@@ -73,7 +73,7 @@
   padding: 60px 60px 40px;
 }
 
-.author-thumb{
+.author-thumb {
   height: 300px;
   width: 300px;
   object-fit: cover;
@@ -84,53 +84,51 @@
   justify-content: center;
 
   .page-item {
-
     .page-link {
       display: inline-block;
       width: 40px;
       height: 40px;
       text-align: center;
-      color: $text-color;
+      color: t($text-colour);
       border: 0;
       border-radius: 5px;
 
       &:hover {
-        background: $primary-color;
-        color: $white;
+        background: t($primary-colour);
+        color: t($white);
       }
     }
 
     &.active {
       .page-link {
-        background: $primary-color;
-        color: $white;
+        background: t($primary-colour);
+        color: t($white);
       }
     }
   }
 }
-.post-title:hover{
+.post-title:hover {
   text-decoration: underline;
 }
-.post-title{
-  color: $text-color
+.post-title {
+  color: t($text-colour);
 }
-.post-meta{
+.post-meta {
   color: #999;
-  a{
+  a {
     color: inherit;
-    &:hover{
-      color: $primary-color;
+    &:hover {
+      color: t($primary-colour);
     }
   }
 }
-
 
 .content {
   * {
     margin-bottom: 20px;
   }
 
-  img{
+  img {
     max-width: 100%;
     height: auto;
   }
@@ -164,8 +162,8 @@
         font-size: 14px;
         left: 0;
         top: 1px;
-        color: $primary-color;
-        transition: .3s ease;
+        color: t($primary-colour);
+        transition: 0.3s ease;
       }
     }
   }
@@ -180,17 +178,13 @@
 
     th,
     td {
-      padding: .75rem;
+      padding: 0.75rem;
       vertical-align: top;
-      border: 1px solid #dee2e6
-    }
-
-    thead {
-      background: darken($color: $light, $amount: 2);
+      border: 1px solid #dee2e6;
     }
 
     tbody {
-      background: $light;
+      background: t($light);
 
       td {
         text-align: left !important;
@@ -198,23 +192,27 @@
     }
   }
 
-
   blockquote {
     padding: 20px;
-    background: $light;
-    border-left: 3px solid $primary-color;
+    @include themed() {
+      background: t($light);
+      border-left: 3px solid t($primary-colour);
+    }
 
     p {
       margin-bottom: 0;
-      color: $text-color-dark;
+      @include themed() {
+        color: t($text-colour-dark);
+      }
       font-style: italic !important;
     }
   }
 
-
   pre {
     padding: 10px 20px;
-    background: $light;
+    @include themed() {
+    background: t($light);
+    }
 
     code {
       border: 0;
@@ -224,7 +222,9 @@
   }
 
   a {
-    color: $text-color-dark;
+    @include themed() {
+    color: t($text-colour-dark);
+    }
 
     &:hover {
       text-decoration: underline;
@@ -233,42 +233,52 @@
 
   code {
     padding: 3px 5px;
-    background: $light;
-    border: 1px solid $border-color;
+    @include themed() {
+    background: t($light);
+    border: 1px solid t($border-colour);
+    color: t($text-colour-dark);
+    }
     border-radius: 3px;
-    color: $text-color-dark;
   }
-
 }
 
 /* social icon */
-.social-icon{
-  a{
+.social-icon {
+  a {
     height: 45px;
     width: 45px;
-    border: 1px solid $primary-color;
+    @include themed() {
+    border: 1px solid t($primary-colour);
+    color: t($primary-colour);
+    &:hover {
+      background: t($primary-colour);
+      color: t($white);
+    }
+    }
     border-radius: 50%;
     line-height: 45px;
     text-align: center;
     display: block;
-    color: $primary-color;
-    &:hover{
-      background: $primary-color;
-      color: $white;
-    }
+
   }
 }
 
 /* nav tab */
-.nav-tab{
-  .nav-link{
+.nav-tab {
+  .nav-link {
     padding: 15px;
-    color: $text-color;
+    @include themed() {
+
+    color: t($text-colour);
+    }
     border-radius: 5px;
-    &.active{
+    &.active {
       @extend .shadow;
-      color: $white;
-      background: $primary-color;
+      @include themed() {
+
+      color: t($white);
+      background: t($primary-colour);
+      }
     }
   }
 }

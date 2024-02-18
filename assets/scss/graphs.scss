@@ -1,7 +1,6 @@
-
 .graph {
-  height:60vh;
- }
+  height: 60vh;
+}
 
 section .section-title {
   text-align: center;
@@ -9,15 +8,20 @@ section .section-title {
   margin-bottom: 50px;
   text-transform: uppercase;
 }
-#tabs{
-// background: #007b5e;
-  color: $primary-color;
+#tabs {
+  // background: #007b5e;
+  @include themed() {
+    color: t($primary-colour);
+  }
 }
-#tabs h6.section-title{
-  color: $primary-color;
+#tabs h6.section-title {
+  @include themed() {
+    color: t($primary-colour);
+  }
 }
 
-#tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+#tabs .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
   color: #f3f3f3;
   background-color: transparent;
   border-color: transparent transparent #f3f3f3;
@@ -27,8 +31,8 @@ section .section-title {
 }
 #tabs .nav-tabs .nav-link {
   border: 1px solid transparent;
-  border-top-left-radius: .25rem;
-  border-top-right-radius: .25rem;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
   font-size: 20px;
 }
 
@@ -38,7 +42,9 @@ section .section-title {
   padding-right: 0;
   border-color: transparent transparent #f3f3f3;
   min-height: 60px;
-  background-color: $pitch-background-dark;
+  @include themed() {
+    background-color: t($pitch-background-dark);
+  }
 }
 
 .white-field-stripe {
@@ -47,7 +53,9 @@ section .section-title {
   padding-right: 0;
   border-color: transparent transparent #f3f3f3;
   min-height: 60px;
-  background-color: $pitch-background-light;
+  @include themed() {
+    background-color: t($pitch-background-light);
+  }
 }
 
 .subs-bench {
@@ -56,12 +64,13 @@ section .section-title {
   padding-right: 0;
   border-color: transparent transparent #f3f3f3;
   min-height: 60px;
-  background-color: $pitch-background-grey;
+  @include themed() {
+    background-color: t($pitch-background-grey);
+  }
 }
 
-
 .footy-field {
- color: honeydew;
- font-size: x-small;
- text-align: center;
+  color: honeydew;
+  font-size: x-small;
+  text-align: center;
 }

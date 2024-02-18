@@ -1,0 +1,79 @@
+// Shortcuts
+$primary-colour: 'primary-colour'; // #7f75af;
+$secondary-colour:  'secondary-colour';
+$text-colour: 'text-colour';
+$text-colour-dark: 'text-colour-dark';
+$body-colour: 'body-colour';
+$border-colour: '$border-colour';
+$secondary-background-colour: 'secondary-background-colour';
+$black: 'black';
+$white: 'white';
+$light: 'light';
+$alert-colour: 'alert-colour';
+$pitch-background-dark: 'pitch-background-dark';
+$pitch-background-light: 'pitch-background-light';
+$pitch-background-grey: 'pitch-background-grey';
+
+$theme-map: () !global;
+$themes: (
+  default: (
+    logo: url("./images/svgs/light/frother_logo.svg"),
+    sleeves: url("./images/svgs/light/sleeves.svg"),
+    primary-colour: $light-colour-800,
+    secondary-colour:  $light-colour-700,
+    text-colour: $light-colour-100,
+    text-colour-dark: $light-colour-200,
+    body-colour: $light-colour-500,
+    border-colour: $light-colour-800,
+    secondary-background-colour: $light-colour-700,
+    black: $light-colour-950,
+    white: $light-colour-50,
+    light: $light-colour-400,
+    alert-colour: #f03a47,
+    pitch-background-dark: green,
+    pitch-background-light: rgb(67, 151, 67),
+    pitch-background-grey: rgb(98, 100, 98),
+  ),
+  dark: (
+    logo: url("./images/svgs/dark/frother_logo.svg"),
+    sleeves: url("./images/svgs/dark/sleeves.svg"),
+    primary-colour: $dark-colour-800,
+    secondary-colour:  $dark-colour-700,
+    text-colour: $dark-colour-100,
+    text-colour-dark: $dark-colour-200,
+    body-colour: $dark-colour-500,
+    border-colour: $dark-colour-800,
+    secondary-background-colour: $dark-colour-700,
+    black: $dark-colour-950,
+    white: $dark-colour-50,
+    light: $dark-colour-400,
+    alert-colour: #f03a47,
+    pitch-background-dark: green,
+    pitch-background-light: rgb(67, 151, 67),
+    pitch-background-grey: rgb(98, 100, 98),
+  ),
+);
+
+@mixin themed() {
+  @each $theme, $map in $themes {
+    .theme--#{$theme} & {
+      $theme-map: () !global;
+      @each $key, $value in $map {
+        $theme-map: map-merge($theme-map, ($key: $value)) !global;
+      }
+      @content;
+      $theme-map: null !global;
+    }
+  }
+}
+
+
+@function t($key) {
+  @if type-of($theme-map) == map {
+    @return map-get($theme-map, $key);
+  } @else {
+    @warn "Error: `$theme-map` is not a map.";
+    @return null;
+  }
+}
+
