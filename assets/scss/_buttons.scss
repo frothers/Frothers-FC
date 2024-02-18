@@ -1,0 +1,79 @@
+/* Button style */
+.btn {
+  font-size: 16px;
+  font-family: $primary-font;
+  text-transform: capitalize;
+  padding: 12px 20px;
+  border-radius: 5px;
+  border: 1px solid;
+  position: relative;
+  z-index: 1;
+  transition: 0.2s ease;
+
+  &:hover,
+  &:active,
+  &:focus {
+    outline: 0;
+    box-shadow: none !important;
+  }
+}
+
+.btn-sm {
+  font-size: 15px;
+  padding: 6px 10px;
+}
+
+.btn-primary {
+  @include themed() {
+    background: t($primary-colour);
+    color: t($white);
+    border-color: t($primary-colour);
+  }
+
+  &:active,
+  &:hover,
+  &.focus,
+  &.active {
+    @include themed() {
+      background: t($primary-colour) !important;
+      border-color: t($primary-colour) !important;
+    }
+  }
+}
+
+.btn-outline-primary {
+  background: transparent;
+  @include themed() {
+    color: t($primary-colour);
+    border-color: t($primary-colour);
+  }
+
+  &:active,
+  &:hover,
+  &.focus,
+  &.active {
+    @include themed() {
+      background: t($primary-colour) !important;
+      border-color: t($primary-colour) !important;
+      color: t($white);
+    }
+  }
+}
+
+.btn-transparent {
+  background: transparent;
+  @include themed() {
+    border-bottom: 1px solid t($primary-colour);
+    color: t($primary-colour);
+  }
+  border: 0;
+  border-radius: 0;
+  padding: 2px;
+
+  &:active,
+  &:hover,
+  &.focus,
+  &.active {
+    background: transparent;
+  }
+}
