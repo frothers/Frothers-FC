@@ -1,5 +1,7 @@
 body {
-  background-color: t($body-colour);
+  @include themed() {
+    background-color: t($body-colour);
+  }
   overflow-x: hidden;
 }
 
@@ -10,15 +12,21 @@ h1 {
 }
 
 .text-dark {
-  color: t($text-colour-dark) !important;
+  @include themed() {
+    color: t($text-colour-dark) !important;
+  }
 }
 
 .text-real-dark {
-  color: t($body-colour);
+  @include themed() {
+    color: t($body-colour);
+  }
 }
 
 .right-alert {
-  color: t($alert-colour);
+  @include themed() {
+    color: t($alert-colour);
+  }
   float: right;
 }
 
@@ -122,17 +130,17 @@ select {
 .overlay {
   position: relative;
 
-  @include themed() {
-    &::before {
-      position: absolute;
-      content: "";
-      height: 100%;
-      width: 100%;
-      top: 0;
-      left: 0;
+  &::before {
+    position: absolute;
+    content: "";
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    @include themed() {
       background: t($black);
-      opacity: 0.5;
     }
+    opacity: 0.5;
   }
 }
 

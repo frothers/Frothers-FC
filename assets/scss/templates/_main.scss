@@ -89,20 +89,26 @@
       width: 40px;
       height: 40px;
       text-align: center;
-      color: t($text-colour);
+      @include themed() {
+        color: t($text-colour);
+      }
       border: 0;
       border-radius: 5px;
 
       &:hover {
-        background: t($primary-colour);
-        color: t($white);
+        @include themed() {
+          background: t($primary-colour);
+          color: t($white);
+        }
       }
     }
 
     &.active {
       .page-link {
-        background: t($primary-colour);
-        color: t($white);
+        @include themed() {
+          background: t($primary-colour);
+          color: t($white);
+        }
       }
     }
   }
@@ -111,14 +117,18 @@
   text-decoration: underline;
 }
 .post-title {
-  color: t($text-colour);
+  @include themed() {
+    color: t($text-colour);
+  }
 }
 .post-meta {
   color: #999;
   a {
     color: inherit;
     &:hover {
-      color: t($primary-colour);
+      @include themed() {
+        color: t($primary-colour);
+      }
     }
   }
 }
@@ -162,7 +172,9 @@
         font-size: 14px;
         left: 0;
         top: 1px;
-        color: t($primary-colour);
+        @include themed() {
+          color: t($primary-colour);
+        }
         transition: 0.3s ease;
       }
     }
@@ -184,7 +196,9 @@
     }
 
     tbody {
-      background: t($light);
+      @include themed() {
+        background: t($light);
+      }
 
       td {
         text-align: left !important;
@@ -211,7 +225,7 @@
   pre {
     padding: 10px 20px;
     @include themed() {
-    background: t($light);
+      background: t($light);
     }
 
     code {
@@ -223,7 +237,7 @@
 
   a {
     @include themed() {
-    color: t($text-colour-dark);
+      color: t($text-colour-dark);
     }
 
     &:hover {
@@ -234,9 +248,9 @@
   code {
     padding: 3px 5px;
     @include themed() {
-    background: t($light);
-    border: 1px solid t($border-colour);
-    color: t($text-colour-dark);
+      background: t($light);
+      border: 1px solid t($border-colour);
+      color: t($text-colour-dark);
     }
     border-radius: 3px;
   }
@@ -248,18 +262,17 @@
     height: 45px;
     width: 45px;
     @include themed() {
-    border: 1px solid t($primary-colour);
-    color: t($primary-colour);
-    &:hover {
-      background: t($primary-colour);
-      color: t($white);
-    }
+      border: 1px solid t($primary-colour);
+      color: t($primary-colour);
+      &:hover {
+        background: t($primary-colour);
+        color: t($white);
+      }
     }
     border-radius: 50%;
     line-height: 45px;
     text-align: center;
     display: block;
-
   }
 }
 
@@ -268,16 +281,14 @@
   .nav-link {
     padding: 15px;
     @include themed() {
-
-    color: t($text-colour);
+      color: t($text-colour);
     }
     border-radius: 5px;
     &.active {
       @extend .shadow;
       @include themed() {
-
-      color: t($white);
-      background: t($primary-colour);
+        color: t($white);
+        background: t($primary-colour);
       }
     }
   }

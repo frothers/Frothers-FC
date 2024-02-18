@@ -120,3 +120,11 @@
   page-break-after: 10px;
   font-size: 20px;
 }
+
+.light-theme-button {
+  background-color: $light-colour-600 !important;
+}
+
+.dark-theme-button {
+  background-color: $dark-colour-600 !important;
+}
