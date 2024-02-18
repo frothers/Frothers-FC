@@ -3,6 +3,13 @@
   background-image: url(../images/backgrounds/pattern.png);
 } */
 
+.theme {
+  @include themed() {
+    background-color: t($body-colour);
+  }
+  overflow-x: hidden;
+}
+
 /* banner */
 .banner {
   padding: 220px 0 120px;

@@ -1,19 +1,25 @@
+.text-dark {
+  @include themed() {
+    color: t($text-colour-dark) !important;
+  }
+}
+
 body {
+  overflow-x: hidden;
   @include themed() {
     background-color: t($body-colour);
   }
-  overflow-x: hidden;
+}
+
+.body {
+  @include themed() {
+    background-color: t($body-colour);
+  }
 }
 
 h1 {
   @include themed() {
     color: t($text-colour);
-  }
-}
-
-.text-dark {
-  @include themed() {
-    color: t($text-colour-dark) !important;
   }
 }
 
