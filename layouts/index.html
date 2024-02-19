@@ -1,15 +1,15 @@
 {{ define "main" }}
 
 <!-- banner -->
-<section class="banner bg-cover" style="background-image: url('{{ .Site.Params.banner.bgImage | relURL }}');">
-  <img src="{{ .Site.Params.banner.image | relURL }}" width = "400" class="img-fluid illustration float-left" alt="">
+<section class="banner bg-cover">
+  <img class="logo-img img-fluid illustration float-left" alt="">
   <div class="container">
     <div class="row">
       <div class="col-lg-6 mb-5 desktop-heading mb-lg-0 text-center">
         <h1>{{ .Site.Params.banner.title | markdownify }}</h1>
       </div>
       <div class="col-lg-6 illustration-mobile text-center">
-        <img src="{{ .Site.Params.banner.image | relURL }}" width = "400" class="img-fluid float-none" alt="">
+        <img class="logo-img img-fluid float-none" alt="">
       </div>
     </div>
   </div>
@@ -117,13 +117,13 @@
       <div class="col-lg-8 mx-auto">
         <div class="row shadow p-5">
           <div class="col-md-4 text-center text-md-left mb-4 mb-lg-0">
-            <img src="{{ .Site.Params.cta.image | relURL }}" class="mr-4" width = "200" alt="..."></div>
+            <img class="mr-4 kick-img" width = "200" alt="..."></div>
           <div class="col-md-8 text-center text-md-left">
             <h3 class="mt-0">{{ .Site.Params.cta.title | markdownify }}</h3>
             <p>{{ .Site.Params.cta.description | markdownify }}</p>
             {{ if .Site.Params.cta.button.enable }}
-            <a href="{{ .Site.Params.cta.button.link | absURL }}"
-              target="_blank" class="btn btn-primary">{{ .Site.Params.cta.button.label }}</a>
+            <button href="{{ .Site.Params.cta.button.link | absURL }}"
+              target="_blank" class="btn btn-primary">{{ .Site.Params.cta.button.label }}</button>
             {{ end }}
           </div>
         </div>

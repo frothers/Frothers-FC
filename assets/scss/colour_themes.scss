@@ -13,12 +13,16 @@ $alert-colour: 'alert-colour';
 $pitch-background-dark: 'pitch-background-dark';
 $pitch-background-light: 'pitch-background-light';
 $pitch-background-grey: 'pitch-background-grey';
+$sleeves-url: 'sleeves';
+$logo-url: 'logo';
+$kick-url: 'kick';
 
 $theme-map: () !global;
 $themes: (
   default: (
-    logo: url("./images/svgs/light/frother_logo.svg"),
-    sleeves: url("./images/svgs/light/sleeves.svg"),
+    logo: url("/images/svgs/light/frother_logo.svg"),
+    sleeves: url("/images/svgs/light/sleeves.svg"),
+    kick: url("/images/svgs/light/highkick.svg"),
     primary-colour: $light-colour-800,
     secondary-colour:  $light-colour-700,
     text-colour: $light-colour-100,
@@ -35,8 +39,9 @@ $themes: (
     pitch-background-grey: rgb(98, 100, 98),
   ),
   dark: (
-    logo: url("./images/svgs/dark/frother_logo.svg"),
-    sleeves: url("./images/svgs/dark/sleeves.svg"),
+    logo: url("/images/svgs/dark/frother_logo.svg"),
+    sleeves: url("/images/svgs/dark/sleeves.svg"),
+    kick: url("/images/svgs/dark/highkick.svg"),
     primary-colour: $dark-colour-800,
     secondary-colour:  $dark-colour-700,
     text-colour: $dark-colour-100,

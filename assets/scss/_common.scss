@@ -120,9 +120,46 @@ select {
 }
 
 .bg-cover {
+  @include themed() {
+    background-image: t($sleeves-url);
+  }
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
+}
+
+.kick-img {
+  @include themed() {
+    content: t($kick-url);
+  }
+}
+
+.footer-img {
+  @include themed() {
+    content: t($logo-url);
+  }
+  width: 200px; /*or your image's width*/
+  height: auto; /*or your image's height*/
+  margin: 0;
+  padding: 0;
+}
+
+.logo-img {
+  @include themed() {
+    content: t($logo-url);
+  }
+  width: 400px; /*or your image's width*/
+  height: auto; /*or your image's height*/
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.header-logo-img {
+  @include themed() {
+    content: t($logo-url);
+  }
 }
 
 .border-primary {
