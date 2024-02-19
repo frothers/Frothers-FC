@@ -132,6 +132,7 @@ select {
   @include themed() {
     content: t($kick-url);
   }
+  width: 10rem;
 }
 
 .footer-img {
@@ -160,6 +161,7 @@ select {
   @include themed() {
     content: t($logo-url);
   }
+  width: 4rem;
 }
 
 .border-primary {
