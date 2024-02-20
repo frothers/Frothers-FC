@@ -14,7 +14,9 @@
 
 .navbar-brand {
   img {
-    width: 50px;
+    @include themed() {
+      content: t($logo-sm-url);
+    }
     margin: 5px;
   }
   font-size: xx-large;

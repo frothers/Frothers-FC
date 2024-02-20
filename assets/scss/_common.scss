@@ -137,31 +137,18 @@ select {
 
 .footer-img {
   @include themed() {
-    content: t($logo-url);
+    content: t($logo-sm-url);
   }
-  width: 200px; /*or your image's width*/
-  height: auto; /*or your image's height*/
   margin: 0;
   padding: 0;
 }
 
 .logo-img {
   @include themed() {
-    content: t($logo-url);
+    content: t($logo-mid-url);
   }
-  width: 400px; /*or your image's width*/
-  height: auto; /*or your image's height*/
   margin: 0;
   padding: 0;
-}
-
-
-
-.header-logo-img {
-  @include themed() {
-    content: t($logo-url);
-  }
-  width: 20px;
 }
 
 .border-primary {
