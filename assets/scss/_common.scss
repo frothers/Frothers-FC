@@ -23,6 +23,12 @@ h1 {
   }
 }
 
+.h4 {
+  @include themed() {
+    color: t($text-colour);
+  }
+}
+
 .text-real-dark {
   @include themed() {
     color: t($body-colour);
@@ -41,6 +47,16 @@ h1 {
     background-color: t($secondary-background-colour);
     color: t($text-colour);
   }
+}
+
+.form-label {
+  @include themed() {
+    color: t($text-colour);
+  }
+}
+
+.form-control {
+  padding-left: 5px !important;
 }
 
 .page-link {
