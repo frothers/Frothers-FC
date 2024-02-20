@@ -54,6 +54,7 @@ function Toggle() {
   return (
     <>
     <FormControlLabel
+      style = {{  margin: 0}}
       control={<MaterialUISwitch sx={{ m: 1 }} />}
       onChange={toggleDarkMode}
       checked={isDarkMode}
