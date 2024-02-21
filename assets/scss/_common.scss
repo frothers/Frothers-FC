@@ -17,6 +17,12 @@ body {
   }
 }
 
+a.nav-item {
+  @include themed() {
+    color: t($text-colour-dark);
+  }
+}
+
 h1 {
   @include themed() {
     color: t($text-colour);
