@@ -147,14 +147,14 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
 
   return (
     <div ref={drop} className="squad-pitch container">
-      <Row className="h-75">
-        <Col className="h-75" lg={9} ref={downloadElementRef}>
-          <Row style={{"height" : "85%"}}>
+      <Row className="h-100">
+        <Col lg={9} ref={downloadElementRef} className="h-50">
+          <div className="row h-75">
             <div className="col-sm white-field-stripe"></div>
             <div className="col-sm green-field-stripe"></div>
             <div className="col-sm white-field-stripe"></div>
-          </Row>
-          <Row className="mh-25 subs-bench"></Row>
+          </div>
+          <div className="row h-25 subs-bench"></div>
           {Object.keys(boxes).map((key) => (
             <DraggableBox
               key={key}
@@ -167,7 +167,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
             />
           ))}
         </Col>
-        <Col lg={3} className="player-roster mh-25">
+        <Col lg={3} className="player-roster h-50" >
           <Row className="justify-content-center">
             <Col><AddPlayers callback={addPlayer} /></Col>
             <Col><Dustbin
@@ -195,10 +195,10 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
           <Row className="justify-content-center">
             <DownloadImage elementRef={downloadElementRef} />
             <Button variant="info" onClick={saveLSData}>
-              ⬇️ JSON
+              ⬇️
             </Button>
             <Button variant="info" onClick={handleUploadButtom}>
-              ⬆️ JSON</Button>
+              ⬆️</Button>
             <Form.Group controlId="formFile" className="mb-3">
               <Form.Control size="sm" type="file" ref={fileInputRef} onChange={loadJsonToLS} className="d-none"/>
             </Form.Group>

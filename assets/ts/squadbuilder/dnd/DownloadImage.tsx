@@ -23,7 +23,7 @@ export const DownloadImage: FC<DownloadImageProps> = (props) => {
 
   return (
     <Button variant="secondary" onClick={htmlToImageConvert}>
-      ⬇️ Image
+      🖼️
     </Button>
   );
 };
