@@ -147,14 +147,14 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
 
   return (
     <div ref={drop} className="squad-pitch container">
-      <Row className="h-100">
-        <Col lg={9} ref={downloadElementRef}>
-          <div className="row h-100">
+      <Row className="h-75">
+        <Col className="h-75" lg={9} ref={downloadElementRef}>
+          <Row style={{"height" : "85%"}}>
             <div className="col-sm white-field-stripe"></div>
             <div className="col-sm green-field-stripe"></div>
             <div className="col-sm white-field-stripe"></div>
-          </div>
-          <div className="row h-25 subs-bench"></div>
+          </Row>
+          <Row className="mh-25 subs-bench"></Row>
           {Object.keys(boxes).map((key) => (
             <DraggableBox
               key={key}
@@ -167,7 +167,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
             />
           ))}
         </Col>
-        <Col lg={3} className="player-roster">
+        <Col lg={3} className="player-roster mh-25">
           <Row className="justify-content-center">
             <Col><AddPlayers callback={addPlayer} /></Col>
             <Col><Dustbin
