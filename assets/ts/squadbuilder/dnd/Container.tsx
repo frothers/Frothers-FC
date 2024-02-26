@@ -148,7 +148,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
   return (
     <div ref={drop} className="squad-pitch container">
       <Row className="h-100">
-        <Col lg={9} ref={downloadElementRef} className="h-50">
+        <Col lg={9} ref={downloadElementRef} className="">
           <div className="row h-75">
             <div className="col-sm white-field-stripe"></div>
             <div className="col-sm green-field-stripe"></div>
@@ -167,7 +167,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
             />
           ))}
         </Col>
-        <Col lg={3} className="player-roster h-50" >
+        <Col lg={3} className="player-roster" >
           <Row className="justify-content-center">
             <Col><AddPlayers callback={addPlayer} /></Col>
             <Col><Dustbin
