@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 blurb = "Centre back turned winger, Shandy is the true evergreen. Bringing years of indoor football experience, Shandy can thrive anywhere on the pitch and can always sniff out an after match beer."
 fut_card = ""
 kit_number = 13
