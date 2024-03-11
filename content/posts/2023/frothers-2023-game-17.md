@@ -36,7 +36,7 @@ goals = 1
 
 [[scorers]]
 scorer = "Yash Rosario"
-goals = 1
+goals = 2
 
 [[scorers]]
 scorer = "Matt Salt"
