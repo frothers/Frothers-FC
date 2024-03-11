@@ -40,7 +40,7 @@ goals = 1
 
 [[scorers]]
 scorer = "Matt Salt"
-goals = 2
+goals = 1
 
 [[scorers]]
 scorer = "Aaron Jackson"
