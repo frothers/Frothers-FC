@@ -198,5 +198,45 @@
     "player": "Ryan Kindell",
     "award": "MVP",
     "year": 2022
+  },
+  {
+    "player": "Lance Molyneaux",
+    "award": "MVP",
+    "year": 2023
+  },
+  {
+    "player": "Jarrod Murray",
+    "award": "Frother of the Year",
+    "year": 2023
+  },
+  {
+    "player": "Chris Chester",
+    "award": "Goal of the Season",
+    "year": 2023
+  },
+  {
+    "player": "Lance Molyneaux",
+    "award": "Golden Boot",
+    "year": 2023
+  },
+  {
+    "player": "Aaron Jackson",
+    "award": "Golden Boot",
+    "year": 2023
+  },
+  {
+    "player": "Charles Daily",
+    "award": "Glassman",
+    "year": 2023
+  },
+  {
+    "player": "Ian Ryans",
+    "award": "Best Rookie",
+    "year": 2023
+  },
+  {
+    "player": "Yash Rosario",
+    "award": "Most Improved Player",
+    "year": 2023
   }
 ]

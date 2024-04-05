@@ -7,7 +7,7 @@ body {
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   @include themed() {
-    color: t($text-colour);
+    color: t($text-colour) !important;
   }
 }
 
@@ -24,7 +24,7 @@ p,
 
 a {
   @include themed() {
-    color: t($primary-colour);
+    color: t($light-colour-300);
     &:hover {
       color: t($primary-colour);
     }
