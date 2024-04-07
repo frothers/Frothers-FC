@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 blurb = "An OG Frother. Following the in the footsteps of greats like Javier Mascherano, Charles has discovered the purity of the CB position later in his career. Passing up several years of Masters football to sip the sweet nectar that is Frothers football Charles has finally bagged a couple goals this last season. Like a fine wine. Just keep him away from the penalty spot. "
 teams = ["OG Frothers"]
 fut_card = "/images/141439005_1374658049536642_3401718979182517112_n.jpg"
