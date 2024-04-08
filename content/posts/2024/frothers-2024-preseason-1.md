@@ -24,7 +24,7 @@ xi_and_subs = [
   "Evan Hanson",
   "Jamie Bunting",
   "Lance Molyneaux",
-  "Matt Salt",
+  "Mathew Salt",
   "Yash Rosario",
   "Yarride Rosario",
   "Ring-In"
@@ -35,7 +35,7 @@ scorer = "Farshid Shokoohi"
 goals = 1
 
 [[scorers]]
-scorer = "Matt Salt"
+scorer = "Mathew Salt"
 goals = 1
 
 [[scorers]]

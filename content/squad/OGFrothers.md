@@ -4,7 +4,7 @@ weight = 2
 title = "OG Frothers Squad"
 players = [
   "Yarride Rosario",
-  "Matt Salt",
+  "Mathew Salt",
   "Yash Rosario",
   "Evan Doube",
   "Aaron Jackson",

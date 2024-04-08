@@ -2,7 +2,7 @@
 import { defineConfig } from "tinacms";
 
 // tina/templates.ts
-var squadList = ["", "Matt Salt", "Yash Rosario", "Yarride Rosario", "Evan Doube", "Aaron Jackson", "Josh Shand", "Ian Rayns", "Farshid Shokoohi", "Jacob Williamson", "Jamie Bunting", "OG", "Ring-In", "Charles Daily", "Jarrod Murray", "Milan Mrdalj", "Harry Furnish", "Evan Hanson", "Ryan Kindell", "Lance Molyneaux", "Chris Chester", "Patrick Cameron"];
+var squadList = ["", "Mathew Salt", "Yash Rosario", "Yarride Rosario", "Evan Doube", "Aaron Jackson", "Josh Shand", "Ian Rayns", "Farshid Shokoohi", "Jacob Williamson", "Jamie Bunting", "OG", "Ring-In", "Charles Daily", "Jarrod Murray", "Milan Mrdalj", "Harry Furnish", "Evan Hanson", "Ryan Kindell", "Lance Molyneaux", "Chris Chester", "Patrick Cameron"];
 function squadFields() {
   return [
     {

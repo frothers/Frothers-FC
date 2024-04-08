@@ -4,7 +4,7 @@ weight = 2
 title = "Full Frothers Club"
 players = [
   "",
-  "Matt Salt",
+  "Mathew Salt",
   "Evan Doube",
   "Aaron Jackson",
   "Josh Shand",

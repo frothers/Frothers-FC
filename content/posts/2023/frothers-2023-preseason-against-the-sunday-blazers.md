@@ -22,7 +22,7 @@ scorer = "Lance Molyneaux"
 +++
 Welcome, folks, to an electrifying match between the Frothers and the Blazers! And boy, oh boy, what a game we've witnessed today!
 
-The Frothers, with some new blood in the form of Ian, Farshid, Evan D, Aaron, and the tease Matt Salt, took on the Blazers, who had a whopping 8 substitutes compared to the Frothers' measly 2. It was a tough task ahead for the Frothers, but they were up for the challenge.
+The Frothers, with some new blood in the form of Ian, Farshid, Evan D, Aaron, and the tease Mathew Salt, took on the Blazers, who had a whopping 8 substitutes compared to the Frothers' measly 2. It was a tough task ahead for the Frothers, but they were up for the challenge.
 
 In the first 3 quarters, the Frothers looked like they were holding their own against the Blazers, with a brilliant goal from Lance that sent the crowd into a frenzy! But, alas, the Blazers fought back with a vengeance and scored 3 goals of their own, leaving the Frothers in the dust.
 

@@ -26,7 +26,7 @@ xi_and_subs = [
   "Lance Molyneaux",
   "Yash Rosario",
   "Aaron Jackson",
-  "Matt Salt",
+  "Mathew Salt",
   "Ring-In"
 ]
 
@@ -39,7 +39,7 @@ scorer = "Yash Rosario"
 goals = 2
 
 [[scorers]]
-scorer = "Matt Salt"
+scorer = "Mathew Salt"
 goals = 1
 
 [[scorers]]
