@@ -163,7 +163,7 @@ export let populateStats = async function (name: string) {
         xAxes: [{
           ticks: {
             suggestedMin: 2017,
-            suggestedMax: 2021,
+            suggestedMax: 2024,
             stepSize: 1
           }
         }],
