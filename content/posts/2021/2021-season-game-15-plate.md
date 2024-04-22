@@ -25,6 +25,8 @@ scorer = "Jamie Hatch"
 goals = 1
 scorer = "Harry Furnish"
 
+dotd = "Jamie Hatch"
+
 +++
 > This one goes out to the lovers
 

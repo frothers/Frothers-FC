@@ -18,6 +18,8 @@ xi_and_subs = ["Ryan Kindell","Chris Chester","Angus Hay-Chapman","Sam Abbiss","
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"
+motm = "Angus Hay-Chapman"
+dotd = "Milan Mrdalj"
 
 +++
 > The rematch

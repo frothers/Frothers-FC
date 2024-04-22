@@ -22,6 +22,9 @@ scorer = "Yarride Rosario"
 goals = 1
 scorer = "Harry Furnish"
 
+motm = "Yarride Rosario"
+dotd = "Yarride Rosario"
+
 +++
 Another wet game but completely different football from the Frothers. Playing what was meant to be last year's cup final, the habibis ame out the stronger of the two teams.
 

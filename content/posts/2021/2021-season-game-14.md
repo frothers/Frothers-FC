@@ -28,6 +28,9 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Yarride Rosario"
 
+motm = "Jack Kos"
+dotd = "Jarrod Murray"
+
 +++
 The big derby to finish the season off, with the Frothers fighting for a bit of pride and to get away from the bottom of the table.
 

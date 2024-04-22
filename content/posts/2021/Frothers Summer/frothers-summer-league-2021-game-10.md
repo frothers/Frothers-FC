@@ -22,6 +22,9 @@ scorer = "Yarride Rosario"
 goals = 1
 scorer = "Lance Molyneaux"
 
+motm = "Evan Hanson"
+dotd = "Charles Daily"
+
 +++
 It was the deciding game against the Valley dream and it was all too play for, with a win enough to take the Frothers to the top of the table.
 

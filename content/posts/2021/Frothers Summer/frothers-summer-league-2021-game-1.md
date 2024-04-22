@@ -28,6 +28,9 @@ scorer = "Harry Furnish"
 goals = 1
 scorer = "Yarride Rosario"
 
+motm = "Harry Furnish"
+dotd = "Ryan Kindle"
+
 +++
 The step down to Div2 had the Frothers facing new opposition in the Geckos. The new season gave official Frother debuts to **Bunting**, **Will,** and **Alain** after being ring-ins in the past, and they all showed their class early on as the Frothers took charge from the kickoff. Good link-up play between **Alain** and **Will** saw **Yarride** teed up for a shot but the keeper made a good low save.
 

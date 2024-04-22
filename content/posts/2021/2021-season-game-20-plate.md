@@ -42,6 +42,8 @@ scorer = "Thomas Sule"
 goals = 1
 scorer = "Yarride Rosario"
 
+motm = "Harry Furnish"
+
 +++
 
 Entering their second plate final on the trot the Frothers were stoked they could play it this time. Another game at the home on the wind, Wakefield park. WSFL had set up a finals day where simultaneous finals were played one after another.

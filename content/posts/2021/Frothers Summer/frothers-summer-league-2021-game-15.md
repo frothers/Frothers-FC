@@ -19,6 +19,8 @@ xi_and_subs = ["Ryan Kindell", "Charles Daily", "Chris Chester", "Nick Jones", "
 goals = 1
 scorer = "Chris Chester"
 
+motd = "Chris Chester"
+
 +++
 > Cooler than a polar bear's toenails
 

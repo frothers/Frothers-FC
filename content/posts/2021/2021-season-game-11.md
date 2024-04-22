@@ -25,6 +25,9 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Thomas Sule"
 
+motm = "Sam Abbiss"
+dotd = "Charles Daily"
+
 +++
 Keeping the rain theme going, this weeks game was against the bottom of the table Black Bulls.
 

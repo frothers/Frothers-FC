@@ -39,6 +39,9 @@ taker = "Yarride Rosario"
 goals = 2
 scorer = "Yarride Rosario"
 
+motm = "Thomas Sule"
+dotd = "Evan Hanson"
+
 +++
 Just as the Frothers were getting on a roll covid struck back and delayed the season 3 weeks.
 

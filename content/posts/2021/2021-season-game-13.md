@@ -31,6 +31,9 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Ring-In"
 
+motm = "Jarrod Murray"
+dotd = "Nick Jones"
+
 +++
 Missing 5 or 6 key players from this season, Frothers game against Habibis this weekend gave other players the chance to step up and shine on Matariki weekend. An even start to the game was not reflected on the scoreboard as Frothers spurned a few good chances while Habibis took all of theirs to quickly race out to a 3-0 lead.
 

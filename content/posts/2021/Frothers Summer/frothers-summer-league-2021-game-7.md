@@ -22,6 +22,9 @@ scorer = "Jamie Hatch"
 goals = 1
 scorer = "Yarride Rosario"
 
+motm = "Jamie Bunting"
+dotd =  "Ryan Kindle"
+
 +++
 Looking to keep their hot run of form going, the Frothers next match was against the Diamonds.
 

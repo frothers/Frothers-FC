@@ -22,6 +22,9 @@ scorer = "Thomas Sule"
 goals = 2
 scorer = "Will Sule"
 
+motm = "Ryan Kindle"
+dotd = "Yarride Rosario"
+
 +++
 In the rematch of the plate final a month ago, the Frothers were out looking for revenge against the Valley Dream.
 

@@ -22,6 +22,8 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Evan Hanson"
 
+motm = "Ryan Kindle"
+dotd = "Charles Daily"
 +++
 A few big milestones in this one. **Jamie Hatch** is the first Frother to bring up 100 matches 🙌🙌. There was also a big turnout from the fresh Dad crew. **Lance**, **Charles**, **Milan**, and a surprise appearance from **Nestor**.
 

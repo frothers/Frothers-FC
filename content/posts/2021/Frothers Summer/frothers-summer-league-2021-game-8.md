@@ -22,6 +22,9 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Yarride Rosario"
 
+motm = "Lance Molyneaux"
+dotd = "Alain Bruner"
+
 +++
 Top of the table clash against Big Kicks, going for 8 wins in a row.
 

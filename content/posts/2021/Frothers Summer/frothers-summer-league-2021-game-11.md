@@ -22,6 +22,9 @@ scorer = "Yarride Rosario"
 goals = 1
 scorer = "Lance Molyneaux"
 
+motm = "Harry Furnish"
+dotd = "Milan Mrdalj"
+
 +++
 A top of the table clash against Big Kicks and it gave the Frothers the opportunity to open up the gap at the top of the table.
 

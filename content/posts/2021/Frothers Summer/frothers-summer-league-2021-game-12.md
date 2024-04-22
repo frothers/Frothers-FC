@@ -19,6 +19,9 @@ xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Jamie Hatch","Milan 
 goals = 1
 scorer = "Yarride Rosario"
 
+motm = "Ryan Kindle"
+dotd = "Milan Mrdalj"
+
 +++
 ![](/images/froth-wordle-2.png)
 
@@ -64,7 +67,7 @@ A third goal followed after. 🤷‍♂️
 
 ## Dick of the day
 
-A few contenders for this one. **Yarride** for getting sent off by the ref for no shin pads. Baby daddy **Nestor** for the unstoppable freight train run into their keeper. But the award goes to the man about to get his own turn at fatherhood, **Milan**.
+A few contenders for this one. **Yarride** for getting sent off by the ref for no shin pads. Baby daddy **Nestor** for the unstoppable frieght train run into their keeper. But the award goes to the man about to get his own turn at fatherhood, **Milan**.
 
 Doing his best Saurez, lying about it, only getting a yellow. And then rolling the dice all over again. You love to see it, you hate to live it.
 

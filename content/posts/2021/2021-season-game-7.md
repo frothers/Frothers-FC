@@ -25,6 +25,8 @@ scorer = "Thomas Sule"
 goals = 1
 scorer = "Yarride Rosario"
 
+motm = "Ryan Kindle"
+dotd = "Thomas Sule"
 +++
 > Doing 'em dirty..
 

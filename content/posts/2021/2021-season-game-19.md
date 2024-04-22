@@ -22,6 +22,9 @@ scorer = "Jarrod Murray"
 goals = 2
 scorer = "Thomas Sule"
 
+motm = "Jarrod Murray"
+dotd = "Evan Hanson"
+
 +++
 On a windy and rainy day, the Frothers were playing on Wellington's windiest pitch. RIP ball boys.
 

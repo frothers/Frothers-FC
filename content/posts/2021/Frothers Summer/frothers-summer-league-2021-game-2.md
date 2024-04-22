@@ -22,6 +22,9 @@ scorer = "Thomas Sule"
 goals = 1
 scorer = "Alain Bruner"
 
+motm = "Alain Bruner"
+dotd = "Alain Bruner"
+
 +++
 Frothers FC snuck a 2-1 win over Unilaterals with **Alain** and **Sule** scoring the goals.
 

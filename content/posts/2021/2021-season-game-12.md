@@ -22,6 +22,9 @@ scorer = "Yarride Rosario"
 goals = 1
 scorer = "Lance Molyneaux"
 
+motm = "Charles Daily"
+dotd = "Stu Escott"
+
 +++
 Entering the second round of the competition the Frothers were up against Valley FC for the third time this season. With the games 1 apiece it was all on the line.
 

@@ -25,6 +25,9 @@ scorer = "Yarride Rosario"
 goals = 1
 scorer = "Jamie Hatch"
 
+motm = "Thomas Sule"
+dotd = "Lance Molyneaux"
+
 +++
 # Next Generation of Frothers
 

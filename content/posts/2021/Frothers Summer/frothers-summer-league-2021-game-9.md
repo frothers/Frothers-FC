@@ -19,6 +19,9 @@ xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Jack Kos","Jack Hayd
 goals = 1
 scorer = "Yarride Rosario"
 
+motm = "Yarride Rosario"
+dotd = "Jamie Bunting"
+
 +++
 This was the game everyone had been waiting for, a clash between the two best teams in the division.
 

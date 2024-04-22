@@ -22,6 +22,9 @@ scorer = "Evan Hanson"
 goals = 2
 scorer = "Yarride Rosario"
 
+motm = "Sam Abbiss"
+dotd = "Thomas Sule"
+
 +++
 > Saving quiet Ryan
 

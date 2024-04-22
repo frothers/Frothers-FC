@@ -22,6 +22,9 @@ scorer = "Thomas Sule"
 goals = 4
 scorer = "Yarride Rosario"
 
+motm = "Chris Chester"
+dotd = "Chris Chester"
+
 +++
 > Is it a derby?
 

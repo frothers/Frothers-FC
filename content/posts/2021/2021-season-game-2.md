@@ -22,6 +22,9 @@ scorer = "OG"
 goals = 1
 scorer = "Yarride Rosario"
 
+motm = "Ryan Kindle"
+dotd = "Lance Molyneaux"
+
 +++
 > Time to test them new shirts out
 

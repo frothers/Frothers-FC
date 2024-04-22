@@ -18,7 +18,6 @@ xi_and_subs = ["Ryan Kindell","Sam Abbiss","Milan Mrdalj","Charles Daily","Will 
 [[scorers]]
 goals = 1
 scorer = "Thomas Sule"
-
 +++
 Liverpool making the Top 4 last week despite having their midfield and defence ravaged through injury had Frothers dreaming of success against North Wellington with 8 players unavailable.
 

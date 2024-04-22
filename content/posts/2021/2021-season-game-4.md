@@ -25,6 +25,9 @@ scorer = "Evan Hanson"
 goals = 1
 scorer = "Lance Molyneaux"
 
+motm = "Lance Molyneaux"
+dotd =  "Sam Abbiss"
+
 +++
 > Can they keep the streak going?
 
