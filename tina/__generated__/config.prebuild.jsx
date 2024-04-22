@@ -191,7 +191,7 @@ function squad_memberFields() {
       }
     },
     {
-      type: "datetime",
+      type: "string",
       name: "year_joined",
       label: "Year Joined",
       required: true

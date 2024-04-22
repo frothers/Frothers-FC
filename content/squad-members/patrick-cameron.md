@@ -8,6 +8,6 @@ photos = [ ]
 position = "Midfield"
 teams = [ "OG Frothers" ]
 title = "Patrick Cameron"
-year_joined = 2024
+year_joined = "2024"
 +++
 

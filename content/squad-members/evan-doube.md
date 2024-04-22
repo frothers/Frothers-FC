@@ -8,6 +8,6 @@ photos = [ "/IMG_0624.jpg" ]
 position = "Defender"
 teams = [ "OG Frothers" ]
 title = "Evan Doube"
-year_joined = 2023
+year_joined = "2023"
 +++
 
