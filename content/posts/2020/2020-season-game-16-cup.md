@@ -3,6 +3,8 @@ author = "Chris Chester"
 categories = ["Match"]
 date = 2020-09-19T12:00:00Z
 description = "Match report for the cup game against the Ball Tamperers"
+motm = "Jack Kos"
+dotd = "Stu Escott"
 frother_goals = 1
 images = ["/images/120047620_1520350568352603_1479611720152015780_n.jpg"]
 season = "winter"
@@ -17,8 +19,6 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Nick Jon
 [[scorers]]
 goals = 1
 scorer = "Charles Daily"
-motm = "Jack Kos"
-dotd = "Stu Escott"
 
 +++
 > Haters will say it was thrown...

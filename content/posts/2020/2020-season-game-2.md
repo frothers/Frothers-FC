@@ -5,6 +5,8 @@ date = 2020-06-13T12:00:00Z
 description = "Tough match at Wakefield again North Wellington"
 frother_goals = 1
 images = ["/images/103641163_3070778246481793_8477547292269633768_o.jpg"]
+motm = "Ryan Kindle"
+dotd = "Harry Freeman"
 season = "winter"
 match = true
 team = "OG Frothers"
@@ -17,8 +19,6 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stu Esco
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"
-motm = "Ryan Kindle"
-dotd = "Harry Freeman"
 
 +++
 Tough match against North Wellington in the cold.

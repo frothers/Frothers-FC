@@ -7,6 +7,7 @@ frother_goals = 0
 images = ["/images/img_297011.jpg"]
 season = "winter"
 match = true
+motm = "Harry Furnish"
 team = "OG Frothers"
 opponent = "Valley FC Dream"
 opponent_goals = 5
@@ -15,7 +16,6 @@ scorers = []
 title = "2020 Season - Game 12 (Friendly)"
 type = "post"
 xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stu Escott','Nick Jones','Milan Mrdalj','Charles Daily','Harry Freeman','Evan Hanson','Harry Furnish','Lance Molyneaux','Lee Greengrass',]
-motm = "Harry Furnish"
 
 +++
 A dirty friendly, so time to ring the changes!

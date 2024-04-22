@@ -7,6 +7,8 @@ frother_goals = 2
 images = ["/images/1633.jpg"]
 season = "winter"
 match = true
+motm = "Charles Daily"
+dotd = "Yarride Rosario"
 team = "OG Frothers"
 opponent = "Valley FC"
 opponent_goals = 3
@@ -20,8 +22,6 @@ scorer = "Jamie Hatch"
 [[scorers]]
 goals = 1
 scorer = "Charles Daily"
-motm = "Charles Daily"
-dotd = "Yarride Rosario"
 
 +++
 ## Public Enemy- Harder Than You Think

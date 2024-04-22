@@ -15,6 +15,8 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 20 (cup)"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Angus Hay-Chapman", "Chris Chester", "Jack Hayden", "Harry Furnish", "Charles Daily", "Jamie Bunting", "Jamie Hatch", "Tavis Wells", "Jarrod Murray", "Lance Molyneaux", "Jack Kos", "Evan Hanson", "Ring-In"]
+motm = "Chris Chester"
+dotd = "Milan Mrdalj"
 [[scorers]]
 goals = 2
 scorer = "Lance Molyneaux"
@@ -28,8 +30,6 @@ scorer = "Chris Chester"
 goals = 1
 scorer = "Jamie Bunting"
 
-motm = "Chris Chester"
-dotd = "Milan Mrdalj"
 
 +++
 ## Father's Day Energy

@@ -7,6 +7,8 @@ frother_goals = 1
 images = ["/images/chrisvolley.jpg"]
 match = true
 opponent = "Edward Street Athletic"
+motm = "Milan Mrdalj"
+dotd = "Sam Abbiss"
 opponent_goals = 0
 penalties = false
 result = "Win"
@@ -18,8 +20,6 @@ xi_and_subs = ["Ryan Kindell", "Chris Chester", "Jamie Hatch", "Stu Escott", "Ni
 [[scorers]]
 goals = 1
 scorer = "Chris Chester"
-motm = "Milan Mrdalj"
-dotd = "Sam Abbiss"
 
 +++
 > Nothing flaccid about this semi

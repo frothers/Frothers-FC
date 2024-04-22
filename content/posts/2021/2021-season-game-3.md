@@ -8,6 +8,8 @@ frother_goals = 6
 images = ["/images/157852687_3317474255145523_9071038019801514973_o.jpg"]
 season = "winter"
 match = true
+motm = "Chris Chester"
+dotd = "Chris Chester"
 team = "OG Frothers"
 opponent = "Los Blazeros"
 opponent_goals = 2
@@ -22,8 +24,6 @@ scorer = "Thomas Sule"
 goals = 4
 scorer = "Yarride Rosario"
 
-motm = "Chris Chester"
-dotd = "Chris Chester"
 
 +++
 > Is it a derby?

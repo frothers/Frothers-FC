@@ -15,12 +15,12 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 15"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Jacob Williamson", "Nick Jones", "Chris Chester", "Jack Hayden", "Milan Mrdalj", "Charles Daily", "Evan Hanson", "Jamie Bunting", "Jamie Hatch", "Tyler Jackson", "Yarride Rosario"]
+motm = "Charles Daily"
+dotd = "Jack Hayden"
 [[scorers]]
 goals = 1
 scorer = "Tyler Jackson"
 
-motm = "Charles Daily"
-dotd = "Jack Hayden"
 
 +++
 The boys were their own worst enemies on this one. Starting the game with 10 men the Frothers were out of sorts from the kickoff. Charles made it after a couple of minutes to get XI on the field, but there was still confusion a-plenty.

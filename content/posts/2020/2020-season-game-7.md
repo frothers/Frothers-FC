@@ -7,6 +7,8 @@ frother_goals = 3
 images = ["/images/jackf.png"]
 season = "winter"
 match = true
+motm = "Milan Mrdalj"
+dotd = "Evan Hanson"
 team = "OG Frothers"
 opponent = "Unicorns"
 opponent_goals = 3
@@ -23,8 +25,6 @@ scorer = "Luke Stancliffe-White"
 [[scorers]]
 goals = 1
 scorer = "Milan Mrdalj"
-motm = "Milan Mrdalj"
-dotd = "Evan Hanson"
 
 +++
 The next game for the Frothers was at the illustrious St. Pats turf, with a dirty old face showing up on the bench.

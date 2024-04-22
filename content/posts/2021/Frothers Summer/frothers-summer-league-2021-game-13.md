@@ -10,6 +10,8 @@ match = true
 opponent = "Majin Blues"
 opponent_goals = 1
 result = "Win"
+motd = "Harry Furnish"
+dotd = "Nestor Behring"
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 13"
@@ -25,8 +27,6 @@ scorer = "Ring-In"
 goals = 1
 scorer = "Alain Bruner"
 
-motd = "Harry Furnish"
-dotd = "Nestor Behring"
 
 +++
 Second game back and the Frothers were looking at bouncing back and both avenge the loss in the reverse figure. Getting back into winning ways would also be a treat.

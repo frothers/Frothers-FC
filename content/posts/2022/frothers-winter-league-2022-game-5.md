@@ -15,12 +15,12 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 5"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Nick Jones", "Chris Chester", "Jack Hayden", "Charles Daily", "Harry Furnish", "Evan Hanson", "Lance Molyneaux", "Tyler Jackson", "Jarrod Murray", "Jacob Williamson", "Jamie Hatch", "Alain Bruner"]
+motm = "Tyler Jackson"
+dotd = "Jarrod Murray"
 [[scorers]]
 goals = 2
 scorer = "Tyler Jackson"
 
-motm = "Tyler Jackson"
-dotd = "Jarrod Murray"
 
 +++
 ## Back at a reasonable hour against a more reasonable opposition.

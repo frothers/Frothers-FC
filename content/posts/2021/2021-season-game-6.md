@@ -7,6 +7,8 @@ friendly = false
 frother_goals = 1
 images = ["/images/185334635_3374980466061568_3235426851763961959_n.jpg"]
 season = "winter"
+motm = "Angus Hay-Chapman"
+dotd = "Milan Mrdalj"
 match = true
 team = "OG Frothers"
 opponent = "Valley FC"
@@ -18,8 +20,6 @@ xi_and_subs = ["Ryan Kindell","Chris Chester","Angus Hay-Chapman","Sam Abbiss","
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"
-motm = "Angus Hay-Chapman"
-dotd = "Milan Mrdalj"
 
 +++
 > The rematch

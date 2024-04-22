@@ -11,6 +11,8 @@ match = true
 team = "OG Frothers"
 opponent = "Habibis"
 opponent_goals = 6
+motm = "Jarrod Murray"
+dotd = "Nick Jones"
 result = "Loss"
 title = "2021 Season - Game 13"
 type = "post"
@@ -31,8 +33,6 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Ring-In"
 
-motm = "Jarrod Murray"
-dotd = "Nick Jones"
 
 +++
 Missing 5 or 6 key players from this season, Frothers game against Habibis this weekend gave other players the chance to step up and shine on Matariki weekend. An even start to the game was not reflected on the scoreboard as Frothers spurned a few good chances while Habibis took all of theirs to quickly race out to a 3-0 lead.

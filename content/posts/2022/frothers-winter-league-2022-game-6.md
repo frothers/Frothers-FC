@@ -15,6 +15,8 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 6"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Jacob Williamson", "Angus Hay-Chapman", "Nick Jones", "Jack Hayden", "Jamie Bunting", "Charles Daily", "Alain Bruner", "Evan Hanson", "Lance Molyneaux", "Tyler Jackson", "Jack Kos", "Jamie Hatch"]
+motm = "Chris Chester"
+dotd = "Jack Hayden"
 [[scorers]]
 goals = 1
 scorer = "Alain Bruner"
@@ -22,8 +24,6 @@ scorer = "Alain Bruner"
 goals = 1
 scorer = "Tyler Jackson"
 
-motm = "Chris Chester"
-dotd = "Jack Hayden"
 
 +++
 It has been a _Sign o’ the Times_ that this winter season is a different beast to the summer stroll we all enjoyed. It was lovely to welcome some of _The Beautiful Ones_ back to the _Revolution_ - always a pleasure and never a choir seeing **Angus Hay-Chapman**, **Jack Kos**, and **Jamie Bunting**.

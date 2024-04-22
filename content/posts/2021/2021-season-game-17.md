@@ -7,6 +7,8 @@ friendly = false
 frother_goals = 1
 images = ["/images/228404266_3448410588718555_8093951335355050790_n.jpg"]
 season = "winter"
+motm = "Evan Hanson"
+dotd = "Lance Molyneaux"
 match = true
 team = "OG Frothers"
 opponent = "North Wellington"
@@ -19,8 +21,6 @@ xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Sam Abbiss","Milan M
 goals = 1
 scorer = "Lance Molyneaux"
 
-motm = "Evan Hanson"
-dotd = "Lance Molyneaux"
 
 +++
 # The 40-year-old Virgin

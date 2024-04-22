@@ -7,6 +7,7 @@ frother_goals = 3
 images = ["/images/106129311_591711131740863_831779244749936274_n.jpg"]
 season = "winter"
 match = true
+motm = "Evan Hanson"
 team = "OG Frothers"
 opponent = "Sudakas"
 opponent_goals = 2
@@ -20,7 +21,6 @@ scorer = "Ring-In"
 [[scorers]]
 goals = 2
 scorer = "Yarride Rosario"
-motm = "Evan Hanson"
 
 +++
 Ronaldo‘s or Rosario’s?

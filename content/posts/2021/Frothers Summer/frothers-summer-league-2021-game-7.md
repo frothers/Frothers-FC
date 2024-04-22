@@ -9,6 +9,8 @@ images = ["/images/img_6514.JPG"]
 match = true
 opponent = "The Diamonds"
 opponent_goals = 1
+motm = "Jamie Bunting"
+dotd =  "Ryan Kindle"
 result = "Win"
 season = "summer"
 team = "OG Frothers"
@@ -22,8 +24,6 @@ scorer = "Jamie Hatch"
 goals = 1
 scorer = "Yarride Rosario"
 
-motm = "Jamie Bunting"
-dotd =  "Ryan Kindle"
 
 +++
 Looking to keep their hot run of form going, the Frothers next match was against the Diamonds.

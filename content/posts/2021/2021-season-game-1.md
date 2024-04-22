@@ -13,6 +13,8 @@ opponent = "The Pelicans"
 opponent_goals = 0
 result = "Win"
 title = "2021 Season - Game 1"
+motm = "Thomas Sule"
+dotd = "Lance Molyneaux"
 type = "post"
 xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Angus Hay-Chapman","Jamie Hatch","Milan Mrdalj","Charles Daily","Harry Furnish","Yarride Rosario","Lance Molyneaux","Thomas Sule","Jack Kos","Sam Abbiss","Evan Hanson"]
 [[scorers]]
@@ -25,8 +27,6 @@ scorer = "Yarride Rosario"
 goals = 1
 scorer = "Jamie Hatch"
 
-motm = "Thomas Sule"
-dotd = "Lance Molyneaux"
 
 +++
 # Next Generation of Frothers

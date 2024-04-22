@@ -9,6 +9,8 @@ images = ["/images/247260913_3503347009891579_1927659716018994397_n.jpg", "/imag
 match = true
 opponent = "Valley FC Dream"
 opponent_goals = 0
+motm = "Ryan Kindle"
+dotd = "Yarride Rosario"
 result = "Win"
 season = "summer"
 team = "OG Frothers"
@@ -22,8 +24,6 @@ scorer = "Thomas Sule"
 goals = 2
 scorer = "Will Sule"
 
-motm = "Ryan Kindle"
-dotd = "Yarride Rosario"
 
 +++
 In the rematch of the plate final a month ago, the Frothers were out looking for revenge against the Valley Dream.

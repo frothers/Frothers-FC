@@ -9,6 +9,8 @@ images = ["/images/246347433_3503346636558283_8182038338326154047_n.jpg"]
 match = true
 opponent = "Majin Blue"
 opponent_goals = 3
+motm = "Yarride Rosario"
+dotd = "Jamie Bunting"
 result = "Loss"
 season = "summer"
 team = "OG Frothers"
@@ -19,8 +21,6 @@ xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Jack Kos","Jack Hayd
 goals = 1
 scorer = "Yarride Rosario"
 
-motm = "Yarride Rosario"
-dotd = "Jamie Bunting"
 
 +++
 This was the game everyone had been waiting for, a clash between the two best teams in the division.

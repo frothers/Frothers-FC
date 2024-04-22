@@ -7,6 +7,8 @@ frother_goals = 1
 images = ["/images/jrod.jpg"]
 season = "winter"
 match = true
+motm = "Jamie Hatch"
+dotd = "Jarrod Murray"
 team = "OG Frothers"
 opponent = "Marauders"
 opponent_goals = 2
@@ -17,8 +19,6 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stu Esco
 [[scorers]]
 goals = 1
 scorer = "Stu Escott"
-motm = "Jamie Hatch"
-dotd = "Jarrod Murray"
 
 +++
 A special moment in Frothers history, as both Nick, Chris, Lance and Jamie marked 50 games for the boys.

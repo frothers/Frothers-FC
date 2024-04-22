@@ -12,6 +12,8 @@ team = "OG Frothers"
 opponent = "Valley FC"
 opponent_goals = 1
 result = "Win"
+motm = "Ryan Kindle"
+dotd = "Lance Molyneaux"
 title = "2021 Season - Game 2"
 type = "post"
 xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Angus Hay-Chapman","Sam Abbiss","Milan Mrdalj","Charles Daily","Evan Hanson","Yarride Rosario","Lance Molyneaux","Thomas Sule","Jack Kos","Jamie Hatch","Alex Winsley","Jarrod Murray"]
@@ -22,8 +24,6 @@ scorer = "OG"
 goals = 1
 scorer = "Yarride Rosario"
 
-motm = "Ryan Kindle"
-dotd = "Lance Molyneaux"
 
 +++
 > Time to test them new shirts out

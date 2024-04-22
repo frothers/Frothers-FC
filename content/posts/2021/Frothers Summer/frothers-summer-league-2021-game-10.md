@@ -13,6 +13,8 @@ result = "Win"
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 10"
+motm = "Evan Hanson"
+dotd = "Charles Daily"
 type = "post"
 xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Jack Kos","Jamie Hatch","Jack Hayden","Milan Mrdalj","Harry Furnish","Alain Bruner","Evan Hanson","Jamie Bunting","Yarride Rosario","Lance Molyneaux"]
 [[scorers]]
@@ -22,8 +24,6 @@ scorer = "Yarride Rosario"
 goals = 1
 scorer = "Lance Molyneaux"
 
-motm = "Evan Hanson"
-dotd = "Charles Daily"
 
 +++
 It was the deciding game against the Valley dream and it was all too play for, with a win enough to take the Frothers to the top of the table.

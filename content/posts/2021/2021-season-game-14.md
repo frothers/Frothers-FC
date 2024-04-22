@@ -3,6 +3,8 @@ author = "Chris"
 categories = ["Match"]
 date = 2021-07-17T12:00:00Z
 description = "Recap of the game against the Sunday Blazers"
+motm = "Jack Kos"
+dotd = "Jarrod Murray"
 friendly = false
 frother_goals = 5
 images = []
@@ -28,8 +30,6 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Yarride Rosario"
 
-motm = "Jack Kos"
-dotd = "Jarrod Murray"
 
 +++
 The big derby to finish the season off, with the Frothers fighting for a bit of pride and to get away from the bottom of the table.

@@ -15,11 +15,11 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 11"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Nick Jones", "Angus Hay-Chapman", "Chris Chester", "Jamie Hatch", "Charles Daily", "Evan Hanson", "Harry Furnish", "Alain Bruner", "Jarrod Murray", "Lance Molyneaux", "Jamie Bunting", "Jack Hayden"]
+motm = "Charles Daily"
 [[scorers]]
 goals = 1
 scorer = "Charles Daily"
 
-motm = "Charles Daily"
 
 +++
 > The boys are really missing the paparazzi

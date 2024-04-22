@@ -11,6 +11,8 @@ match = true
 team = "OG Frothers"
 opponent = "Bonds Sports Bar"
 opponent_goals = 2
+motm = "Lance Molyneaux"
+dotd =  "Sam Abbiss"
 result = "Win"
 title = "2021 Season - Game 4"
 type = "post"
@@ -25,8 +27,6 @@ scorer = "Evan Hanson"
 goals = 1
 scorer = "Lance Molyneaux"
 
-motm = "Lance Molyneaux"
-dotd =  "Sam Abbiss"
 
 +++
 > Can they keep the streak going?

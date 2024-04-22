@@ -3,6 +3,8 @@ author = "Chris Chester"
 categories = []
 date = 2020-06-06T12:00:00Z
 description = "Wrap up of the first game of the 2020 season"
+motm = "Sam Abbiss"
+dotd = "Chris Chester"
 frother_goals = 0
 images = ["/images/img_4794.jpg"]
 season = "winter"
@@ -15,8 +17,6 @@ scorers = []
 title = "2020 Season - Game 1"
 type = "post"
 xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stu Escott','Nick Jones','Sam Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Lance Molyneaux','Yarride Rosario',]
-motm = "Sam Abbiss"
-dotd = "Chris Chester"
 +++
 ![](/images/img_4794.jpg)
 

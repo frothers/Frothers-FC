@@ -11,6 +11,8 @@ match = true
 team = "OG Frothers"
 opponent = "Black Bulls"
 opponent_goals = 3
+motm = "Sam Abbiss"
+dotd = "Charles Daily"
 result = "Draw"
 title = "2021 Season - Game 11"
 type = "post"
@@ -25,8 +27,6 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Thomas Sule"
 
-motm = "Sam Abbiss"
-dotd = "Charles Daily"
 
 +++
 Keeping the rain theme going, this weeks game was against the bottom of the table Black Bulls.

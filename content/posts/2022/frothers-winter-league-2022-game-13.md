@@ -15,6 +15,8 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 13"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Jacob Williamson", "Nick Jones", "Angus Hay-Chapman", "Jack Hayden", "Milan Mrdalj", "Chris Chester", "Charles Daily", "Harry Furnish", "Jarrod Murray", "Jamie Bunting", "Evan Hanson", "Tavis Wells"]
+motm = "Jarrod Murray"
+dotd = "Charles Daily"
 [[scorers]]
 goals = 1
 scorer = "Jamie Bunting"
@@ -28,8 +30,6 @@ scorer = "Jacob Williamson"
 goals = 2
 scorer = "Jarrod Murray"
 
-motm = "Jarrod Murray"
-dotd = "Charles Daily"
 
 +++
 We had our very own Geoff Shreeves sideline reporter in **Jamie Hatch** this week.

@@ -12,6 +12,8 @@ opponent_goals = 1
 result = "Win"
 season = "summer"
 team = "OG Frothers"
+motm = "Ryan Kindle"
+dotd = "Charles Daily"
 title = "Frothers Summer League 2021 - Game 18"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Nick Jones", "Chris Chester", "Jack Hayden", "Milan Mrdalj", "Charles Daily", "Jamie Bunting", "Evan Hanson", "Lance Molyneaux", "Yarride Rosario", "Nestor Behring"]
@@ -22,8 +24,6 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Evan Hanson"
 
-motm = "Ryan Kindle"
-dotd = "Charles Daily"
 +++
 A few big milestones in this one. **Jamie Hatch** is the first Frother to bring up 100 matches 🙌🙌. There was also a big turnout from the fresh Dad crew. **Lance**, **Charles**, **Milan**, and a surprise appearance from **Nestor**.
 

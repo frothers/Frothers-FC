@@ -3,6 +3,8 @@ author = "Chris Chester"
 categories = []
 date = 2020-07-04T12:00:00Z
 description = "Wrap up of the Frothers game against V-Well FC"
+motm = "Luke Stancliffe-White"
+dotd = "Ryan Kindle"
 frother_goals = 1
 images = ["/images/220px-hold_the_line.jpg"]
 season = "winter"
@@ -17,8 +19,6 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stu Escott','Nick J
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
-motm = "Luke Stancliffe-White"
-dotd = "Ryan Kindle"
 
 +++
 ## TOTO - Hold the Line

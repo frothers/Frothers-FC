@@ -14,6 +14,7 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers 2023 - Game 3"
 type = "post"
+dotd = "Jacob Williamson"
 xi_and_subs = [
   "Ryan Kindell",
   "Ian Rayns",
@@ -44,7 +45,6 @@ goals = 1
 scorer = "Patrick Cameron"
 goals = 1
 
-dotd = "Jacob Williamson"
 +++
 
 The third grading game, with guest team manager **Yarride**.

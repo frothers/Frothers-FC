@@ -15,6 +15,7 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 12"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Jack Kos", "Chris Chester", "Jack Hayden", "Charles Daily", "Evan Hanson", "Harry Furnish", "Alain Bruner", "Jarrod Murray", "Tyler Jackson", "Nick Jones", "Jacob Williamson", "Yarride Rosario"]
+motm = "Tyler Jackson"
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
@@ -22,7 +23,6 @@ scorer = "Yarride Rosario"
 goals = 3
 scorer = "Tyler Jackson"
 
-motm = "Tyler Jackson"
 
 +++
 > Sweet as apple pie

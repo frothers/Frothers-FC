@@ -32,6 +32,8 @@ xi_and_subs = [
   "Evan Doube",
   "Evan Hanson"
 ]
+motd = "Lance Molyneaux"
+dotd = "Charles Daily"
 
 [[scorers]]
 scorer = "Lance Molyneaux"
@@ -41,8 +43,6 @@ goals = 1
 scorer = "Aaron Jackson"
 goals = 1
 
-motd = "Lance Molyneaux"
-dotd = "Charles Daily"
 +++
 
 An earlier kick-off and the return of the **Evans**. The boys were up against a familiar opponent in LBQ and looking at cementing their position in the champions league spots. The photographer even came.

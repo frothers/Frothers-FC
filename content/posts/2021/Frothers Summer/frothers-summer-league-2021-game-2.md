@@ -10,6 +10,8 @@ match = true
 opponent = "Unilateral"
 opponent_goals = 1
 result = "Win"
+motm = "Alain Bruner"
+dotd = "Alain Bruner"
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 2"
@@ -22,8 +24,6 @@ scorer = "Thomas Sule"
 goals = 1
 scorer = "Alain Bruner"
 
-motm = "Alain Bruner"
-dotd = "Alain Bruner"
 
 +++
 Frothers FC snuck a 2-1 win over Unilaterals with **Alain** and **Sule** scoring the goals.

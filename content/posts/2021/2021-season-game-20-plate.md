@@ -13,6 +13,7 @@ opponent_goals = 2
 penalties = true
 result = "Loss"
 title = "2021 Season - Game 20 (Plate Final)"
+motm = "Harry Furnish"
 type = "post"
 xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Angus Hay-Chapman","Jamie Hatch","Milan Mrdalj","Charles Daily","Evan Hanson","Yarride Rosario","Lance Molyneaux","Thomas Sule","Sam Abbiss","Harry Furnish","Jack Kos","Jarrod Murray","Will Sule"]
 [[penalty]]
@@ -42,7 +43,6 @@ scorer = "Thomas Sule"
 goals = 1
 scorer = "Yarride Rosario"
 
-motm = "Harry Furnish"
 
 +++
 

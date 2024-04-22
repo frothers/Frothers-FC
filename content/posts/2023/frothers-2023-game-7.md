@@ -32,6 +32,8 @@ xi_and_subs = [
   "Jarrod Murray",
   "Patrick Cameron"
 ]
+motm = "Aaron Jackson"
+dotd = "Milan Mrdalj"
 
 [[scorers]]
 scorer = "Aaron Jackson"
@@ -41,8 +43,6 @@ goals = 2
 scorer = "Lance Molyneaux"
 goals = 1
 
-motm = "Aaron Jackson"
-dotd = "Milan Mrdalj"
 +++
 
 Back in the purple and under the lights. The Frothers were out well past bedtime against more mullets and mos than a XXXX tent at a beer festival.

@@ -15,6 +15,8 @@ team = "OG Frothers"
 title = "Frothers 2023 - Game 4"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Ian Rayns", "Jacob Williamson", "Farshid Shokoohi", "Milan Mrdalj", "Evan Hanson", "Charles Daily", "Yash Rosario", "Jamie Bunting", "Lance Molyneaux", "Jarrod Murray", "Evan Doube", "Yarride Rosario" ]
+motm = "Milan Mrdalj"
+dotd = "Chris Chester"
 [[scorers]]
 goals = 1
 scorer = "Jarrod Murray"
@@ -28,8 +30,6 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Yarride Rosario"
 
-motm = "Milan Mrdalj"
-dotd = "Chris Chester"
 +++
 
 The Frothers confirmed their coronation to the Division of Kings for season 2023 on Sunday with a fourth straight grading win. On a weekend when Colonialism took the headlines, The Royal Purple and Golds were never going to cease power to a team calling themselves the Lazy 11.

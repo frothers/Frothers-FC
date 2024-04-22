@@ -12,6 +12,8 @@ opponent = "Super Paddy's Fun Club"
 opponent_goals = 2
 penalties = true
 result = "Win"
+motm = "Thomas Sule"
+dotd = "Evan Hanson"
 title = "2021 Season - Game 18 (Plate Semi)"
 type = "post"
 xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Sam Abbiss","Jamie Hatch","Milan Mrdalj","Charles Daily","Evan Hanson","Yarride Rosario","Jack Kos","Lance Molyneaux","Angus Hay-Chapman","Harry Furnish","Jarrod Murray","Thomas Sule","Will Sule"]
@@ -39,8 +41,6 @@ taker = "Yarride Rosario"
 goals = 2
 scorer = "Yarride Rosario"
 
-motm = "Thomas Sule"
-dotd = "Evan Hanson"
 
 +++
 Just as the Frothers were getting on a roll covid struck back and delayed the season 3 weeks.

@@ -15,6 +15,8 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 19"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Angus Hay-Chapman", "Jacob Williamson", "Jack Hayden", "Milan Mrdalj", "Chris Chester", "Harry Furnish", "Jarrod Murray", "Lance Molyneaux", "Tyler Jackson", "Charles Daily", "Jamie Bunting", "Tavis Wells"]
+dotd = "Ryan Kindle"
+motm = "Milan Mrdalj"
 [[scorers]]
 goals = 1
 scorer = "Charles Daily"
@@ -25,8 +27,6 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Tyler Jackson"
 
-motm = "Milan Mrdalj"
-dotd = "Ryan Kindle"
 
 +++
 ## Thrilla in Manila

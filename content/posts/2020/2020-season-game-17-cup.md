@@ -2,6 +2,8 @@
 author = "Chris Chester"
 categories = ["Match"]
 date = 2020-10-10T11:00:00Z
+motm = "Evan Hanson"
+dotd = "Evan Hanson"
 description = "Match report for the cup game against the Sunday Blazers"
 frother_goals = 3
 images = ["/images/120936776_3186811541545129_2625438443920060268_o.jpg"]
@@ -44,8 +46,6 @@ opponent_goal = false
 taker = "Yarride Rosario"
 frother_goal = true
 opponent_goal = false
-motm = "Evan Hanson"
-dotd = "Evan Hanson"
 
 +++
 > Best out of three, redemption is calling

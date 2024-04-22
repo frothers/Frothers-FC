@@ -29,12 +29,12 @@ xi_and_subs = [
   "Ring-In"
 ]
 images = [ "/358455333_734176568717673_1931924475458434263_n.jpg" ]
+motm = "Ian Rayns"
 
 [[scorers]]
 scorer = "Lance Molyneaux"
 goals = 1
 
-motm = "Ian Rayns"
 +++
 
 Out as Ascot part vs Purple Reign.

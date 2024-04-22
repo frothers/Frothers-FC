@@ -15,12 +15,12 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 1"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Nick Jones", "Angus Hay-Chapman", "Chris Chester", "Jacob Williamson", "Milan Mrdalj", "Alain Bruner", "Evan Hanson", "Jarrod Murray", "Lance Molyneaux", "Tyler Jackson", "Yarride Rosario", "Harry Furnish", "Charles Daily"]
+motm = "Evan Hanson"
+dotd = "Chris Chester"
 [[scorers]]
 goals = 1
 scorer = "Evan Hanson"
 
-motm = "Evan Hanson"
-dotd = "Chris Chester"
 
 +++
 Back into winter league with a tough game first up. LBQ has been on a spending spree over the summer and had a new frontline consisting of players from various other teams in the league.

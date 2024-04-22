@@ -6,6 +6,8 @@ description = "Match report for the game against Lazy XI"
 frother_goals = 1
 images = ["/images/118589184_3143997622493188_3077032366144901349_ow.jpg"]
 season = "winter"
+motm = "Stu Escott"
+dotd = "Stu Escott"
 match = true
 team = "OG Frothers"
 opponent = "Lazy XI"
@@ -17,8 +19,6 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stu Escott','Sam Ab
 [[scorers]]
 goals = 1
 scorer = "Luke Stancliffe-White"
-motm = "Stu Escott"
-dotd = "Stu Escott"
 +++
 A disappointing 1-1 draw again the Lazy 11. Luke with a thunderbolt goal but then Charles giving up a late penalty via a handball.
 

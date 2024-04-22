@@ -4,6 +4,8 @@
     "season": "{{ .Params.season }}",
     "date" : "{{ .Params.date }}",
     "result": "{{ .Params.result }}",
+    "motm": "{{ .Params.motm }}",
+    "dotd": "{{ .Params.dotd }}",
     "scorers": {{ .Params.scorers | jsonify }},
     "friendly": "{{ .Params.friendly }}",
     "xi" : {{ .Params.xi_and_subs  | jsonify }},

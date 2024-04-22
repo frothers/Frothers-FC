@@ -10,6 +10,8 @@ match = true
 opponent = "Super Paddy's Fun Club"
 opponent_goals = 0
 result = "Win"
+motm = "Alain Bruner"
+dotd = "Nick Jones"
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 16"
@@ -25,8 +27,6 @@ scorer = "Alain Bruner"
 goals = 2
 scorer = "Jack Hayden"
 
-motm = "Alain Bruner"
-dotd = "Nick Jones"
 
 +++
 Riding into the game with just 2 points needed in the next 3 games to seal the season the Frothers knew they could see it out today. They were playing a Super Paddies team that defaulted last week for a stag do, the boys knew there were likely some cobwebs still knocking around.

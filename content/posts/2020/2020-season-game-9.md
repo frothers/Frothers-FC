@@ -7,6 +7,8 @@ frother_goals = 3
 images = ["/images/alain.jpg"]
 season = "winter"
 match = true
+motm = "Sam Abbiss"
+dotd = "Chris Chester"
 team = "OG Frothers"
 opponent = "Blazers"
 opponent_goals = 2
@@ -23,8 +25,6 @@ scorer = "Nick Jones"
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"
-motm = "Sam Abbiss"
-dotd = "Chris Chester"
 
 +++
 Nothing so sweet as a derby win.

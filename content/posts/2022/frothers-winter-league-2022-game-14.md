@@ -15,6 +15,8 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 14"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Angus Hay-Chapman", "Chris Chester", "Jacob Williamson", "Charles Daily", "Evan Hanson", "Nick Jones", "Jamie Bunting", "Lance Molyneaux", "Tyler Jackson", "Ring-In", "Ring-In"]
+motm = "Lance Molyneaux"
+dotd = "Milan Mrdalj"
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"
@@ -22,8 +24,6 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Tyler Jackson"
 
-motm = "Lance Molyneaux"
-dotd = "Milan Mrdalj"
 
 +++
 > Got the mojo back.

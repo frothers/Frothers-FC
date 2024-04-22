@@ -31,6 +31,8 @@ xi_and_subs = [
   "Evan Doube",
   "Jarrod Murray"
 ]
+motd = "Milan Mrdalj"
+dotd = "Jarrod Murray"
 
 [[scorers]]
 scorer = "Chris Chester"
@@ -44,8 +46,6 @@ goals = 1
 scorer = "Lance Molyneaux"
 goals = 1
 
-motd = "Milan Mrdalj"
-dotd = "Jarrod Murray"
 +++
 
 ## First Half

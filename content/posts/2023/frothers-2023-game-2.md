@@ -14,13 +14,13 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers 2023 - Game 2"
 type = "post"
+motm = "Farshid Shokoohi"
+dotd = "Charles Daily"
 xi_and_subs = ["Ryan Kindell", "Ian Rayns", "Evan Doube", "Farshid Shokoohi", "Milan Mrdalj", "Jacob Williamson", "Evan Hanson", "Yash Rosario", "Lance Molyneaux", "Jarrod Murray", "Aaron Jackson", "Josh Shand", "Chris Chester", "Charles Daily", ]
 [[scorers]]
 goals = 1
 scorer = "Jarrod Murray"
 
-motm = "Farshid Shokoohi"
-dotd = "Charles Daily"
 
 +++
 The second grading game, this time against newcomers Chur Chickens

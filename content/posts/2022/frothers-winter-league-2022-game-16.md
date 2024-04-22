@@ -15,6 +15,8 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 16"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Nick Jones", "Angus Hay-Chapman", "Chris Chester", "Milan Mrdalj", "Charles Daily", "Evan Hanson", "Ring-In", "Jamie Bunting", "Harry Furnish", "Lance Molyneaux", "Thomas Sule", "Ring-In"]
+motm = "Lance Molyneaux"
+dotd = "Nick Jones"
 [[scorers]]
 goals = 2
 scorer = "Lance Molyneaux"
@@ -22,8 +24,6 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Thomas Sule"
 
-motm = "Lance Molyneaux"
-dotd = "Nick Jones"
 
 +++
 It was off to Ascott Park to take on ESKA who the Frothers just pipped in the last time we played. A couple of familiar-faced ring-ins were required to make the numbers.

@@ -12,6 +12,7 @@ opponent_goals = 1
 result = "Draw"
 season = "winter"
 team = "OG Frothers"
+motm = "Angus Hay-Chapman"
 title = "Frothers Winter League 2022 - Game 3"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Angus Hay-Chapman", "Chris Chester", "Jamie Hatch", "Harry Furnish", "Lance Molyneaux", "Alain Bruner", "Evan Hanson", "Tyler Jackson", "Yarride Rosario"]
@@ -19,7 +20,6 @@ xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Angus Hay-Chapman", "Chris Chest
 goals = 1
 scorer = "Tyler Jackson"
 
-motm = "Angus Hay-Chapman"
 
 +++
 ## The Blazers Derby

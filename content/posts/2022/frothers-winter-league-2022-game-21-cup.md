@@ -15,6 +15,8 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 21 (cup)"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Angus Hay-Chapman", "Chris Chester", "Jacob Williamson", "Harry Furnish", "Charles Daily", "Lance Molyneaux", "Jamie Bunting", "Jarrod Murray", "Tyler Jackson", "Milan Mrdalj", "Jack Hayden", "Jack Kos", "Alain Bruner", "Evan Hanson"]
+motm = "Jacob Williamson"
+dotd = "Tyler Jackson"
 [[scorers]]
 goals = 1
 scorer = "Evan Hanson"
@@ -22,8 +24,6 @@ scorer = "Evan Hanson"
 goals = 1
 scorer = "Jacob Williamson"
 
-motm = "Jacob Williamson"
-dotd = "Tyler Jackson"
 
 +++
 # Another shot at the cup

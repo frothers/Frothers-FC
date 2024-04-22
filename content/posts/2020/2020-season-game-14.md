@@ -6,6 +6,8 @@ description = "Match report for the game against the Blazers"
 frother_goals = 1
 images = ["/images/118796464_3150931498466467_3748398085238433557_o2.jpg"]
 season = "winter"
+motm = "Milan Mrdalj"
+dotd = "Sam Abbiss"
 match = true
 team = "OG Frothers"
 opponent = "Blazers"
@@ -17,8 +19,6 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stu Escott','Sam Ab
 [[scorers]]
 goals = 1
 scorer = "Jamie Hatch"
-motm = "Milan Mrdalj"
-dotd = "Sam Abbiss"
 
 +++
 A dissapointing loss in the derby. After being up 1-0 for 60 minutes the boys fell to pieces after the first goal and a flurry of goals followed.

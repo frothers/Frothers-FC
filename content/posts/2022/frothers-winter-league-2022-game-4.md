@@ -14,12 +14,12 @@ season = "winter"
 team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 4"
 type = "post"
+motm = "Tyler Jackson"
 xi_and_subs = ["Ryan Kindell", "Jacob Williamson", "Nick Jones", "Chris Chester", "Jamie Hatch", "Harry Furnish", "Alain Bruner", "Evan Hanson", "Lance Molyneaux", "Tyler Jackson", "Jarrod Murray", "Charles Daily", "Jack Hayden"]
 [[scorers]]
 goals = 2
 scorer = "Tyler Jackson"
 
-motm = "Tyler Jackson"
 
 +++
 ## Robbery at the playpen

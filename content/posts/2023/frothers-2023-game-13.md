@@ -30,6 +30,8 @@ xi_and_subs = [
   "Evan Doube",
   "Jamie Bunting"
 ]
+motm = "Ian Rayns"
+dotd = "Evan Hanson"
 
 [[scorers]]
 scorer = "Jarrod Murray"
@@ -39,8 +41,6 @@ goals = 1
 scorer = "Yash Rosario"
 goals = 1
 
-motm = "Ian Rayns"
-dotd = "Evan Hanson"
 +++
 
 The Frothers had an immediate shot at redemption, facing a LBQ team that soundly beat them last week.

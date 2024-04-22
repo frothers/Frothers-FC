@@ -4,6 +4,8 @@
     "season": "{{ .Params.season }}",
     "date" : "{{ .Params.date }}",
     "result": "{{ .Params.result }}",
+    "motm": "{{ .Params.motm }}",
+    "dotd": "{{ .Params.dotd }}",
     "frother_goals": "{{ .Params.frother_goals }}",
     "opponent_goals": "{{ .Params.opponent_goals }}",
     "team": "{{ .Params.team }}",

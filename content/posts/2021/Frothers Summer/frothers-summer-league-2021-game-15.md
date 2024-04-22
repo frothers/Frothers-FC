@@ -7,6 +7,7 @@ friendly = false
 frother_goals = 1
 images = ["/images/241911718_3480894062136874_1221096340459109764_n.jpg"]
 match = true
+motd = "Chris Chester"
 opponent = "Valley Dream"
 opponent_goals = 0
 result = "Win"
@@ -19,7 +20,6 @@ xi_and_subs = ["Ryan Kindell", "Charles Daily", "Chris Chester", "Nick Jones", "
 goals = 1
 scorer = "Chris Chester"
 
-motd = "Chris Chester"
 
 +++
 > Cooler than a polar bear's toenails

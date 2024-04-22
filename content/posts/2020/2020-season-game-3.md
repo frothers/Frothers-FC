@@ -5,6 +5,8 @@ date = 2020-06-20T12:00:00Z
 description = "Wrap up of game 3 against LBQ"
 frother_goals = 1
 images = ["/images/104378714_3077576142468670_116484171552379971_o.jpg"]
+motm = "Chris Chester"
+dotd = "Charles Daily"
 season = "winter"
 match = true
 team = "OG Frothers"
@@ -17,8 +19,6 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stu Escott','Nick J
 [[scorers]]
 goals = 1
 scorer = "Lee Greengrass"
-motm = "Chris Chester"
-dotd = "Charles Daily"
 
 +++
 Another rough day at the office for the frother boys. After a very promising first 30 at which it was 1-1 the goals started coming, and they don't stop coming.

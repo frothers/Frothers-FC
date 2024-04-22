@@ -5,6 +5,7 @@ date = 2021-07-24T12:00:00Z
 description = "Recap of the game against the Fireraiders"
 friendly = false
 frother_goals = 3
+dotd = "Jamie Hatch"
 images = ["/images/217683334_3432049300354684_4999570640749370656_n.jpg"]
 season = "winter"
 match = true
@@ -25,7 +26,6 @@ scorer = "Jamie Hatch"
 goals = 1
 scorer = "Harry Furnish"
 
-dotd = "Jamie Hatch"
 
 +++
 > This one goes out to the lovers

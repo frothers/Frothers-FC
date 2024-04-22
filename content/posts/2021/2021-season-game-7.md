@@ -10,6 +10,8 @@ season = "winter"
 match = true
 team = "OG Frothers"
 opponent = "LBQ"
+motm = "Ryan Kindle"
+dotd = "Thomas Sule"
 opponent_goals = 1
 result = "Win"
 title = "2021 Season - Game 7"
@@ -25,8 +27,6 @@ scorer = "Thomas Sule"
 goals = 1
 scorer = "Yarride Rosario"
 
-motm = "Ryan Kindle"
-dotd = "Thomas Sule"
 +++
 > Doing 'em dirty..
 

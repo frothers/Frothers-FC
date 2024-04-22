@@ -9,6 +9,8 @@ images = ["/images/img_3513_02.jpg"]
 season = "winter"
 match = true
 team = "OG Frothers"
+motm = "Sam Abbiss"
+dotd = "Thomas Sule"
 opponent = "Fireraiders"
 opponent_goals = 1
 result = "Win"
@@ -22,8 +24,6 @@ scorer = "Evan Hanson"
 goals = 2
 scorer = "Yarride Rosario"
 
-motm = "Sam Abbiss"
-dotd = "Thomas Sule"
 
 +++
 > Saving quiet Ryan

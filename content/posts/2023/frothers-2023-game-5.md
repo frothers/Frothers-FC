@@ -29,6 +29,8 @@ xi_and_subs = [
   "Jarrod Murray",
   "Evan Doube"
 ]
+motm = "Chris Chester"
+dotd = "Jacob Williamson"
 
 [[scorers]]
 scorer = "Chris Chester"
@@ -38,8 +40,6 @@ goals = 1
 scorer = "Aaron Jackson"
 goals = 1
 
-motm = "Chris Chester"
-dotd = "Jacob Williamson"
 +++
 
 Nothing says happy mothers' day than a delayed late game for the parents of young kids. Coming off the back of 4 wins, the Frothers were up against their most difficult opponent yet, the Blazers.

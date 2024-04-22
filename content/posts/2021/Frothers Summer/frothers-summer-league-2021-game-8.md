@@ -10,6 +10,8 @@ match = true
 opponent = "Big Kicks"
 opponent_goals = 2
 result = "Win"
+motm = "Lance Molyneaux"
+dotd = "Alain Bruner"
 season = "summer"
 team = "OG Frothers"
 title = "Frothers Summer League 2021 - Game 8"
@@ -22,8 +24,6 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Yarride Rosario"
 
-motm = "Lance Molyneaux"
-dotd = "Alain Bruner"
 
 +++
 Top of the table clash against Big Kicks, going for 8 wins in a row.

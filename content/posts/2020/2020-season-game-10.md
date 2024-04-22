@@ -9,6 +9,8 @@ season = "winter"
 match = true
 team = "OG Frothers"
 opponent = "Tuscan Raiders"
+motm = "Ryan Kindle"
+dotd = "Jack Kos"
 opponent_goals = 2
 result = "Draw"
 title = "2020 Season - Game 10"
@@ -20,8 +22,6 @@ scorer = "Harry Furnish"
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
-motm = "Ryan Kindle"
-dotd = "Jack Kos"
 
 +++
 Keeping the unbeaten streak alive, the Frothers put together a great showing against the 2nd placed Tuscan Raiders.

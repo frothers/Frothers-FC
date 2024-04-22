@@ -12,6 +12,8 @@ team = "OG Frothers"
 opponent = "Tuskan Raiders"
 opponent_goals = 4
 result = "Loss"
+motm = "Jarrod Murray"
+dotd = "Evan Hanson"
 title = "2021 Season - Game 19"
 type = "post"
 xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Sam Abbiss","Jamie Hatch","Milan Mrdalj","Harry Furnish","Evan Hanson","Jack Kos","Jarrod Murray","Lance Molyneaux","Angus Hay-Chapman","Charles Daily","Yarride Rosario","Thomas Sule"]
@@ -22,8 +24,6 @@ scorer = "Jarrod Murray"
 goals = 2
 scorer = "Thomas Sule"
 
-motm = "Jarrod Murray"
-dotd = "Evan Hanson"
 
 +++
 On a windy and rainy day, the Frothers were playing on Wellington's windiest pitch. RIP ball boys.

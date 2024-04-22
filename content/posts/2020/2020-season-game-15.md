@@ -7,6 +7,8 @@ frother_goals = 3
 images = ["/images/119087893_3159547880938162_1750240838464129405_o2.jpg"]
 season = "winter"
 match = true
+motm = "Lance Molyneaux"
+dotd = "Yarride Rosario"
 team = "OG Frothers"
 opponent = "Diamonds FC"
 opponent_goals = 1
@@ -23,8 +25,6 @@ scorer = "Lance Molyneaux"
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
-motm = "Lance Molyneaux"
-dotd = "Yarride Rosario"
 
 +++
 Riding high off the back of a proper team social the Frothers turned it up for the final game of the regular season.

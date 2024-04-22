@@ -14,6 +14,8 @@ season = "winter"
 result = "Win"
 frother_goals = 3
 opponent_goals = 2
+motm = "Evan Doube"
+dotd = "Evan Hanson"
 xi_and_subs = [
   "Evan Doube",
   "Ian Rayns",
@@ -41,8 +43,6 @@ goals = 1
 scorer = "Aaron Jackson"
 goals = 1
 
-motm = "Evan Doube"
-dotd = "Evan Hanson"
 +++
 
 ## No machine can replace me.

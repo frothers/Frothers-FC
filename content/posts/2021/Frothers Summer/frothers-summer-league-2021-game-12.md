@@ -8,6 +8,8 @@ frother_goals = 1
 images = ["/images/272045640_3576969502529329_7093411131054043663_n.jpg"]
 match = true
 opponent = "Diamonds"
+motm = "Ryan Kindle"
+dotd = "Milan Mrdalj"
 opponent_goals = 3
 result = "Loss"
 season = "summer"
@@ -19,8 +21,6 @@ xi_and_subs = ["Ryan Kindell","Nick Jones","Chris Chester","Jamie Hatch","Milan 
 goals = 1
 scorer = "Yarride Rosario"
 
-motm = "Ryan Kindle"
-dotd = "Milan Mrdalj"
 
 +++
 ![](/images/froth-wordle-2.png)

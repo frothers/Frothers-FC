@@ -15,12 +15,12 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 10"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Nick Jones", "Chris Chester", "Jacob Williamson", "Charles Daily", "Jamie Bunting", "Harry Furnish", "Lance Molyneaux", "Evan Hanson", "Tyler Jackson", "Milan Mrdalj"]
+motm = "Tyler Jackson"
+dotd = "Milan Mrdalj"
 [[scorers]]
 goals = 1
 scorer = "Tyler Jackson"
 
-motm = "Tyler Jackson"
-dotd = "Milan Mrdalj"
 
 +++
 > At least it wasn't raining this week

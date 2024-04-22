@@ -15,6 +15,7 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 8"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Jack Kos", "Chris Chester", "Jacob Williamson", "Harry Furnish", "Charles Daily", "Evan Hanson", "Lance Molyneaux", "Alain Bruner", "Jarrod Murray", "Jamie Bunting", "Yarride Rosario"]
+motm = "Evan Hanson"
 [[scorers]]
 goals = 1
 scorer = "Jarrod Murray"
@@ -22,7 +23,6 @@ scorer = "Jarrod Murray"
 goals = 2
 scorer = "Evan Hanson"
 
-motm = "Evan Hanson"
 
 +++
 Football on the day of the Champions League final is always destined to draw comparisons, however, 11 goals flowing in Wellington was in stark contrast to the 1-0 in Paris.

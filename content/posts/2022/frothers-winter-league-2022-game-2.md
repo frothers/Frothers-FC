@@ -15,6 +15,8 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 2"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Charles Daily", "Chris Chester", "Jack Hayden", "Harry Furnish", "Lance Molyneaux", "Alain Bruner", "Jarrod Murray", "Tyler Jackson", "Yarride Rosario", "Nestor Behring"]
+motm = "Milan Mrdalj"
+dotd = "Alain Bruner"
 [[scorers]]
 goals = 1
 scorer = "Chris Chester"
@@ -22,8 +24,6 @@ scorer = "Chris Chester"
 goals = 1
 scorer = "Alain Bruner"
 
-motm = "Milan Mrdalj"
-dotd = "Alain Bruner"
 
 +++
 > The real Phoenix story

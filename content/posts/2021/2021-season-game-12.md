@@ -8,6 +8,8 @@ frother_goals = 2
 images = []
 season = "winter"
 match = true
+motm = "Charles Daily"
+dotd = "Stu Escott"
 team = "OG Frothers"
 opponent = "Valley FC"
 opponent_goals = 4
@@ -22,8 +24,6 @@ scorer = "Yarride Rosario"
 goals = 1
 scorer = "Lance Molyneaux"
 
-motm = "Charles Daily"
-dotd = "Stu Escott"
 
 +++
 Entering the second round of the competition the Frothers were up against Valley FC for the third time this season. With the games 1 apiece it was all on the line.
