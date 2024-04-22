@@ -18,6 +18,8 @@ xi_and_subs = ["Ryan Kindell", "Chris Chester", "Jamie Hatch", "Stu Escott", "Ni
 [[scorers]]
 goals = 1
 scorer = "Chris Chester"
+motm = "Milan Mrdalj"
+dotd = "Sam Abbiss"
 
 +++
 > Nothing flaccid about this semi

@@ -17,7 +17,8 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stu Escott','Sam Ab
 [[scorers]]
 goals = 1
 scorer = "Luke Stancliffe-White"
-
+motm = "Stu Escott"
+dotd = "Stu Escott"
 +++
 A disappointing 1-1 draw again the Lazy 11. Luke with a thunderbolt goal but then Charles giving up a late penalty via a handball.
 

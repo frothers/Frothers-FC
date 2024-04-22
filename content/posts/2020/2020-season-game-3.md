@@ -17,6 +17,8 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stu Escott','Nick J
 [[scorers]]
 goals = 1
 scorer = "Lee Greengrass"
+motm = "Chris Chester"
+dotd = "Charles Daily"
 
 +++
 Another rough day at the office for the frother boys. After a very promising first 30 at which it was 1-1 the goals started coming, and they don't stop coming.

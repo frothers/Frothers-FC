@@ -44,6 +44,8 @@ opponent_goal = false
 taker = "Yarride Rosario"
 frother_goal = true
 opponent_goal = false
+motm = "Evan Hanson"
+dotd = "Evan Hanson"
 
 +++
 > Best out of three, redemption is calling

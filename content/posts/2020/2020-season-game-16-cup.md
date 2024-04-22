@@ -17,6 +17,8 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Nick Jon
 [[scorers]]
 goals = 1
 scorer = "Charles Daily"
+motm = "Jack Kos"
+dotd = "Stu Escott"
 
 +++
 > Haters will say it was thrown...

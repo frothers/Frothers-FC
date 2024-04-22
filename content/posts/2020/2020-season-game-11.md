@@ -17,6 +17,8 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stu Esco
 [[scorers]]
 goals = 1
 scorer = "Stu Escott"
+motm = "Jamie Hatch"
+dotd = "Jarrod Murray"
 
 +++
 A special moment in Frothers history, as both Nick, Chris, Lance and Jamie marked 50 games for the boys.
@@ -41,6 +43,6 @@ Jamie, for putting in a huge shift of running and never quitting.
 
 **Dick of the Day:**
 
-Jarrod, for finally dusting off the boots and doubling his minutes this season. This included a goal mouth miss worthy of Raheem with an excuse about the ball being at "knee height".
+Jarrod, for finally dusting off the boots and doubling his minutes this season. This included a goalmouth miss worthy of Raheem with an excuse about the ball being at "knee height".
 
 ![](/images/20200816162458_img_5818.JPG)

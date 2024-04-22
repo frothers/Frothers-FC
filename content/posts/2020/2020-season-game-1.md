@@ -15,6 +15,8 @@ scorers = []
 title = "2020 Season - Game 1"
 type = "post"
 xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stu Escott','Nick Jones','Sam Abbiss','Milan Mrdalj','Charles Daily','Harry Freeman','Luke Stancliffe-White','Evan Hanson','Lance Molyneaux','Yarride Rosario',]
+motm = "Sam Abbiss"
+dotd = "Chris Chester"
 +++
 ![](/images/img_4794.jpg)
 

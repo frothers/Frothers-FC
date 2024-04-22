@@ -17,6 +17,8 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jack Kos','Jamie Hatch','Stu Esco
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"
+motm = "Ryan Kindle"
+dotd = "Harry Freeman"
 
 +++
 Tough match against North Wellington in the cold.

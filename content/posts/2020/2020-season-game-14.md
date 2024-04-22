@@ -17,6 +17,8 @@ xi_and_subs = ['Ryan Kindell','Chris Chester','Jamie Hatch','Stu Escott','Sam Ab
 [[scorers]]
 goals = 1
 scorer = "Jamie Hatch"
+motm = "Milan Mrdalj"
+dotd = "Sam Abbiss"
 
 +++
 A dissapointing loss in the derby. After being up 1-0 for 60 minutes the boys fell to pieces after the first goal and a flurry of goals followed.

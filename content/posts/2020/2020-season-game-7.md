@@ -23,6 +23,8 @@ scorer = "Luke Stancliffe-White"
 [[scorers]]
 goals = 1
 scorer = "Milan Mrdalj"
+motm = "Milan Mrdalj"
+dotd = "Evan Hanson"
 
 +++
 The next game for the Frothers was at the illustrious St. Pats turf, with a dirty old face showing up on the bench.

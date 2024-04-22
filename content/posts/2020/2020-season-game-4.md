@@ -20,6 +20,7 @@ scorer = "Ring-In"
 [[scorers]]
 goals = 2
 scorer = "Yarride Rosario"
+motm = "Evan Hanson"
 
 +++
 Ronaldo‘s or Rosario’s?
@@ -39,7 +40,7 @@ Things soon went from bad to worse for the Froth, when the Sudakas' striker hit 
 
 The younger Rosario (CR7) was quickly onto it and through on goal, but with the Hatch wide open to his left, he went for the typical Ronnie glory and failed to find the hole between the keepers legs who pulled off a nifty save with his feet. The final action of a whirlwind first period, culminated in Molyneaux being hacked down inside the area as he went to pull the trigger - but the ref was having none of it.
 
-Half Time - Wind 2, Frothers 0...
+## Half Time - Wind 2, Frothers 0...
 
 ![](/images/106170355_4285631628121486_2417279195969980468_n.jpg)
 

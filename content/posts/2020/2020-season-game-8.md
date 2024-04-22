@@ -20,6 +20,8 @@ scorer = "Jamie Hatch"
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
+motm = "Jamie Hatch"
+dotd = "Nick Jones"
 
 +++
 The Frothers ran out at Ascot Park against the Marauders to try and turn the tide of the season.

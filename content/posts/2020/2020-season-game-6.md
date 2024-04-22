@@ -20,6 +20,8 @@ scorer = "Jamie Hatch"
 [[scorers]]
 goals = 1
 scorer = "Charles Daily"
+motm = "Charles Daily"
+dotd = "Yarride Rosario"
 
 +++
 ## Public Enemy- Harder Than You Think

@@ -20,6 +20,8 @@ scorer = "Harry Furnish"
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
+motm = "Ryan Kindle"
+motm = "Jack Kos"
 
 +++
 Keeping the unbeaten streak alive, the Frothers put together a great showing against the 2nd placed Tuscan Raiders.

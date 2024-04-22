@@ -23,6 +23,8 @@ scorer = "Lance Molyneaux"
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
+motm = "Lance Molyneaux"
+dotd = "Yarride Rosario"
 
 +++
 Riding high off the back of a proper team social the Frothers turned it up for the final game of the regular season.
@@ -59,7 +61,7 @@ Lance for a goal and an assist. Even remembered his item of the day. Unbelievabl
 
 ### **Dick of the day**
 
-Even though he scored on his return an absolutely filthy shirt pull late in the game is enough to see Yarride get the award.
+Even though he scored on his return, an absolutely filthy shirt pull late in the game is enough to see Yarride get the award.
 
 ![](/images/119087893_3159547880938162_1750240838464129405_o3-1.jpg)
 
