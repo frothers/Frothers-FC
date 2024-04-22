@@ -1,4 +1,4 @@
-import { getAppearancesData } from "../apiQueries";
+import { getAppearancesData, getOTDData } from "../apiQueries";
 import * as _ from 'lodash';
 
 export type appearance = {
@@ -41,4 +41,24 @@ export let getPlayerAppearances = async function (name: string) {
     }
 
     return yearlyAppearances;
+}
+
+export let getPlayerMotd = async function (name: string) {
+    let data = await getOTDData();
+
+    let otd = data.filter(match => {
+        return match.motm == name;
+    })
+
+    return otd.length
+}
+
+export let getPlayerDotd = async function (name: string) {
+    let data = await getOTDData();
+
+    let otd = data.filter(match => {
+        return match.dotd == name;
+    })
+
+    return otd.length
 }

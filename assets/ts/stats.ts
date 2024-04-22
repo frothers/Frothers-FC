@@ -2,7 +2,7 @@ import * as _ from 'lodash';
 import { Chart, ChartDataSets, ChartPoint } from 'chart.js';
 
 import { parsePlayerData } from './processors/graphData'
-import { getPlayerAppearances, yearlyAppearances } from './processors/statsData'
+import { getPlayerAppearances, yearlyAppearances, getPlayerMotd, getPlayerDotd } from './processors/statsData'
 
 let careerChart: Chart;
 
@@ -34,6 +34,8 @@ export let populateStats = async function (name: string) {
   if (playerData === undefined){ 
     return;
   }
+
+  console.log("MotM ", await getPlayerMotd(name), " dotd ",  await getPlayerDotd(name))
 
   playerData.data.forEach(game => {
     totalGoals = game.goals + totalGoals;
@@ -80,8 +82,6 @@ export let populateStats = async function (name: string) {
 
   // Set appearances string
   appearancesElement.innerText = totalAppearances.toString();
-
-
 
   let goals: ChartPoint[] = playerData.data.map(goal => {
     let point: ChartPoint = {

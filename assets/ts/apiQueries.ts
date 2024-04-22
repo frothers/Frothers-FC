@@ -17,6 +17,8 @@ export type postData = {
   frother_goals: string;
   opponent_goals: string;
   permalink: string;
+  motm: string;
+  dotd: string;
   scorers: any[];
   xi: string[];
 };
@@ -65,6 +67,14 @@ export type matchGoalsData = {
   opponent_goals: number;
 };
 
+export type OTDData = {
+  date: Date;
+  season: string;
+  team: string;
+  motm: string;
+  dotd: string;
+};
+
 export type scorerData = {
   scorer: string;
   goals: number;
@@ -104,7 +114,7 @@ export let getGoalsData = async function () {
 };
 
 /**
- * @summary Goal scorers graphics.
+ * @summary Appearances graphics.
  */
 export let getAppearancesData = async function () {
   let response = await axios.get(postsAPI);
@@ -197,8 +207,42 @@ export let getMatchGoalsData = async function () {
   return matchGoals;
 };
 
+
 /**
- * @summary Goal scorers graphics.
+ * @summary Get data for Motm and DotD.
+ */
+export let getOTDData = async function () {
+  let response = await axios.get(postsAPI);
+  let data = response.data.data;
+
+  let otd: OTDData[] = data.items.map((a: postData) => {
+    if (
+      a.result === null ||
+      a.match.includes("true") !== true ||
+      (a.friendly && a.friendly.includes("true") === true) ||
+      (a.draft && a.draft.includes("true") === true)
+    ) {
+      return null;
+    }
+    let date = a.date.replace(/-/g, "/");
+    let result: OTDData = {
+      date: new Date(date),
+      season: a.season,
+      team: a.team,
+      motm: a.motm,
+      dotd: a.dotd,
+    };
+    return result;
+  });
+
+  otd = otd.filter((a: any) => a != null);
+
+  return otd;
+};
+
+
+/**
+ * @summary Squad info.
  */
 export let getSquadData = async function (name: string) {
   let response = await axios.get(squadAPI);
