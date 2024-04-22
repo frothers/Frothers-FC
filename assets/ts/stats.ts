@@ -35,7 +35,13 @@ export let populateStats = async function (name: string) {
     return;
   }
 
-  console.log("MotM ", await getPlayerMotd(name), " dotd ",  await getPlayerDotd(name))
+  let motmElement = <HTMLElement>document.getElementById("motm");
+  let motm = await getPlayerMotd(name);
+  motmElement.innerText = motm.toString();
+
+  let dotdElement = <HTMLElement>document.getElementById("dotd");
+  let dotd = await getPlayerDotd(name);
+  dotdElement.innerText = dotd.toString();
 
   playerData.data.forEach(game => {
     totalGoals = game.goals + totalGoals;
