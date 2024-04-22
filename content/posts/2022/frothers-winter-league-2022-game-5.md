@@ -19,6 +19,9 @@ xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Nick Jones", "Chris Chester", "J
 goals = 2
 scorer = "Tyler Jackson"
 
+motm = "Tyler Jackson"
+dotd = "Jarrod Murray"
+
 +++
 ## Back at a reasonable hour against a more reasonable opposition.
 
@@ -58,4 +61,4 @@ The Frothers had the best of the last part of the game. **Jamie** intercepted a 
 
 ## Dick of the day
 
-**Jarrod** is going to pick this one up. Though there were a few moments from the Frothers where a bit of composure would have won us the match. Telling **Hector** to fuck-off on probably his least physical play brought some weird vibes 🤸‍♂️.
+**Jarrod** is going to pick this one up. Though there were a few moments from the Frothers where a bit of composure would have won us the match. Telling **Hector** to fuck-off on probably his least physical game brought some weird vibes 🤸‍♂️.

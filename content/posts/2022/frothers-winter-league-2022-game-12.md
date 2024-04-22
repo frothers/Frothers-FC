@@ -22,6 +22,8 @@ scorer = "Yarride Rosario"
 goals = 3
 scorer = "Tyler Jackson"
 
+motm = "Tyler Jackson"
+
 +++
 > Sweet as apple pie
 

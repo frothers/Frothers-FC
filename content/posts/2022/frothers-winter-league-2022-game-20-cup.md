@@ -28,6 +28,9 @@ scorer = "Chris Chester"
 goals = 1
 scorer = "Jamie Bunting"
 
+motm = "Chris Chester"
+dotd = "Milan Mrdalj"
+
 +++
 ## Father's Day Energy
 

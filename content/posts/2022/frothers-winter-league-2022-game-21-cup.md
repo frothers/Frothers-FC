@@ -22,6 +22,9 @@ scorer = "Evan Hanson"
 goals = 1
 scorer = "Jacob Williamson"
 
+motm = "Jacob Williamson"
+dotd = "Tyler Jackson"
+
 +++
 # Another shot at the cup
 

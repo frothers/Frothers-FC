@@ -22,6 +22,9 @@ scorer = "Chris Chester"
 goals = 1
 scorer = "Alain Bruner"
 
+motm = "Milan Mrdalj"
+dotd = "Alain Bruner"
+
 +++
 > The real Phoenix story
 

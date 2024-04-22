@@ -19,6 +19,8 @@ xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Angus Hay-Chapman", "Chris Chest
 goals = 1
 scorer = "Tyler Jackson"
 
+motm = "Angus Hay-Chapman"
+
 +++
 ## The Blazers Derby
 

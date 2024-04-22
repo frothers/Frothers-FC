@@ -19,6 +19,9 @@ xi_and_subs = ["Ryan Kindell", "Milan Mrdalj", "Jack Kos", "Chris Chester", "Jac
 goals = 1
 scorer = "Lance Molyneaux"
 
+motd = "Jacob Williamson"
+dotd = "Jack Kos"
+
 +++
 A wet and windy Sunday morning in the capital resulted in a depleted Frothers squad being available for their first match in Div 2 of the winter. A couple of timely ring-ins saved the day.
 

@@ -19,6 +19,8 @@ xi_and_subs = ["Ryan Kindell", "Jacob Williamson", "Nick Jones", "Chris Chester"
 goals = 2
 scorer = "Tyler Jackson"
 
+motm = "Tyler Jackson"
+
 +++
 ## Robbery at the playpen
 

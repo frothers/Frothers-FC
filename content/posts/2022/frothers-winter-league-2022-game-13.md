@@ -28,6 +28,9 @@ scorer = "Jacob Williamson"
 goals = 2
 scorer = "Jarrod Murray"
 
+motm = "Jarrod Murray"
+dotd = "Charles Daily"
+
 +++
 We had our very own Geoff Shreeves sideline reporter in **Jamie Hatch** this week.
 

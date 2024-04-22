@@ -19,6 +19,9 @@ xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Nick Jones", "Chris Chester", "Ja
 goals = 1
 scorer = "Tyler Jackson"
 
+motm = "Tyler Jackson"
+dotd = "Milan Mrdalj"
+
 +++
 > At least it wasn't raining this week
 

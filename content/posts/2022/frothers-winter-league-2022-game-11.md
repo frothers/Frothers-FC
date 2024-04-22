@@ -19,6 +19,8 @@ xi_and_subs = ["Ryan Kindell", "Nick Jones", "Angus Hay-Chapman", "Chris Chester
 goals = 1
 scorer = "Charles Daily"
 
+motm = "Charles Daily"
+
 +++
 > The boys are really missing the paparazzi
 

@@ -22,6 +22,9 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Tyler Jackson"
 
+motm = "Lance Molyneaux"
+dotd = "Milan Mrdalj"
+
 +++
 > Got the mojo back.
 

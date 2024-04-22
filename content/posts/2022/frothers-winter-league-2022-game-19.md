@@ -25,6 +25,9 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Tyler Jackson"
 
+motm = "Milan Mrdalj"
+dotd = "Ryan Kindle"
+
 +++
 ## Thrilla in Manila
 

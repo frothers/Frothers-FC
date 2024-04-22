@@ -22,6 +22,8 @@ scorer = "Jarrod Murray"
 goals = 2
 scorer = "Evan Hanson"
 
+motm = "Evan Hanson"
+
 +++
 Football on the day of the Champions League final is always destined to draw comparisons, however, 11 goals flowing in Wellington was in stark contrast to the 1-0 in Paris.
 

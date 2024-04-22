@@ -22,6 +22,9 @@ scorer = "Lance Molyneaux"
 goals = 1
 scorer = "Thomas Sule"
 
+motm = "Lance Molyneaux"
+dotd = "Nick Jones"
+
 +++
 It was off to Ascott Park to take on ESKA who the Frothers just pipped in the last time we played. A couple of familiar-faced ring-ins were required to make the numbers.
 
@@ -63,7 +66,7 @@ This was a real win-win scenario for the spectators.
 
 ## Man of the Match
 
-Honourable mention goals to **Angus** who was rock solid all game with a couple of trademark big slide tackles. The award goes to the man just back from illness, **Lance,** who played out of his skin. Some of the touches were like prime Bergkamp. A couple of goals to top things off.
+Honourable mention goes to **Angus** who was rock solid all game with a couple of trademark big slide tackles. The award goes to the man just back from illness, **Lance,** who played out of his skin. Some of the touches were like prime Bergkamp. A couple of goals to top things off.
 
 ![](/images/img_1359.jpg)
 

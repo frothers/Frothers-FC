@@ -22,6 +22,9 @@ scorer = "Alain Bruner"
 goals = 1
 scorer = "Tyler Jackson"
 
+motm = "Chris Chester"
+dotd = "Jack Hayden"
+
 +++
 It has been a _Sign o’ the Times_ that this winter season is a different beast to the summer stroll we all enjoyed. It was lovely to welcome some of _The Beautiful Ones_ back to the _Revolution_ - always a pleasure and never a choir seeing **Angus Hay-Chapman**, **Jack Kos**, and **Jamie Bunting**.
 
