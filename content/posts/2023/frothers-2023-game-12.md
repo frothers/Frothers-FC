@@ -32,6 +32,8 @@ xi_and_subs = [
   "Yash Rosario",
   "Lance Molyneaux"
 ]
+
+motm = "Evan Doube"
 +++
 
 The winter weather had properly set in as the Frothers too on LBQ again at Wellington College. The Frothers had to wait until just before kickoff to get a full XI and the Frothers took this hunger into the match.

@@ -19,8 +19,11 @@ xi_and_subs = ["Ryan Kindell", "Ian Rayns", "Evan Doube", "Farshid Shokoohi", "M
 goals = 1
 scorer = "Jarrod Murray"
 
+motm = "Farshid Shokoohi"
+dotd = "Charles Daily"
+
 +++
-The second grading game, this time against newcomers Chicken
+The second grading game, this time against newcomers Chur Chickens
 
 Bit of a lineup change up, with the midfielders getting lazy for kickoff timing.
 
@@ -37,5 +40,5 @@ The game became more of a battle of the shit chat than a competition as the wind
 Backing up the chat, **Farshid** had a great game in the backline. Great organisation, talking, passing, and a healthy helping of getting away with dribbling his way out of trouble.
 
 ## Dick of the Day
-Proof that the shithouse life burns you as much as it pays off, **Charles Dailey** gets the award for getting a yellow and putting the ref on high alert. Honourable mention is **Evan Hansen** with another injury...
+Proof that the shithouse life burns you as much as it pays off, **Charles Daily** gets the award for getting a yellow and putting the ref on high alert. Honourable mention is **Evan Hansen** with another injury...
 

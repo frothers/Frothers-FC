@@ -40,6 +40,9 @@ goals = 1
 [[scorers]]
 scorer = "Aaron Jackson"
 goals = 1
+
+motd = "Lance Molyneaux"
+dotd = "Charles Daily"
 +++
 
 An earlier kick-off and the return of the **Evans**. The boys were up against a familiar opponent in LBQ and looking at cementing their position in the champions league spots. The photographer even came.

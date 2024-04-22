@@ -49,6 +49,9 @@ goals = 1
 [[scorers]]
 scorer = "Lance Molyneaux"
 goals = 1
+
+motm = "Jarrod Murray"
+dotd = "Yash Rosario"
 +++
 
 On an unlikely, beautifully still Wellington afternoon at the Te football turf under some half-ass flood lights Frothers FC stepped out onto the pitch. In a league where underdogs triumph over favourites and surprises lurk at every corner, you can never judge the opposition solely by their position on the league table and Frothers FC did not.

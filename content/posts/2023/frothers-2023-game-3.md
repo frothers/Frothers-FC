@@ -43,6 +43,8 @@ goals = 1
 [[scorers]]
 scorer = "Patrick Cameron"
 goals = 1
+
+dotd = "Jacob Williamson"
 +++
 
 The third grading game, with guest team manager **Yarride**.

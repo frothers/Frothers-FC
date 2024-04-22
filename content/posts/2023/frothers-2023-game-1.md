@@ -40,6 +40,9 @@ goals = 1
 [[scorers]]
 scorer = "Aaron Jackson"
 goals = 1
+
+motm = "Evan Doube"
+dotd = "Evan Hanson"
 +++
 
 ## No machine can replace me.

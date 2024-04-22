@@ -43,6 +43,9 @@ goals = 1
 [[scorers]]
 scorer = "Lance Molyneaux"
 goals = 1
+
+motd = "Milan Mrdalj"
+dotd = "Jarrod Murray"
 +++
 
 ## First Half

@@ -37,6 +37,9 @@ goals = 1
 [[scorers]]
 scorer = "Aaron Jackson"
 goals = 1
+
+motm = "Chris Chester"
+dotd = "Jacob Williamson"
 +++
 
 Nothing says happy mothers' day than a delayed late game for the parents of young kids. Coming off the back of 4 wins, the Frothers were up against their most difficult opponent yet, the Blazers.

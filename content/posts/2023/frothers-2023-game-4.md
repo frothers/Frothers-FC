@@ -27,6 +27,9 @@ scorer = "Lance Molyneaux"
 [[scorers]]
 goals = 1
 scorer = "Yarride Rosario"
+
+motm = "Milan Mrdalj"
+dotd = "Chris Chester"
 +++
 
 The Frothers confirmed their coronation to the Division of Kings for season 2023 on Sunday with a fourth straight grading win. On a weekend when Colonialism took the headlines, The Royal Purple and Golds were never going to cease power to a team calling themselves the Lazy 11.

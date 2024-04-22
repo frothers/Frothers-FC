@@ -48,6 +48,9 @@ goals = 1
 [[scorers]]
 scorer = "Josh Shand"
 goals = 1
+
+motd = "Milan Mrdalj"
+dotd = "Farshid Shokoohi"
 +++
 
 Two weeks off, a king's birthday, a Man City treble and another 7 pm game to ruin any changes of being well rested for the beginning of the working week.

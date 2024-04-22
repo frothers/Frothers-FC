@@ -33,6 +33,8 @@ images = [ "/358455333_734176568717673_1931924475458434263_n.jpg" ]
 [[scorers]]
 scorer = "Lance Molyneaux"
 goals = 1
+
+motm = "Ian Rayns"
 +++
 
 Out as Ascot part vs Purple Reign.

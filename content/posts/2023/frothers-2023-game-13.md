@@ -38,6 +38,9 @@ goals = 1
 [[scorers]]
 scorer = "Yash Rosario"
 goals = 1
+
+motm = "Ian Rayns"
+dotd = "Evan Hanson"
 +++
 
 The Frothers had an immediate shot at redemption, facing a LBQ team that soundly beat them last week.
