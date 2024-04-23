@@ -8,7 +8,7 @@ frother_goals = 1
 images = ["/images/272045640_3576969502529329_7093411131054043663_n.jpg"]
 match = true
 opponent = "Diamonds"
-motm = "Ryan Kindle"
+motm = "Ryan Kindell"
 dotd = "Milan Mrdalj"
 opponent_goals = 3
 result = "Loss"
@@ -25,7 +25,7 @@ scorer = "Yarride Rosario"
 +++
 ![](/images/froth-wordle-2.png)
 
-Starting the second half of the summer season the Frothers played an unrecognisable Diamonds team (because it was full of div 1 players...). It was also a debut for **Jacob**, another transfer from the Kindle connection.
+Starting the second half of the summer season the Frothers played an unrecognisable Diamonds team (because it was full of div 1 players...). It was also a debut for **Jacob**, another transfer from the Kindell connection.
 
 The Frothers were showing they were no strangers to a Christmas pud with some slow legs and dusty touches. However, they hadn't lost their discipline and kept the game relatively even for most of the first half.
 

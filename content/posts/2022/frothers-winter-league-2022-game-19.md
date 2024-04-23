@@ -15,7 +15,7 @@ team = "OG Frothers"
 title = "Frothers Winter League 2022 - Game 19"
 type = "post"
 xi_and_subs = ["Ryan Kindell", "Jamie Hatch", "Angus Hay-Chapman", "Jacob Williamson", "Jack Hayden", "Milan Mrdalj", "Chris Chester", "Harry Furnish", "Jarrod Murray", "Lance Molyneaux", "Tyler Jackson", "Charles Daily", "Jamie Bunting", "Tavis Wells"]
-dotd = "Ryan Kindle"
+dotd = "Ryan Kindell"
 motm = "Milan Mrdalj"
 [[scorers]]
 goals = 1

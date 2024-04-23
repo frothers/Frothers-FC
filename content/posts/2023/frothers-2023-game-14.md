@@ -49,7 +49,7 @@ The Frothers were well in the match, however, and even opened the scoring as **L
 
 > 1-0
 
-A hard fought half looked like the Frothers would go into halftime in the lead, however a deflected shot following a corner left **Kindle** for dead.
+A hard fought half looked like the Frothers would go into halftime in the lead, however a deflected shot following a corner left **Kindell** for dead.
 
 > 1-1
 
