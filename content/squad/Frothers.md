@@ -6,6 +6,8 @@ players = [
   "",
   "Mathew Salt",
   "Evan Doube",
+  "Patrick Moore",
+  "Jack Apperley",
   "Aaron Jackson",
   "Josh Shand",
   "Ian Rayns",
@@ -59,7 +61,8 @@ players = [
   "Luke Stancliffe-White",
   "Lee Greengrass",
   "Jack Furnish",
-  "Harry Freeman"
+  "Harry Freeman",
+  ""
 ]
 +++
 

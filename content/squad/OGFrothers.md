@@ -7,6 +7,8 @@ players = [
   "Mathew Salt",
   "Yash Rosario",
   "Evan Doube",
+  "Patrick Moore",
+  "Jack Apperley",
   "Aaron Jackson",
   "Josh Shand",
   "Ian Rayns",
