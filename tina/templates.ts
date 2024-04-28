@@ -174,6 +174,20 @@ export function postFields() {
       },
       list: true,
     },
+    {
+      component: "select",
+      type: "string",
+      name: "motm",
+      label: "Man of the Match",
+      options: squadList,
+    },
+    {
+      component: "select",
+      type: "string",
+      name: "dotd",
+      label: "Dick of the Day",
+      options: squadList,
+    },
   ] as TinaField[];
 }
 export function squad_memberFields() {
