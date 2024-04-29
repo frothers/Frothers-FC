@@ -163,14 +163,24 @@
     padding-left: 20px;
   }
 
+  li {
+    @include themed() {
+      color: t($text-colour-dark);
+    }
+  }
+
   ul {
     padding-left: 0;
+    @include themed() {
+      color: t($text-colour-alt);
+    }
 
     li {
       position: relative;
       padding-left: 20px;
       margin-bottom: 15px;
       list-style-type: none;
+
 
       &::before {
         position: absolute;

@@ -3,6 +3,7 @@ $primary-colour: 'primary-colour'; // #7f75af;
 $secondary-colour:  'secondary-colour';
 $text-colour: 'text-colour';
 $text-colour-dark: 'text-colour-dark';
+$text-colour-alt: 'text-colour-alt';
 $body-colour: 'body-colour';
 $border-colour: '$border-colour';
 $secondary-background-colour: 'secondary-background-colour';
@@ -31,6 +32,7 @@ $themes: (
     secondary-colour:  $light-colour-700,
     text-colour: $light-colour-100,
     text-colour-dark: $light-colour-200,
+    text-colour-alt: $light-colour-400,
     body-colour: $light-colour-500,
     border-colour: $light-colour-800,
     secondary-background-colour: $light-colour-700,
@@ -52,6 +54,7 @@ $themes: (
     secondary-colour:  $dark-colour-700,
     text-colour: $dark-colour-100,
     text-colour-dark: $dark-colour-200,
+    text-colour-alt: $dark-colour-400,
     body-colour: $dark-colour-500,
     border-colour: $dark-colour-800,
     secondary-background-colour: $dark-colour-700,
