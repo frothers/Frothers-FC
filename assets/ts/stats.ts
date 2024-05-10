@@ -27,7 +27,8 @@ export let getPlayerName = function (): string {
  */
 export let populateStats = async function (name: string) {
   let totalGoals = 0;
-  let allPlayerData = await parsePlayerData() || [];
+  let allPlayerData = await parsePlayerData();
+  allPlayerData = allPlayerData || [];
 
   let playerData = _.find(allPlayerData, { "label": name });
 
