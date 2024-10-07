@@ -30,7 +30,6 @@ xi_and_subs = [
 ]
 motm = "Farshid Shokoohi"
 dotd = "Yarride Rosario"
-
 [[penalty]]
 frother_goal = false
 opponent_goal = true
@@ -47,7 +46,6 @@ taker = "Milan Mrdalj"
 frother_goal = true
 opponent_goal = true
 taker = ""
-
 +++
 
 # Game 1 - Cup
