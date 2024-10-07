@@ -46,5 +46,15 @@ taker = "Milan Mrdalj"
 frother_goal = true
 opponent_goal = true
 taker = ""
+
 +++
+
+# Game 1 - Cup
+
+The first full length game of the summer season and it was straight into the cup games. The Frothers had been lured into the ~~Super League~~ Better Football competition through the promise of riches and glory, and not playing in Naenae. A flood of teams joined the Frothers in the Waka jump and early grading was needed to seperate the social from the not-so-social teams.
+
+## New formation
+
+The Frothers were using the opportunity to try out a new 3-4-2-1 formation, utilising the plethora of defensive talent as best as possible.
+
 
