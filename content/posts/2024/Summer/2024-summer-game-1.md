@@ -1,17 +1,20 @@
 +++
+author = "Chris"
+categories = ["Match"]
+date = 2024-10-06T12:00:00.000Z
+motm = "Farshid Shokoohi"
+dotd = "Yarride Rosario"
 title = "Frothers 2024 Summer - Cup grading"
 description = "Second grading game and first round of cup knockout"
-author = "Chris"
-date = 2024-10-06T12:00:00.000Z
+frother_goals = 0
 images = [ "/449728932_845950464262193_2963937471217919359_n.jpg" ]
 type = "post"
 draft = false
+season = "summer"
 match = true
 team = "OG Frothers"
 opponent = "Summer Blaze"
-season = "winter"
 result = "Loss"
-frother_goals = 0
 opponent_goals = 0
 xi_and_subs = [
   "Ryan Kindell",
@@ -29,8 +32,6 @@ xi_and_subs = [
   "Declan Ward",
   "Mathew Salt",
 ]
-motm = "Farshid Shokoohi"
-dotd = "Yarride Rosario"
 [[penalty]]
 frother_goal = false
 opponent_goal = true
@@ -47,6 +48,7 @@ taker = "Milan Mrdalj"
 frother_goal = true
 opponent_goal = true
 taker = ""
+
 +++
 
 # Game 1 - Cup
