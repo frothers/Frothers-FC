@@ -2,7 +2,7 @@
 title = "Frothers 2024 Summer - Cup grading"
 description = "Second grading game and first round of cup knockout"
 author = "Chris"
-date = 2024-10-6T12:00:00.000Z
+date = 2024-10-06T12:00:00.000Z
 type = "post"
 draft = true
 match = true
@@ -30,6 +30,7 @@ xi_and_subs = [
 ]
 motm = "Farshid Shokoohi"
 dotd = "Yarride Rosario"
+
 [[penalty]]
 frother_goal = false
 opponent_goal = true
