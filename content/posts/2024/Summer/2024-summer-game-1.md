@@ -32,6 +32,7 @@ xi_and_subs = [
   "Declan Ward",
   "Mathew Salt",
 ]
+penalties = true
 [[penalty]]
 frother_goal = false
 opponent_goal = true
@@ -45,7 +46,6 @@ frother_goal = true
 opponent_goal = true
 taker = "Milan Mrdalj"
 [[penalty]]
-frother_goal = true
 opponent_goal = true
 taker = ""
 
