@@ -59,4 +59,20 @@ The first full length game of the summer season and it was straight into the cup
 
 The Frothers were using the opportunity to try out a new 3-4-2-1 formation, utilising the plethora of defensive talent as best as possible.
 
+The game was very much a defender's paradice, mostly possesion within deep parts of the field and heavy work from the midfield.
 
+**Farshid** still managed to pick up some bonus points for a great goal line save to keep the game 0-0.
+
+## Halftime
+
+Keeping the same formation the game progressed without too many more incidents. To penalties!
+
+## Penalties
+
+**Evan Hanson** hit his off the crossbar, giving me vietnam flashbacks to the 2020 final.
+
+**Evan Doube** struck his on target, but a strong hand from the keeper resulted in the save.
+
+**Milan** managed to get a peno to stick, even if the keeper managed to get a hand to it.
+
+The Blazers managed to score all 4 of their penalties, some would say unwisely, to get them into the top cup competition.
