@@ -58,6 +58,10 @@ Trialing a slight change in formation with the 3-4-1-2, with a couple of debuts 
 
 The first goal was off the back of some truely filthy play from the man himself. A couple ball rolls, a nutmeg, and a drive to the byline led to a spilled ball i nthe box which **Evan H** bundled home.
 
-![](/images/2024-10-13//farsh-evan.jpg)
+![](/farsh-evan.jpg)
 
 > 1-0
+
+The boys had a few more hopeful shots throught the half, but nothing more was coming.
+
+## Halftime
