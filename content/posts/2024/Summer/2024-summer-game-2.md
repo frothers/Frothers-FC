@@ -26,6 +26,7 @@ xi_and_subs = [
   "Milan Mrdalj",
   "James Wilson",
   "Evan Hanson",
+  "Dylan Watts",
   "Pratik Das",
   "Yarride Rosario",
   "Lance Molyneaux",

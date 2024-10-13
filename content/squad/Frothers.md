@@ -67,6 +67,7 @@ players = [
   "Hugo Lawrence",
   "Declan Ward",
   "Sol Barris",
+  "Dylan Watts",
   ""
 ]
 +++
