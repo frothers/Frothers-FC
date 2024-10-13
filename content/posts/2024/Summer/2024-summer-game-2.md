@@ -1,9 +1,6 @@
 +++
 title = "Frothers 2024 Summer - League Game 1"
-description = """
-First official league game of summer.
-
-"""
+description = "First official league game of summer."
 author = "Chris"
 date = 2024-10-13T12:00:00.000Z
 type = "post"
