@@ -170,11 +170,6 @@
     "year": 2022
   },
   {
-    "player": "Tavis Wells",
-    "award": "Glassman",
-    "year": 2022
-  },
-  {
     "player": "Lance Molyneaux",
     "award": "Goal of the Season",
     "year": 2022
@@ -200,7 +195,7 @@
     "year": 2022
   },
   {
-    "player": "Lance Molyneaux",
+    "player": "Evan Hanson",
     "award": "MVP",
     "year": 2023
   },
@@ -243,5 +238,80 @@
     "player": "Yash Rosario",
     "award": "Most Improved Player",
     "year": 2023
+  },
+  {
+    "player": "Lance Molyneaux",
+    "award": "MVP",
+    "year": 2024
+  },
+  {
+    "player": "Milan Mrdalj",
+    "award": "Frother of the Year",
+    "year": 2023
+  },
+  {
+    "player": "Yarride Rosario",
+    "award": "Golden Boot",
+    "year": 2024
+  },
+  {
+    "player": "Patrick Cameron",
+    "award": "Best Rookie",
+    "year": 2024
+  },
+  {
+    "player": "Ian Rayns",
+    "award": "Most Improved Player",
+    "year": 2024
+  },
+  {
+    "player": "Evan Hanson",
+    "award": "Goal of the Season",
+    "year": 2024
+  },
+  {
+    "player": "Mathew Salt",
+    "award": "Assist of the Season",
+    "year": 2024
+  },
+  {
+    "player": "Lance Molyneaux",
+    "award": "Most Assists",
+    "year": 2024
+  },
+  {
+    "player": "Yarride Rosario",
+    "award": "Most Assists",
+    "year": 2024
+  },
+  {
+    "player": "Evan Hanson",
+    "award": "Most Assists",
+    "year": 2024
+  },
+  {
+    "player": "Jack Apperley",
+    "award": "Glassman",
+    "year": 2024
+  },
+  {
+    "player": "Milan Mrdalj",
+    "award": "Stormtrooper",
+    "year": 2024
+  },
+  {
+    "player": "Ian Rayns",
+    "award": "Academy Award",
+    "year": 2024
+  },
+  {
+    "player": "Farshid Shokoohi",
+    "award": "Goon",
+    "year": 2024
+  },
+  {
+    "player": "Jacob Williamson",
+    "award": "Freeman",
+    "year": 2024
   }
 ]

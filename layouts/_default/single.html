@@ -58,16 +58,20 @@
               {{ .taker }}
             </div>
             <div class="col">
-              {{ if .frother_goal }}
+              {{ if eq .frother_goal true }}
               <i class="ti-check"></i>
-              {{ else }}
+              {{ else if eq .frother_goal false }}
               <i class="ti-close"></i>
+              {{ else }}
+              <i class="ti-line-dashed "></i>
               {{ end }}
               :
-              {{ if .opponent_goal }}
+              {{ if eq .opponent_goal true }}
               <i class="ti-check"></i>
-              {{ else }}
+              {{ else if eq .opponent_goal false }}
               <i class="ti-close"></i>
+              {{ else }}
+              <i class="ti-line-dashed "></i>
               {{ end }}
             </div>
             <div class="col"></div>
@@ -90,12 +94,6 @@
         {{ .Content }}
       </div>
     </div>
-    {{ if .Site.DisqusShortname}}
-    <div class="col-lg-8 mx-auto block shadow">
-      <!-- comments -->
-      {{ template "_internal/disqus.html" . }}
-    </div>
-    {{ end }}
   </div>
 </section>
 {{ end }}

@@ -9,8 +9,6 @@ players = [
   "Evan Doube",
   "Patrick Moore",
   "Jack Apperley",
-  "Aaron Jackson",
-  "Josh Shand",
   "Ian Rayns",
   "Farshid Shokoohi",
   "Jacob Williamson",
@@ -20,11 +18,15 @@ players = [
   "Charles Daily",
   "Jarrod Murray",
   "Milan Mrdalj",
-  "Harry Furnish",
   "Evan Hanson",
   "Ryan Kindell",
   "Lance Molyneaux",
-  "Chris Chester"
+  "Chris Chester",
+  "Pratik Das",
+  "James Wilson",
+  "Hugo Lawrence",
+  "Declan Ward",
+  "Sol Barris"
 ]
 +++
 

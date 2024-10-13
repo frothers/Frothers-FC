@@ -62,6 +62,11 @@ players = [
   "Lee Greengrass",
   "Jack Furnish",
   "Harry Freeman",
+  "Pratik Das",
+  "James Wilson",
+  "Hugo Lawrence",
+  "Declan Ward",
+  "Sol Barris",
   ""
 ]
 +++
