@@ -27,7 +27,7 @@ xi_and_subs = [
   "Pratik Das",
   "Yarride Rosario",
   "Lance Molyneaux",
-  "Sol Barris",
+  "Aleksey Vakhroushev",
   "Yash Rosario"
 ]
 motm = "Hugo Lawrence"

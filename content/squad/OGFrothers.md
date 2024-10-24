@@ -26,7 +26,8 @@ players = [
   "James Wilson",
   "Hugo Lawrence",
   "Declan Ward",
-  "Sol Barris"
+  "Sol Barris",
+  "Aleksey Vakhroushev"
 ]
 +++
 

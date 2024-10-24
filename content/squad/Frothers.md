@@ -68,6 +68,7 @@ players = [
   "Declan Ward",
   "Sol Barris",
   "Dylan Watts",
+  "Aleksey Vakhroushev",
   ""
 ]
 +++
