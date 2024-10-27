@@ -28,7 +28,7 @@ xi_and_subs = [
   "Yarride Rosario",
   "Evan Hanson",
   "Hugo Lawrence",
-  "Aleksey Vakhroushev",
+  "Aleksey Vakhroushev"
 ]
 motm = "Yash Rosario"
 dotd = "Aleksey Vakhroushev"
