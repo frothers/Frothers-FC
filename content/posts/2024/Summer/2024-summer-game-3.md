@@ -24,7 +24,7 @@ xi_and_subs = [
   "James Wilson",
   "Dylan Watts",
   "Pratik Das",
-  "Yash Rosario"
+  "Yash Rosario",
   "Yarride Rosario",
   "Evan Hanson",
   "Hugo Lawrence",
