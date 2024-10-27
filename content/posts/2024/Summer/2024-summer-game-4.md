@@ -19,9 +19,8 @@ xi_and_subs = [
   "Farshid Shokoohi",
   "Evan Doube",
   "Milan Mrdalj",
-   "Ian Rayns",
-   "Chris Chester",
-
+  "Ian Rayns",
+  "Chris Chester",
   "Patrick Moore",
   "James Wilson",
   "Evan Hanson",
@@ -30,8 +29,7 @@ xi_and_subs = [
   "Yarride Rosario",
   "Lance Molyneaux",
   "Aleksey Vakhroushev",
-  "Charles Daily",
-
+  "Charles Daily"
 ]
 motm = "Yarride Rosario"
 dotd = "Charles Daily"
