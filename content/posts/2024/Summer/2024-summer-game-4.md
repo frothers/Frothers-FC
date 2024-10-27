@@ -18,7 +18,6 @@ xi_and_subs = [
   "Ryan Kindell",
   "Farshid Shokoohi",
   "Evan Doube",
-  "Milan Mrdalj",
   "Ian Rayns",
   "Chris Chester",
   "Patrick Moore",
