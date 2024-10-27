@@ -18,16 +18,17 @@ xi_and_subs = [
   "Ryan Kindell",
   "Farshid Shokoohi",
   "Evan Doube",
-  "Hugo Lawrence",
+  "Chris Chester",
+  "Ian Rayns",
   "Milan Mrdalj",
   "James Wilson",
-  "Evan Hanson",
   "Dylan Watts",
   "Pratik Das",
-  "Yarride Rosario",
-  "Lance Molyneaux",
-  "Aleksey Vakhroushev",
   "Yash Rosario"
+  "Yarride Rosario",
+  "Evan Hanson",
+  "Hugo Lawrence",
+  "Aleksey Vakhroushev",
 ]
 motm = "Yash Rosario"
 dotd = "Aleksey Vakhroushev"
