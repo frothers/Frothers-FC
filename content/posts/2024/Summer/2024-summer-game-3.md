@@ -6,7 +6,7 @@ date = 2024-10-20T12:00:00.000Z
 type = "post"
 images = [ "images/2024-10-20/frother1.jpg" ]
 categories = [ "Match" ]
-draft = true
+draft = false
 match = true
 team = "OG Frothers"
 opponent = "Cobham Drive FC"
@@ -18,7 +18,6 @@ xi_and_subs = [
   "Ryan Kindell",
   "Farshid Shokoohi",
   "Evan Doube",
-  "Mathew Salt",
   "Hugo Lawrence",
   "Milan Mrdalj",
   "James Wilson",
