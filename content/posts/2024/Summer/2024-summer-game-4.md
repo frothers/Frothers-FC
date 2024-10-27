@@ -43,7 +43,7 @@ goals = 1
 
 +++
 
-# Game 1 - Plate
+# Game 4 - Plate
 
 First proper game of the knockout games and the Frothers were up against the 4th division Buds.
 
