@@ -12,8 +12,8 @@ team = "OG Frothers"
 opponent = "BNU"
 season = "summer"
 result = "Win"
-frother_goals = 2
-opponent_goals = 1
+frother_goals = 4
+opponent_goals = 0
 xi_and_subs = [
   "Ryan Kindell",
   "Ian Rayns",
@@ -75,7 +75,6 @@ It was all Frothers from there on in. **Lance** managed to steal in for a goal, 
 > 3-0
 
 Getting a bit cute with it, BNU tried to play out the high press. They could only find, **Ian** however. Playing **Aleksey** in for his second.
-
 
 > 4-0
 
