@@ -19,7 +19,7 @@ xi_and_subs = [
   "Ian Rayns",
   "Evan Doube",
   "Chris Chester",
-  "Milan Mrdalj"
+  "Milan Mrdalj",
   "Patrick Moore",
   "James Wilson",
   "Evan Hanson",
