@@ -76,16 +76,21 @@ It was all Frothers from there on in. **Lance** managed to steal in for a goal, 
 
 Getting a bit cute with it, BNU tried to play out the high press. They could only find, **Ian** however. Playing **Aleksey** in for his second.
 
-![](/images/2024-10-27/aleksey-3.jpg.jpg)
 
 > 4-0
 
 ## Man of the Match
 Getting shafted with the DotD last time he scored two, **Aleksey** picks it up this week for 2 goals and 2 assist. Plus getting the boys a lot of time in front of the camera, even if a few of us are better seen from a distance.
 
+![](/images/2024-10-27/aleksey-3.jpg)
+
+
 ## Dick of the day
 A few options for this one. **Milan** made a good case for himself when, with no opposition player with 30m, he dropped a clanger of a foul throw. **Patrick Moore** also managed to pick up a yellow for a filthy challenge in the last minute of the game to keep our professional image going.
 The award this week goes to **Evan H** who managed to forget his boots and had to Uber to grab them, missing the start of the match.
+
+![](/images/2024-10-27/evanh.jpg)
+
 
 ## Photo Credit
 A big thanks to AP Sports Photography for the images + Better Football
