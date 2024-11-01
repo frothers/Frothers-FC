@@ -1,6 +1,6 @@
 +++
 title = "Frothers 2024 Summer - League game 3"
-description = "THird league game of the Better Football league."
+description = "Third league game of the Better Football league."
 author = "Chris"
 date = 2024-10-27T12:00:00.000Z
 type = "post"
@@ -63,20 +63,20 @@ It wasn't long until it did, **Aleksey** played a through ball that **Yarride** 
 
 That was enough to turn the game in the Frothers favour. A freekick on the edge of the box for BNU came to be their undoing as they tried to get a bit tricky with it and ended up needing their keeper to deal with it from near halfway. He didn't. **Aleksey** was able to race away with it for the Frother's second.
 
-![](/static/images/2024-10-27/aleksey-5.jpg)
+![](/images/2024-10-27/aleksey-5.jpg)
 
 > 2-0
 
 It was all Frothers from there on in. **Lance** managed to steal in for a goal, again from an **Aleksey** assist. Dropping a big Sui to make sure they know we are dicks.
 
-![](/static/images/2024-10-27/lance-sui-1.jpg)
-![](/static/images/2024-10-27/lance-sui-2.jpg)
+![](/images/2024-10-27/lance-sui-1.jpg)
+![](/images/2024-10-27/lance-sui-2.jpg)
 
 > 3-0
 
 Getting a bit cute with it, BNU tried to play out the high press. They could only find, **Ian** however. Playing **Aleksey** in for his second.
 
-![](/static/images/2024-10-27/aleksey-3.jpg.jpg)
+![](/images/2024-10-27/aleksey-3.jpg.jpg)
 
 > 4-0
 
