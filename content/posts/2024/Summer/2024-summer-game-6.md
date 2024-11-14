@@ -86,10 +86,14 @@ The Frothers extended their lead even further as yet another square ball from Ev
 
 > 4-0
 
+It was then the return of our old friend, own goal.
+
+> 5-0
+
 
 They managed to hit back with a late goal, a lofted cross from deep was headed in to ease the heartache. 
 
-> 4-1
+> 5-1
 
 ## MoTM
 Some great performances and good goals Including **Dylan** with his first Frothers goal. But it goes to **Evan Hansen** put in an absolute shift, rolling back the years to cover the pitch. 
