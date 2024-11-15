@@ -16,7 +16,7 @@ frother_goals = 0
 opponent_goals = 2
 xi_and_subs = [
   "Ryan Kindell",
-  "Hugo Lawrence"
+  "Hugo Lawrence",
   "Evan Doube",
   "Milan Mrdalj",
   "Ian Rayns",
