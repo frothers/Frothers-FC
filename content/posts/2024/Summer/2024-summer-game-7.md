@@ -44,4 +44,4 @@ Low turnout for a greasy 2 nil loss.
 
 
 ## DoTD
-**Ryan** for choosing the wrong team.
+**Ryan** for not backing Doube with the high Line
