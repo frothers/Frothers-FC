@@ -83,7 +83,7 @@ The third goal also came from a ball going square. This time directly from a thr
 The boys were feeling like they had their youthful energy back as they went into the second half. 
 
 The Frothers extended their lead even further as yet another square ball from Evan found **Aleksey** who volleyed it first time into the bottom corner
-![](/static/images/2024-11-03/aleksey1.jpg)
+![](/images/2024-11-03/aleksey1.jpg)
 
 
 > 4-0
