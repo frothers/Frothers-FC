@@ -58,7 +58,7 @@ At the ripe time of 9am the Frothers were back at Wakefield.
 ![](/images/2024-11-03/lance-farshid.jpg)
 
 
-Playing the hot stepping Farshid up top, the Frothers took a little while to get firing, but it was inevitable that the man was going to score. Latching onto a half volley **Farsh** drilled the ball home.
+Playing the hot stepping Farshid up top, the Frothers took a little while to get firing, but it was inevitable that the man was going to score. **Milan** pumped a ball over the top for him to chase. Latching onto a half volley, **Farsh** drilled the ball home.
 
 ![](/images/2024-11-03/farshdi1.jpg)
 ![](/images/2024-11-03/farshid3.jpg)
@@ -73,7 +73,7 @@ He was then off to the sideline to let **Yarride** take back his natural positio
 
 > 2-0
 
-The third goal also came from a ball going square. This time directly from a throw in that bounced through for **Dylan** to latch onto to get his first Frothers goal.
+The third goal also came from a ball going square. This time directly from an **Ian** throw in that bounced through for **Dylan** to latch onto to get his first Frothers goal.
 ![](/images/2024-11-03/dyl1.jpg)
 
 > 3-0
