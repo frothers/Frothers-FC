@@ -2,7 +2,7 @@
 title = "Frothers 2024 Summer - League game 4"
 description = "Fourth league game of the Better Football league against Sumadeez FC."
 author = "Chris"
-date = 2024-10-27T12:00:00.000Z
+date = 2024-11-03T12:00:00.000Z
 type = "post"
 images = [ "/images/2024-11-03/patrickm.jpg" ]
 categories = [ "Match" ]
