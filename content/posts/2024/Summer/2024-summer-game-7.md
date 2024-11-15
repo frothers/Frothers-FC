@@ -2,7 +2,7 @@
 title = "Frothers 2024 Summer - League game 5"
 description = "Fifth league game of the Better Football league against Geckos."
 author = "Chris"
-date = 2024-10-27T12:00:00.000Z
+date = 2024-11-10T12:00:00.000Z
 type = "post"
 images = [ "/images/2024-11-03/patrickm.jpg" ]
 categories = [ "Match" ]
