@@ -31,6 +31,16 @@ motm = "James Wilson"
 dotd = "Evan Hanson"
 
 [[scorers]]
+scorer = "James Wilson"
+goals = 2
+
+[[scorers]]
+scorer = "Lance Molyneaux"
+goals = 1
+
+[[scorers]]
+scorer = "Evan Hanson"
+goals = 1
 +++
 
 # Game 8 - Plate
