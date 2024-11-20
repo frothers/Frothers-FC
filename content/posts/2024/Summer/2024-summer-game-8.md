@@ -65,7 +65,7 @@ The Frothers had the ball in the back of the BNU net once again, for **Lance** t
 
 ![](/2014-11-13/gooal1.png)
 
-Shortly after, the Frothers drew yet again another foul halfway inside the BNU half. With a routine off the training ground, **Pratik **delivered to the back stick where **Evan **was waiting to nod the ball across the face of goal for **Lance** to sweep in. Yet again, **Lance** was flagged offside, with it turning out post game that David Coote was in charge of lines on VAR.
+Shortly after, the Frothers drew yet again another foul halfway inside the BNU half. With a routine off the training ground, **Pratik** delivered to the back stick where **Evan** was waiting to nod the ball across the face of goal for **Lance** to sweep in. Yet again, **Lance** was flagged offside, with it turning out post game that David Coote was in charge of lines on VAR.
 
 ![](/2014-11-13/gooal2.png)
 
