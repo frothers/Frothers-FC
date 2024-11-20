@@ -17,15 +17,15 @@ opponent_goals = 1
 xi_and_subs = [
   "Ryan Kindell",
   "Hugo Lawrence",
-  "Evan Doube",
-  "Milan Mrdalj",
-  "Ian Rayns",
-  "Patrick Moore",
   "James Wilson",
+  "Evan Doube",
+  "Ian Rayns",
+  "Dylan Watts",
   "Evan Hanson",
   "Lance Molyneaux",
   "Farshid Shokoohi",
-  "Yarride Rosario"
+  "Yarride Rosario",
+  "Declan Ward"
 ]
 motm = "James Wilson"
 dotd = "Evan Hanson"
