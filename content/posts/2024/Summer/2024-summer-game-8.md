@@ -1,7 +1,7 @@
 +++
 title = "Frothers 2024 Summer - Second round Plate"
 description = "Fifth league game of the Better Football league against BNU Rebels."
-author = "Chris"
+author = "Ian Rayns"
 date = 2024-11-12T11:00:00.000Z
 type = "post"
 images = [ "/20240407123236_IMG_0770.JPG" ]
