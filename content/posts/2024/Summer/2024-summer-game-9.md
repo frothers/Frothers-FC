@@ -2,8 +2,9 @@
 title = "Game 9 - Summer league 2024"
 description = "Frothers VS Split the G FC"
 author = "Chris"
-date = "2024-11-16T11:00:00.000Z"
+date = 2024-11-16T11:00:00.000Z
 type = "post"
+images = [ "/Screenshot_20241123-161258.png" ]
 match = true
 team = "OG Frothers"
 opponent = "Split the G FC"
@@ -14,7 +15,4 @@ opponent_goals = 6
 motm = "Ring-In"
 dotd = "Aleksey Vakhroushev"
 +++
-
-
-
 
