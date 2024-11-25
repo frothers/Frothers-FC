@@ -33,6 +33,7 @@ let squadList = [
   "Angus Hay-Chapman",
   "Tavis Wells",
   "Josh Shand",
+  "Jacob Williamson"
 ];
 
 export function generic_pageFields() {
