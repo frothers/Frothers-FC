@@ -4,7 +4,7 @@ description = "Frothers VS Lazy Sundays FC"
 author = "Farshid"
 date = 2024-11-23T11:00:00.000Z
 type = "post"
-images = [ "images/2024-11-21/PXL_20241121_080026185.jpg" ]
+images = [ "/437887479_958486865884197_204283234223604794_n.jpg" ]
 match = true
 team = "OG Frothers"
 opponent = "Lazy Sunday FC"
@@ -15,13 +15,12 @@ opponent_goals = 2
 xi_and_subs = [
   "Ryan Kindell",
   "Ian Rayns",
-  "Chris Chester",
   "Evan Doube",
-  "Ring-In",
-  "Charles Daily",
+  "Milan Mrdalj",
+  "Farshid Shokoohi",
   "Evan Hanson",
   "Dylan Watts",
-  "Aleksey Vakhroushev",
+  "Lance Molyneaux",
   "Yarride Rosario"
 ]
 motm = "Dylan Watts"
@@ -58,8 +57,8 @@ Frothers did their best to claw back into the game, with several near misses and
 
 ## Motm
 
-Dylan, for his midfield dominance and a Di María-esque assist that was so good it could make a grown man weep.
+**Dylan**, for his midfield dominance and a Di María-esque assist that was so good it could make a grown man weep.
 
 ## Dotd
 
-Farshid, because it’s been a while, and sometimes you just need to remind everyone who the reigning champion of DOTD is.
+**Farshid**, because it’s been a while, and sometimes you just need to remind everyone who the reigning champion of DOTD is.
