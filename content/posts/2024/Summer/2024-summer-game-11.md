@@ -17,10 +17,13 @@ xi_and_subs = [
   "Ian Rayns",
   "Evan Doube",
   "Milan Mrdalj",
+ "Ring-In",
   "Farshid Shokoohi",
   "Evan Hanson",
   "Dylan Watts",
   "Lance Molyneaux",
+ "Ring-In",
+ "Ring-In",
   "Yarride Rosario"
 ]
 motm = "Dylan Watts"
