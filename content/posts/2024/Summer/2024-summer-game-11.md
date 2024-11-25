@@ -17,22 +17,21 @@ xi_and_subs = [
   "Ian Rayns",
   "Evan Doube",
   "Milan Mrdalj",
- "Jacob Williamson",
+  "Angus Hay-Chapman",
   "Farshid Shokoohi",
   "Evan Hanson",
   "Dylan Watts",
   "Lance Molyneaux",
- "Ring-In",
- "Ring-In",
+  "Jacob Williamson",
+  "Ring-In",
   "Yarride Rosario"
 ]
-
-[[scorers]] 
-scorer = "Ring-In"
-goals = 1
-
 motm = "Dylan Watts"
 dotd = "Farshid Shokoohi"
+
+[[scorers]]
+scorer = "Ring-In"
+goals = 1
 +++
 
 ## Summer league match 11
