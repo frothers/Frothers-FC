@@ -26,6 +26,7 @@ xi_and_subs = [
  "Ring-In",
   "Yarride Rosario"
 ]
+[[scorers]] scorer = "Ring-In" goals = 1
 motm = "Dylan Watts"
 dotd = "Farshid Shokoohi"
 +++
