@@ -17,7 +17,7 @@ xi_and_subs = [
   "Ian Rayns",
   "Evan Doube",
   "Milan Mrdalj",
- "Ring-In",
+ "Jacob Williamson",
   "Farshid Shokoohi",
   "Evan Hanson",
   "Dylan Watts",
