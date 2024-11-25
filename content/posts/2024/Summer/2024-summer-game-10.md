@@ -4,7 +4,7 @@ description = "Frothers VS Harimau FC"
 author = "Chris"
 date = 2024-11-21T11:00:00.000Z
 type = "post"
-images = [ "images/2024-11-21/PXL_20241121_080026185.jpg" ]
+images = [ "/images/2024-11-21/PXL_20241121_080026185.jpg" ]
 match = true
 team = "OG Frothers"
 opponent = "Harimau FC"
@@ -12,7 +12,22 @@ season = "summer"
 result = "Win"
 frother_goals = 4
 opponent_goals = 3
-xi_and_subs = [ "Ryan Kindell", "Ian Rayns", "Chris Chester", "Evan Doube","Ring-in", "Farshid Shakoohi","Charles Daily", "Evan Hanson", "Dylan Watts", "Aleksey Vakhroushev" , "Josh Shand", "Yarride Rosario"]
+xi_and_subs = [
+  "Ryan Kindell",
+  "Ian Rayns",
+  "Chris Chester",
+  "Evan Doube",
+  "Ring-In",
+  "Farshid Shokoohi",
+  "Charles Daily",
+  "Evan Hanson",
+  "Dylan Watts",
+  "Aleksey Vakhroushev",
+  "Josh Shand",
+  "Yarride Rosario"
+]
+motm = "Dylan Watts"
+dotd = "Ryan Kindell"
 
 [[scorers]]
 scorer = "Dylan Watts"
@@ -21,15 +36,14 @@ goals = 1
 [[scorers]]
 scorer = "Josh Shand"
 goals = 1
+
 [[scorers]]
 scorer = "OG"
 goals = 1
+
 [[scorers]]
 scorer = "Farshid Shakoohi"
 goals = 1
-
-motm = "Dylan Watts"
-dotd = "Ryan Kindell"
 +++
 
 ## Summer league match 10
@@ -38,7 +52,7 @@ Frothers were back again for their latest kick off to date, a graveyard shift of
 
 The rest of us were risking it all to taste the Froth while we can, because the Glass man comes for us all…
 
-The game kicked off with neither team really able to control play and link together any good passages of play. 
+The game kicked off with neither team really able to control play and link together any good passages of play.
 
 It wasn't long before disaster struck. Not registering that warming up properly was going to be essential on a cold night, your baby boy, **Chris**, managed to do a hammy on a footrace. A relatively simple cleanup job turned into a full blown breakaway. Harimau showed no hesitation to take advantage and take the lead.
 
@@ -66,7 +80,6 @@ The Frothers were well in control going into halftime.
 
 ![](/images/2024-11-21/PXL_20241121_080026185.jpg)
 
-
 In a bizarre series of events a backpass was picked up in the Frother’s box. The resulting free kick was rolled out and a lofted shot dropped into the back post.
 
 > 2-2
@@ -88,10 +101,9 @@ The boys weren't done, a late corner from **Shand** found the front post run of 
 > 4-3
 
 ## Motm
+
 Man of the match today was **Dylan** with a goal, assist, and was able to keep his composure in the wind.
 
 ## Dotd
+
 A combination of picking up a no pressure backpass and then conceding from the resulting freekick is enough for **Ryan** to pick up the award. It wasn't helped by the quote of "I wasn't watching who kicked it".
-
-
-
