@@ -8,6 +8,7 @@ players = [
   "Yash Rosario",
   "Evan Doube",
   "Patrick Moore",
+  "Patrick Cameron",
   "Jack Apperley",
   "Ian Rayns",
   "Farshid Shokoohi",
@@ -27,7 +28,14 @@ players = [
   "Hugo Lawrence",
   "Declan Ward",
   "Sol Barris",
-  "Aleksey Vakhroushev"
+  "Aleksey Vakhroushev",
+  "Dylan Watts",
+  "Stu Escott",
+  "Angus Hay-Chapman",
+  "Tavis Wells",
+  "Josh Shand",
+
+
 ]
 +++
 

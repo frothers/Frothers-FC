@@ -1,6 +1,39 @@
 import type { TinaField } from "tinacms";
 
-let squadList = ["", "Mathew Salt", "Jack Apperley", "Yash Rosario", "Yarride Rosario", "Evan Doube", "Ian Rayns", "Farshid Shokoohi", "OG", "Ring-In", "Charles Daily",  "Milan Mrdalj", "Evan Hanson", "Ryan Kindell", "Lance Molyneaux", "Chris Chester", "Patrick Cameron", "Patrick Moore", "Jack Apperley","Pratik Das","James Wilson", "Hugo Lawrence", "Declan Ward", "Sol Barris", "Dylan Watts", "Aleksey Vakhroushev"];
+let squadList = [
+  "",
+  "Yarride Rosario",
+  "Mathew Salt",
+  "Yash Rosario",
+  "Evan Doube",
+  "Patrick Moore",
+  "Patrick Cameron",
+  "Jack Apperley",
+  "Ian Rayns",
+  "Farshid Shokoohi",
+  "Jacob Williamson",
+  "Jamie Bunting",
+  "OG",
+  "Ring-In",
+  "Charles Daily",
+  "Jarrod Murray",
+  "Milan Mrdalj",
+  "Evan Hanson",
+  "Ryan Kindell",
+  "Lance Molyneaux",
+  "Chris Chester",
+  "Pratik Das",
+  "James Wilson",
+  "Hugo Lawrence",
+  "Declan Ward",
+  "Sol Barris",
+  "Aleksey Vakhroushev",
+  "Dylan Watts",
+  "Stu Escott",
+  "Angus Hay-Chapman",
+  "Tavis Wells",
+  "Josh Shand",
+];
 
 export function generic_pageFields() {
   return [
@@ -163,13 +196,13 @@ export function postFields() {
       required: true,
     },
     {
-    //   type: "select",
+      //   type: "select",
       type: "string",
       name: "xi_and_subs",
       label: "XI and Subs",
-      component: 'list',
+      component: "list",
       field: {
-        component: 'select',
+        component: "select",
         options: squadList,
       },
       list: true,
