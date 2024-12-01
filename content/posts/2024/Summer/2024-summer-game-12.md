@@ -96,3 +96,5 @@ The whole team could have won it this week. The front pair were extraordinary. T
 
 ## Dick of the Day
 Could have been Lance again for the sheer number of skill moves rudely making the opposition look like reindeer in roller skates. Could have been **Chris Scrooge Chester** for missing his chance to claim a clean sheet. But on this big weekend of promotion/relegation in the league, it has to go to Cobham Drive. Where’s the integrity lads?
+
+![](/images/2024-12-01/3rd-baby.jpg)
