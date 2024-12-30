@@ -35,7 +35,7 @@ motm = "Evan Doube"
 scorer = "Evan Doube"
 goals = 1
 [[scorers]]
-scorer = "Lance Molyneaux"
+scorer = "Aleksey Vakhroushev"
 goals = 1
 
 +++
