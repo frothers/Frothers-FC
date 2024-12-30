@@ -3,7 +3,7 @@ title = "Game 13 - Summer league 2024"
 description = "Frothers VS Summerdeez"
 author = "Chris"
 date = 2024-12-06T11:00:00.000Z
-images = [ "/images/2024-12-01/3rd-baby.jpg" ]
+images = [ "/20240407121922_IMG_0764.JPG" ]
 type = "post"
 match = true
 team = "OG Frothers"
@@ -23,11 +23,10 @@ xi_and_subs = [
   "Dylan Watts",
   "Pratik Das",
   "Lance Molyneaux",
-  "Aleksey Vakhroushev"
+  "Aleksey Vakhroushev",
   "Evan Hanson",
   "Milan Mrdalj",
   "Mathew Salt",
-
 ]
 motm = "Evan Doube"
 
@@ -44,6 +43,4 @@ Doube scores and retires!
 
 ## Player of the Match 
 Doube Doube Doube
-
-![](/images/2024-12-01/lance2.jpg)
 
