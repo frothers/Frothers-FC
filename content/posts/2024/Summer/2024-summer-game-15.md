@@ -1,5 +1,5 @@
 +++
-title = "Game 14 - Summer league 2024"
+title = "Game 15 - Summer league 2024"
 description = "Frothers VS Lazy Cycles"
 author = "Chris"
 date = 2025-01-25T11:00:00.000Z
@@ -9,7 +9,7 @@ match = true
 team = "OG Frothers"
 opponent = "Lazycycles"
 season = "summer"
-result = "Loss"
+result = "Draw"
 frother_goals = 1
 opponent_goals = 1
 xi_and_subs = [
