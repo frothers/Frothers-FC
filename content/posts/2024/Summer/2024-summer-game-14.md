@@ -57,12 +57,15 @@ opponent_goal = false
 taker = "Lance Molyneaux"
 frother_goal = true
 opponent_goal = true
+[[penalty]]
 taker = "Evan Hanson"
 frother_goal = true
 opponent_goal = true
+[[penalty]]
 taker = "Oli Spicer"
 frother_goal = false
 opponent_goal = true
+
 motm = "Dylan Watts"
 +++
 
