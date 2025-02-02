@@ -30,9 +30,10 @@ xi_and_subs = [
 [[scorers]]
 scorer = "Hugo Lawrence"
 goals = 1
-motm = ""
+motm = "Hugo Lawrence"
 +++
 
 Back to the league, against Lazy Cycles
 
 ## Player of the Match
+Wing back scoring a goal. Lock it in.
