@@ -63,10 +63,11 @@ opponent_goal = true
 taker = "Oli Spicer"
 frother_goal = false
 opponent_goal = true
-motm = ""
+motm = "Dylan Watts"
 +++
 
 First game after the break, against Super Paddy's Fun Club. A spectators feast with 6 goals and penalties.
 
 ## Player of the Match
 
+Dylan with a laser guided goal to claim MoTM
