@@ -69,6 +69,7 @@ players = [
   "Sol Barris",
   "Dylan Watts",
   "Aleksey Vakhroushev",
+  "Oli Spicer",
   ""
 ]
 +++

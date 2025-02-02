@@ -34,8 +34,7 @@ players = [
   "Angus Hay-Chapman",
   "Tavis Wells",
   "Josh Shand",
-
-
+  "Oli Spicer",
 ]
 +++
 
