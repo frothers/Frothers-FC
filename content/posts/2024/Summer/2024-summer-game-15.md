@@ -23,11 +23,16 @@ xi_and_subs = [
   "Evan Hanson",
   "Oli Spicer",
   "Lance Molyneaux",
-  "Aleksey Vakhroushev"
+  "Aleksey Vakhroushev",
+  "Jack",
+  "James"
 ]
+[[scorers]]
+scorer = "Hugo Lawrence"
+goals = 1
 motm = ""
 +++
 
-First game after the break, against Lazy Cycles
+Back to the league, against Lazy Cycles
 
 ## Player of the Match

@@ -7,15 +7,17 @@ type = "post"
 images = [ "/lance-attack.jpg" ]
 match = true
 team = "OG Frothers"
-opponent = "Lazycycles"
+opponent = "Super Paddy's Fun Club"
 season = "summer"
 result = "Draw"
-frother_goals = 1
-opponent_goals = 1
+penalties = true
+frother_goals = 3
+opponent_goals = 3
 xi_and_subs = [
   "Ryan Kindell",
   "Patrick Moore",
   "Yarride Rosario",
+  "Charles Daily",
   "Hugo Lawrence",
   "James Wilson",
   "Dylan Watts",
@@ -23,12 +25,48 @@ xi_and_subs = [
   "Declan Ward",
   "Oli Spicer",
   "Lance Molyneaux",
-  "Aleksey Vakhroushev"
+  "Aleksey Vakhroushev",
+  "Jordan"
 ]
+[[scorers]]
+scorer = "Evan Hanson"
+goals = 1
+[[scorers]]
+scorer = "Dylan Watts"
+goals = 1
+[[scorers]]
+scorer = "Jordan"
+goals = 1
+[[penalty]]
+taker = "Dylan Watts"
+frother_goal = true
+opponent_goal = true
+[[penalty]]
+taker = "James Wilson"
+frother_goal = true
+opponent_goal = true
+[[penalty]]
+taker = "Charles Daily"
+frother_goal = true
+opponent_goal = true
+[[penalty]]
+taker = "Jordan"
+frother_goal = false
+opponent_goal = false
+[[penalty]]
+taker = "Lance Molyneaux"
+frother_goal = true
+opponent_goal = true
+taker = "Evan Hanson"
+frother_goal = true
+opponent_goal = true
+taker = "Oli Spicer"
+frother_goal = false
+opponent_goal = true
 motm = ""
 +++
 
-First game after the break, against Super Paddy's Fun Club
+First game after the break, against Super Paddy's Fun Club. A spectators feast with 6 goals and penalties.
 
 ## Player of the Match
 
