@@ -38,6 +38,8 @@ goals = 1
 
 Back playing Summerdeez, and the rivalry continues.
 
+![](/2025-02-02/furnish-regen.jpg)
+
 The first-half was pretty cagey, with the main points of note being a good strong 1-on-1 save by Ryan on a player that managed to break 3 tackles to end up face to face with the thick between the sticks.
 
 The best chance of the half for the Frothers came from an Evan H square ball to Yarride who couldn't quick get his foot around it. Oli also narrowly blazed over a couple from outside the box.
