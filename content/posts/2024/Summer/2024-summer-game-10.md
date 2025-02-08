@@ -42,7 +42,7 @@ scorer = "OG"
 goals = 1
 
 [[scorers]]
-scorer = "Farshid Shakoohi"
+scorer = "Farshid Shokoohi"
 goals = 1
 +++
 
