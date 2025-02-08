@@ -12,7 +12,7 @@ season = "summer"
 result = "Loss"
 frother_goals = 0
 opponent_goals = 6
-xi_and_subs = [ "Ryan Kindell", "Ian Rayns", "Chris Chester", "Evan Doube","Milan Mardalj", "Farshid Shakoohi", "James Wilson", "Evan Hanson", "Pratik Das", "Aleksey Vakhroushev" , "Ring-in"] 
+xi_and_subs = [ "Ryan Kindell", "Ian Rayns", "Chris Chester", "Evan Doube","Milan Mardalj", "Farshid Shokoohi", "James Wilson", "Evan Hanson", "Pratik Das", "Aleksey Vakhroushev" , "Ring-in"] 
 motm = "Pratik Das"
 +++
 
