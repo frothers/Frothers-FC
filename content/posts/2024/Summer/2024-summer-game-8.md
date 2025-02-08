@@ -25,7 +25,8 @@ xi_and_subs = [
   "Lance Molyneaux",
   "Farshid Shokoohi",
   "Yarride Rosario",
-  "Declan Ward"
+  "Declan Ward",
+  "Charles Daily"
 ]
 motm = "James Wilson"
 dotd = "Evan Hanson"
