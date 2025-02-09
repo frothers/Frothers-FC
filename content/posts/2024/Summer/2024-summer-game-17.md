@@ -28,7 +28,10 @@ motm = "Yarride Rosario"
 dotd = "Lance Molyneaux"
 
 [[scorers]]
-scorer = "Evan Hanson"
+scorer = "Yarride Rosario"
+goals = 2
+[[scorers]]
+scorer = "Bono"
 goals = 1
 +++
 
