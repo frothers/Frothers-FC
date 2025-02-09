@@ -16,9 +16,11 @@ xi_and_subs = [
   "Chris Chester",
   "Milan Mrdalj",
   "James Wilson",
+  "Bono",
   "Evan Hanson",
   "Dylan Watts",
   "Lance Molyneaux",
+  "Jordan",
   "Yarride Rosario",
   "Ring-In"
 ]
@@ -34,12 +36,24 @@ The Yash memorial fixture.
 
 Up against Cobham Drive again after last time the game was a stunning 4-4 draw after an hour's delay for respecting the fallen.
 
-Cobham showed why they were good for 4 goals last time out, putting big pressure on in the early stages with several mercurial players in the midfield making the boys' lives a nightmare in a 4-4-2.
+Cobham showed why they were good for 4 goals last time out, putting big pressure on in the early stages with several mercurial players in the midfield making the boys' lives a nightmare in a 4-3-3.
 
-The left-winger benefitted, with two 1-on-1 opportunities from incisive balls giving Cobham Drive a daunting lead at the break.
+The left-winger benefited, with two 1-on-1 opportunities from incisive balls giving Cobham Drive a daunting lead at the break.
 
 > 0-2
 
 # Halftime
 
-The boys weren't quite clicking and the midfield were being dragged all over the place, it was time for a change. Back to the summer fav 3-5-2
+The boys weren't quite clicking and the midfield were being dragged all over the place, it was time for a change. Back to the summer fav 3-5-2.
+
+The boys came out of the gate the a fire in their belly. One one of the first plays **Evan** won possession back, fed **Lance** who would try play **Yarride** in with a through-ball.
+
+**Yarride** did his best Steven Bradbury impression, waiting for the goalie and defender to collide so he could stroll in for the open goal.
+
+![]((https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenkxOXE5OWJnNmk2enVvcTV4NjZvbmw3ZWp2eW9sZzM0aHhkZTMzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V2yo0r2EQCqk1PCfb4/giphy.gif))
+
+> 1-2
+
+Seemingly the next play the boys were back at it. **Lance** flew into a challenge on a player taking too much time with the ball at the back. He then played **Bono** in to tie the game up with a well placed toe poke into the corner.
+
+> 2-2
