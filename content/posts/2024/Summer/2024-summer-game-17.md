@@ -57,3 +57,16 @@ The boys came out of the gate the a fire in their belly. One one of the first pl
 Seemingly the next play the boys were back at it. **Lance** flew into a challenge on a player taking too much time with the ball at the back. He then played **Bono** in to tie the game up with a well placed toe poke into the corner.
 
 > 2-2
+
+The boys were back! Unlucky not to take the lead in the following few plays, where **Yarride** could only find the keeper and **Jordan** sent one over from close range.
+
+There was one last opportunity. **Evan** was brought down just outside the box. **Oli** floated a ball in and out
+jumping **Evan** and **Chris** was **Yarride**. A great downwards header secured the Frothers the 3 points and their first win of 2025 with the last kick of the ball!
+
+> 3-2
+
+## Man of the Match
+Great to see **Yarride** back among the goals after getting lost in the wilderness of centre back for a few weeks. A contested last minute header to top it all off!
+
+## Dick of the Days
+**Lance** went in on the boys for not closing down the space fast enough in the first half and then doubled down that the midfield were lazy ungrateful losers who were lucky to share a pitch with him.
