@@ -75,4 +75,4 @@ jumping **Evan** and **Chris** was **Yarride**. A great downwards header secured
 Great to see **Yarride** back among the goals after getting lost in the wilderness of centre back for a few weeks. A contested last minute header to top it all off!
 
 ## Dick of the Day
-**Lance** went in on the boys for not closing down the space fast enough in the first half and then doubled down that the midfield were lazy ungrateful losers who were lucky to share a pitch with him.
+**Lance** went in on the boys for not closing down the space fast enough in the first half and then doubled down that the midfield were lazy ungrateful losers who were lucky to share a pitch with him. Suuuui
