@@ -12,60 +12,126 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-4 white-field-stripe">
-            <img src="/images/frothers_jersey.png" width=40>
-            <div>{{ index ($.Params.xi_and_subs) 1 }}</div>
-        </div>
-        <div class="col-2 green-field-stripe">
-            <img src="/images/frothers_jersey.png" width=40>
-            <div>{{ index ($.Params.xi_and_subs) 2 }}</div>
-        </div>
-        <div class="col-2 green-field-stripe">
-            <img src="/images/frothers_jersey.png" width=40>
-            <div>{{ index ($.Params.xi_and_subs) 3 }}</div>
-        </div>
-        <div class="col-4 white-field-stripe">
-            <img src="/images/frothers_jersey.png" width=40>
-            <div>{{ index ($.Params.xi_and_subs) 4 }}</div>
-        </div>
+        {{ if or (not (isset .Params "formation")) (in .Params.formation "4-4-2")}}
+            <div class="col-4 white-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 1 }}</div>
+            </div>
+            <div class="col-2 green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 2 }}</div>
+            </div>
+            <div class="col-2 green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 3 }}</div>
+            </div>
+            <div class="col-4 white-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 4 }}</div>
+            </div>
+        {{ else if in .Params.formation "3-4-1-2" }}
+            <div class="col-3 white-field-stripe">
+            </div>
+            <div class="col-1 white-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 1 }}</div>
+            </div>
+            <div class="col green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 2 }}</div>
+            </div>
+            <div class="col-1 white-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 3 }}</div>
+            </div>
+            <div class="col-3 white-field-stripe">
+            </div>
+        {{ end }}
+
     </div>
     <div class="row">
-        <div class="col-4 white-field-stripe">
-        </div>
-        <div class="col-2 green-field-stripe">
-            <img src="/images/frothers_jersey.png" width=40>
-            <div>{{ index ($.Params.xi_and_subs) 5 }}</div>
-        </div>
-        <div class="col-2 green-field-stripe">
-            <img src="/images/frothers_jersey.png" width=40>
-            <div>{{ index ($.Params.xi_and_subs) 6 }}</div>
-        </div>
-        <div class="col-4 white-field-stripe">
-        </div>
+        {{ if or (not (isset .Params "formation")) (in .Params.formation "4-4-2")}}
+            <div class="col-4 white-field-stripe">
+            </div>
+            <div class="col-2 green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 5 }}</div>
+            </div>
+            <div class="col-2 green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 6 }}</div>
+            </div>
+            <div class="col-4 white-field-stripe">
+            </div>
+        {{ else if in .Params.formation "3-4-1-2" }}
+            <div class="col-4 white-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 4 }}</div>
+            </div>
+            <div class="col-2 green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 5 }}</div>
+            </div>
+            <div class="col-2 green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 6 }}</div>
+            </div>
+            <div class="col-4 white-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 7 }}</div>
+            </div>
+        {{ end }}
+       
     </div>
     <div class="row">
-        <div class="col white-field-stripe">
-            <img src="/images/frothers_jersey.png" width=40>
-            <div>{{ index ($.Params.xi_and_subs) 7 }}</div>
-        </div>
-        <div class="col green-field-stripe">
-            <img src="/images/frothers_jersey.png" width=40>
-            <div>{{ index ($.Params.xi_and_subs) 8 }}</div>
-        </div>
-        <div class="col white-field-stripe">
-            <img src="/images/frothers_jersey.png" width=40>
-            <div>{{ index ($.Params.xi_and_subs) 9 }}</div>
-        </div>
+        {{ if or (not (isset .Params "formation")) (in .Params.formation "4-4-2")}}
+            <div class="col white-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 7 }}</div>
+            </div>
+            <div class="col green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 8 }}</div>
+            </div>
+            <div class="col white-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 9 }}</div>
+            </div>
+        {{ else if in .Params.formation "3-4-1-2" }}
+            <div class="col white-field-stripe">
+            </div>
+            <div class="col green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 8 }}</div>
+            </div>
+            <div class="col white-field-stripe">
+            </div>
+        {{ end }}
     </div>
-        <div class="row">
-        <div class="col white-field-stripe">
-        </div>
-        <div class="col green-field-stripe">
-            <img src="/images/frothers_jersey.png" width=40>
-            <div>{{ index ($.Params.xi_and_subs) 10 }}</div>
-        </div>
-        <div class="col white-field-stripe">
-        </div>
+    <div class="row">
+        {{ if or (not (isset .Params "formation")) (in .Params.formation "4-4-2")}}
+            <div class="col white-field-stripe">
+            </div>
+            <div class="col green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 10 }}</div>
+            </div>
+            <div class="col white-field-stripe">
+            </div>
+        {{ else if in .Params.formation "3-4-1-2" }}
+            <div class="col-4 white-field-stripe">
+            </div>
+            <div class="col-2 green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 9 }}</div>
+            </div>
+            <div class="col-2 green-field-stripe">
+                <img src="/images/frothers_jersey.png" width=40>
+                <div>{{ index ($.Params.xi_and_subs) 10 }}</div>
+            </div>
+            <div class="col-4 white-field-stripe">
+            </div>
+        {{ end }}
     </div>
     <div class="row subs-bench">
         {{ if index ($.Params.xi_and_subs) 11 }}
