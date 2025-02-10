@@ -20,12 +20,12 @@ xi_and_subs = [
   "James Wilson",
   "Bono",
   "Evan Hanson",
-  "Ring-In"
+  "Ring-In",
   "Dylan Watts",
   "Jordan",
   "Oli Spicer",
   "Yarride Rosario",
-  "Lance Molyneaux"
+  "Lance Molyneaux",
 ]
 motm = "Yarride Rosario"
 dotd = "Lance Molyneaux"
