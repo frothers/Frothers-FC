@@ -9,6 +9,8 @@ team = "OG Frothers"
 opponent = "Cobham Drive FC"
 season = "summer"
 result = "Win"
+images = [ "/434819929_398997866248828_3816456996023941832_n.jpg" ]
+formation = "3-4-1-2"
 frother_goals = 3
 opponent_goals = 2
 xi_and_subs = [
@@ -18,11 +20,12 @@ xi_and_subs = [
   "James Wilson",
   "Bono",
   "Evan Hanson",
-  "Dylan Watts",
-  "Lance Molyneaux",
-  "Jordan",
-  "Yarride Rosario",
   "Ring-In"
+  "Dylan Watts",
+  "Jordan",
+  "Oli Spicer",
+  "Yarride Rosario",
+  "Lance Molyneaux"
 ]
 motm = "Yarride Rosario"
 dotd = "Lance Molyneaux"
