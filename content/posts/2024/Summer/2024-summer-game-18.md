@@ -47,3 +47,46 @@ scorer = "Lance Molyneaux"
 goals = 2
 +++
 
+> Dont let the boys get a sniff.
+
+The Frothers had finally shaken the post Christmas slowdown to get some points on the board. Next up was the derby against Summer Blaze.
+
+A unfamiliar lineup led the Frothers to misjudge what they were in for. The Blazers come out fast with some good pressing to put the Frothers under pressure. A cheap corner followed by a good delivery allowed the Blazers to take the lead early in the half.
+
+> 0-1
+
+The Frothers were able to respond with a header of their own. A cross in from **Oli** found **Patrick M** at the back post. The not often seen bounce chip header found its way into the far corner.
+
+> 1-1
+
+## Halftime
+
+The Frothers seat leanong forward
+
+The boys came out after the break with big brother mentality.
+
+**Yarride** kicked off the show with a composed finish while receiving ample calls for alternative options.
+
+> 2-1
+
+**Oli** was next up to bag his first Frothers goal.
+
+> 3-1
+
+**Lance** was next up to hit a volley to extend the Frother's lead.
+
+> 4-1
+
+Next up was **Jordan** cutting in, having plenty of time to line his shot up he put a bendy ball across the keeper.
+
+> 5-1
+
+**Lance** couldn't help but help himself to one more, throwing a big left to send the Frothers up by 5.
+
+## Man of the Match
+
+A great assist, a first frothers goal, and plenty of hard work gets **Oli** the MotM this week.
+
+## Dick of the Day
+
+**Yarride** picks this up for getting a bit excited by the boys putting on a clinic and trying to beat his man deep within his half with a move that
