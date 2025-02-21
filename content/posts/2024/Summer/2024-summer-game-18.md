@@ -35,11 +35,11 @@ motm = "Oli Spicer"
 dotd = "Yarride Rosario"
 
 [[scorers]]
-scorer = "Oli Spicer"
+scorer = "Patrick Moore"
 goals = 1
 
 [[scorers]]
-scorer = "Patrick Moore"
+scorer = "Oli Spicer"
 goals = 1
 
 [[scorers]]
