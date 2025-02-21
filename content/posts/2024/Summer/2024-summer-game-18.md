@@ -8,6 +8,7 @@ images = [
   "/images/185716792_3381455362080745_7398063688632025569_n.jpg"
 ]
 match = true
+formation = "3-4-1-2"
 team = "OG Frothers"
 opponent = "Summer Blaze"
 season = "summer"
@@ -18,14 +19,17 @@ xi_and_subs = [
   "Ryan Kindell",
   "Chris Chester",
   "Milan Mrdalj",
-  "James Wilson",
+  "Jacob Williamson",
   "Patrick Moore",
   "Evan Hanson",
   "Dylan Watts",
-  "Jordan",
+  "Hugo Lawrence",
   "Oli Spicer",
   "Yarride Rosario",
-  "Lance Molyneaux"
+  "Lance Molyneaux",
+  "James Wilson",
+  "Hunter",
+  "Jordan",
 ]
 motm = "Oli Spicer"
 dotd = "Yarride Rosario"
@@ -40,11 +44,15 @@ goals = 1
 
 [[scorers]]
 scorer = "Yarride Rosario"
-goals = 2
+goals = 1
 
 [[scorers]]
 scorer = "Lance Molyneaux"
 goals = 2
+
+[[scorers]]
+scorer = "Jordan"
+goals = 1
 +++
 
 > Dont let the boys get a sniff.
