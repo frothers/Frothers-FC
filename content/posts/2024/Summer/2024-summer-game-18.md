@@ -17,9 +17,9 @@ frother_goals = 6
 opponent_goals = 1
 xi_and_subs = [
   "Ryan Kindell",
+  "Jacob Williamson",
   "Chris Chester",
   "Milan Mrdalj",
-  "Jacob Williamson",
   "Patrick Moore",
   "Evan Hanson",
   "Dylan Watts",
