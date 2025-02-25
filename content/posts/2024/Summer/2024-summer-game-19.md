@@ -6,37 +6,27 @@ date = 2025-02-22T13:00:00.000Z
 type = "post"
 match = true
 team = "OG Frothers"
-opponent = "Summer Blaze"
+opponent = "Super Paddy's Fun Club"
 season = "summer"
 result = "Win"
-frother_goals = 6
-opponent_goals = 1
+frother_goals = 2
+opponent_goals = 0
 xi_and_subs = [
   "Ryan Kindell",
-  "Jacob Williamson",
+  "Ring-In",
   "Chris Chester",
   "Milan Mrdalj",
-  "Patrick Moore",
+  "Farshid Shokoohi",
   "Evan Hanson",
   "Dylan Watts",
-  "Hugo Lawrence",
-  "Oli Spicer",
+  "Declan Ward",
   "Yarride Rosario",
   "Lance Molyneaux",
-  "James Wilson",
   "Hunter",
   "Jordan"
 ]
-motm = "Oli Spicer"
-dotd = "Yarride Rosario"
-
-[[scorers]]
-scorer = "Patrick Moore"
-goals = 1
-
-[[scorers]]
-scorer = "Oli Spicer"
-goals = 1
+motm = "Ryan Kindell"
+dotd = ""
 
 [[scorers]]
 scorer = "Yarride Rosario"
@@ -44,10 +34,6 @@ goals = 1
 
 [[scorers]]
 scorer = "Lance Molyneaux"
-goals = 2
-
-[[scorers]]
-scorer = "Jordan"
 goals = 1
 +++
 
