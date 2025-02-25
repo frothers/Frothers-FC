@@ -28,6 +28,7 @@ xi_and_subs = [
 ]
 motm = "Ryan Kindell"
 dotd = ""
+formation = "3-4-1-2"
 
 [[scorers]]
 scorer = "Yarride Rosario"
