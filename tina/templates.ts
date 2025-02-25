@@ -5,10 +5,8 @@ let squadList = [
   "Yarride Rosario",
   "Mathew Salt",
   "Yash Rosario",
-  "Evan Doube",
   "Patrick Moore",
   "Patrick Cameron",
-  "Jack Apperley",
   "Ian Rayns",
   "Farshid Shokoohi",
   "Jacob Williamson",
@@ -26,15 +24,14 @@ let squadList = [
   "James Wilson",
   "Hugo Lawrence",
   "Declan Ward",
-  "Sol Barris",
-  "Aleksey Vakhroushev",
   "Dylan Watts",
   "Stu Escott",
   "Angus Hay-Chapman",
-  "Tavis Wells",
   "Josh Shand",
   "Jacob Williamson",
-  "Oli Spicer"
+  "Oli Spicer",
+  "Jordan Young",
+  "Finn Harland"
 ];
 
 export function generic_pageFields() {
