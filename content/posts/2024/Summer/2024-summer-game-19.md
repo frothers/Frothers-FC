@@ -13,17 +13,18 @@ frother_goals = 2
 opponent_goals = 0
 xi_and_subs = [
   "Ryan Kindell",
-  "Ring-In",
+  "Finn Harland",
   "Chris Chester",
   "Milan Mrdalj",
   "Farshid Shokoohi",
   "Evan Hanson",
   "Dylan Watts",
   "Declan Ward",
-  "Yarride Rosario",
+  "Pratik Das",
+  "Daniel",
   "Lance Molyneaux",
-  "Hunter",
-  "Jordan"
+  "Yarride Rosario",
+  "Jordan Young",
 ]
 motm = "Ryan Kindell"
 dotd = ""
