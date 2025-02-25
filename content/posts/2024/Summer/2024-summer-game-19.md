@@ -4,6 +4,7 @@ description = "Frothers VS Super Paddys Fun Club"
 author = "Chris"
 date = 2025-02-22T13:00:00.000Z
 type = "post"
+images = [ "/images/232736343_3448411055385175_2743766731549244629_n.jpg" ] 
 match = true
 team = "OG Frothers"
 opponent = "Super Paddy's Fun Club"
