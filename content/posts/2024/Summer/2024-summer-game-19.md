@@ -4,7 +4,7 @@ description = "Frothers VS Super Paddys Fun Club"
 author = "Chris"
 date = 2025-02-22T13:00:00.000Z
 type = "post"
-images = [ "/images/232736343_3448411055385175_2743766731549244629_n.jpg" ] 
+images = [ "/2025-02-25/blowing-bubbles.jpg" ] 
 match = true
 team = "OG Frothers"
 opponent = "Super Paddy's Fun Club"
@@ -45,6 +45,7 @@ The Boys are so back.
 The Frothers were looking at turning the script on when they last played Paddys where we went down in a shoot out.
 
 The First half was full of Frothers chances, with shots raining down on the Paddys goal from every angle. Lance even tried a filthy bicycle kick on.
+![](/2025-02-25/farshid1.jpg)
 
 ## Halftime
 
@@ -56,14 +57,18 @@ It took the old Frothers' staple combination to break the deadlock. Lance played
 
 > 1-0
 
+![](/2025-02-25/raddie2.jpg)
+
 It was still a bit nervy with only a 1 goal lead and a Paddys launching balls over the top.
 
 **Declan** starts off an attacking play with a filthy nutmeg, the ball was then passed quickly between a few of the boys. **Lance** made sure of it, however and put the Frothers 2 up with minutes to spare.
 
 > 2-0
 
+![](/2025-02-25/finn1.jpg)
+
 ## Man of the Match
 
-A much needed clean sheet and some quality saves to go along with it, Ryan picks up the man of the match
+A much needed clean sheet and some quality saves to go along with it, **Ryan** picks up the man of the match
 
 ## Dick of the Day
