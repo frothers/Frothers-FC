@@ -28,7 +28,7 @@ xi_and_subs = [
   "Jordan Young",
 ]
 motm = "Ryan Kindell"
-dotd = ""
+dotd = "Lance Molyneaux"
 formation = "3-4-1-2"
 
 [[scorers]]
@@ -69,6 +69,12 @@ It was still a bit nervy with only a 1 goal lead and a Paddys launching balls ov
 
 ## Man of the Match
 
-A much needed clean sheet and some quality saves to go along with it, **Ryan** picks up the man of the match
+A much needed clean sheet and some quality saves to go along with it, **Ryan** picks up the man of the match.
+
+Special mention to **Declan**, who had a stellar second half.
 
 ## Dick of the Day
+
+**Lance** has been gaslighting me too long with the poll.
+
+![](/2025-02-25/blowing-bubbles.jpg)
