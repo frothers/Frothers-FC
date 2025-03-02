@@ -9,7 +9,6 @@ players = [
   "Evan Doube",
   "Patrick Moore",
   "Patrick Cameron",
-  "Jack Apperley",
   "Ian Rayns",
   "Farshid Shokoohi",
   "Jacob Williamson",
@@ -27,13 +26,8 @@ players = [
   "James Wilson",
   "Hugo Lawrence",
   "Declan Ward",
-  "Sol Barris",
   "Aleksey Vakhroushev",
   "Dylan Watts",
-  "Stu Escott",
-  "Angus Hay-Chapman",
-  "Tavis Wells",
-  "Josh Shand",
   "Oli Spicer",
 ]
 +++
