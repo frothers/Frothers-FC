@@ -22,7 +22,7 @@ xi_and_subs = [
   "Evan Hanson",
   "Ring-In",
   "Dylan Watts",
-  "Jordan",
+  "Jordan Young",
   "Oli Spicer",
   "Yarride Rosario",
   "Lance Molyneaux",

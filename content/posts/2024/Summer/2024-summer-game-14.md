@@ -26,7 +26,7 @@ xi_and_subs = [
   "Oli Spicer",
   "Lance Molyneaux",
   "Aleksey Vakhroushev",
-  "Jordan"
+  "Jordan Young"
 ]
 [[scorers]]
 scorer = "Evan Hanson"
@@ -35,7 +35,7 @@ goals = 1
 scorer = "Dylan Watts"
 goals = 1
 [[scorers]]
-scorer = "Jordan"
+scorer = "Jordan Young"
 goals = 1
 [[penalty]]
 taker = "Dylan Watts"
@@ -50,7 +50,7 @@ taker = "Charles Daily"
 frother_goal = true
 opponent_goal = true
 [[penalty]]
-taker = "Jordan"
+taker = "Jordan Young"
 frother_goal = false
 opponent_goal = false
 [[penalty]]

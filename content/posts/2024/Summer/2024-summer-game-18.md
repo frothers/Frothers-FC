@@ -29,7 +29,7 @@ xi_and_subs = [
   "Lance Molyneaux",
   "James Wilson",
   "Hunter",
-  "Jordan",
+  "Jordan Young",
 ]
 motm = "Oli Spicer"
 dotd = "Yarride Rosario"
@@ -51,7 +51,7 @@ scorer = "Lance Molyneaux"
 goals = 2
 
 [[scorers]]
-scorer = "Jordan"
+scorer = "Jordan Young"
 goals = 1
 +++
 
