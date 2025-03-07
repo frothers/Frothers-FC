@@ -5,7 +5,7 @@ author = "Chris"
 date = 2025-03-02T13:00:00.000Z
 draft = false
 type = "post"
-images = [ "/static/2025-03-01/yarride-heart.jpg"]
+images = [ "/2025-03-01/yarride-heart.jpg"]
 match = true
 team = "OG Frothers"
 opponent = "Latinos FC"
@@ -46,13 +46,13 @@ goals = 1
 Coming into the business end of the season and the Frothers need to keep their winning ways to be in with a shout for the trophy.
 
 The first half showed the Frothers keeping up the assault from last week. A lot of chances, and some questionable shot selection.
-![](/static/2025-03-01/farsh-cry.jpg)
+![](/2025-03-01/farsh-cry.jpg)
 
 **Yarride** broke the deadlock with a snapshot down to the keepers side.
 
 > 1-0
 
-![](/static/2025-03-01/yarride1.jpg)
+![](/2025-03-01/yarride1.jpg)
 
 
 ![](https://media.giphy.com/media/eenSJabvaKIvcNtqRa/giphy.gif?cid=790b7611ddzatzkm1btm81k3woaw1lo7mitl1u4gfk3fc9zs&ep=v1_gifs_search&rid=giphy.gif&ct=g)
@@ -78,12 +78,12 @@ A Latinos player channelled his innermost Saurez to give the Frothers a chance a
 
 **Yarride** stepped up and looked to compensate for the wind. But pushed it wide.
 
-![](/static/2025-03-01/Patrick-c-cry.jpg)
+![](/2025-03-01/Patrick-c-cry.jpg)
 
 Luckily, a few minutes later a latinos player decided to try play the offside trap from 10 metres outside of his half. **Yarride** put his foot down and scored with pure force of will.
 
 > 2-0
-![](/static/2025-03-01/yarride2.jpg)
+![](/2025-03-01/yarride2.jpg)
 
 
 A free kick was then given about 40 out. Fancying his ability to whip in a killer ball, **Milan** stepped up and his one right off his ankle to **Oli**, who managed to find himself some space in the box and put one in off the toe.
@@ -102,4 +102,4 @@ Oh boy there were a few options here. Though a commanding game, the boys were re
 
 Remembering that dick of the day is about doing dumb shit, rather than playing poo, there was really no other option. Personifying this was **Oli**. Practically through 1-on-1 **Oli** attempted a square ball to thin air. Tried a quick free pick from 30m out, again to the wind. The worst has to be the goal, however. Turning an absolute shank of a delivery from **Milan** into a goal through use of the toe is almost unforgivable. 
 
-![](/static/2025-03-01/Oli2.jpg)
+![](/2025-03-01/Oli2.jpg)
