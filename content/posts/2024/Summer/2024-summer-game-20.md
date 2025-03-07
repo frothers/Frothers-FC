@@ -18,7 +18,7 @@ xi_and_subs = [
   "James Wilson",
   "Chris Chester",
   "Milan Mrdalj",
-  "Ian Rayns"
+  "Ian Rayns",
   "Dylan Watts",
   "Patrick Cameron",
   "Farshid Shokoohi",
