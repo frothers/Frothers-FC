@@ -83,6 +83,7 @@ A Latinos player channelled his innermost Saurez to give the Frothers a chance a
 Luckily, a few minutes later a latinos player decided to try play the offside trap from 10 metres outside of his half. **Yarride** put his foot down and scored with pure force of will.
 
 > 2-0
+
 ![](/2025-03-01/yarride2.jpg)
 
 
