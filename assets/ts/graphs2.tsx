@@ -1,18 +1,11 @@
-import React from "react";
-import { useId } from 'react';
-import {
-  LineChart,
-  Line,
-  XAxis,
-  YAxis,
-  CartesianGrid,
-  Tooltip,
-  Legend,
-} from "recharts";
+import React, {  useId } from 'react';
 import * as _ from "lodash";
+
+import Example from "./graphs/goalScorers"
 
 function App() {
     const yearSelectedId = useId();
+
 
   return (
     <div className="App">
@@ -125,9 +118,7 @@ function App() {
                   role="tabpanel"
                   aria-labelledby="nav-goals-tab"
                 >
-                  <div className="text-center graph">
-                    <canvas id="stats-panel"></canvas>
-                  </div>
+                  <Example></Example>
                 </div>
                 <div
                   className="tab-pane fade"
