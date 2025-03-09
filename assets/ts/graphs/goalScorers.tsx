@@ -59,7 +59,7 @@ interface State {
 }
 
 
-export function Goals() {
+export default function Goals() {
     
   const initState: State = {
     data: initialData,
@@ -112,53 +112,57 @@ export function Goals() {
   }
 
   function zoomOut() {
-    const { data } = graphState;
-    this.setState(() => ({
-      data: data.slice(),
-      refAreaLeft: '',
-      refAreaRight: '',
-      left: 'dataMin',
-      right: 'dataMax',
-      top: 'dataMax+1',
-      bottom: 'dataMin',
-      top2: 'dataMax+50',
-      bottom2: 'dataMin+50',
-    }));
+
+    let newGraphState = graphState;
+    newGraphState.data = graphState.data.slice();
+    newGraphState.refAreaLeft = ''
+    newGraphState.refAreaRight = ''
+    newGraphState.left = 'dataMin'
+    newGraphState.right = 'dataMax'
+    newGraphState.top = 'dataMax+1'
+    newGraphState.bottom = 'dataMin'
+    newGraphState.top2 = 'dataMax+50'
+    newGraphState.bottom2 = 'dataMin+50'
+    setGraphState(newGraphState);
   }
 
-  render() {
-    const { data, barIndex, left, right, refAreaLeft, refAreaRight, top, bottom, top2, bottom2 } = graphState;
+  return (
+    <div className="highlight-bar-charts" style={{ userSelect: 'none', width: '100%' }}>
+      <button type="button" className="btn update" onClick={zoomOut.bind(this)}>
+        Zoom Out
+      </button>
 
-    return (
-      <div className="highlight-bar-charts" style={{ userSelect: 'none', width: '100%' }}>
-        <button type="button" className="btn update" onClick={this.zoomOut.bind(this)}>
-          Zoom Out
-        </button>
+      <ResponsiveContainer width="100%" height={400}>
+        <LineChart
+          width={800}
+          height={400}
+          data={graphState.data}
+          onMouseDown={(e) => {
+            let newGraphState = graphState;
+            newGraphState.refAreaLeft =  e.activeLabel 
+            setGraphState(newGraphState)
+          }}
+          onMouseMove={(e) => {
+            let newGraphState = graphState;
+            newGraphState.refAreaRight =  e.activeLabel 
+            graphState.refAreaLeft && setGraphState(newGraphState)
+          }}
+          // eslint-disable-next-line react/jsx-no-bind
+          onMouseUp={zoom.bind(this)}
+        >
+          <CartesianGrid strokeDasharray="3 3" />
+          <XAxis allowDataOverflow dataKey="year" domain={[graphState.left, graphState.right]} type="number" />
+          <YAxis allowDataOverflow domain={[graphState.bottom, graphState.top]} type="number" yAxisId="1" />
+          <YAxis orientation="right" allowDataOverflow domain={[graphState.bottom2, graphState.top2]} type="number" yAxisId="2" />
+          <Tooltip />
+          <Line yAxisId="1" type="natural" dataKey="Chris" stroke="#8884d8" animationDuration={300} />
+          <Line yAxisId="2" type="natural" dataKey="Lance" stroke="#82ca9d" animationDuration={300} />
 
-        <ResponsiveContainer width="100%" height={400}>
-          <LineChart
-            width={800}
-            height={400}
-            data={data}
-            onMouseDown={(e) => this.setState({ refAreaLeft: e.activeLabel })}
-            onMouseMove={(e) => graphState.refAreaLeft && this.setState({ refAreaRight: e.activeLabel })}
-            // eslint-disable-next-line react/jsx-no-bind
-            onMouseUp={this.zoom.bind(this)}
-          >
-            <CartesianGrid strokeDasharray="3 3" />
-            <XAxis allowDataOverflow dataKey="year" domain={[left, right]} type="number" />
-            <YAxis allowDataOverflow domain={[bottom, top]} type="number" yAxisId="1" />
-            <YAxis orientation="right" allowDataOverflow domain={[bottom2, top2]} type="number" yAxisId="2" />
-            <Tooltip />
-            <Line yAxisId="1" type="natural" dataKey="Chris" stroke="#8884d8" animationDuration={300} />
-            <Line yAxisId="2" type="natural" dataKey="Lance" stroke="#82ca9d" animationDuration={300} />
-
-            {refAreaLeft && refAreaRight ? (
-              <ReferenceArea yAxisId="1" x1={refAreaLeft} x2={refAreaRight} strokeOpacity={0.3} />
-            ) : null}
-          </LineChart>
-        </ResponsiveContainer>
-      </div>
-    );
-  }
+          {graphState.refAreaLeft && graphState.refAreaRight ? (
+            <ReferenceArea yAxisId="1" x1={graphState.refAreaLeft} x2={graphState.refAreaRight} strokeOpacity={0.3} />
+          ) : null}
+        </LineChart>
+      </ResponsiveContainer>
+    </div>
+  );
 }

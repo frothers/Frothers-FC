@@ -1,7 +1,7 @@
 import React, {  useId } from 'react';
 import * as _ from "lodash";
 
-import Example from "./graphs/goalScorers"
+import Goals from "./graphs/goalScorers"
 
 function App() {
     const yearSelectedId = useId();
@@ -118,7 +118,7 @@ function App() {
                   role="tabpanel"
                   aria-labelledby="nav-goals-tab"
                 >
-                  <Example></Example>
+                  <Goals></Goals>
                 </div>
                 <div
                   className="tab-pane fade"
