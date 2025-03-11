@@ -50,3 +50,16 @@ Two games to go and the Frothers were in poll position. A game in hand on their 
 An interesting 4-1-5 formation meant that the first attack my Mark Ave resulted in a counter leading to the Frother's first goal. A shot by **Yarride** that the keeper wasn't really interested in.
 
 > 1-0
+
+**Mark Ave** again pressed forwards with dangerous looking attacks, but again overcomitted. **Oli** was able to another past the keeper to give the Frothers a two goal lead.
+
+> 2-0
+
+The next attack was started by a beautiful shinner from **Farshid** to start some havoc in the midfield. **Yarride** found himself with the ball on the edge of the box and decided that testing the keeper was worth a gamble. The poor keeper must have been an outfielder, as we was completely wrong footed and the shot went right in.
+
+> 3-0
+
+The Frothers were soon to feel the joys of fill-in goal keeping duties as **Ryan** saw a shot late and only had enough time to get his hands halfway up. One dislocated finger later and it was time for the Frothers to see who wanted to deputise. The boys were claiming their value to the team, begging, or straight up vacating the area.
+
+One man stepped up to the task. **Farshid** donned the gloves for the remaining hour.
+
