@@ -128,7 +128,7 @@ export default function Goals() {
 
   return (
     <div className="highlight-bar-charts" style={{ userSelect: 'none', width: '100%' }}>
-      <button type="button" className="btn update" onClick={zoomOut.bind(this)}>
+      <button type="button" className="btn update" onClick={this.zoomOut.bind(this)}>
         Zoom Out
       </button>
 
@@ -148,7 +148,7 @@ export default function Goals() {
             graphState.refAreaLeft && setGraphState(newGraphState)
           }}
           // eslint-disable-next-line react/jsx-no-bind
-          onMouseUp={zoom.bind(this)}
+          onMouseUp={this.zoom.bind(this)}
         >
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis allowDataOverflow dataKey="year" domain={[graphState.left, graphState.right]} type="number" />
