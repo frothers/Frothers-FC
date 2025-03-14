@@ -2,6 +2,7 @@ import React, {  useId } from 'react';
 import * as _ from "lodash";
 
 import Goals from "./graphs/goalScorers"
+import StatsTable from "./graphs/statsTable"
 
 function App() {
     const yearSelectedId = useId();
@@ -64,6 +65,17 @@ function App() {
                 >
                   <a
                     className="nav-item nav-link active"
+                    id="nav-overall-tab"
+                    data-toggle="tab"
+                    href="#nav-overall"
+                    role="tab"
+                    aria-controls="nav-overall"
+                    aria-selected="true"
+                  >
+                    Overall
+                  </a>
+                  <a
+                    className="nav-item nav-link active"
                     id="nav-goals-tab"
                     data-toggle="tab"
                     href="#nav-goals"
@@ -114,6 +126,14 @@ function App() {
               >
                 <div
                   className="tab-pane fade show active"
+                  id="nav-overall"
+                  role="tabpanel"
+                  aria-labelledby="nav-overall-tab"
+                >
+                  <StatsTable></StatsTable>
+                </div>
+                <div
+                  className="tab-pane fade show"
                   id="nav-goals"
                   role="tabpanel"
                   aria-labelledby="nav-goals-tab"

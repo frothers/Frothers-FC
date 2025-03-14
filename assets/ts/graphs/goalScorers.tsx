@@ -10,15 +10,15 @@ import {
   ResponsiveContainer,
 } from 'recharts';
 
-interface AnyProperties {
-  [prop: string]: any
+
+
+interface ChartGoalsData {
+  year: number,
+  Chris: number,
+  Lance: number
 }
 
-type GoalsType = AnyProperties & {
-  year: number
-}
-
-const initialData: GoalsType[] = [
+const initialData: ChartGoalsData[] = [
   { year: 1, Chris: 4.11, Lance: 100 },
   { year: 2, Chris: 2.39, Lance: 120 },
   { year: 3, Chris: 1.37, Lance: 150 },
@@ -41,7 +41,7 @@ const initialData: GoalsType[] = [
   { year: 20, Chris: 7, Lance: 100 },
 ];
 
-const getAxisYDomain = (from: number, to: number, ref: keyof GoalsType, offset: number): [number, number] => {
+const getAxisYDomain = (from: number, to: number, ref: keyof ChartGoalsData, offset: number): [number, number] => {
   const refData = initialData.slice(from - 1, to);
   let [bottom, top] = [refData[0][ref], refData[0][ref]];
   refData.forEach((d) => {
@@ -53,7 +53,7 @@ const getAxisYDomain = (from: number, to: number, ref: keyof GoalsType, offset: 
 };
 
 interface ExampleState {
-  data: GoalsType[];
+  data: ChartGoalsData[];
   left: number | 'dataMin';
   right: number | 'dataMax';
   refAreaLeft: number | string;
@@ -102,8 +102,8 @@ export default class Example extends PureComponent<{}, ExampleState> {
     }
     if (typeof refAreaLeft === 'number' && typeof refAreaRight === 'number') {
       // yAxis domain
-      const [bottom, top] = getAxisYDomain(refAreaLeft, refAreaRight, 'cost', 1);
-      const [bottom2, top2] = getAxisYDomain(refAreaLeft, refAreaRight, 'impression', 50);
+      const [bottom, top] = getAxisYDomain(refAreaLeft, refAreaRight, 'Chris', 1);
+      const [bottom2, top2] = getAxisYDomain(refAreaLeft, refAreaRight, 'Lance', 50);
 
       this.setState({
         refAreaLeft: '',
