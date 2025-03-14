@@ -1,7 +1,7 @@
 baseURL = "/"
 disqusShortname = ""
 languageCode = "en-uk"
-paginate = "5"
+pagination.pagerSize = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Wellington Frothers FC"
