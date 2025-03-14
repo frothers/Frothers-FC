@@ -79,13 +79,8 @@
         "react-dnd-html5-backend": "^16.0.1",
         "react-dnd-multi-backend": "8.0.3",
         "react-dnd-touch-backend": "^16.0.1",
-<<<<<<< HEAD
-        "react-dom": "^18.2.0",
-        "recharts": "^2.15.1",
-        "tinacms": "^1.5.15"
-=======
         "react-dom": "^18.3.1",
+        "recharts": "^2.15.1",
         "tinacms": "^2.7.2"
->>>>>>> master
     }
 }
