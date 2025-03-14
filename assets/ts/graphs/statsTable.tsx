@@ -5,102 +5,77 @@ import {
   type MRT_ColumnDef,
 } from "material-react-table";
 import { createTheme, ThemeProvider, useTheme } from "@mui/material";
-import { green, purple, red } from "@mui/material/colors";
 
 //example data type
-type Person = {
-  name: {
-    firstName: string;
-    lastName: string;
-  };
-  address: string;
-  city: string;
-  state: string;
+type Frother = {
+  name: string;
+  url: string;
+  appearances: number;
+  goals: number;
 };
 
 //nested data is ok, see accessorKeys in ColumnDef below
-const data: Person[] = [
+const data: Frother[] = [
   {
-    name: {
-      firstName: "John",
-      lastName: "Doe",
-    },
-    address: "261 Erdman Ford",
-    city: "East Daphne",
-    state: "Kentucky",
+    name: 'Chris',
+    url: 'chris',
+    appearances: 114,
+    goals: 15
   },
   {
-    name: {
-      firstName: "Jane",
-      lastName: "Doe",
-    },
-    address: "769 Dominic Grove",
-    city: "Columbus",
-    state: "Ohio",
+    name: 'Lance',
+    url: 'lance',
+    appearances: 114,
+    goals: 60
   },
   {
-    name: {
-      firstName: "Joe",
-      lastName: "Doe",
-    },
-    address: "566 Brakus Inlet",
-    city: "South Linda",
-    state: "West Virginia",
-  },
-  {
-    name: {
-      firstName: "Kevin",
-      lastName: "Vandy",
-    },
-    address: "722 Emie Stream",
-    city: "Lincoln",
-    state: "Nebraska",
-  },
-  {
-    name: {
-      firstName: "Joshua",
-      lastName: "Rolluffs",
-    },
-    address: "32188 Larkin Turnpike",
-    city: "Omaha",
-    state: "Nebraska",
+    name: 'Yarride',
+    url: 'yarride',
+    appearances: 114,
+    goals: 60
   },
 ];
 
 const StatsTable = () => {
   const tableTheme = useMemo(
     () =>
-      createTheme({cssVariables: true }),
+      createTheme({
+        cssVariables: true,
+        palette: {
+          background: {
+            default: "#132F6C",
+          },
+          text: {
+            primary: "#CBD9F6",
+            secondary: "#CBD9F6",
+          },
+        },
+      }),
 
     []
   );
 
   //should be memoized or stable
-  const columns = useMemo<MRT_ColumnDef<Person>[]>(
+  const columns = useMemo<MRT_ColumnDef<Frother>[]>(
     () => [
       {
-        accessorKey: "name.firstName", //access nested data with dot notation
-        header: "First Name",
+        accessorKey: "name", //access nested data with dot notation
+        header: "Name",
         size: 150,
+        Cell: ({ renderedCellValue, row }) => (
+          <a href={`/profile/${row.original.url}`}>
+            {renderedCellValue}
+          </a>
+        ),
       },
       {
-        accessorKey: "name.lastName",
-        header: "Last Name",
-        size: 150,
-      },
-      {
-        accessorKey: "address", //normal accessorKey
-        header: "Address",
+        accessorKey: "appearances", //normal accessorKey
+        header: "Appearances",
         size: 200,
       },
       {
-        accessorKey: "city",
-        header: "City",
-        size: 150,
-      },
-      {
-        accessorKey: "state",
-        header: "State",
+        accessorKey: "goals",
+        header: "Goals",
         size: 150,
       },
     ],
@@ -109,11 +84,7 @@ const StatsTable = () => {
 
   return (
     <ThemeProvider theme={tableTheme}>
-      <MaterialReactTable
-        columns={columns}
-        data={data}
-        enableRowSelection
-      />
+      <MaterialReactTable columns={columns} data={data} />
     </ThemeProvider>
   );
 };
