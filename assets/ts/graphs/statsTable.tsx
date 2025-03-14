@@ -43,7 +43,7 @@ const StatsTable = () => {
         cssVariables: true,
         palette: {
           background: {
-            default: "#132F6C",
+            default: "#1E1A33",
           },
           text: {
             primary: "#CBD9F6",
