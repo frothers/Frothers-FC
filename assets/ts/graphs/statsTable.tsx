@@ -71,13 +71,13 @@ function StatsTable ({ season }: { season: string }) {
       },
       {
         accessorKey: "appearances", //normal accessorKey
-        header: "Appearances",
-        size: 200,
+        header: "Caps",
+        size: 100,
       },
       {
         accessorKey: "goals",
         header: "Goals",
-        size: 150,
+        size: 100,
       },
     ],
     []
