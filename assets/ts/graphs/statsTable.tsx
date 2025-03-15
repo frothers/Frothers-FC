@@ -64,7 +64,7 @@ function StatsTable ({ season }: { season: string }) {
         header: "Name",
         size: 150,
         Cell: ({ renderedCellValue, row }) => (
-          <a href={`/profile/${row.original.url}`}>
+          <a href={`/squad-members/${row.original.url}`}>
             {renderedCellValue}
           </a>
         ),
