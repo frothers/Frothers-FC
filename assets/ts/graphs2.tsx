@@ -1,12 +1,18 @@
-import React, {  useId } from 'react';
+import React, {  useId, useState, FormEventHandler } from 'react';
 import * as _ from "lodash";
 
 import Goals from "./graphs/goalScorers"
 import StatsTable from "./graphs/statsTable"
 
 function App() {
-    const yearSelectedId = useId();
+  const [seasonState, setSeasonState] = useState("all");
 
+  const handleInput: FormEventHandler<HTMLSelectElement> = (e) => {
+    if (e.target instanceof HTMLSelectElement) {
+      const newValue = e.target.value;
+      setSeasonState(newValue);
+    }
+  };
 
   return (
     <div className="App">
@@ -19,11 +25,11 @@ function App() {
           <div className="row">
             <div className="input-group mb-3">
               <div className="input-group-prepend">
-                <label className="input-group-text" htmlFor={yearSelectedId}>
+                <label className="input-group-text">
                   Year
                 </label>
               </div>
-              <select className="custom-select" id={yearSelectedId} name="selectedYear" defaultValue="2024-summer-ogfrothers">
+              <select className="custom-select" onInput={handleInput} name="selectedYear" defaultValue="2024-summer-ogfrothers">
                 <option value="2024-summer-ogfrothers">
                   2024 - Summer (OG Frothers)
                 </option>
@@ -75,7 +81,7 @@ function App() {
                     Overall
                   </a>
                   <a
-                    className="nav-item nav-link active"
+                    className="nav-item nav-link"
                     id="nav-goals-tab"
                     data-toggle="tab"
                     href="#nav-goals"
@@ -130,7 +136,7 @@ function App() {
                   role="tabpanel"
                   aria-labelledby="nav-overall-tab"
                 >
-                  <StatsTable></StatsTable>
+                  <StatsTable season={seasonState}></StatsTable>
                 </div>
                 <div
                   className="tab-pane fade show"

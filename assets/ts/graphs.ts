@@ -2,7 +2,7 @@ import { Chart } from 'chart.js';
 import 'chartjs-plugin-colorschemes';
 import * as _ from 'lodash';
 
-import { parsePlayerData, parsePointsData, parseCleanSheetData, matchGoals, matchResult, AllSquadName, parseAppearancesData, matchAppearances } from './processors/graphData'
+import { parseGoalsData, parsePointsData, parseCleanSheetData, matchGoals, matchResult, AllSquadName, parseAppearancesData, matchAppearances } from './processors/graphData'
 
 let screenWidth = (window.innerWidth > 0) ? window.innerWidth : screen.width;
 
@@ -56,7 +56,7 @@ export let getYearSeasonFilter = function (): YearSeason {
  * @summary Goal scorers graphics.
  */
 export let populateGsGraph = async function (year: number, season: string, squadName: string) {
-    let playerData = await parsePlayerData(year, season, squadName);
+    let playerData = await parseGoalsData(year, season, squadName);
 
     let temp = <HTMLCanvasElement>document.getElementById("stats-panel");
 

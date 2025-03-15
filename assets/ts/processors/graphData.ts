@@ -4,6 +4,13 @@ import * as _ from 'lodash';
 
 export const AllSquadName = "frothersfc";
 
+export type Frother = {
+    name: string;
+    url: string;
+    appearances: number;
+    goals: number;
+  };
+
 export type chartGoalsData = {
     label: string,
     fill: boolean,
@@ -45,7 +52,46 @@ export type historicAppearances = {
     appearances: yearlyAppearances[]
 };
 
-export let parsePlayerData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
+export let getStaticsTable = async function (year?: number, season?: string, squadName: string = "frothersfc") {
+    let goalsData = await parseGoalsData(year, season, squadName);
+    let appearanceData = await parseAppearancesData(year, season, squadName);
+    let statsTableData: Frother[] = [];
+
+    appearanceData.forEach(appearance => {
+        let frother: Frother = {
+            name: 'default',
+            appearances: 0,
+            goals: 0,
+            url: ""
+        };
+        frother.name = appearance.label;
+        frother.appearances = appearance.data[appearance.data.length-1].y;
+
+        let frotherGoals = goalsData.find(scorer => {
+            return scorer.label === frother.name;
+        });
+
+        frother.goals = frotherGoals ? frotherGoals?.data[frotherGoals.data.length-1].y : 0;
+        frother.url = appearance.label;
+        
+        statsTableData.push(frother);
+    });
+
+    statsTableData.sort((a,b) => {
+        if (a.appearances < b.appearances){
+            return 1;
+        } 
+        else if (a.appearances > b.appearances){
+            return -1;
+        }
+
+        return 0;
+    })
+
+    return statsTableData;
+}
+
+export let parseGoalsData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
     let data = await getGoalsData();
     if (season) {
         data = data.filter(a => {
@@ -151,10 +197,10 @@ export let parsePlayerData = async function (year?: number, season?: string, squ
 
 export let parseAppearancesData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
     let data = await getAppearancesData();
-    let temp = <HTMLCanvasElement>document.getElementById("appearances-panel");
+    let temp = <HTMLCanvasElement>document.getElementById("app");
 
     let dataAppearances: historicAppearances[] = JSON.parse(temp.getAttribute("data-appearances"));
-    let historicData = await parseHistricAppearances(dataAppearances);
+    let historicData = await parseHistoricAppearances(dataAppearances);
 
     data = data.concat(historicData);
     
@@ -429,7 +475,7 @@ export let parseCleanSheetData = async function (year: number, season: string, s
     return resultsData;
 }
 
-let parseHistricAppearances = async function (histAppearances: historicAppearances[]){
+let parseHistoricAppearances = async function (histAppearances: historicAppearances[]){
     let appearances: appearanceData[] = [];
     histAppearances = histAppearances || [];
     histAppearances.forEach(playerAppearances => {

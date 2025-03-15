@@ -1,42 +1,43 @@
-import { useMemo } from "react";
+import { useMemo, useState, useEffect } from "react";
 import {
   MaterialReactTable,
   useMaterialReactTable,
   type MRT_ColumnDef,
 } from "material-react-table";
 import { createTheme, ThemeProvider, useTheme } from "@mui/material";
+import { Frother, getStaticsTable } from "../processors/graphData"
+import { YearSeason } from "../graphs";
 
-//example data type
-type Frother = {
-  name: string;
-  url: string;
-  appearances: number;
-  goals: number;
-};
 
-//nested data is ok, see accessorKeys in ColumnDef below
-const data: Frother[] = [
-  {
-    name: 'Chris',
-    url: 'chris',
-    appearances: 114,
-    goals: 15
-  },
-  {
-    name: 'Lance',
-    url: 'lance',
-    appearances: 114,
-    goals: 60
-  },
-  {
-    name: 'Yarride',
-    url: 'yarride',
-    appearances: 114,
-    goals: 60
-  },
-];
+function StatsTable ({ season }: { season: string }) {
+  const [state, setState] = useState<Frother[]>([]);
+  
+  let re = /(\d+)\-(\w+)\-(\w+)/;
+  let output: YearSeason;
+  if (season === "all") {
+    output = {
+      year: null,
+      season: null,
+      squadName: "frothersfc"
+    }
+  }
+  else {
+    let regex = re.exec(season);
 
-const StatsTable = () => {
+    output = {
+      year: parseInt(regex[1]),
+      season: regex[2],
+      squadName: regex[3],
+    }
+  }
+
+  useEffect(() => {
+    getStaticsTable(output.year, output.season, output.squadName).then(data => {
+      setState(data)
+    }
+    );
+  })
+
   const tableTheme = useMemo(
     () =>
       createTheme({
@@ -84,7 +85,7 @@ const StatsTable = () => {
 
   return (
     <ThemeProvider theme={tableTheme}>
-      <MaterialReactTable columns={columns} data={data} />
+      <MaterialReactTable columns={columns} data={state} />
     </ThemeProvider>
   );
 };
