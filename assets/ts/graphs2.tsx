@@ -29,7 +29,7 @@ function App() {
                   Year
                 </label>
               </div>
-              <select className="custom-select" onInput={handleInput} name="selectedYear" defaultValue="2024-summer-ogfrothers">
+              <select className="custom-select" onInput={handleInput} name="selectedYear" defaultValue="all">
                 <option value="2024-summer-ogfrothers">
                   2024 - Summer (OG Frothers)
                 </option>
@@ -80,7 +80,7 @@ function App() {
                   >
                     Overall
                   </a>
-                  <a
+                  {/* <a
                     className="nav-item nav-link"
                     id="nav-goals-tab"
                     data-toggle="tab"
@@ -123,8 +123,8 @@ function App() {
                     aria-selected="false"
                   >
                     Clean Sheets
-                  </a>
-                </div>
+                  </a>*/}
+                </div> 
               </nav>
               <div
                 className="tab-content py-4 px-4 px-sm-0"
