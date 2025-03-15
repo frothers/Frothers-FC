@@ -1,7 +1,7 @@
 {
     "name": "frothers-webpage",
     "version": "1.0.0",
-    "description": "Hugo + Typescript + ForrestIo project for website",
+    "description": "Hugo + Typescript + Tina IO project for website",
     "main": "dist/main.js",
     "source": "assets/index.ts",
     "scripts": {
@@ -15,7 +15,7 @@
         "build": "yarn run build:webpack && yarn run build:tina && yarn run build:hugo",
         "build:tina": "yarn tinacms build",
         "build:preview": "yarn run build:webpack && yarn run build:hugo:preview",
-        "build:hugo": "hugo -d ./dist -b $URL",
+        "build:hugo": "hugo -d ./dist -b frothersfc.com",
         "build:hugo:preview": "yarn run build:hugo -- -D -F",
         "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
     },
