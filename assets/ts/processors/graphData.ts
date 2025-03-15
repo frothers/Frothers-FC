@@ -72,7 +72,7 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
         });
 
         frother.goals = frotherGoals ? frotherGoals?.data[frotherGoals.data.length-1].y : 0;
-        frother.url = appearance.label;
+        frother.url = appearance.label.toLowerCase().replace(" ","-");
         
         statsTableData.push(frother);
     });
