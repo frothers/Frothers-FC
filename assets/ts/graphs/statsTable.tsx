@@ -79,6 +79,16 @@ function StatsTable ({ season }: { season: string }) {
         header: "Goals",
         size: 100,
       },
+      {
+        accessorKey: "motm",
+        header: "MotM",
+        size: 100,
+      },
+      {
+        accessorKey: "dotd",
+        header: "DotD",
+        size: 100,
+      },
     ],
     []
   );

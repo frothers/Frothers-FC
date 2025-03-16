@@ -1,4 +1,4 @@
-import { getGoalsData, getResultsData, getSquadData, getMatchGoalsData, getAppearancesData, appearanceData } from "../apiQueries";
+import { getGoalsData, getResultsData, getSquadData, getMatchGoalsData, getAppearancesData, appearanceData, getOTDData } from "../apiQueries";
 import { yearlyAppearances } from './statsData'
 import * as _ from 'lodash';
 
@@ -9,12 +9,21 @@ export type Frother = {
     url: string;
     appearances: number;
     goals: number;
+    motm: number;
+    dotd: number;
+    cleansheet: number;
   };
 
 export type chartGoalsData = {
     label: string,
     fill: boolean,
     data: matchGoals[]
+};
+
+export type statsOtdData = {
+    label: string,
+    dotd: number,
+    motm: number
 };
 
 export type chartAppearancesData = {
@@ -52,9 +61,11 @@ export type historicAppearances = {
     appearances: yearlyAppearances[]
 };
 
+
 export let getStaticsTable = async function (year?: number, season?: string, squadName: string = "frothersfc") {
     let goalsData = await parseGoalsData(year, season, squadName);
     let appearanceData = await parseAppearancesData(year, season, squadName);
+    let otdData = await parseOtdData(year, season, squadName);
     let statsTableData: Frother[] = [];
 
     appearanceData.forEach(appearance => {
@@ -62,10 +73,21 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
             name: 'default',
             appearances: 0,
             goals: 0,
+            motm: 0,
+            dotd: 0,
+            cleansheet: 0,
             url: ""
         };
         frother.name = appearance.label;
         frother.appearances = appearance.data[appearance.data.length-1].y;
+
+        let frotherOtdIndex = otdData.findIndex(otd => {
+            return otd.label === frother.name;
+        });
+        if (frotherOtdIndex > -1){
+            frother.motm = otdData[frotherOtdIndex].motm;
+            frother.dotd = otdData[frotherOtdIndex].dotd;
+        }
 
         let frotherGoals = goalsData.find(scorer => {
             return scorer.label === frother.name;
@@ -89,6 +111,87 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
     })
 
     return statsTableData;
+}
+
+export let parseOtdData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
+    let data = await getOTDData();
+    if (season) {
+        data = data.filter(a => {
+            if (a.season === season) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+    if (year) {
+        let month = 0;
+        if (season === "summer"){
+            month = 6;
+        }
+        let startDate = new Date(year, month);
+        let endDate   = new Date(year + 1, month);
+        data = data.filter(a => {
+            if (a.date > startDate && a.date < endDate) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+    if (squadName && squadName != AllSquadName) {
+        data = data.filter(a => {
+            if (a.team.toLowerCase().replace(/\s/g, '') === squadName) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+
+    let otdData: statsOtdData[] = [];
+
+    data.forEach(game => {
+        if (game.dotd) {
+            let playerIndex = otdData.findIndex(data => {
+                return data.label === game.dotd;
+            })
+
+            if (playerIndex > -1){
+                otdData[playerIndex].dotd = otdData[playerIndex].dotd + 1;
+            }
+            else {
+                let player: statsOtdData = {
+                    label: game.dotd,
+                    motm: 0,
+                    dotd: 1
+                }
+                otdData.push(player)
+            }
+        }
+        if (game.motm) {
+            let playerIndex = otdData.findIndex(data => {
+                return data.label === game.motm;
+            })
+
+            if (playerIndex > -1){
+                otdData[playerIndex].motm = otdData[playerIndex].motm + 1;
+            }
+            else {
+                let player: statsOtdData = {
+                    label: game.motm,
+                    motm: 1,
+                    dotd: 0
+                }
+                otdData.push(player)
+            }
+        }
+    });
+
+    return otdData;
 }
 
 export let parseGoalsData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
