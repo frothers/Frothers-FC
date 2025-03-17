@@ -65,6 +65,7 @@ export type matchGoalsData = {
   team: string;
   frother_goals: number;
   opponent_goals: number;
+  xi_and_subs: string[];
 };
 
 export type OTDData = {
@@ -198,6 +199,7 @@ export let getMatchGoalsData = async function () {
       team: a.team,
       frother_goals: parseInt(a.frother_goals),
       opponent_goals: parseInt(a.opponent_goals),
+      xi_and_subs: a.xi,
     };
     return result;
   });

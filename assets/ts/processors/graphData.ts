@@ -26,6 +26,12 @@ export type statsOtdData = {
     motm: number
 };
 
+export type statsCleansheetData = {
+    label: string,
+    cleanSheets: number
+};
+
+
 export type chartAppearancesData = {
     label: string,
     fill: boolean,
@@ -66,6 +72,7 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
     let goalsData = await parseGoalsData(year, season, squadName);
     let appearanceData = await parseAppearancesData(year, season, squadName);
     let otdData = await parseOtdData(year, season, squadName);
+    let cleansheetData =  await parseCleansheetData(year, season, squadName);
     let statsTableData: Frother[] = [];
 
     appearanceData.forEach(appearance => {
@@ -87,6 +94,13 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
         if (frotherOtdIndex > -1){
             frother.motm = otdData[frotherOtdIndex].motm;
             frother.dotd = otdData[frotherOtdIndex].dotd;
+        }
+
+        let frotherCSIndex = cleansheetData.findIndex(cs => {
+            return cs.label === frother.name;
+        });
+        if (frotherCSIndex > -1){
+            frother.cleansheet = cleansheetData[frotherCSIndex].cleanSheets;
         }
 
         let frotherGoals = goalsData.find(scorer => {
@@ -111,6 +125,72 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
     })
 
     return statsTableData;
+}
+
+export let parseCleansheetData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
+    let data = await getMatchGoalsData();
+    if (season) {
+        data = data.filter(a => {
+            if (a.season === season) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+    if (year) {
+        let month = 0;
+        if (season === "summer"){
+            month = 6;
+        }
+        let startDate = new Date(year, month);
+        let endDate   = new Date(year + 1, month);
+        data = data.filter(a => {
+            if (a.date > startDate && a.date < endDate) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+    if (squadName && squadName != AllSquadName) {
+        data = data.filter(a => {
+            if (a.team.toLowerCase().replace(/\s/g, '') === squadName) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        });
+    }
+
+    let CS: statsCleansheetData[] = [];
+
+    data.forEach(game => {
+        let cleanSheet =  game.opponent_goals === 0 ? 1 : 0
+        if (game.xi_and_subs){
+            game.xi_and_subs.forEach(player => {
+                let playerIndex = CS.findIndex(data => {
+                    return data.label === player;
+                })
+                if (playerIndex > -1){
+                    CS[playerIndex].cleanSheets = CS[playerIndex].cleanSheets + cleanSheet;
+                }
+                else {
+                    let playerCS: statsCleansheetData = {
+                        label: player,
+                        cleanSheets: cleanSheet,
+                    }
+                    CS.push(playerCS)
+                }
+
+            })
+        }
+    });
+
+    return CS;
 }
 
 export let parseOtdData = async function (year?: number, season?: string, squadName: string = "frothersfc") {

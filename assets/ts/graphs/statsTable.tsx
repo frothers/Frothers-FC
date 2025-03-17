@@ -89,6 +89,11 @@ function StatsTable ({ season }: { season: string }) {
         header: "DotD",
         size: 100,
       },
+      {
+        accessorKey: "cleansheet",
+        header: "Cleansheet",
+        size: 100,
+      },
     ],
     []
   );
