@@ -13,7 +13,7 @@ export type postData = {
   friendly: string;
   draft: string;
   date: string;
-  result: string;
+  result: "Win" | "Loss" | "Draw";
   frother_goals: string;
   opponent_goals: string;
   permalink: string;
@@ -65,6 +65,7 @@ export type matchGoalsData = {
   team: string;
   frother_goals: number;
   opponent_goals: number;
+  result: "Win" | "Loss" | "Draw";
   xi_and_subs: string[];
 };
 
@@ -197,6 +198,7 @@ export let getMatchGoalsData = async function () {
       date: new Date(date),
       season: a.season,
       team: a.team,
+      result: a.result,
       frother_goals: parseInt(a.frother_goals),
       opponent_goals: parseInt(a.opponent_goals),
       xi_and_subs: a.xi,

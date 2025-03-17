@@ -12,6 +12,8 @@ export type Frother = {
     motm: number;
     dotd: number;
     cleansheet: number;
+    wins: number;
+    losses: number;
   };
 
 export type chartGoalsData = {
@@ -26,9 +28,11 @@ export type statsOtdData = {
     motm: number
 };
 
-export type statsCleansheetData = {
+export type statsResultData = {
     label: string,
-    cleanSheets: number
+    cleanSheets: number,
+    wins: number,
+    losses: number
 };
 
 
@@ -72,7 +76,7 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
     let goalsData = await parseGoalsData(year, season, squadName);
     let appearanceData = await parseAppearancesData(year, season, squadName);
     let otdData = await parseOtdData(year, season, squadName);
-    let cleansheetData =  await parseCleansheetData(year, season, squadName);
+    let resultsData =  await parseResultsData(year, season, squadName);
     let statsTableData: Frother[] = [];
 
     appearanceData.forEach(appearance => {
@@ -83,6 +87,8 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
             motm: 0,
             dotd: 0,
             cleansheet: 0,
+            wins: 0,
+            losses: 0,
             url: ""
         };
         frother.name = appearance.label;
@@ -96,11 +102,13 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
             frother.dotd = otdData[frotherOtdIndex].dotd;
         }
 
-        let frotherCSIndex = cleansheetData.findIndex(cs => {
+        let frotherResultsIndex = resultsData.findIndex(cs => {
             return cs.label === frother.name;
         });
-        if (frotherCSIndex > -1){
-            frother.cleansheet = cleansheetData[frotherCSIndex].cleanSheets;
+        if (frotherResultsIndex > -1){
+            frother.cleansheet = resultsData[frotherResultsIndex].cleanSheets;
+            frother.wins = resultsData[frotherResultsIndex].wins;
+            frother.losses = resultsData[frotherResultsIndex].losses;
         }
 
         let frotherGoals = goalsData.find(scorer => {
@@ -127,7 +135,7 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
     return statsTableData;
 }
 
-export let parseCleansheetData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
+export let parseResultsData = async function (year?: number, season?: string, squadName: string = "frothersfc") {
     let data = await getMatchGoalsData();
     if (season) {
         data = data.filter(a => {
@@ -166,31 +174,37 @@ export let parseCleansheetData = async function (year?: number, season?: string,
         });
     }
 
-    let CS: statsCleansheetData[] = [];
+    let results: statsResultData[] = [];
 
     data.forEach(game => {
-        let cleanSheet =  game.opponent_goals === 0 ? 1 : 0
+        let cleanSheet =  game.opponent_goals === 0 ? 1 : 0;
+        let win = game.result === "Win" ? 1 : 0;
+        let loss = game.result === "Loss" ? 1 : 0;
         if (game.xi_and_subs){
             game.xi_and_subs.forEach(player => {
-                let playerIndex = CS.findIndex(data => {
+                let playerIndex = results.findIndex(data => {
                     return data.label === player;
                 })
                 if (playerIndex > -1){
-                    CS[playerIndex].cleanSheets = CS[playerIndex].cleanSheets + cleanSheet;
+                    results[playerIndex].cleanSheets = results[playerIndex].cleanSheets + cleanSheet;
+                    results[playerIndex].wins = results[playerIndex].wins + win;
+                    results[playerIndex].losses = results[playerIndex].losses + loss;
                 }
                 else {
-                    let playerCS: statsCleansheetData = {
+                    let playerCS: statsResultData = {
                         label: player,
                         cleanSheets: cleanSheet,
+                        wins: win,
+                        losses: loss, 
                     }
-                    CS.push(playerCS)
+                    results.push(playerCS)
                 }
 
             })
         }
     });
 
-    return CS;
+    return results;
 }
 
 export let parseOtdData = async function (year?: number, season?: string, squadName: string = "frothersfc") {

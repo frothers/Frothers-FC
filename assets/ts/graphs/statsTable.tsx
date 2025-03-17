@@ -90,8 +90,18 @@ function StatsTable ({ season }: { season: string }) {
         size: 100,
       },
       {
+        accessorKey: "wins",
+        header: "Wins",
+        size: 100,
+      },
+      {
+        accessorKey: "losses",
+        header: "Losses",
+        size: 100,
+      },
+      {
         accessorKey: "cleansheet",
-        header: "Cleansheet",
+        header: "Cleansheets",
         size: 100,
       },
     ],
