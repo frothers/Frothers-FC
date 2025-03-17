@@ -50,8 +50,10 @@ function StatsTable ({ season }: { season: string }) {
             primary: "#CBD9F6",
             secondary: "#CBD9F6",
           },
-        },
-      }),
+          action: {
+            active: "#CBD9F6",
+          }
+        }}),
 
     []
   );
