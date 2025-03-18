@@ -101,9 +101,11 @@ Finally breaking the duck egg, everyone's favourite baby boy managed to claim a 
 
 > 7-1
 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNwY2l4dHU1ZG11OG84Zm16bmd2b3BkM29raHFpa29sMzg5am8zdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xrsRf3FJYYmBJS/giphy.gif)
+
 Up the Frothers!
 
-![]("/2025-03-16/frother-winners.jpg")
+![](/2025-03-16/frother-winners.jpg)
 
 ## Man of the Match
 
