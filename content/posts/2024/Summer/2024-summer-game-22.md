@@ -1,8 +1,8 @@
 +++
-title = "Game 21 - Summer league 2024"
+title = "Game 22 - Summer league 2024"
 description = "Frothers VS Bula Boys"
 author = "Chris"
-date = 2025-03-09T13:00:00.000Z
+date = 2025-03-16T13:00:00.000Z
 draft = false
 type = "post"
 images = [ "/2025-03-16/frother-winners.jpg"]
