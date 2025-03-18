@@ -1,8 +1,8 @@
 +++
-title = "Game 21 - Summer league 2024"
+title = "Game 22 - Summer league 2024"
 description = "Frothers VS Bula Boys"
 author = "Chris"
-date = 2025-03-09T13:00:00.000Z
+date = 2025-03-16T13:00:00.000Z
 draft = false
 type = "post"
 images = [ "/2025-03-16/frother-winners.jpg"]
@@ -89,7 +89,7 @@ It took a matter of minutes until a **Yarride** shot was poached off the line by
 
 With goals on offer **Yarride** wouldn't be too far away. **Charles** went on a run up the wing and managed to find **Yarride** with a square ball. Desperate to get out of the way of the shot, **Ryan** went flying to the ground.
 
-![](https://tenor.com/byzAJ.gif)
+![](https://media1.tenor.com/m/7FYaVA9itAsAAAAd/simpsons-brick.gif)
 
 > 5-1
 
