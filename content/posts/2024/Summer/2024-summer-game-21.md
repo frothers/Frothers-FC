@@ -1,6 +1,6 @@
 +++
 title = "Game 21 - Summer league 2024"
-description = "Frothers VS Latinos FC"
+description = "Frothers VS Mark Ave FC"
 author = "Chris"
 date = 2025-03-09T13:00:00.000Z
 draft = false
