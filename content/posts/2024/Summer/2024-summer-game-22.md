@@ -27,7 +27,7 @@ xi_and_subs = [
   "Ryan Kindell",
   "Yarride Rosario",
 ]
-motm = "Yarride Rosario"
+motm = "Farshid Shokoohi"
 dotd = "James Wilson"
 formation = "3-4-1-2"
 
@@ -108,6 +108,7 @@ Up the Frothers!
 ![](/2025-03-16/frother-winners.jpg)
 
 ## Man of the Match
+Missing out last week, **Farshid** worked hard at both ends to make sure not one scored this week.
 
 
 ## Dick of the Day
