@@ -35,10 +35,10 @@ formation = "3-4-1-2"
 
 [[scorers]]
 scorer = "Yarride Rosario"
-goals = 4
+goals = 3
 [[scorers]]
 scorer = "Lance Molyneaux"
-goals = 2
+goals = 3
 [[scorers]]
 scorer = "Chris Chester"
 goals = 2
@@ -58,8 +58,8 @@ goals = 1
 
 An absolute hit out
 
-- Yarride scored 4 identical toe poke goals
-- Lance grafted for a couple goals
+- Yarride scored 3 identical toe poke goals
+- Lance grafted for a hattrick as well
 - Chris scored a looped header from 6 yards and was gifted a 90th minute brace 
 - Patrick finished off a well crafted move
 - Jacob calmly first timed one
