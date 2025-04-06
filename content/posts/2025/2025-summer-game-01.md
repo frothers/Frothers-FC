@@ -29,7 +29,7 @@ xi_and_subs = [
   "Milan Mrdalj",
 
 ]
-motm = "Lance "
+motm = "Lance Molyneaux"
 dotd = "Ryan Kindell"
 formation = "3-4-1-2"
 
