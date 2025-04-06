@@ -5,7 +5,7 @@ author = "Chris"
 date = 2025-03-30T13:00:00.000Z
 draft = false
 type = "post"
-images = [""]
+images = ["/2025-03-30/frothers-strathmore.jpg"]
 match = true
 team = "OG Frothers"
 opponent = "Strathmore Strokers"
@@ -29,7 +29,7 @@ xi_and_subs = [
   "Milan Mrdalj",
 
 ]
-motm = ""
+motm = "Lance "
 dotd = "Ryan Kindell"
 formation = "3-4-1-2"
 
@@ -72,4 +72,4 @@ Birthday boy Lance. Hard work chasing through ball after through ball. All the b
 
 ## DotD
 
-Milan. A needless yellow for getting handsy and trying to claim an assist for playing a ball that lead to another Frother getting a touch, the defender trying to clear it, the keeper picking it up, dropping it, and it getting toed in by Chris
+Ryan Kindell. Not once, but twice did he to go Neuer and try to take some players on. Almost coming through with the red card challenge in one of the instances. Give him one game out of goal and it goes straight to the head.
