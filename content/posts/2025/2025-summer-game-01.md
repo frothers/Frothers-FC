@@ -56,11 +56,20 @@ scorer = "Evan Hanson"
 goals = 1
 +++
 
-Boys got some goals.
+An absolute hit out
 
-## Man of the Match
-Missing out last week, **Farshid** worked hard at both ends to make sure not one scored this week.
+- Yarride scored 4 identical toe poke goals
+- Lance grafted for a couple goals
+- Chris scored a looped header from 6 yards and was gifted a 90th minute brace 
+- Patrick finished off a well crafted move
+- Jacob calmly first timed one
+- Evan blasted a few at the keeper and eventually one went through
+- Ian snuck in for a sweaty goal
 
+## MotM 
 
-## Dick of the Day
-In a no-win situation in the backline **James** was up against a 14 year old. Don't hurt him and don't get sat down by him. Well at least he didn't hurt him.
+Birthday boy Lance. Hard work chasing through ball after through ball. All the boys benefitted from the work he put in.
+
+## DotD
+
+Milan. A needless yellow for getting handsy and trying to claim an assist for playing a ball that lead to another Frother getting a touch, the defender trying to clear it, the keeper picking it up, dropping it, and it getting toed in by Chris
