@@ -54,6 +54,10 @@ An early game after daylight savings and a few boys deciding to hit the town the
 
 ![](https://media.giphy.com/media/RRxHEAxxQUQ0jd4YmD/giphy.gif?cid=790b76111weze6ti5xusfi90zxmr0bg8sh0pvwpahmt2xg1w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+> Enter the shit house
+
+Farshid was back for his first game of the season and wasted no time getting in players faces, rolling on the ground, and making the ref get the cards out. Fortunately this was an opposition red card this time. Throwing the ball at the lifeless form of Farshid is a quick way to get yourself and early seat on the sideline.
+
 
 
 ## MotM 
