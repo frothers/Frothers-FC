@@ -50,6 +50,11 @@ scorer = "Yarride Rosario"
 goals = 1
 +++
 
+An early game after daylight savings and a few boys deciding to hit the town the night before saw the Frothers already scrambling for ring-ins. Up against a V-Well team with 6+ subs the Frothers could well be in store for a up hill battle.
+
+![](https://media.giphy.com/media/RRxHEAxxQUQ0jd4YmD/giphy.gif?cid=790b76111weze6ti5xusfi90zxmr0bg8sh0pvwpahmt2xg1w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 
 ## MotM 
 
