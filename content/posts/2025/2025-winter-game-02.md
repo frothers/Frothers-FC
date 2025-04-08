@@ -70,6 +70,7 @@ Finally the corner routine paid off against the vertically challenged V Well. Ol
 
 The boys knew they just needed to settle and use the possession to see this game through.
 
+Tim didn't give up on a ball all the way to the touchline. 
 
 ## MotM 
 
