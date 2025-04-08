@@ -74,6 +74,18 @@ Tim didn't give up on a ball all the way to the touchline. The keeper managed a 
 
 > 2-0
 
+The boys were in their heads now. A corner to the Frothers was delivered and a defender fearing a repeat of Evan's goal decided that wrestling Chris to the ground for a penalty was a better bet than another header.
+
+Chris stepped up himself and left the keeper flat footed and needing to pick the ball out of the net. 
+
+> 3-0
+
+Another dangerous cross,this time by Patrick, and another rogue decision by the V Well defenders. This time it was a header into their own net.
+
+> 4-0
+
+
+
 ## MotM 
 
 Scoring in three games in a row this goes to el capitan, Chris.
