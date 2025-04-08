@@ -70,7 +70,9 @@ Finally the corner routine paid off against the vertically challenged V Well. Ol
 
 The boys knew they just needed to settle and use the possession to see this game through.
 
-Tim didn't give up on a ball all the way to the touchline. 
+Tim didn't give up on a ball all the way to the touchline. The keeper managed a save, but the defender (under pressure from Patrick) managed to pass it straight back to Tim who finished this time.
+
+> 2-0
 
 ## MotM 
 
