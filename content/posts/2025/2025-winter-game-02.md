@@ -34,7 +34,7 @@ dotd = "Milan Mrdalj"
 formation = "3-4-1-2"
 
 [[scorers]]
-scorer = "Evan Hansen"
+scorer = "Evan Hanson"
 goals = 1
 [[scorers]]
 scorer = "Tim Garrod"
