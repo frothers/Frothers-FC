@@ -2,7 +2,7 @@
 title = "Game 03 - Winter league 2025"
 description = "Frothers VS Sunday Blazers"
 author = "Farshid"
-date = 2025-04-06T13:00:00.000Z
+date = 2025-04-13T13:00:00.000Z
 draft = true
 type = "post"
 images = [""]
@@ -29,8 +29,8 @@ xi_and_subs = [
   "Patrick Cameron",
   "Milan Mrdalj"
 ]
-motm = "Chris Chester"
-dotd = "Milan Mrdalj"
+motm = "Jacob Williamson"
+dotd = "Patrick Moore"
 formation = "3-4-1-2"
 
 [[scorers]]
