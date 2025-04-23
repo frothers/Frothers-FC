@@ -1,52 +1,40 @@
 +++
-title = "Game 02 - Winter league 2025"
-description = "Frothers VS V-Well FC"
-author = "Chris"
+title = "Game 03 - Winter league 2025"
+description = "Frothers VS Sunday Blazers"
+author = "Farshid"
 date = 2025-04-06T13:00:00.000Z
 draft = true
 type = "post"
 images = [""]
 match = true
 team = "OG Frothers"
-opponent = "V-Well FC"
+opponent = "Sunday Blazer"
 season = "winter"
-result = "Win"
-frother_goals = 5
-opponent_goals = 0
+result = "Loss"
+frother_goals = 1
+opponent_goals = 3
 xi_and_subs = [
   "Ryan Kindell",
   "Ian Rayns",
-  "Chris Chester",
-  "Milan Mrdalj",
+  "James Wilson",
+  "Finn Haland",
   "Patrick Moore",
-  "Charles Daily",
-  "Jacob Williamson",
-  "Farshid Shokoohi",
   "Evan Hanson",
-  "Oli Spicer",
-  "Tim Garrod",
-  "Vinh Vu",
+  "Jacob Williamson",
+  "Hugo Lawrence",
+  "Oli Spicer',
   "Yarride Rosario",
-
+  "Farshid Shokoohi",
+  "Charles Daily",
+  "Patrick Cameron",
+  "Milan Mrdalj"
 ]
 motm = "Chris Chester"
 dotd = "Milan Mrdalj"
 formation = "3-4-1-2"
 
 [[scorers]]
-scorer = "Evan Hanson"
-goals = 1
-[[scorers]]
-scorer = "Tim Garrod"
-goals = 1
-[[scorers]]
-scorer = "Chris Chester"
-goals = 1
-[[scorers]]
-scorer = "OG"
-goals = 1
-[[scorers]]
-scorer = "Yarride Rosario"
+scorer = "Jacob Williamson"
 goals = 1
 +++
 
