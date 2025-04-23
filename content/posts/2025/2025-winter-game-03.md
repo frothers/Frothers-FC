@@ -8,7 +8,7 @@ type = "post"
 images = [""]
 match = true
 team = "OG Frothers"
-opponent = "Sunday Blazer"
+opponent = "Sunday Blazers"
 season = "winter"
 result = "Loss"
 frother_goals = 1
@@ -22,12 +22,12 @@ xi_and_subs = [
   "Evan Hanson",
   "Jacob Williamson",
   "Hugo Lawrence",
-  "Oli Spicer',
+  "Oli Spicer",
   "Yarride Rosario",
   "Farshid Shokoohi",
   "Charles Daily",
   "Patrick Cameron",
-  "Milan Mrdalj"
+  "Milan Mrdalj",
 ]
 motm = "Jacob Williamson"
 dotd = "Patrick Moore"
