@@ -38,52 +38,32 @@ scorer = "Jacob Williamson"
 goals = 1
 +++
 
-An early game after daylight savings and a few boys deciding to hit the town the night before saw the Frothers already scrambling for ring-ins. Up against a V-Well team with 6+ subs the Frothers could well be in store for a up hill battle.
+It was a crisp Wellington afternoon, and Frothers FC showed up in their royal purple, ready to dance with the Blazers who, judging by their early goal, came dressed for business.
 
-![](https://media.giphy.com/media/RRxHEAxxQUQ0jd4YmD/giphy.gif?cid=790b76111weze6ti5xusfi90zxmr0bg8sh0pvwpahmt2xg1w&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+## First Half
+Blazers struck early, catching Frothers still adjusting their shin pads and Spotify playlists. 1-0. A classic Frothers start.
 
-> Enter the shit house
+> 0-1
 
-Farshid was back for his first game of the season and wasted no time getting in players faces, rolling on the ground, and making the ref get the cards out. Fortunately this was an opposition red card this time. Throwing the ball at the lifeless form of Farshid is a quick way to get yourself and early seat on the sideline.
+But then came the moment of magic: Farshid, clearly having watched Pirlo’s Greatest Hits on YouTube the night before, delivered a chef’s kiss of a pass to Jacob, who coolly slotted it in. 1-1. Chaos on the sideline. Farshid immediately asked to be subbed off so he could bask in the applause.
 
-![](https://media4.giphy.com/media/l4FGAz9tNnR4vlm4E/giphy.gif?cid=6c09b952ifd20v4l8u2poxars3xdau0d4suz3l00omx4kns8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+> 1-1
 
-Frothers toiled to get the breakthrough. V Well actually came closest, with a fine save from Ryan from a header.
+But just when we thought we’d see out the half, confusion struck in the box. Ryan seemingly had the ball—until it wasn’t in his hands anymore and had instead found its way into the back of the net. A mysterious sequence that VAR is still trying to decode.
 
-Finally the corner routine paid off against the vertically challenged V Well. Oli's delivery found Evan who nodded strongly home, leaving the keeper rooted to the spot.
+> 2-1 Blazers.
 
-> 1-0
+## Second Half
+Frothers came out swinging, dominating possession like prime Barcelona, minus the goals. Passes were flying, triangles were forming, and vibes were immaculate but the net remained untouched.
 
-## Halftime
+Blazers, on the other hand, had no time for beautiful football. One counter, one shot, one goal.
 
-The boys knew they just needed to settle and use the possession to see this game through.
+> 3-1.
 
-Tim didn't give up on a ball all the way to the touchline. The keeper managed a save, but the defender (under pressure from Patrick) managed to pass it straight back to Tim who finished this time.
+Frothers’ midfield cried softly into their shin guards.
 
-> 2-0
+## Man of the Match
+Jacob. Scored a goal, ran more kilometres than anyone, and somehow played right wing, left back, striker, and physio, all at once.
 
-The boys were in their heads now. A corner to the Frothers was delivered and a defender fearing a repeat of Evan's goal decided that wrestling Chris to the ground for a penalty was a better bet than another header.
-
-Chris stepped up himself and left the keeper flat footed and needing to pick the ball out of the net. 
-
-> 3-0
-
-Another dangerous cross,this time by Patrick, and another rogue decision by the V Well defenders. This time it was a header into their own net.
-
-![](https://media3.giphy.com/media/h25ERLjdlmP2GezxDt/giphy.gif?cid=6c09b952rz8dv42kzt5v1yr4nmd37hagdp6gj1tmpkqjr56u&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
-
-> 4-0
-
-Goals are on offer, enter Yarride. Meant to be parenting, Yarride managed to start the Frother creche to sneak onto the field. The first involvement was to watch a defender completely misstime a header and stroll through to a goal.
-
-![](https://media1.giphy.com/media/GruUlcO56mEWXYhk2N/giphy.gif?cid=6c09b952duwnerqx9bf2rgj7mpxr0r7zn38z751t0hyirkvj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
-
-> 5-0
-
-## MotM 
-
-Scoring in three games in a row this goes to el capitan, Chris.
-
-## DotD
-
-Milan. Boofing the ball into Ryan's face before the match finished this race before it had even started.
+## Dick of the Day
+Patrick M, who took "rice and repeat" to a whole new level by trying to deal rice mid-game. Still unsure if it was basmati, jasmine, or just confusion.
