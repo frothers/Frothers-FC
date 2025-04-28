@@ -93,7 +93,7 @@ Lance broke through and cut it back to Evan who put it under the keeper.
 
 It turned into a straight up exhibition match. Boys doing skill moves with no pay-off, stupid long range efforts from lads who struggle to kick the ball out of the box on the full.
 
-Luckily Chris stepped up to put some good old fashioned Sunday football back on the menu. Winning the ball in a 1-on-1 Chris stepped on the ball, rolling an ankle, and visiting the Ancestral Plane.
+Luckily Chris stepped up to put some good old fashioned Sunday football back on the menu. Winning the ball in a 1-on-1 Chris stepped on the ball, rolling an ankle, and visited the Ancestral Plane.
 
 ![](https://media.giphy.com/media/3orif4kDfH3zafIgBW/giphy.gif?cid=ecf05e47op1lvtukzakne1zbota78ziko4gyy3yxe8abycpi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
