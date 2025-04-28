@@ -76,7 +76,7 @@ It wasn't long before Yarride got his goal. A good piece of back and forth on th
 
 > 3-1
 
-A corner got the Frothers firmly in control, as Evan met the ball at the back post and sent it pin balling into the net off a few players. The gloves were off.
+A corner got the Frothers firmly in control, as Evan met the ball at the back post and sent it pinballing into the net off a few players. The gloves were off now.
 
 > 4-1
 
