@@ -3,9 +3,9 @@ title = "Game 04 - Winter league 2025"
 description = "Frothers VS Cobham Drive FC"
 author = "Chris"
 date = 2025-04-27T13:00:00.000Z
-draft = true
+draft = false
 type = "post"
-images = [""]
+images = ["https://media.giphy.com/media/3orifhDvs3wtQlXtyo/giphy.gif?cid=ecf05e47q7p0xgswesu7uffgcacg8n1n4r619d4ml5ji97ft&ep=v1_gifs_search&rid=giphy.gif&ct=g"]
 match = true
 team = "OG Frothers"
 opponent = "Cobham Drive FC"
