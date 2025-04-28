@@ -49,28 +49,28 @@ scorer = "Evan Hanson"
 goals = 3
 +++
 
-The boys were back on the grass on a pitch a stones throw from Hugo and Declan's casa. This was a classic Wellington pitch, where not only had no one played in it, just people didn't know it existed.
+The boys were back on a classic Wellington pitch, hidden away down a cul-de-sac with uneven grass and more bumps than a Friday evening landing.
 
 ## First Half
-Fresh off an adrenaline fuelled watching of El Classico, Shokoohi fancied himself a bit of a Pedro distance shooting. Luckily on target was as good as a top bins shot in Sunday league. 
+Fresh off an adrenaline fuelled watching of El Classico, Shokoohi fancied himself a bit of Pedro distance shooting. Luckily on target was as good as top bins in Sunday league. 
 
 > 1-0
 
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXhidzQxemx0Y2IyM2N5dDhzNnd2cXVoOG0zZGpkNmNocjYyMnZkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrApwbugqydMFgDu2Z/giphy.gif)
 
-The next goal came about with a bit of drama in the build up. Yarride was through against the keeper and knocked it past him. The keeper decided that he was take mattering into his own hands. Somehow staying on the patch, the keeper only delayed the inevitable. Yarride's floated freekick to the backpost went uncontested, until Patrick wiped his fringe on it to claim the goal.
+The next goal came about with a bit of drama in the build up. Yarride was through against the keeper and knocked it past him. The keeper decided that he was taking matters into his own hands. Somehow staying on the patch, the keeper only delayed the inevitable. Yarride's floated freekick to the backpost went uncontested, until Patrick wiped his fringe on it to claim the goal.
 
 > 2-0
 
 ![](https://media.giphy.com/media/7EMYn9zC0r1GE/giphy.gif?cid=ecf05e47ezfa45d0yaerxillpiq2l3x0i5sdeyv0rsump5ay&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-To lift the spirits of the Cobham boys, Chris decided to pass it right to their strikers to allow them to get back into the game before halftime.
+To lift the spirits of the Cobham boys, Chris decided to pass it right to their striker to allow them to get back into the game before halftime.
 
 > 2-1
 
 
 ## Second Half
-Frothers felt like they were well in control of the game, but with only a goal lead they needed to make sure of things.
+Frothers felt like they were well in control of the game, but with only a single goal lead they needed to make sure of things.
 
 It wasn't long before Yarride got his goal. A good piece of back and forth on the edge of the box with James resulted in some space to drive a low shot past the keeper.
 
