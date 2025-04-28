@@ -64,23 +64,47 @@ The next goal came about with a bit of drama in the build up. Yarride was throug
 
 ![](https://media.giphy.com/media/7EMYn9zC0r1GE/giphy.gif?cid=ecf05e47ezfa45d0yaerxillpiq2l3x0i5sdeyv0rsump5ay&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-But just when we thought we’d see out the half, confusion struck in the box. Ryan seemingly had the ball—until it wasn’t in his hands anymore and had instead found its way into the back of the net. A mysterious sequence that VAR is still trying to decode.
+To lift the spirits of the Cobham boys, Chris decided to pass it right to their strikers to allow them to get back into the game before halftime.
 
-> 2-1 Blazers.
+> 2-1
 
-![](https://media1.giphy.com/media/S9E1BVklRhZp8goiE1/giphy.gif?cid=6c09b952wkw2rruom8y2bfmrp7uqmnh34o0peumqlkde0eqs&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 ## Second Half
-Frothers came out swinging, dominating possession like prime Barcelona, minus the goals. Passes were flying, triangles were forming, and vibes were immaculate but the net remained untouched.
+Frothers felt like they were well in control of the game, but with only a goal lead they needed to make sure of things.
 
-Blazers, on the other hand, had no time for beautiful football. One counter, one shot, one goal.
+It wasn't long before Yarride got his goal. A good piece of back and forth on the edge of the box with James resulted in some space to drive a low shot past the keeper.
 
-> 3-1.
+> 3-1
 
-Frothers’ midfield cried softly into their shin guards.
+A corner got the Frothers firmly in control, as Evan met the ball at the back post and sent it pin balling into the net off a few players. The gloves were off.
+
+> 4-1
+
+Yarride then got through on goal and had all day to sit the keeper down and chip it home.
+
+![](https://cdn3.sbnation.com/assets/3460223/alexissanchez.gif)
+
+
+> 5-1
+
+Lance broke through and cut it back to Evan who put it under the keeper.
+
+> 6-1
+
+It turned into a straight up exhibition match. Boys doing skill moves with no pay-off, stupid long range efforts from lads who struggle to kick the ball out of the box on the full.
+
+Luckily Chris stepped up to put some good old fashioned Sunday football back on the menu. Winning the ball in a 1-on-1 Chris stepped on the ball, rolling an ankle, and visiting the Ancestral Plane.
+
+![](https://media.giphy.com/media/3orif4kDfH3zafIgBW/giphy.gif?cid=ecf05e47op1lvtukzakne1zbota78ziko4gyy3yxe8abycpi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+> 6-2
+
+Fittingly for a game after Easter it was the resurrection of Chris. Driving the ball forward in the next play he freed Yarride who crossed it in to Evan to emphatically volleyed it home for his third and the perfect hattrick.
+
+> 7-2
 
 ## Man of the Match
-Jacob. Scored a goal, ran more kilometres than anyone, and somehow played right wing, left back, striker, and physio, all at once.
+His first hattrick for the club and a good day at the office for the menace in the midfield, Evan.
 
 ## Dick of the Day
-Patrick M, who took "rice and repeat" to a whole new level by trying to deal rice mid-game. Still unsure if it was basmati, jasmine, or just confusion.
+Paying homage to 2018 Charles Daily with the rolled ankle on the deflated netball and unashamedly blaming the boys for the first goal, it is your favorite, Chris.
