@@ -29,7 +29,7 @@ section = ["JSON", "HTML"]
 [params]
 author = "Chris Chester"
 contact_form_action = "#"
-copyright = "&copy; 2024 Chris Chester. All Rights Reserved"
+copyright = "&copy; 2025 Chris Chester. All Rights Reserved"
 description = "The official website for Frothers F.C., a Wellington based football club"
 googleAnalytics = "G-FQC0K3GZF5"
 google_tag_manager = ""
@@ -50,7 +50,7 @@ title = "Check the Schedule"
 [params.cta.button]
 enable = true
 label = "Open Schedule"
-link = "https://www.sportzone.org.nz/competitions/179/wellington-sunday-football-league/wellington-sunday-football-league/"
+link = "https://www.betterfootball.co.nz/fixtures-and-standings/"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
