@@ -50,8 +50,22 @@ h1 {
 
 .card {
   @include themed() {
+    background-color: t($background-colour);
+    color: t($text-colour-dark);
+    p {
+      color: t($text-colour-dark);
+    }
+    h1,h2,h3,h4,h5 {
+      color: t($text-colour-dark);
+
+    }
+  }
+}
+
+.card-header {
+  @include themed() {
     background-color: t($secondary-background-colour);
-    color: t($text-colour);
+    color: t($text-colour-dark);
   }
 }
 
@@ -73,20 +87,21 @@ h1 {
 
 .list-group-item {
   @include themed() {
-    background-color: t($primary-colour);
+    background-color: t($background-colour);
   }
 }
 
-.badge-primary {
+.badge-primary, .badge {
   @include themed() {
-    background-color: t($body-colour);
+    background-color: t($secondary-background-colour);
+    color: t($text-colour-dark);;
   }
 }
 
 .custom-select {
   @include themed() {
-    background-color: t($secondary-background-colour);
-    color: t($text-colour);
+    background-color: t($background-colour);
+    color: t($text-colour-dark);
   }
 }
 ::selection {
