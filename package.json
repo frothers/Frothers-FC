@@ -13,9 +13,11 @@
         "preview:hugo": "hugo -d ./dist -s site -w -D -F ",
         "preview:webpack": "webpack serve --mode development --config webpack.dev.js --host 0.0.0.0 --public",
         "build": "yarn run build:webpack && yarn run build:tina && yarn run build:hugo",
+        "build-local": "yarn run build:webpack && yarn run build:tina && yarn run build:hugo-local",
         "build:tina": "yarn tinacms build",
         "build:preview": "yarn run build:webpack && yarn run build:hugo:preview",
         "build:hugo": "hugo -d ./dist -b $URL",
+        "build:hugo-local": "hugo -d ./dist -b frothersfc.com",
         "build:hugo:preview": "yarn run build:hugo -- -D -F",
         "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
     },

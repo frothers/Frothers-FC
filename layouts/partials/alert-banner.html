@@ -2,11 +2,10 @@
   {{ with .Site.Data.nextMatch.opponent }}
     <nav class="navbar bg-primary">
       <div class="alert-banner">
-      Next Match is on at
-      {{ dateFormat "15:04 MST Monday, January 2" $.Site.Data.nextMatch.date }} 
+      Next Match is 
+      <b>{{ dateFormat "03:04 PM Monday, January 2" $.Site.Data.nextMatch.date }} </b>
       against {{ $.Site.Data.nextMatch.opponent }} 
-      at {{ $.Site.Data.nextMatch.venue }} 
-      for {{ $.Site.Data.nextMatch.competition }} 
+      at <b>{{ $.Site.Data.nextMatch.venue }} </b> 
     </nav>
   </div>
   {{ end }}  

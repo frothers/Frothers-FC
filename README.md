@@ -60,7 +60,7 @@ Then visit http://localhost:1313/ _- or a new browser windows popped-up already 
 To build a static version of the website inside the `/dist` folder, run:
 
 ```bash
-yarn run build
+yarn run build-local
 ```
 
 See [package.json](package.json#L8) for all tasks.
