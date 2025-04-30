@@ -111,29 +111,4 @@
 </section>
 <!-- /blog -->
 
-<!-- cta -->
-{{ if .Site.Params.cta.enable }}
-<section class="section pt-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto">
-        <div class="row shadow p-5">
-          <div class="col-md-4 text-center text-md-left mb-4 mb-lg-0">
-            <img class="mr-4 kick-img" width = "200" alt="..."></div>
-          <div class="col-md-8 text-center text-md-left">
-            <h3 class="mt-0">{{ .Site.Params.cta.title | markdownify }}</h3>
-            <p>{{ .Site.Params.cta.description | markdownify }}</p>
-            {{ if .Site.Params.cta.button.enable }}
-            <button href="{{ .Site.Params.cta.button.link | absURL }}"
-              target="_blank" class="btn btn-primary">{{ .Site.Params.cta.button.label }}</button>
-            {{ end }}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-<!-- /cta -->
-
 {{ end }}
