@@ -141,6 +141,12 @@ select {
   }
 }
 
+.cover {
+  @include themed() {
+    background: t($body-colour);;
+  }
+}
+
 .bg-cover {
   @include themed() {
     background-image: t($sleeves-url);

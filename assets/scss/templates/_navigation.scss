@@ -1,5 +1,9 @@
 .navigation {
   transition: 0.3s ease;
+  @include themed() {
+    background: t($background-colour);
+  }
+  
   &.fixed-top {
     @include desktop {
       position: sticky !important;
@@ -44,27 +48,27 @@
 
 .navbar-light .navbar-brand {
   @include themed() {
-    color: t($text-colour);
+    color: t($text-colour-dark);
   }
 }
 
 .navbar-light .navbar-toggler {
   @include themed() {
-    color: t($text-colour);
+    color: t($text-colour-dark);
   }
 }
 
 .navbar-light .navbar-brand:hover {
   @include themed() {
-    color: t($text-colour-dark);
+    color: t($text-colour-alt);
   }
 }
 
 .navbar-light .navbar-nav .nav-link {
   @include themed() {
-    color: t($text-colour);
+    color: t($text-colour-dark);
     &:hover {
-      color: t($primary-colour);
+      color: t($text-colour-alt);
     }
   }
 }

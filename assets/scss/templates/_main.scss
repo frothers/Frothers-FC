@@ -23,8 +23,8 @@
 
   .illustration {
     position: absolute;
-    bottom: 0;
-    right: 30px;
+    bottom: 15px;
+    right: 550px;
     @include desktop-xl {
       max-width: 600px;
     }
@@ -37,7 +37,7 @@
     @include desktop {
       display: block;
     }
-    padding: 40px;
+    padding: 30px;
   }
   .desktop-heading {
     @include desktop-xl {
@@ -97,7 +97,7 @@
       height: 40px;
       text-align: center;
       @include themed() {
-        color: t($text-colour);
+        color: t($text-colour-dark);
       }
       border: 0;
       border-radius: 5px;
@@ -129,7 +129,9 @@
   }
 }
 .post-meta {
-  color: #999;
+  @include themed() {
+    color: t($text-colour);
+  }
   a {
     color: inherit;
     &:hover {

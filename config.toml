@@ -40,7 +40,7 @@ logoTitle = "Frothers F.C."
 title = "Frothers F.C."
 [params.banner]
 bgImage = "images/svgs/light/sleeves.svg"
-image = "images/svgs/light/frother_logo.svg"
+image = "images/svgs/light/frother_logo_black_2025.svg"
 title = "Wellington Frothers FC"
 [params.cta]
 description = "See this weekends WSFL fixtures."
