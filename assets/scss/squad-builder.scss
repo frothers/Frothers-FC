@@ -13,9 +13,7 @@ div.squad-position {
 }
 
 div.squad-player {
-  @include themed() {
-    color: t($text-colour);
-  }
+  color: $light-colour-100;
   padding-top: 15px;
   padding-left: 0;
   padding-right: 0;
