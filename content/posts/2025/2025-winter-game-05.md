@@ -3,9 +3,9 @@ title = "Game 05 - Winter league 2025"
 description = "Frothers VS Boyd Wilson Breathers FC"
 author = "Chris"
 date = 2025-05-04T13:00:00.000Z
-draft = true
+draft = false
 type = "post"
-images = ["https://media.giphy.com/media/3orifhDvs3wtQlXtyo/giphy.gif?cid=ecf05e47q7p0xgswesu7uffgcacg8n1n4r619d4ml5ji97ft&ep=v1_gifs_search&rid=giphy.gif&ct=g"]
+images = ["/2025-05-04/frothers-football.jpg"]
 match = true
 team = "OG Frothers"
 opponent = "Boyd Wilson Breathers FC"
@@ -15,23 +15,22 @@ frother_goals = 8
 opponent_goals = 0
 xi_and_subs = [
   "Ryan Kindell",
-"Milan Mrdalj",
+  "Milan Mrdalj",
   "Chris Chester",
   "Finn Harland",
-"Patrick Moore",
- "Jacob Williamson",
+  "Patrick Moore",
+  "Jacob Williamson",
   "Patrick Cameron",
-"Hugo Lawrence",
+  "Hugo Lawrence",
   "Lance Molyneaux",
   "Oli Spicer",
   "Yarride Rosario",
   "Ian Rayns",
-   "Evan Hanson",
- "Farshid Shokoohi",
-  
+  "Evan Hanson",
+  "Farshid Shokoohi",
 ]
-motm = "Evan Hanson"
-dotd = ""
+motm = "Finn Harland"
+dotd = "Yarride Rosario"
 formation = "3-4-1-2"
 
 [[scorers]]
@@ -55,9 +54,11 @@ goals = 1
 
 The Frothers train keeps a rolling.
 
+![Frothers Brew](/2025-05-04/frothers-football.jpg)
+
 Up against a Breathers squad that have also been enjoying a fine start to the season, the Frothers needed to up the ante.
 
-##First Half
+## First Half
 
 The boys stepped up from the kick off and owned the midfield, meaning it felt like there was an overload all around the pitch.
 
@@ -99,13 +100,15 @@ Ian, after hitting the woodwork himself in the first half, confidently finished 
 
 > 7-0
 
-Lance again turned provider with a filthy backheel to Hugo to cap things off. 
+Lance again turned provider with a filthy backheel to Hugo to cap things off.
 
-## Dick of the day 
-A few good options. Lance went prime storm trooper by missing a boat load of chances to score himself, most notably heading a ball straight into the keepers head after Evans shot off the bar.
+> 8-0
 
-Yarride got denied another goal scoring opportunity by the keeper outside the box, to only receive a yellow. Also rounded the keeper on another occasion to only out run the ball, denying himself a hattrick.
 
 ## Man of the match
-Equally as many good options. Oli kicking off his goal scoring with a opportunistic hattrick. Finn had his best game in a Frothers shirt, looking comfortable both on and off the ball 
+A few good options. Oli kicking off his goal scoring with a opportunistic hattrick. Patrick C bossing the midfield. The award this week goes to Finn who had his best game in a Frothers shirt, looking comfortable both on and off the ball.
 
+## Dick of the day 
+Equally as many good options. Lance went prime storm trooper by missing a boat load of chances to score himself, most notably heading a ball straight into the keepers head after Evans shot off the bar.
+
+Yarride got denied another goal scoring opportunity by the keeper outside the box, to only receive a yellow, for the second week running... Also rounded the keeper on another occasion to only out run the ball, denying himself a hattrick. Actually, thinking about it, it does go to Yarride. 
