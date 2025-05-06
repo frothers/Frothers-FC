@@ -45,7 +45,7 @@ scorer = "Yarride Rosario"
 goals = 2
 
 [[scorers]]
-scorer = "Ian Ryans"
+scorer = "Ian Rayns"
 goals = 1
 [[scorers]]
 scorer = "Hugo Lawrence"
