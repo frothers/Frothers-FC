@@ -98,7 +98,7 @@ They managed to hit back with a late goal, a lofted cross from deep was headed i
 > 5-1
 
 ## MoTM
-Some great performances and good goals Including **Dylan** with his first Frothers goal. But it goes to **Evan Hansen** put in an absolute shift, rolling back the years to cover the pitch. 
+Some great performances and good goals Including **Dylan** with his first Frothers goal. But it goes to **Evan Hanson** put in an absolute shift, rolling back the years to cover the pitch. 
 
 ![](/images/2024-11-03/evanoperating.jpg)
 

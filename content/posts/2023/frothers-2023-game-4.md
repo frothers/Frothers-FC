@@ -22,7 +22,7 @@ goals = 1
 scorer = "Jarrod Murray"
 [[scorers]]
 goals = 1
-scorer = "Evan Hansen"
+scorer = "Evan Hanson"
 [[scorers]]
 goals = 1
 scorer = "Lance Molyneaux"

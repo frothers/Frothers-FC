@@ -40,5 +40,5 @@ The game became more of a battle of the shit chat than a competition as the wind
 Backing up the chat, **Farshid** had a great game in the backline. Great organisation, talking, passing, and a healthy helping of getting away with dribbling his way out of trouble.
 
 ## Dick of the Day
-Proof that the shithouse life burns you as much as it pays off, **Charles Daily** gets the award for getting a yellow and putting the ref on high alert. Honourable mention is **Evan Hansen** with another injury...
+Proof that the shithouse life burns you as much as it pays off, **Charles Daily** gets the award for getting a yellow and putting the ref on high alert. Honourable mention is **Evan Hanson** with another injury...
 

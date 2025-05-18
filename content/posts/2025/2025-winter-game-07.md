@@ -25,7 +25,7 @@ xi_and_subs = [
   "Granger Scott",
   "Jacob Williamson",
   "Yarride Rosario",
-  "Evan Hansen"
+  "Evan Hanson"
 ]
 motm = "Hugo Lawrence"
 dotd = "Farshid Shokoohi"
@@ -35,7 +35,7 @@ formation = "3-4-1-2"
 scorer = "Yarride Rosario"
 goals = 2
 [[scorers]]
-scorer = "Evan Hansen"
+scorer = "Evan Hanson"
 goals = 2
 
 [[scorers]]

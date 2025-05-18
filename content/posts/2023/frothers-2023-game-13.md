@@ -87,4 +87,4 @@ Pushing everyone up the Frothers were it on the break to settle things
 
 ## Dick of the Day
 
-Everyone who fluffed a back-heel, which was everybody who tried one. Special mention goes to **Evan Hansen** who gave **Yash** as dressing down for being wasteful, only to then do the exact same thing 5 mins later.
+Everyone who fluffed a back-heel, which was everybody who tried one. Special mention goes to **Evan Hanson** who gave **Yash** as dressing down for being wasteful, only to then do the exact same thing 5 mins later.
