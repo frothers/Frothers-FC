@@ -22,7 +22,7 @@ xi_and_subs = [
   "Lance Molyneaux",
   "Ian Rayns",
   "Hugo Lawrence",
-  "G Scott",
+  "Granger Scott",
   "Jacob Williamson",
   "Yarride Rosario",
   "Evan Hansen"
@@ -39,13 +39,12 @@ scorer = "Evan Hansen"
 goals = 2
 
 [[scorers]]
-scorer = "G Scott"
+scorer = "Granger Scott"
 goals = 2
 
 [[scorers]]
 scorer = "Jacob Williamson"
 goals = 1
-
 
 [[scorers]]
 scorer = "Chris Chester"
