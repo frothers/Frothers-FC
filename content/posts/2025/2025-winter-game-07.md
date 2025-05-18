@@ -16,7 +16,7 @@ opponent_goals = 1
 xi_and_subs = [
   "Ryan Kindell",
   "Michael",
-  "Chris Chester"
+  "Chris Chester",
   "Patrick Moore",
   "Farshid Shokoohi",
   "Lance Molyneaux",
@@ -27,8 +27,8 @@ xi_and_subs = [
   "Yarride Rosario",
   "Evan Hansen"
 ]
-motm = "Jacob Williamson"
-dotd = "Lance Molyneaux"
+motm = "Hugo Lawrence"
+dotd = "Farshid Shokoohi"
 formation = "3-4-1-2"
 
 [[scorers]]
