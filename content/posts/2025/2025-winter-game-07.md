@@ -5,7 +5,7 @@ author = "Chris"
 date = 2025-05-18T13:00:00.000Z
 draft = false
 type = "post"
-images = ["/svgs/light/frothers_logo_2025_300.svg"]
+images = ["/images/svgs/light/frothers_logo_2025_300.svg"]
 match = true
 team = "OG Frothers"
 opponent = "Pelicans"
@@ -124,10 +124,13 @@ Some princesses took exception to a little bit of heat in the cold and want your
 
 > A truly virtuoso performance. 
 
-- An "assist" by pinging it off the backside of the defender
-- A hockey assist by stumbling over the ball, just to nutmeg the defender and then square it up to open the play
-- 3 separate incidents of getting the opposition to kick the ball out for supposed injuries.
-- Must have thought he was playing rugby after that, as the conversion from being through on goal was pinpoint
+🙏 An "assist" by pinging it off the backside of the defender
+🙏 A hockey assist by stumbling over the ball, just to nutmeg the defender and then square it up to open the play
+🙏 3 separate incidents of getting the opposition to kick the ball out for supposed injuries.
+🙏 Must have thought he was playing rugby after that, as the conversion from being through on goal was pinpoint
+
+We are truely blessed.
+  
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2drazlncHB6OHlwY29vbDZ5aGg2YXhmb2xjZ2c0OGY3ZXRzY2ZxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGci4tmjYytqw9qg/giphy.gif)
 
 Special shoutout to Yarride for disconnected the controller and almost jogged the ball out for a throw-in at one point. 
