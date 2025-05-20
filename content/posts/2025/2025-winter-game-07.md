@@ -77,7 +77,7 @@ Next up was Granger, who also laced one into the bottom corner.
 
 The Pelicans had a late chance, with a mix up the Pelicans player was charging through. Michael stepped in the with the big Don't Resist to stop the attack and receive the first yellow of the night.
 
-![](https://tenor.com/uGrV.gif](https://media1.tenor.com/m/MaJ4iVJSY0gAAAAd/adultswim-loitersquad.gif)
+![](https://media1.tenor.com/m/MaJ4iVJSY0gAAAAd/adultswim-loitersquad.gif)
 
 ## Halftime
 
