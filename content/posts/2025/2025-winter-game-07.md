@@ -101,7 +101,7 @@ After a few corners were held up in the wind, Evan managed to deliver an absolut
 
 The boys started to smell there may be goals here, and Yarride isn't one to miss out. A slaloming run into the box and a neat finish around the keeper. The celebration was a bit much though.
 
-![]([https://tenor.com/bZsjd.gif](https://media1.tenor.com/m/N0-0xa7TBtUAAAAd/injury-psych.gif))
+![](https://media1.tenor.com/m/N0-0xa7TBtUAAAAd/injury-psych.gif)
 
 > 6-1
 
