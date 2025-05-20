@@ -128,7 +128,7 @@ Some princesses took exception to a little bit of heat in the cold and want your
 
 🙏 A hockey assist by stumbling over the ball, just to nutmeg the defender and then square it up to open the play
 
-🙏 3 separate incidents of getting the opposition to kick the ball out for supposed injuries
+🙏 3 separate incidents of getting the opposition to kick the ball out for supposed injuries + a yellow card to top it off
 
 🙏 Must have thought he was playing rugby after that, as the conversion from being through on goal was pinpoint
 
