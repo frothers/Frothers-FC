@@ -125,8 +125,11 @@ Some princesses took exception to a little bit of heat in the cold and want your
 > A truly virtuoso performance. 
 
 🙏 An "assist" by pinging it off the backside of the defender
+
 🙏 A hockey assist by stumbling over the ball, just to nutmeg the defender and then square it up to open the play
-🙏 3 separate incidents of getting the opposition to kick the ball out for supposed injuries.
+
+🙏 3 separate incidents of getting the opposition to kick the ball out for supposed injuries
+
 🙏 Must have thought he was playing rugby after that, as the conversion from being through on goal was pinpoint
 
 We are truely blessed.
