@@ -5,7 +5,7 @@ author = "Chris"
 date = 2025-05-18T13:00:00.000Z
 draft = false
 type = "post"
-images = []
+images = ["/svgs/light/frothers_logo_2025_300.svg"]
 match = true
 team = "OG Frothers"
 opponent = "Pelicans"
@@ -63,7 +63,7 @@ It was slick and fast out there, with balls over the top scooting through to the
 
 First off was Yarride, who mopped up a ball outside the box. With the keeper well out of position all that was needed was a shot on target. Yarride decided that it was top bins or nothing. 
 
-![](https://tenor.com/ftJXmGVbFum.gif)
+![](https://media1.tenor.com/m/Pep9wNw468gAAAAd/see-where-you-put-ball-top-bins.gif) 
 
 > 1-0
 
@@ -77,7 +77,7 @@ Next up was Granger, who also laced one into the bottom corner.
 
 The Pelicans had a late chance, with a mix up the Pelicans player was charging through. Michael stepped in the with the big Don't Resist to stop the attack and receive the first yellow of the night.
 
-![](https://tenor.com/uGrV.gif)
+![]([https://tenor.com/uGrV.gif](https://media1.tenor.com/m/MaJ4iVJSY0gAAAAd/adultswim-loitersquad.gif))
 
 ## Halftime
 
@@ -101,13 +101,13 @@ After a few corners were held up in the wind, Evan managed to deliver an absolut
 
 The boys started to smell there may be goals here, and Yarride isn't one to miss out. A slaloming run into the box and a neat finish around the keeper. The celebration was a bit much though.
 
-![](https://tenor.com/bZsjd.gif)
+![]([https://tenor.com/bZsjd.gif](https://media1.tenor.com/m/N0-0xa7TBtUAAAAd/injury-psych.gif))
 
 > 6-1
 
 Evan dropped a filthy meg in the box and pick up his second.
 
-![](https://tenor.com/bfp11.gif)
+![](https://media1.tenor.com/m/sHkbbGH-ISoAAAAd/luis-su%C3%A1rez-uruguayan-footballer.gif)
 
 > 7-1
 
