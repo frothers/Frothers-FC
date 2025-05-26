@@ -15,15 +15,16 @@ frother_goals = 2
 opponent_goals = 2
 xi_and_subs = [
   "Ryan Kindell",
-  "Milan Mrj",
+  "Milan Mrdalj",
   "Chris Chester",
   "Ian Rayns",
   "Patrick Moore",
-  "Farshid Shokoohi",
   "Lance Molyneaux",
   "Hugo Lawrence",
-  "Granger Scott",
+  "Declan Ward",
+  "Farshid Shokoohi",
   "Jacob Williamson",
+  "Granger Scott",
   "Evan Hanson"
 ]
 motm = "Declan Ward"
