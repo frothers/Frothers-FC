@@ -20,6 +20,7 @@ xi_and_subs = [
   "Ian Rayns",
   "Patrick Moore",
   "Lance Molyneaux",
+  "James Wilson",
   "Hugo Lawrence",
   "Declan Ward",
   "Farshid Shokoohi",
