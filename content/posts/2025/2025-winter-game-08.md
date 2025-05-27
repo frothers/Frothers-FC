@@ -93,5 +93,5 @@ Back from visiting La Masia, Declan always seemed to have time on the ball and w
 ## Dick of the Day
 Wearing the laundry day special all white kit, Ryan managed to get penalized for a pass back from 20m out.
 
-![](/2025-05-25/500717840_9300576333377885_7200552670839191053_n.mp4)
 
+{{< vimeo 1087883634>}}
