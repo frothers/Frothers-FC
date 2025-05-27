@@ -5,7 +5,7 @@ author = "Chris"
 date = 2025-05-25T13:00:00.000Z
 draft = false
 type = "post"
-images = ["/images/svgs/light/frothers_logo_2025_300.svg"]
+images = ["/2025-05-25/499416262_1451670522810627_4577585154714453587_n.jpg"]
 match = true
 team = "OG Frothers"
 opponent = "Loko"
@@ -43,6 +43,8 @@ goals = 1
  
 Back at the Prince of Wales, the Frothers were up again the familiar opposition of Loko.
 
+[Veo Video](https://app.veo.co/matches/20250525-prince-of-wales-frolol-55ea5f63/)
+
 The Frothers were used to a certain quality of life that a rare 4 directional wind combined with a pitch that has a couple healthy bumps was at odds with. 
 
 It was a classic Sunday league hit it up type of match. Bombed balls rained supreme. 
@@ -53,6 +55,8 @@ The Frothers took an early lead from a set piece, a long freekick from James was
 
 > 1-0
 
+{{< instagram DKDvMqqTwhN >}}
+
 Loko decided it was time for operation make it Rayn. Balls over the top at Ian was the name of the game, but couldn't make anything of the second ball.
 
 The Frothers didn't have much more luck either, with every ball through rocketing to the keeper. 
@@ -60,6 +64,8 @@ The Frothers didn't have much more luck either, with every ball through rocketin
 ## Halftime 
 
 The second half saw a lot of Frothers shots from the edge of the box, but the Loko keeper was able to deal with them. 
+
+![](/2025-05-25/501345606_1451671079477238_4834083713293981981_n.jpg)
 
 Disaster struct later in the half when Patrick and Chris closed the door in the Loko striker who decided to go to the ground. Coward.
 
@@ -81,8 +87,11 @@ What else but a full field tonk from the CB which allowed the winger to split Ia
 
  
 ## Man of the Match
-Back from visiting La Masia, Declan always seemed to have time on the ball and was a consistent outlet. Hugo also had a great game. Mt Cook 
+Back from visiting La Masia, Declan always seemed to have time on the ball and was a consistent outlet. Hugo also had a great game. Mt Cook boys repping it.
+
 
 ## Dick of the Day
 Wearing the laundry day special all white kit, Ryan managed to get penalized for a pass back from 20m out.
+
+![](/2025-05-25/500717840_9300576333377885_7200552670839191053_n.mp4)
 
