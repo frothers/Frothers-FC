@@ -78,6 +78,9 @@ export const AddPlayers: React.FC<AddPlayersProps> = (props) => {
       player.position = availablePlayers.find(
         (item) => item.name === dropdownValue
       ).position;
+
+      setDropdownValue("");
+
     } else {
       player.name = textValue;
     }
