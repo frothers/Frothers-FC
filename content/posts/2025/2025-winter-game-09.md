@@ -27,6 +27,7 @@ xi_and_subs = [
   "Jacob Williamson",
   "Stu Escott",
   "Charles Daily",
+  "Angus Hay-Chapman"
 ]
 motm = "Jacob Williamson"
 formation = "3-4-1-2"
