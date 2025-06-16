@@ -26,7 +26,7 @@ xi_and_subs = [
   "Declan Ward",
   "Jacob Williamson",
   "Stu Escott",
-  "Charles Daily"
+  "Charles Daily",
 ]
 motm = "Jacob Williamson"
 dotd = ""
