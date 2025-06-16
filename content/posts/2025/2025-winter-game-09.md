@@ -29,7 +29,6 @@ xi_and_subs = [
   "Charles Daily",
 ]
 motm = "Jacob Williamson"
-dotd = ""
 formation = "3-4-1-2"
 
 +++
