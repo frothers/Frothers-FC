@@ -70,7 +70,9 @@ Some suspect dealings at the pub from Declan 💸.
 ![](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTJjaG1ybmtzeGM2cnR0cTl4YmVsbmZxZnhzZ3hpc2tjdG90ZWtnbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rfQDkb40gmB2w/giphy.gif)
 
 ## Man of the match
-**Jacob** put in a shift in keeper, having to save several one-on-ones. Also looking more comfortable leading the line every week.
+**Jacob** put in a shift in keeper, having to save several one-on-ones. Also looking more comfortable leading the line every week. And still managed to pay the bills.
 
 ## Dick of the day 
-**Farshid** somehow came out with positive fines this week, the international markets all took a nosedive 📉.
+**Farshid** somehow came out with positive fines this week, the international markets all took a nosedive 📉, nothing is true anymore.
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZqNGg3OHBwejNrcDRvcjA5YjFzc2p2aGI3bmYxcGdraDdqYWdjNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HNp3ZsBEZSJTBhQXoN/giphy.gif)
