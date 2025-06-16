@@ -56,6 +56,8 @@ Jacob was in goal and decided he wanted to chance his arm at a penalty 💸. Lev
 
 Some good old fashioned pettiness from Patty to get a yellow 💸.
 
+Stu, back for a exhabition match before fatherhood, managed to pop the ball into Evan's face 💸.
+
 ## Post Match
 Some suspect dealings at the pub from Declan 💸.
 
