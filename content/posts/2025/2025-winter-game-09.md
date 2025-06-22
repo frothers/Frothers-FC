@@ -30,6 +30,7 @@ xi_and_subs = [
   "Angus Hay-Chapman"
 ]
 motm = "Jacob Williamson"
+dotd = "Farshid Shokoohi"
 formation = "3-4-1-2"
 
 +++
