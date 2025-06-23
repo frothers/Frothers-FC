@@ -25,14 +25,20 @@ xi_and_subs = [
   "Granger Scott",
   "Yarride Rosario",
   "Jacob Williamson",
-  "Oli Chapman"
+  "Oli Spicer",
+  "Andy",
+  "Dan",
+  "Hunter"
+
 ]
-motm = "Jacob Williamson"
-dotd = "Farshid Shokoohi"
+
+dotd = "Yarride Rosario"
+motm = "Milan Mrdalj"
 formation = "3-4-1-2"
 
 +++
  
+Mid season break and back to a bit of cup magic. The boys were struggling for numbers until hours before kickoff. Yet somehow managed to wrangle 4 subs by match time. 
 
 
 ## Man of the match
