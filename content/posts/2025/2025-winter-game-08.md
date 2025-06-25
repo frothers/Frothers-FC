@@ -25,7 +25,7 @@ xi_and_subs = [
   "Declan Ward",
   "Farshid Shokoohi",
   "Jacob Williamson",
-  "Granger Scott",
+  "Grainger Scott",
   "Evan Hanson"
 ]
 motm = "Declan Ward"
@@ -96,7 +96,7 @@ Back from visiting La Masia, Declan always seemed to have time on the ball and w
 
 
 ## Dick of the Day
-Wearing the laundry day special all white kit, Ryan managed to get penalized for a pass back from 20m out.
+Wearing the laundry day special all white kit, Ryan managed to get penalised for a pass back from 20m out.
 
 
 {{< vimeo 1087883634>}}

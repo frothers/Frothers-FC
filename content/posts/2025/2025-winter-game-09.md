@@ -22,7 +22,7 @@ xi_and_subs = [
   "Hugo Lawrence",
   "Evan Hanson",
   "Yarride Rosario",
-  "Granger Scott",
+  "Grainger Scott",
   "Declan Ward",
   "Jacob Williamson",
   "Stu Escott",

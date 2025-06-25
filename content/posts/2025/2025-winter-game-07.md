@@ -22,7 +22,7 @@ xi_and_subs = [
   "Lance Molyneaux",
   "Ian Rayns",
   "Hugo Lawrence",
-  "Granger Scott",
+  "Grainger Scott",
   "Jacob Williamson",
   "Yarride Rosario",
   "Evan Hanson"
@@ -39,7 +39,7 @@ scorer = "Evan Hanson"
 goals = 2
 
 [[scorers]]
-scorer = "Granger Scott"
+scorer = "Grainger Scott"
 goals = 2
 
 [[scorers]]
@@ -55,7 +55,7 @@ goals = 1
 
 Pickings were slim with a few injuries over the last week. Oli decided to also risk the onset of hypothermia to back the boys, making an early play for Frother of the year. 
 
-Luckily the boys were able to recruit some new ring in talent to bolster the ranks this week. The theme was USA, with Granger back for summer break for playing GK in the states, and Michael donning the state trooper moustache and straight cut look.
+Luckily the boys were able to recruit some new ring in talent to bolster the ranks this week. The theme was USA, with Grainger back for summer break for playing GK in the states, and Michael donning the state trooper moustache and straight cut look.
 
 ## First half
 
@@ -71,7 +71,7 @@ Next up a classic Farshid run kicked off a move across the box where Yarride set
 
 > 2-0
 
-Next up was Granger, who also laced one into the bottom corner.
+Next up was Grainger, who also laced one into the bottom corner.
 
 > 3-0
 
@@ -111,7 +111,7 @@ Evan dropped a filthy meg in the box and pick up his second.
 
 > 7-1
 
-Granger was denied a second goal by a dubious offside call, was was fed by Jacob moments later to get his second.
+Grainger was denied a second goal by a dubious offside call, was was fed by Jacob moments later to get his second.
 
 > 8-1
 
