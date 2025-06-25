@@ -5,7 +5,7 @@ author = "Chris"
 date = 2025-06-22T13:00:00.000Z
 draft = false
 type = "post"
-images = ["/2025-05-25/499416262_1451670522810627_4577585154714453587_n.jpg"]
+images = ["/images/109335781_3103629576529993_1107525944104167984_o.jpg"]
 match = true
 team = "OG Frothers"
 opponent = "V-Well FC"
@@ -111,6 +111,7 @@ The other horseman of the rout was also soon to show-up. Ian came charging forwa
 
 In the last minute of the match Milan and Yarride were toying with the keeper's life. A 1-2-3 pass to sweat him to death and finish Yarride's hattrick.
 
+> 9-2
 
 ## Man of the match
 He's no dead yet! **Milan** finally found the goal again just games away from retirement. An assist to sweeten the pot too.
