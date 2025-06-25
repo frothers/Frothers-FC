@@ -11,7 +11,7 @@ team = "OG Frothers"
 opponent = "V-Well FC"
 season = "winter"
 result = "Win"
-frother_goals = 8
+frother_goals = 9
 opponent_goals = 2
 xi_and_subs = [
   "Ryan Kindell",
@@ -45,6 +45,14 @@ goals = 1
 
 [[scorers]]
 scorer = "Lance Molyneaux"
+goals = 1
+
+[[scorers]]
+scorer = "Yarride Rosario"
+goals = 3
+
+[[scorers]]
+scorer = "Ian Rayns"
 goals = 1
 
 
