@@ -31,6 +31,10 @@ xi_and_subs = [
   "Hunter"
 ]
 
+dotd = "Yarride Rosario"
+motm = "Milan Mrdalj"
+formation = "3-4-1-2"
+
 [[scorers]]
 scorer = "Jacob Williamson"
 goals = 1
@@ -54,12 +58,6 @@ goals = 3
 [[scorers]]
 scorer = "Ian Rayns"
 goals = 1
-
-
-
-dotd = "Yarride Rosario"
-motm = "Milan Mrdalj"
-formation = "3-4-1-2"
 
 +++
  
