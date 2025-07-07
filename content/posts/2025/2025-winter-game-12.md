@@ -31,7 +31,7 @@ xi_and_subs = [
 
 dotd = "Angus Hay-Chapman"
 motm = "Farshid Shokoohi"
-formation = "4-3-3"
+
 
 [[scorers]]
 scorer = "Farshid Shokoohi"
