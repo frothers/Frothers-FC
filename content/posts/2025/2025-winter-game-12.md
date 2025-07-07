@@ -17,21 +17,31 @@ xi_and_subs = [
   "Ryan Kindell",
   "Finn Harland",
   "Chris Chester",
+  "Angus Hay-Chapman",
   "Ian Rayns",
-  "Farshid Shokoohi",
   "Lance Molyneaux",
   "Evan Hanson",
+  "Farshid Shokoohi",
   "Oli Spicer",
-  "Declan Ward",
   "Jacob Williamson",
   "Yarride Rosario",
-  "Angus Hay-Chapman",
+  "Declan Ward",
   "Hunter",
 ]
 
 dotd = "Angus Hay-Chapman"
 motm = "Farshid Shokoohi"
 formation = "4-3-3"
+
+[[scorers]]
+scorer = "Farshid Shokoohi"
+goals = 1
+[[scorers]]
+scorer = "Chris Chester"
+goals = 2
+[[scorers]]
+scorer = "Yarride Rosario"
+goals = 1
 
 +++
  
@@ -80,5 +90,7 @@ Some good contenders this week. Big shout out to anyone giving up a pen to your 
 
 ## Dick of the Day
 Some good laughs out there. A sniper was in full effect bringing down the boys. Some terrible trevella atempts from Evan and Ryan, one leading to a goal. Yarride had the pitching wedge out for everything except his goal. This week it goes to Angus, who has having a full anurism about the half a dozen things. Breakup Brain.
+
+
 
 
