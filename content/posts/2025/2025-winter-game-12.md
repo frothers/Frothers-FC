@@ -65,7 +65,7 @@ The boys were feeling it a bit more, though still having to work for it.
 
 A dubious passback resulted in a freekick on the left wing, don't ask, the resulting ball in found its way to Oli, who managed to volley it straight into the Mark Ave defenders arm on the line. Penalty.
 
-The boys didn't fancy it and pulled Chris up from deep to give him a chance to add to his talley for the season. Sending the keeper the wrong way the Frothers were in the lead!
+The boys didn't fancy it and pulled Chris up from deep to give him a chance to add to his tally for the season. Sending the keeper the wrong way the Frothers were in the lead!
 
 > 2-1
 
@@ -77,7 +77,7 @@ The Frothers were getting into the flow now. Farshid, looking like a different b
 
 > 4-1
 
-Mark Ave managed to pull one back with a shot from the edge of the box that got a tragic **over** call from Angus, before ducking under the bar.
+Mark Ave managed to pull one back with a shot from the edge of the box that got a tragic **over** call from Angus, before sneaking under the bar.
 
 > 4-2
 
