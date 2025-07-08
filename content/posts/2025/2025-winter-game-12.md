@@ -89,7 +89,7 @@ The boys held on for a well fought win.
 Some good contenders this week. Big shout out to anyone giving up a pen to your boy. Jacob with some more great forward work. This week it goes to Farshid for defying the haters and putting in a master class down the right.
 
 ## Dick of the Day
-Some good laughs out there. A sniper was in full effect bringing down the boys. Some terrible trevella atempts from Evan and Ryan, one leading to a goal. Yarride had the pitching wedge out for everything except his goal. This week it goes to Angus, who was having a full anurism about half a dozen things. Breakup Brain.
+Some good laughs out there. A sniper was in full effect bringing down the boys. Some terrible trevella atempts from Evan and Ryan, one leading to a goal. Yarride had the pitching wedge out for everything except his goal. This week it goes to Angus, who was having a full aneurysm because of half a dozen things. Breakup Brain.
 
 
 
