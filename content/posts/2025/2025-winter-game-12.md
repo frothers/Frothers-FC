@@ -50,7 +50,7 @@ Up against Marks Ave, who were sporting a different line-up to recent memory.
 
 The Frothers were sporting their own Sol Campbell in the form of Angus, who was back to take on his old team.
 
-Mark Ave had the majority of the control in the first half. The Frothers finding it hard to find their structure. Mark Ave managed to grab the lead through a passback that Ryan tried to put some extra sauce on, but managed to whiff 🙈.
+Mark Ave had the majority of the control in the first half. The Frothers finding it hard to find their structure. Mark Ave managed to grab the lead through a passback that Ryan tried to put some extra sauce on 🙈.
 
 > 0-1
 
