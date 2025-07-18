@@ -26,7 +26,7 @@ xi_and_subs = [
   "Declan Ward",
   "Jacob Williamson",
   "Yarride Rosario",
-  "Ryan McInter",
+  "Ryan McInteer",
   "Hunter",
   "Mikey"
 ]
