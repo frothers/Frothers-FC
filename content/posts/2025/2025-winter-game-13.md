@@ -5,7 +5,7 @@ author = "Farshid"
 date = 2025-07-13T13:00:00.000Z 
 draft = false 
 type = "post" 
-images = ["/images/185858690_3381454598747488_5116422495976511446_n.jpg"] 
+images = ["/Screenshot_20250718-153206.png"] 
 match = true 
 team = "OG Frothers" 
 opponent = "Sunday Blazers" 
@@ -56,7 +56,7 @@ Yes, the first half kicked off with a healthy list of subs… but those dreams w
 
 Despite the off-field betrayal, Frothers started strong. The midfield was a battlefield. Ian laid down a tactical foul so beautiful it should be in the Louvre.
 
-![](/2025-07-13/Messenger_creation_A30D0843-3E91-4522-898B-CA12266FF29A.gif)
+![](/Messenger_creation_A30D0843-3E91-4522-898B-CA12266FF29A.gif)
 
 Not to be outdone, Farshid followed up minutes later with his own yellow-worthy tackle, purely out of FOMO.
 
@@ -96,7 +96,7 @@ Then came the magic. A free kick was awarded just past halfway. Jacob floated a 
 
 The ball fell to Farshid, who, in a moment of unexplainable grace, launched himself into a bicycle kick. The connection was sweet. Ronaldo-esque. Champions League vibes. Net bulged. Equaliser. Scenes.
 
-![](/2025-07-13/Screenshot_20250718-153206.png)
+![](/Screenshot_20250718-153206.png)
 
 …or it was just an open goal and a tap-in and he scored. Either way, they all count.
 
