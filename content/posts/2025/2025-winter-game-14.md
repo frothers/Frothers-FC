@@ -33,7 +33,6 @@ xi_and_subs = [
 dotd = "Farshid Shokoohi"
 motm = ""
 formation= "3-4-1-2"
-
 +++
 
 
