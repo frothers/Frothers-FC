@@ -40,6 +40,6 @@ formation= "3-4-1-2"
 
 ## Dick of the Day
 
-You already know who it is 
+![](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydDloa3JoMWl4ZGt3a3dzMWhzMHk0aHJkZXNuMHN6aTNhaWNueWd0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lqpUzcQUwxUeM2UUMh/giphy.gif)
 
 **Shokoohi**
