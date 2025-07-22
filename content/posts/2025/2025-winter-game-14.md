@@ -30,6 +30,10 @@ xi_and_subs = [
 "Evan Hanson",
 ]
 
+motm = "Yash Rosario"
+dotd = "Farshid Shokoohi"
+formation = "3-4-1-2"
+
 [[scorers]]
  scorer = "Jacob Williamson"
  goals = 2
@@ -40,9 +44,7 @@ goals = 2
 scorer = "Farshid Shokoohi"
 goals = 1
 
-motm= "Yash Rosario"
-dotd = "Farshid Shokoohi"
-formation= "3-4-1-2"
+
 +++
 
 Another Sunday, another 90 minutes of glorious football on display by the mighty Frothers. A 5-4 win against Loko that became more tense than it needed to but eventually was another 3 points in the bank. One obvious outcome however, with Farshid taking the captains armband, scoring and getting an assist, it was obvious he couldn’t be allowed to write the match report this week. Censorship deeper than the Epstein files. 
