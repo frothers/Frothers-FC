@@ -18,14 +18,16 @@ xi_and_subs = [
  "Ian Rayns",
  "Jacob Williamson",
  "Finn Harland",
- "Hugo Lawrence", 
- "Evan Hanson",
+"Farshid Shokoohi", 
+ "James Wilson",
  "Dylan Watts", 
- "Farshid Shokoohi", 
+ "Hugo Lawrence", 
  "Oli Spicer",  
- "Yarride Rosario", 
  "Declan Ward",
  "Aleksey Vakhroushev",
+"Yash Rosario*,
+"Yarride Rosario",
+"Evan Hanson",
 ]
 
 dotd = "Farshid Shokoohi"
