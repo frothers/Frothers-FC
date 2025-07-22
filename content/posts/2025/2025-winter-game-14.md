@@ -17,7 +17,7 @@ xi_and_subs = [
  "Ryan Kindell",
  "Ian Rayns",
  "Jacob Williamson",
- "Finn Harland",
+ "Patrick Moore",
 "Farshid Shokoohi", 
  "James Wilson",
  "Dylan Watts", 
