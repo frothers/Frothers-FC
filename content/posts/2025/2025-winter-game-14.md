@@ -30,6 +30,17 @@ xi_and_subs = [
 "Evan Hanson",
 ]
 
+[[scorers]]
+ scorer = "Jacob Williamson"
+ goals = 2
+[[scorers]] 
+scorer = "Aleksey Vakhroushev" 
+goals = 2
+[[scorers]] 
+scorer = "Farshid Shokoohi"
+goals = 1
+
+motm= "Yash Rosario"
 dotd = "Farshid Shokoohi"
 formation= "3-4-1-2"
 +++
