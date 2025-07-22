@@ -10,9 +10,9 @@ match = true
 team = "OG Frothers"
 opponent = "Loko"
 season = "winter"
-result = "Draw"
-frother_goals = 0
-opponent_goals = 0
+result = "Win"
+frother_goals = 5
+opponent_goals = 4
 xi_and_subs = [
  "Ryan Kindell",
  "Ian Rayns",
@@ -25,7 +25,7 @@ xi_and_subs = [
  "Oli Spicer",  
  "Declan Ward",
  "Aleksey Vakhroushev",
-"Yash Rosario*,
+"Yash Rosario",
 "Yarride Rosario",
 "Evan Hanson",
 ]
