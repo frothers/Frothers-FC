@@ -1,7 +1,7 @@
 +++ 
 title = "Game 14 - Winter 2025"
 description = "Frothers VS Loko"
-author = "Farshid"
+author = "Yarride"
 date = 2025-07-20T13:00:00.000Z
 draft = false
 type = "post"
