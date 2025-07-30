@@ -17,7 +17,7 @@ xi_and_subs = [
  "Ryan Kindell",
  "Ian Rayns",
  "Jacob Williamson",
- "Ryan McIntyre",
+ "Ryan McInteer",
  "Farshid Shokoohi", 
  "Lance Molyneaux",
  "Charles Daily", 
