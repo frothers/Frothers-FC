@@ -20,13 +20,13 @@ xi_and_subs = [
  "Finn Harland",
  "Hugo Lawrence", 
  "Evan Hanson",
- "Hunter", 
+ "Hunter Fromont", 
  "Farshid Shokoohi", 
  "Oli Spicer",  
  "Yarride Rosario", 
  "Declan Ward", 
  "Theo", 
- "Mikey",
+ "Michael Bell",
  "Ryan McInteer"
 ]
 

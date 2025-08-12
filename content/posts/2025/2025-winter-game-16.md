@@ -5,7 +5,7 @@ author = "Chris"
 date = 2025-08-10T13:00:00.000Z
 draft = false
 type = "post"
-images = ["/20240407121829_IMG_0758.JPG"]
+images = ["/2025-08-10/526760816_2714638372070510_4473169138874503796_n.jpg"]
 match = true
 team = "OG Frothers"
 opponent = "Pelicans"
@@ -20,31 +20,60 @@ xi_and_subs = [
  "Chris Chester",
  "Patrick Moore",
 "James Wilson", 
- "Farshid Shokoohi", 
  "Lance Molyneaux",  
+ "Farshid Shokoohi", 
+"Declan Ward",
 "Yash Rosario",
 "Yarride Rosario",
+"Michael Bell",
+"Hunter Fromont",
+"Evan Hanson",
 ]
 
-motm = "Hugo Lawrence"
-dotd = "Ian Rayns"
-formation = "3-4-1-2"
+motm = "Michael Bell"
+dotd = "Ryan Kindell"
 
+
+[[scorers]]
+ scorer = "Farshid Shokoohi"
+ goals = 1
+
+
+[[scorers]]
+ scorer = "Michael Bell"
+ goals = 1
 +++
 
-It was one of those days where the Frothers showed up with 11 bodies, 10 hearts, and 0 luck.
+A week off which was welcome news for the wounded to come crawling back into the fold. A cold and windy afternoon at Wellington college welcomed the boys back.
 
-The game kicked off with optimism in the air… for about 9 minutes. Then Ian, full of promise and preseason hope, pulled something (his hammy, his groin, maybe his dignity), and gracefully bowed out of the match like a Victorian damsel fainting in a Jane Austen novel.
+Up against a pelicans side who were push overs last time we played, the Frothers thought we were in again when in the first minutes of the game Farshid was scything into the box after a good ball through by Declan. A late challenge after entering the box was enough to get the ref to call the penalty.
 
-Down to 10 men with 80+ minutes to go, the Frothers dug deep. Really deep. Like Mariana Trench levels of deep.
-But sadly, it was like trying to plug a leaky submarine with Blu Tack. One goal slipped through… then another… and another.
-The scoreboard looked like a cruel joke, but anyone watching knew the Frothers were fighting with everything they had—and one man down.
+Taking the ball himself, **Farshid** managed to not only put it on target but get enough juice on it that the keepers hand to it was ineffectual.
 
-## Hero of the Day
+> 1-0
 
-Hugo. Solo right-back warrior. After Ian abandoned the wing like it was a sinking ship, Hugo stayed behind to defend the flank like it was sacred land. Man of the Match, no question. May his calves recover swiftly.
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGhpNjI5bXF6eTV3dWl2dGVpcDN6ZWwyM25xcTBmNWpncG5mZWF5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bexWOVuPdYmlJhsVgv/giphy.gif)
+
+It was too good to be true, the boys were battling to form cohesive attacks from then.
+
+Before the end of the half **Evan** tried a cross clearance. There is a reason they haven't caught on, however. The Pelicans player latched onto it and levelled the score.
+
+> 1-1
+
+## Halftime
+
+The boys managed to keep the frost bite away and headed back out for another greasey half.
+
+After a half of battling it was looking like it would be a stalemate. But after 80 minutes of play the Frothers got their first corner of the match, and the boys didn't need to be asked twice.
+
+A back post cross by **James** was met by **Michael** for his first Frothers goal with a header just inside the post.
+
+> 2-1
+
+## Man of the Match
+After about 100 headers, including the match winner, **Michael** takes award for a great game.
 
 ## Dick of the Day
+Looking like a bad piece of AI corporate imagery, **Ryan** managed to grab the award by bringing two right hand gloves to the match.
 
-Ian. For trying to claim a clean sheet bonus after 10 minutes of cardio, two touches, and a gentle jog off the field.
-Nice try mate. But you don’t get a medal for showing up and immediately clocking out.
+![](/2025-08-10/slop.jpg)

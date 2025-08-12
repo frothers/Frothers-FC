@@ -24,7 +24,9 @@ let squadList = [
   "Dylan Watts",
   "Oli Spicer",
   "Jordan Young",
-  "Finn Harland"
+  "Finn Harland",
+  "Michael Bell",
+"Hunter Fromont",
 ];
 
 export function generic_pageFields() {

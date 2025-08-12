@@ -26,7 +26,9 @@ var squadList = [
   "Dylan Watts",
   "Oli Spicer",
   "Jordan Young",
-  "Finn Harland"
+  "Finn Harland",
+  "Michael Bell",
+  "Hunter Fromont"
 ];
 function squadFields() {
   return [

@@ -28,7 +28,7 @@ xi_and_subs = [
   "Oli Spicer",
   "Andy",
   "Dan",
-  "Hunter"
+  "Hunter Fromont"
 ]
 
 dotd = "Yarride Rosario"

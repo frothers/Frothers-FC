@@ -15,7 +15,7 @@ frother_goals = 8
 opponent_goals = 1
 xi_and_subs = [
   "Ryan Kindell",
-  "Michael",
+  "Michael Bell",
   "Chris Chester",
   "Patrick Moore",
   "Farshid Shokoohi",

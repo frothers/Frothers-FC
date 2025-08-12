@@ -28,7 +28,7 @@ xi_and_subs = [
   "Yarride Rosario",
   "Lance Molyneaux",
   "James Wilson",
-  "Hunter",
+  "Hunter Fromont",
   "Jordan Young",
 ]
 motm = "Oli Spicer"

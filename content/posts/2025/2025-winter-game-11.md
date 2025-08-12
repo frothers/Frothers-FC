@@ -27,8 +27,8 @@ xi_and_subs = [
   "Jacob Williamson",
   "Yarride Rosario",
   "Ryan McInteer",
-  "Hunter",
-  "Mikey"
+  "Hunter Fromont",
+  "Michael Bell"
 ]
 
 dotd = "Chris Chester"
