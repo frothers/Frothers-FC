@@ -57,10 +57,32 @@ The Frothers were having the best of the football (admittedly against 10 men), b
 > 1-0
 
 ## Halftime
-Tuskans were back to a full compliment, but this was good news for the Frothers who don't deal well with an imbalance in the force. 
+Tuskans were back to a full compliment, but this was good news for the Frothers who don't deal well with an imbalance in the force.
+
+Yarride decided to take one on from the edge of the box and managed to inexplicably sneak it in.
+
+![](https://tenor.com/vD4o.gif)
+
+> 2-0
+
+Following in the footsteps of the master, Arteta, Frothers again turned to being set piece merchants. Yarride delivered another great ball for Chris to nod home.
+
+![](https://tenor.com/bgGpZ.gif)
+
+> 3-0
+
+Smelling blood in the water, the mere presence of Yarride at the back post was enough to send the defence to panic stations. Never one to turn down cheap goals, Yarride calmly too the ball down and slotted it.
+
+![](https://tenor.com/bkB3z.gif)
+
+> 4-0
+
+Tuscans managed to pull one back through the tenacious scaling of Chris mountain on a corner.
+
+![](https://tenor.com/uLel.gif)
 
 ## Man of the Match
 Bossing the midfield, having a scorer just tipped over the bar and scoring the important first goal, **Oli** was today's chosen one.
 
 ## Dick of the Day
-To be honest, the picking were slim, so the award goes to the Frother who gave into greed and decided to go for goal from the first corner of the game, even though the Frothers now have the title of master at corners. **Yarride**
+To be honest, the picking were slim, so the award goes to the Frother who gave into greed and decided to go for goal from the first corner of the game, even though the Frothers now have the title of master at corners. **Yarride**.
