@@ -32,7 +32,7 @@ xi_and_subs = [
 formation = "3-4-1-2"
 
 motm = "Oli Spicer"
-dotd = "Yarride Rosario"
+dotd = "Farshid Shokoohi"
 
 
 [[scorers]]
@@ -47,12 +47,15 @@ dotd = "Yarride Rosario"
  goals = 1
 +++
 
-A long time ago in on a pitch far far away the Frothers were taught a bit of a lesson by the Tuscans. However, it was time for the Revenge of the Froth.
+A long time ago in on a pitch far far away the Frothers were taught a bit of a lesson by the Tuscans. However, it was time for **The Revenge of the Froth**.
 
-![](/2025-08-17/froth-wars2.png)
-A Tuskan side without the guns or the man-bun, there was a New Hope for the boys in purple.
+![](/2025-08-17/frother-wars2.png)
 
-The Frothers were having the best of the football (admittedly against 10 men), but couldn't quite find the opening goal. It wasn't until late in the half when Oli played an outside of the foot cross in to Yash, who kindly held it up for Oli to come back in for a second bite.
+A Tuskans side without the guns or the man-bun, there was a **New Hope** for the boys in purple.
+
+
+## First Half
+The Frothers were having the best of the football (admittedly against 10 men), but couldn't quite find the opening goal. It wasn't until late in the half when Oli played an outside of the foot cross in to Yash, who kindly held it up for Oli to come back in for a second bite. **Return of the Dead Eye**
 
 > 1-0
 
@@ -61,28 +64,32 @@ Tuskans were back to a full compliment, but this was good news for the Frothers 
 
 Yarride decided to take one on from the edge of the box and managed to inexplicably sneak it in.
 
-![](https://tenor.com/vD4o.gif)
+![](https://media1.tenor.com/m/Ja9Ji3jz3YEAAAAd/star-wars-obiwan.gif)
 
 > 2-0
 
 Following in the footsteps of the master, Arteta, Frothers again turned to being set piece merchants. Yarride delivered another great ball for Chris to nod home.
 
-![](https://tenor.com/bgGpZ.gif)
+![](https://media1.tenor.com/m/BM4C3bXmz2wAAAAd/clone-wars-star-wars.gif)
 
 > 3-0
 
 Smelling blood in the water, the mere presence of Yarride at the back post was enough to send the defence to panic stations. Never one to turn down cheap goals, Yarride calmly too the ball down and slotted it.
 
-![](https://tenor.com/bkB3z.gif)
+![](https://media1.tenor.com/m/eyubxiGAADwAAAAd/anakin-star-wars.gif)
 
 > 4-0
 
-Tuscans managed to pull one back through the tenacious scaling of Chris mountain on a corner.
+Tuscans managed to pull one back through the tenacious scaling of Chester mountain on a corner. **Revenge for the fifth**.
 
-![](https://tenor.com/uLel.gif)
+![](https://media1.tenor.com/m/s2q63Iz1IIAAAAAd/tuskenpcd.gif)
 
 ## Man of the Match
-Bossing the midfield, having a scorer just tipped over the bar and scoring the important first goal, **Oli** was today's chosen one.
+Bossing the midfield, having a screamer just tipped over the bar, and scoring the important first goal, **Oli** was today's chosen one.
+
+The force is strong with this one
 
 ## Dick of the Day
-To be honest, the picking were slim, so the award goes to the Frother who gave into greed and decided to go for goal from the first corner of the game, even though the Frothers now have the title of master at corners. **Yarride**.
+To be honest, the picking were slim, so the award goes to the Frother who gave into greed and decided to go for goal from the first corner of the game, even though the Frothers now have the title of master at corners. Hold on... is that a moon?
+
+That's no moon, its a beat up old black sweatshirt. **The Shokoohi strikes back**
