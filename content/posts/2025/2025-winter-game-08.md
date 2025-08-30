@@ -33,7 +33,7 @@ dotd = "Ryan Kindell"
 formation = "3-4-1-2"
 
 [[scorers]]
-scorer = "Jacob Williamson"
+scorer = "Chris Chester"
 goals = 1
 
 [[scorers]]
