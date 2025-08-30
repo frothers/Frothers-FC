@@ -247,7 +247,7 @@
   {
     "player": "Milan Mrdalj",
     "award": "Frother of the Year",
-    "year": 2023
+    "year": 2024
   },
   {
     "player": "Yarride Rosario",
@@ -313,5 +313,55 @@
     "player": "Jacob Williamson",
     "award": "Freeman",
     "year": 2024
+  },
+  {
+    "player": "Oli Spicer",
+    "award": "Best Rookie",
+    "year": 2025
+  },
+  {
+    "player": "Patrick Moore",
+    "award": "Most Improved Player",
+    "year": 2025
+  },
+  {
+    "player": "Evan Hanson",
+    "award": "Goal of the Season",
+    "year": 2025
+  },
+  {
+    "player": "Lance Molyneaux",
+    "award": "Assist of the Season",
+    "year": 2025
+  },
+  {
+    "player": "James Wilson",
+    "award": "Glassman",
+    "year": 2025
+  },
+  {
+    "player": "Declan Ward",
+    "award": "Stormtrooper",
+    "year": 2025
+  },
+  {
+    "player": "Farshid Shokoohi",
+    "award": "Academy Award",
+    "year": 2025
+  },
+  {
+    "player": "Patrick Moore",
+    "award": "Goon",
+    "year": 2025
+  },
+  {
+    "player": "Farshid Shokoohi",
+    "award": "Freeman",
+    "year": 2025
+  },
+  {
+    "player": "Farshid Shokoohi",
+    "award": "Frother of the Year",
+    "year": 2025
   }
 ]
