@@ -47,6 +47,18 @@ goals = 2
 [[scorers]]
 scorer = "Evan Hanson"
 goals = 3
+[[assist]]
+assister = "Yarride Rosario"
+assists = 3
+[[assist]]
+assister = "Lance Molyneaux"
+assists = 1
+[[assist]]
+assister = "James Wilson"
+assists = 1
+[[assist]]
+assister = "Oli Spicer"
+assists = 1
 +++
 
 The boys were back on a classic Wellington pitch, hidden away down a cul-de-sac with uneven grass and more bumps than a Friday evening landing.

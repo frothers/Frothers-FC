@@ -54,6 +54,27 @@ goals = 1
 [[scorers]]
 scorer = "Evan Hanson"
 goals = 1
+[[assist]]
+assister = "Yarride Rosario"
+assists = 2
+[[assist]]
+assister = "Lance Molyneaux"
+assists = 1
+[[assist]]
+assister = "James Wilson"
+assists = 1
+[[assist]]
+assister = "Patrick Moore"
+assists = 1
+[[assist]]
+assister = "Declan Ward"
+assists = 1
+[[assist]]
+assister = "Hugo Lawrence"
+assists = 1
+[[assist]]
+assister = "Ian Rayns"
+assists = 1
 +++
 
 An absolute hit out

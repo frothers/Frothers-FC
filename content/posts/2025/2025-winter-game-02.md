@@ -48,6 +48,15 @@ goals = 1
 [[scorers]]
 scorer = "Yarride Rosario"
 goals = 1
+[[assist]]
+assister = "Patrick Moore"
+assists = 1
+[[assist]]
+assister = "Oli Spicer"
+assists = 1
+[[assist]]
+assister = "Ian Rayns"
+assists = 1
 +++
 
 An early game after daylight savings and a few boys deciding to hit the town the night before saw the Frothers already scrambling for ring-ins. Up against a V-Well team with 6+ subs the Frothers could well be in store for a up hill battle.

@@ -58,9 +58,26 @@ goals = 3
 [[scorers]]
 scorer = "Ian Rayns"
 goals = 1
-
+[[assist]]
+assister = "Yarride Rosario"
+assists = 1
+[[assist]]
+assister = "Lance Molyneaux"
+assists = 1
+[[assist]]
+assister = "Evan Hanson"
+assists = 1
+[[assist]]
+assister = "Farshid Shokoohi"
+assists = 1
+[[assist]]
+assister = "Hunter Fromont"
+assists = 1
+[[assist]]
+assister = "Milan Mrdalj"
+assists = 1
 +++
- 
+
 Mid season break and back to a bit of cup magic. The boys were struggling for numbers until hours before kickoff yet somehow managed to wrangle 4 subs by match time. 
 
 Up against V-Well who we beat comfortable last time out with Shokoohi sustaining a permanent disfigurement. With a punch-up in the match beforehand more violence was in the air..

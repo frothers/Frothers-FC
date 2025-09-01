@@ -50,6 +50,15 @@ goals = 1
 [[scorers]]
 scorer = "Hugo Lawrence"
 goals = 1
+[[assist]]
+assister = "Lance Molyneaux"
+assists = 4
+[[assist]]
+assister = "Jacob Williamson"
+assists = 1
+[[assist]]
+assister = "Patrick Cameron"
+assists = 1
 +++
 
 The Frothers train keeps a rolling.
@@ -111,4 +120,4 @@ A few good options. Oli kicking off his goal scoring with a opportunistic hattri
 ## Dick of the day 
 Equally as many good options. Lance went prime storm trooper by missing a boat load of chances to score himself, most notably heading a ball straight into the keepers head after Evans shot off the bar.
 
-Yarride got denied another goal scoring opportunity by the keeper outside the box, to only receive a yellow, for the second week running... Also rounded the keeper on another occasion to only out run the ball, denying himself a hattrick. Actually, thinking about it, it does go to Yarride. 
+Yarride got denied another goal scoring opportunity by the keeper outside the box, to only receive a yellow, for the second week running... Also rounded the keeper on another occasion to only out run the ball, denying himself a hattrick. Actually, thinking about it, it does go to Yarride.

@@ -36,6 +36,9 @@ formation = "3-4-1-2"
 [[scorers]]
 scorer = "Jacob Williamson"
 goals = 1
+[[assist]]
+assister = "Farshid Shokoohi"
+assists = 1
 +++
 
 It was a crisp Wellington afternoon, and Frothers FC showed up in their royal purple, ready to dance with the Blazers who, judging by their early goal, came dressed for business.
