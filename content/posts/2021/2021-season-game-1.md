@@ -27,6 +27,51 @@ scorer = "Yarride Rosario"
 goals = 1
 scorer = "Jamie Hatch"
 
+[[assist]]
+player = "Lance Molyneaux"
+assists = 4
+[[assist]]
+player = "Yarride Rosario"
+assists = 5
+[[assist]]
+player = "Evan Hanson"
+assists = 7
+[[assist]]
+player = "Milan Mrdalj"
+assists = 2
+[[assist]]
+player = "Thomas Sule"
+assists = 6
+[[assist]]
+player = "Charles Daily"
+assists = 2
+[[assist]]
+player = "Jamie Hatch"
+assists = 1
+[[assist]]
+player = "Jarrod Murray"
+assists = 2
+[[assist]]
+player = "Harry Furnish"
+assists = 3
+[[assist]]
+player = "Chris Chester"
+assists = 1
+[[assist]]
+player = "Ryan Kindell"
+assists = 1
+[[assist]]
+player = "Alex Winsley"
+assists = 2
+[[assist]]
+player = "Angus Hay-Chapman"
+assists = 1
+[[assist]]
+player = "Nick Jones"
+assists = 1
+[[assist]]
+player = "Sam Abbiss"
+assists = 1
 
 +++
 # Next Generation of Frothers

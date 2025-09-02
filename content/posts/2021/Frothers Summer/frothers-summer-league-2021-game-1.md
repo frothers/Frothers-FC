@@ -30,6 +30,43 @@ scorer = "Harry Furnish"
 goals = 1
 scorer = "Yarride Rosario"
 
+[[assist]]
+player = "Lance Molyneaux"
+assists = 5
+[[assist]]
+player = "Yarride Rosario"
+assists = 5
+[[assist]]
+player = "Evan Hanson"
+assists = 7
+[[assist]]
+player = "Milan Mrdalj"
+assists = 1
+[[assist]]
+player = "Jacob Williamson"
+assists = 1
+[[assist]]
+player = "Jamie Bunting"
+assists = 1
+[[assist]]
+player = "Charles Daily"
+assists = 4
+[[assist]]
+player = "Jamie Hatch"
+assists = 4
+[[assist]]
+player = "Harry Furnish"
+assists = 1
+[[assist]]
+player = "Alain Bruner"
+assists = 4
+[[assist]]
+player = "Nestor Behring"
+assists = 2
+[[assist]]
+player = "Will Sule"
+assists = 2
+
 
 +++
 The step down to Div2 had the Frothers facing new opposition in the Geckos. The new season gave official Frother debuts to **Bunting**, **Will,** and **Alain** after being ring-ins in the past, and they all showed their class early on as the Frothers took charge from the kickoff. Good link-up play between **Alain** and **Will** saw **Yarride** teed up for a shot but the keeper made a good low save.

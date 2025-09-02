@@ -44,6 +44,50 @@ goals = 1
 [[scorers]]
 scorer = "Yarride Rosario"
 goals = 1
+
+[[assist]]
+player = "Lance Molyneaux"
+assists = 10
+[[assist]]
+player = "Yarride Rosario"
+assists = 4
+[[assist]]
+player = "Evan Hanson"
+assists = 3
+[[assist]]
+player = "Farshid Shokoohi"
+assists = 4
+[[assist]]
+player = "Milan Mrdalj"
+assists = 3
+[[assist]]
+player = "Ian Rayns"
+assists = 2
+[[assist]]
+player = "Oli Spicer"
+assists = 3
+[[assist]]
+player = "James Wilson"
+assists = 3
+[[assist]]
+player = "Aleksey Vakhroushev"
+assists = 7
+[[assist]]
+player = "Hugo Lawrence"
+assists = 2
+[[assist]]
+player = "Dylan Watts"
+assists = 4
+[[assist]]
+player = "Chris Chester"
+assists = 1
+[[assist]]
+player = "Ryan Kindell"
+assists = 1
+[[assist]]
+player = "Pratik Das"
+assists = 1
+
 +++
 
 # Game 2 - League
