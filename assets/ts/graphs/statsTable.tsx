@@ -82,6 +82,11 @@ function StatsTable ({ season }: { season: string }) {
         size: 100,
       },
       {
+        accessorKey: "assists",
+        header: "Assists",
+        size: 100,
+      },
+      {
         accessorKey: "motm",
         header: "MotM",
         size: 100,

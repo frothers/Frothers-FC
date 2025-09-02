@@ -58,24 +58,31 @@ goals = 3
 [[scorers]]
 scorer = "Ian Rayns"
 goals = 1
+
 [[assist]]
-assister = "Yarride Rosario"
+player = "Yarride Rosario"
 assists = 1
+
 [[assist]]
-assister = "Lance Molyneaux"
+player = "Lance Molyneaux"
 assists = 1
+
 [[assist]]
-assister = "Evan Hanson"
+player = "Evan Hanson"
 assists = 1
+
 [[assist]]
-assister = "Farshid Shokoohi"
+player = "Farshid Shokoohi"
 assists = 1
+
 [[assist]]
-assister = "Hunter Fromont"
+player = "Hunter Fromont"
 assists = 1
+
 [[assist]]
-assister = "Milan Mrdalj"
+player = "Milan Mrdalj"
 assists = 1
+
 +++
 
 Mid season break and back to a bit of cup magic. The boys were struggling for numbers until hours before kickoff yet somehow managed to wrangle 4 subs by match time. 

@@ -45,6 +45,20 @@ dotd = "Farshid Shokoohi"
 [[scorers]]
  scorer = "Chris Chester"
  goals = 1
+
+[[assist]]
+player = "Yarride Rosario"
+assists = 1
+
+[[assist]]
+player = "Lance Molyneaux"
+assists = 1
+
+[[assist]]
+player = "Hunter Fromont"
+assists = 1
+
+
 +++
 
 A long time ago in on a pitch far far away the Frothers were taught a bit of a lesson by the Tuscans. However, it was time for **The Revenge of the Froth**.

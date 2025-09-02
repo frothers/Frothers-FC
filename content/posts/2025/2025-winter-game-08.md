@@ -39,6 +39,15 @@ goals = 1
 [[scorers]]
 scorer = "Farshid Shokoohi"
 goals = 1
+
+[[assist]]
+player = "Evan Hanson"
+assists = 1
+
+[[assist]]
+player = "Jacob Williamson"
+assists = 1
+
 +++
  
 Back at the Prince of Wales, the Frothers were up again the familiar opposition of Loko.

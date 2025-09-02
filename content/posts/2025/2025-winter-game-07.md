@@ -49,6 +49,27 @@ goals = 1
 [[scorers]]
 scorer = "Chris Chester"
 goals = 1
+
+[[assist]]
+player = "Yarride Rosario"
+assists = 1
+
+[[assist]]
+player = "Evan Hanson"
+assists = 3
+
+[[assist]]
+player = "Jacob Williamson"
+assists = 1
+
+[[assist]]
+player = "Patrick Moore"
+assists = 1
+
+[[assist]]
+player = "Hugo Lawrence"
+assists = 1
+
 +++
 
 5pm in the wind and the rain at St Pats.

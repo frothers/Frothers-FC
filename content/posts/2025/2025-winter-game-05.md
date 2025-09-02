@@ -51,13 +51,15 @@ goals = 1
 scorer = "Hugo Lawrence"
 goals = 1
 [[assist]]
-assister = "Lance Molyneaux"
+player = "Lance Molyneaux"
 assists = 4
+
 [[assist]]
-assister = "Jacob Williamson"
+player = "Jacob Williamson"
 assists = 1
+
 [[assist]]
-assister = "Patrick Cameron"
+player = "Patrick Cameron"
 assists = 1
 +++
 

@@ -9,6 +9,7 @@ export type Frother = {
     url: string;
     appearances: number;
     goals: number;
+    assists: number;
     motm: number;
     dotd: number;
     cleansheet: number;
@@ -45,7 +46,9 @@ export type chartAppearancesData = {
 export type matchGoals = {
     t: Date,
     goals: number,
-    y: number
+    y: number,
+    assists: number,
+    ya: number
 };
 
 export type matchAppearances = {
@@ -84,6 +87,7 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
             name: 'default',
             appearances: 0,
             goals: 0,
+            assists: 0,
             motm: 0,
             dotd: 0,
             cleansheet: 0,
@@ -116,6 +120,8 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
         });
 
         frother.goals = frotherGoals ? frotherGoals?.data[frotherGoals.data.length-1].y : 0;
+        frother.assists = frotherGoals ? frotherGoals?.data[frotherGoals.data.length-1].ya : 0;
+
         frother.url = appearance.label.toLowerCase().replace(" ","-");
         
         statsTableData.push(frother);
@@ -330,14 +336,14 @@ export let parseGoalsData = async function (year?: number, season?: string, squa
     let scorers = _.map(_.flatten(_.map(data, "scorers")), "scorer");
     let squadData = await getSquadData(squadName);
 
-    scorers = scorers.concat(squadData.players);
-    let scorerNames = _.uniq(scorers);
+    let players = scorers.concat(squadData.players);
+    let playerNames = _.uniq(players);
 
-    let playerData = scorerNames.map(name => {
+    let playerData = playerNames.map(name => {
         let record: chartGoalsData = {
             "label": name,
             "fill": false,
-            "data": []
+            "data": [],
         }
         return record;
     });
@@ -348,24 +354,36 @@ export let parseGoalsData = async function (year?: number, season?: string, squa
 
     // Change it from Game to Scorer for the key, then make it cumulative
     data.forEach(game => {
-        scorerNames.forEach((scorer) => {
-            let playerIndex = playerData.findIndex(e => e.label == scorer)
-            let scorerIndex = game.scorers.findIndex(e => e.scorer == scorer)
+        playerNames.forEach((player) => {
+            let playerIndex = playerData.findIndex(e => e.label == player)
+            let scorerIndex = game.scorers.findIndex(e => e.scorer == player)
+            let assistIndex = game.assists.findIndex(e => e.player == player)
 
-            let lastMatch = playerData[playerIndex].data[playerData[playerIndex].data.length - 1] || { y: 0 };
-            let prevTotal = lastMatch.y;
+            let lastMatch = playerData[playerIndex].data[playerData[playerIndex].data.length - 1] || { y: 0, ya: 0 };
+
+
+            let prevTotaly = lastMatch.y;
+            let prevTotalya = lastMatch.ya;
 
             let goals = 0;
+            let assists = 0;
 
             if (scorerIndex > -1) {
                 goals = game.scorers[scorerIndex].goals
             }
+            if (assistIndex > -1) {
+                assists = game.assists[assistIndex].assists
+            }
 
-            playerData[playerIndex].data.push({
+            let matchData: matchGoals = {
                 "t": game.date,
                 "goals": goals,
-                "y": prevTotal + goals
-            })
+                "y": prevTotaly + goals,
+                "assists": assists,
+                "ya": prevTotalya + assists
+            }
+
+            playerData[playerIndex].data.push(matchData)
         })
     })
 
@@ -377,7 +395,9 @@ export let parseGoalsData = async function (year?: number, season?: string, squa
                 result[year] = {
                     t: Date.parse(year.toString()),
                     goals: obj.goals + (result[year] ? result[year].goals : 0),
-                    y: obj.goals + (result[year] ? result[year].goals : 0)
+                    y: obj.goals + (result[year] ? result[year].goals : 0),
+                    assists: obj.assists + (result[year] ? result[year].assists : 0),
+                    ya: obj.assists + (result[year] ? result[year].assists : 0),
                 };
                 return result;
             }, {}));
@@ -385,6 +405,7 @@ export let parseGoalsData = async function (year?: number, season?: string, squa
             // Add up
             playerData[index].data.forEach((yearGoals, index2) => {
                 playerData[index].data[index2].y = yearGoals.y + (playerData[index].data[index2 - 1] ? playerData[index].data[index2 - 1].y : 0);
+                playerData[index].data[index2].ya = yearGoals.ya + (playerData[index].data[index2 - 1] ? playerData[index].data[index2 - 1].ya : 0);
             })
         });
     }

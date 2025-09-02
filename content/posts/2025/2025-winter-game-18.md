@@ -47,6 +47,18 @@ dotd = "Jacob Williamson"
  scorer = "Yarride Rosario"
  goals = 1
 
+[[assist]]
+player = "Yarride Rosario"
+assists = 2
+
+[[assist]]
+player = "Evan Hanson"
+assists = 1
+
+[[assist]]
+player = "Oli Spicer"
+assists = 1
+
 +++
 
 Fresh off the end of year celebration with a handful of new awards being distributed around the squad the boys were out to solidify their standing, or prove the haters wrong.

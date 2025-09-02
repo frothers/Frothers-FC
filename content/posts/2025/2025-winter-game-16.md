@@ -38,10 +38,14 @@ dotd = "Ryan Kindell"
  scorer = "Farshid Shokoohi"
  goals = 1
 
-
 [[scorers]]
  scorer = "Michael Bell"
  goals = 1
+
+[[assist]]
+player = "James Wilson"
+assists = 1
+
 +++
 
 A week off which was welcome news for the wounded to come crawling back into the fold. A cold and windy afternoon at Wellington college welcomed the boys back.

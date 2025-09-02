@@ -44,6 +44,17 @@ goals = 2
 scorer = "Farshid Shokoohi"
 goals = 1
 
+[[assist]]
+player = "Yarride Rosario"
+assists = 2
+
+[[assist]]
+player = "Evan Hanson"
+assists = 1
+
+[[assist]]
+player = "Farshid Shokoohi"
+assists = 1
 
 +++
 

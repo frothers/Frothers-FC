@@ -19,8 +19,14 @@ export type postData = {
   permalink: string;
   motm: string;
   dotd: string;
-  scorers: any[];
+  scorers: scorerData[];
+  assist: assistData[];
   xi: string[];
+};
+
+export type assistData = {
+  player: string;
+  assists: number;
 };
 
 export type squadData = {
@@ -43,6 +49,7 @@ export type gameData = {
   season: string;
   team: string;
   scorers: scorerData[];
+  assists: assistData[];
 };
 
 export type appearanceData = {
@@ -107,7 +114,8 @@ export let getGoalsData = async function () {
       date: new Date(date),
       season: a.season,
       team: a.team,
-      scorers: a.scorers,
+      scorers: a.scorers || [],
+      assists: a.assist || [],
     };
     return game;
   });

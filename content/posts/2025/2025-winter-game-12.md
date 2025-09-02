@@ -43,6 +43,22 @@ goals = 2
 scorer = "Yarride Rosario"
 goals = 1
 
+[[assist]]
+player = "Farshid Shokoohi"
+assists = 1
+
+[[assist]]
+player = "Jacob Williamson"
+assists = 1
+
+[[assist]]
+player = "Oli Spicer"
+assists = 1
+
+[[assist]]
+player = "Declan Ward"
+assists = 1
+
 +++
  
 

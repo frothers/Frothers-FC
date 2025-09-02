@@ -46,6 +46,18 @@ goals = 1
 scorer = "Oli Spicer"
 goals = 1
 
+[[assist]]
+player = "Lance Molyneaux"
+assists = 1
+
+[[assist]]
+player = "Farshid Shokoohi"
+assists = 2
+
+[[assist]]
+player = "James Wilson"
+assists = 1
+
 +++
 
 ## Mother’s Day Madness Edition

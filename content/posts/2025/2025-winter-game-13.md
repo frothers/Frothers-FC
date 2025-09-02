@@ -44,6 +44,13 @@ goals = 1
 scorer = "Farshid Shokoohi" 
 goals = 1
 
+[[assist]]
+player = "Jacob Williamson"
+assists = 1
+
+[[assist]]
+player = "Oli Spicer"
+assists = 1
 +++
 
 Three seasons. Three goals. Three all. Three chaos.
