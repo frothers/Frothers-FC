@@ -113,7 +113,8 @@ A great run by Oli helped set-up Andy to sit down the Koffi backline, but it wou
 > 4-6
 
 ## Man of the Match
-
-![](/437887479_958486865884197_204283234223604794_n.jpg)
+Tireless work, even when it looked it everything was lost. Oli picks it up for the last game.
 
 ## Dick of the Day
+well well well.
+
