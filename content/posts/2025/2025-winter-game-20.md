@@ -65,7 +65,7 @@ assists = 1
 
 ## Cup Final - A repeat of last years final
 
-Another year, another cup final for the Frothers. The whanau and the injured were out in force to cheer on the boys with the hope that if Spurs can break their cup hoodoo, so can the Frothers.
+Another year, another cup final for the Frothers. The whānau and the injured were out in force to cheer on the boys with the hope that if Spurs can break their cup hoodoo, so can the Frothers.
 
 The Frothers started out strong with Farshid repeatedly breaking the line, first to hit the keeper in a one-on-one, but making amends with the second.
 
@@ -75,7 +75,9 @@ The Frothers weren't able to hold the lead for long, however. **Evan**, always t
 
 > 1-1
 
-Koffi were able to strike again in quick succession by taking advantage of a day dreaming touch judge to circumnavigate the offside trap and net their second.
+Koffi were able to strike again in quick succession by taking advantage of a day dreaming lineo to circumnavigate the offside trap and net their second.
+
+![](https://media1.tenor.com/m/FT5-JMFg430AAAAd/sleep-clap.gif)
 
 > 1-2
 
@@ -108,6 +110,8 @@ Seemingly the very next play disaster struck. Farshid picked the ball up in midf
 > 3-5
 
 The winds of fate were well and truly in Koffi's favour. A nothing ball over the top which was destined for a goal kick suddenly became a golden ticket as the ref decided that a coming together between Patrick and the attacker warranted a penalty.
+
+The grub is making a name for himself.
 
 Koffi managed to put the peno away to all but extinguish the Frother hopes.
 
