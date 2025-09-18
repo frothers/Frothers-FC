@@ -5,7 +5,7 @@ author = "Chris"
 date = 2025-09-14T19:00:00.000Z
 draft = false
 type = "post"
-images = ["/437887479_958486865884197_204283234223604794_n.jpg"]
+images = ["/2025-09-14/dotd.png"]
 match = true
 team = "OG Frothers"
 opponent = "Didier Koffi"
@@ -58,7 +58,6 @@ assists = 1
 player = "Oli Spicer"
 assists = 1
 
-
 [[assist]]
 player = "Andy"
 assists = 1
@@ -80,7 +79,7 @@ Koffi were able to strike again in quick succession by taking advantage of a day
 
 > 1-2
 
-The Frothers managed to hit straight back with a snap throughball from **James** following an exchange of possession. **Andy** didn't need to be asked twice.
+The Frothers managed to hit straight back with a snap through ball from **James** following an exchange of possession. **Andy** didn't need to be asked twice.
 
 > 2-2
 
@@ -106,15 +105,24 @@ Seemingly the very next play disaster struck. Farshid picked the ball up in midf
 
 > 3-5
 
-Koffi managed to get another to all but extinguish the Frother hopes.
+The winds of fate were well and truly in Koffi's favour. A nothing ball over the top which was destined for a goal kick suddenly became a golden ticket as the ref decided that a coming together between Patrick and the attacker warranted a penalty.
 
-A great run by Oli helped set-up Andy to sit down the Koffi backline, but it wouldn't be enough.
+Koffi managed to put the peno away to all but extinguish the Frother hopes.
+
+> 3-6
+
+A great run by Oli helped set-up Andy to sit down the Koffi backline and claw another one back.
 
 > 4-6
 
+But it wouldn't be enough and the Frothers would need to settle with second in the league and the cup.
+
 ## Man of the Match
-Tireless work, even when it looked it everything was lost. Oli picks it up for the last game.
+Tireless work, even when it looked it everything was lost. **Oli** picks it up for the last game.
 
 ## Dick of the Day
-well well well.
+Well well well.
 
+I was hoping that by the time I was writing the match report I would have the Veo footage to of some certain incidents to soothe the wounds, but they appear to be locked up tighter than the Epstein files.
+
+![](/2025-09-14/dotd.png)
