@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 blurb = "Real."
 fut_card = ""
 kit_number = 27

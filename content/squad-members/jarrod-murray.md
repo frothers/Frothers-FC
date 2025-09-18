@@ -1,5 +1,5 @@
 +++
-active = true
+active = false
 blurb = "The man with the big 69 and the hole in his table. A rookie in 2020, Jarrod stamped his name early on the glassman award. After getting fit Jarrod offered great versatility around the park, and even showed enough decorum to not outscore some of the old hands this season."
 teams = ["OG Frothers"]
 fut_card = "/images/141670114_241934407530719_1934559940118003745_n.jpg"

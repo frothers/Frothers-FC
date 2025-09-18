@@ -24,6 +24,11 @@ players = [
   "Declan Ward",
   "Dylan Watts",
   "Oli Spicer",
+  "Bailey Kilgarriff",
+  "Jake Payton",
+  "Ryan McInteer",
+  "Hunter Fromont",
+  "Michael Bell"
 ]
 +++
 

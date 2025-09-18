@@ -26,7 +26,7 @@ xi_and_subs = [
   "Yarride Rosario",
   "Oli Spicer",
   "Charles Daily",
-  "Jake",
+  "Jake Payton",
 ]
 motm = "Milan Mrdalj"
 dotd = "Oli Spicer"

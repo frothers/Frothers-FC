@@ -26,7 +26,7 @@ xi_and_subs = [
 "Yash Rosario",
 "Yarride Rosario",
  "Lance Molyneaux",
- "Bailey"
+ "Bailey Kilgarriff"
 ]
 
 formation = "3-4-1-2"

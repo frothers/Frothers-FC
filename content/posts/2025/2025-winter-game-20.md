@@ -103,6 +103,8 @@ Don't. Let. It. Slip
 
 Seemingly the very next play disaster struck. Farshid picked the ball up in midfield and had an eternity to turn, but he hadn't seen the oil slick. Skating like he was up against Steven Bradbury, Farshid could only hit the deck and watch the Koffi player hit a shot from range off the post to extend their lead.
 
+![](https://media1.tenor.com/m/hFXxySBAoGcAAAAd/last-place-from-last-to-first.gif)
+
 > 3-5
 
 The winds of fate were well and truly in Koffi's favour. A nothing ball over the top which was destined for a goal kick suddenly became a golden ticket as the ref decided that a coming together between Patrick and the attacker warranted a penalty.
