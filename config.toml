@@ -75,3 +75,6 @@ icon = "ti-facebook"
 link = "https://www.facebook.com/frothersfc"
 [taxonomies]
 series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true

@@ -5,7 +5,7 @@ author = "Chris"
 date = 2025-09-14T19:00:00.000Z
 draft = false
 type = "post"
-images = ["/2025-09-14/dotd.png"]
+images = ["/2025-09-14/handshake.jpg"]
 match = true
 team = "OG Frothers"
 opponent = "Didier Koffi"
@@ -69,23 +69,35 @@ Another year, another cup final for the Frothers. The whānau and the injured we
 
 The Frothers started out strong with Farshid repeatedly breaking the line, first to hit the keeper in a one-on-one, but making amends with the second.
 
+![](/2025-09-14/farsh1.jpg)
+
 > 1-0
+
 
 The Frothers weren't able to hold the lead for long, however. **Evan**, always the provider, managed to time a tackle to perfectly bounce the ball into the path of the Koffi striker. I'm going to start needing to take these off his tally.
 
+![](/2025-09-14/carnage.jpg)
+
 > 1-1
 
-Koffi were able to strike again in quick succession by taking advantage of a day dreaming lineo to circumnavigate the offside trap and net their second.
+Koffi were able to strike again in quick succession by taking advantage of a day dreaming line-o to circumnavigate the offside trap and net their second.
 
 ![](https://media1.tenor.com/m/FT5-JMFg430AAAAd/sleep-clap.gif)
 
 > 1-2
 
+
 The Frothers managed to hit straight back with a snap through ball from **James** following an exchange of possession. **Andy** didn't need to be asked twice.
+
+![](/2025-09-14/andy1.jpg)
 
 > 2-2
 
+
 The half was rounded out by a bouncing ball following a corner that the Koffi managed to poke into the back of the net.
+
+![](/2025-09-14/charles1.jpg)
+
 
 > 2-3
 
@@ -93,11 +105,15 @@ The half was rounded out by a bouncing ball following a corner that the Koffi ma
 
 The game was open and the Frothers knew they could take it out if they could find a little consistency in the second half.
 
+![](/2025-09-14/hunter1.jpg)
+
 It could not have started worse, however. Losing the ball in midfield the Koffi forward dribbled at an angle and managed to find the far corner with a shot at the edge of the box.
 
 > 2-4
 
 Luckily, the Frothers had a bona fide gamebreaker on their hands with **Andy** who stormed into the box and got taken out. **Lance** stepped up for the pen and got the Frothers back within touching distance.
+
+![](/2025-09-14/lance-pen.jpg)
 
 > 3-4
 
@@ -109,9 +125,15 @@ Seemingly the very next play disaster struck. Farshid picked the ball up in midf
 
 > 3-5
 
+This was followed by a celebration with the touch judge which made Barcelona's referee tampering look like farmer's league level corruption.
+
+![](/2025-09-14/fishy.jpg)
+
 The winds of fate were well and truly in Koffi's favour. A nothing ball over the top which was destined for a goal kick suddenly became a golden ticket as the ref decided that a coming together between Patrick and the attacker warranted a penalty.
 
 The grub is making a name for himself.
+
+![](/2025-09-14/patrick1.jpg)
 
 Koffi managed to put the peno away to all but extinguish the Frother hopes.
 
@@ -119,12 +141,15 @@ Koffi managed to put the peno away to all but extinguish the Frother hopes.
 
 A great run by Oli helped set-up Andy to sit down the Koffi backline and claw another one back.
 
+![](/2025-09-14/andy2.jpg)
+
 > 4-6
 
 But it wouldn't be enough and the Frothers would need to settle with second in the league and the cup.
 
 ## Man of the Match
 Tireless work, even when it looked it everything was lost. **Oli** picks it up for the last game.
+![](/2025-09-14/oli1.jpg)
 
 ## Dick of the Day
 Well well well.
@@ -132,3 +157,5 @@ Well well well.
 I was hoping that by the time I was writing the match report I would have the Veo footage to of some certain incidents to soothe the wounds, but they appear to be locked up tighter than the Epstein files.
 
 ![](/2025-09-14/dotd.png)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBetterfootball%2Fposts%2Fpfbid07kcAZpoLBHxS3aCe2xWsiuou6QDsWyrVrzkyw2hVm3by5s1jYEfWFckbKyBCREXTl&show_text=true&width=500" width="500" height="652" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
