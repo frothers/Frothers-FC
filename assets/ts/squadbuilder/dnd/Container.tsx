@@ -17,6 +17,7 @@ import { DownloadImage } from "./DownloadImage";
 import type { DragItem, SquadNames, PlayerDetails } from "./interfaces";
 import { ItemTypes } from "./ItemTypes";
 import { snapToGrid as doSnapToGrid } from "./snapToGrid";
+import { Height } from "@mui/icons-material";
 
 export interface ContainerProps {
   snapToGrid: boolean;
@@ -86,7 +87,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
     reader.readAsText(file);
   }
 
-  function handleUploadButtom(){
+  function handleUploadButtom() {
     if (fileInputRef.current) {
       fileInputRef.current.click();
     }
@@ -146,65 +147,68 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
   }, [squad]);
 
   return (
-    <div ref={drop} className="squad-pitch container">
-      <Row className="h-100">
-        <Col lg={9} ref={downloadElementRef} className="">
-          <div className="row h-75">
-            <div className="col-sm white-field-stripe"></div>
-            <div className="col-sm green-field-stripe"></div>
-            <div className="col-sm white-field-stripe"></div>
-          </div>
-          <div className="row h-25 subs-bench"></div>
-          {Object.keys(boxes).map((key) => (
-            <DraggableBox
-              key={key}
-              id={key}
-              {...(boxes[key] as {
-                top: number;
-                left: number;
-                player: PlayerDetails;
-              })}
-            />
-          ))}
-        </Col>
-        <Col lg={3} className="player-roster" >
-          <Row className="justify-content-center">
-            <Col><AddPlayers callback={addPlayer} /></Col>
-            <Col><Dustbin
-              accept={[ItemTypes.BOX]}
-              onDrop={(item) => handleRemove(item)}
-              key="Dustbin"
-            /></Col>
-          </Row>
-          <Row className="justify-content-center">
-            <h5>Saved Squads</h5>
-          </Row>
-          <Row className="justify-content-center">
-            <Tabs
-              defaultActiveKey={squad}
-              onSelect={handleTabChange}
-              id="squad-selector"
-              className="mb-3"
-              fill
-            >
-              <Tab eventKey="squad1" title="1"></Tab>
-              <Tab eventKey="squad2" title="2"></Tab>
-              <Tab eventKey="squad3" title="3"></Tab>
-            </Tabs>
-          </Row>
-          <Row className="justify-content-center">
-            <DownloadImage elementRef={downloadElementRef} />
-            <Button variant="info" onClick={saveLSData}>
-              ⬇️
-            </Button>
-            <Button variant="info" onClick={handleUploadButtom}>
-              ⬆️</Button>
-            <Form.Group controlId="formFile" className="mb-3">
-              <Form.Control size="sm" type="file" ref={fileInputRef} onChange={loadJsonToLS} className="d-none"/>
-            </Form.Group>
-          </Row>
-        </Col>
+    <>
+      <div ref={drop} className="squad-pitch container">
+        <Row className="">
+          <Col lg={9} ref={downloadElementRef} className="" style={{ minHeight: "550px" }}>
+            <div className="row h-75" style={{ minHeight: "450px" }}>
+              <div className="col-sm white-field-stripe"></div>
+              <div className="col-sm green-field-stripe"></div>
+              <div className="col-sm white-field-stripe"></div>
+            </div>
+            <div className="row h-25 subs-bench"></div>
+            {Object.keys(boxes).map((key) => (
+              <DraggableBox
+                key={key}
+                id={key}
+                {...(boxes[key] as {
+                  top: number;
+                  left: number;
+                  player: PlayerDetails;
+                })}
+              />
+            ))}
+          </Col>
+          <Col lg={3} className="player-roster" >
+            <Row className="justify-content-center mh-25">
+              <Col><AddPlayers callback={addPlayer} /></Col>
+              <Col><Dustbin
+                accept={[ItemTypes.BOX]}
+                onDrop={(item) => handleRemove(item)}
+                key="Dustbin"
+              /></Col>
+            </Row>
+          </Col>
+        </Row>
+
+      </div>
+      <Row className="justify-content-center">
+        <h5>Saved Squads</h5>
       </Row>
-    </div>
+      <Row className="justify-content-center">
+        <Tabs
+          defaultActiveKey={squad}
+          onSelect={handleTabChange}
+          id="squad-selector"
+          className="mb-3"
+          fill
+        >
+          <Tab eventKey="squad1" title="1"></Tab>
+          <Tab eventKey="squad2" title="2"></Tab>
+          <Tab eventKey="squad3" title="3"></Tab>
+        </Tabs>
+      </Row>
+      <Row className="justify-content-center">
+        <DownloadImage elementRef={downloadElementRef} />
+        <Button variant="info" onClick={saveLSData}>
+          ⬇️
+        </Button>
+        <Button variant="info" onClick={handleUploadButtom}>
+          ⬆️</Button>
+        <Form.Group controlId="formFile" className="mb-3">
+          <Form.Control size="sm" type="file" ref={fileInputRef} onChange={loadJsonToLS} className="d-none" />
+        </Form.Group>
+      </Row>
+    </>
   );
 };
