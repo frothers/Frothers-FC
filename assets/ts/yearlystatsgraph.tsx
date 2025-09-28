@@ -31,7 +31,7 @@ function YearlyStatsGraph({ name }: YearlyStatsProps) {
     parseSquadData(name).then(squadData => {
       setChartState(squadData)
     })
-  })
+  }, [])
 
   return (
     <div className="App">

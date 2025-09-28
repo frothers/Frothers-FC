@@ -38,7 +38,7 @@ function LifetimeStats({name , kitNumber, yearJoined }: LifetimeStatsProps) {
             setState(platerData)
         }
         );
-    })
+    }, [])
     return (
         <div className="life-stats">
             <ul className="list-group">

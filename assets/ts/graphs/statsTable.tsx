@@ -36,7 +36,7 @@ function StatsTable ({ season }: { season: string }) {
       setState(data)
     }
     );
-  })
+  }, [])
 
   const tableTheme = useMemo(
     () =>
