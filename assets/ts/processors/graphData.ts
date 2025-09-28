@@ -537,36 +537,35 @@ export let parseAppearancesData = async function (year?: number, season?: string
 
 export let parseSquadData = async function (name: string) {
   let squadData: SquadData[] = [];
-
-  let goalsData = await parseGoalsData()
-  let arrayPos = _.findIndex(goalsData, ["label", name]);
-
-  goalsData[arrayPos].data.forEach(playerData => {
-    squadData.push({
-      goals: playerData.goals,
-      t: playerData.t,
-      assists: playerData.assists,
-      appearances: 0
-    })
-  })
-
   let appearancesData = await parseAppearancesData()
 
-  arrayPos = _.findIndex(appearancesData, ["label", name]);
+  let arrayPos = _.findIndex(appearancesData, ["label", name]);
   let playerAppearances = appearancesData[arrayPos].data;
 
-  playerAppearances.map(appearance => {
-    let arrayPos = _.findIndex(squadData, ["t", appearance.t]);
+  let firstAppearance = false;
+  playerAppearances.forEach(appearance => {
+    if (appearance.appearance > 0 || firstAppearance) {
 
-    if (arrayPos > -1) {
-      squadData[arrayPos].appearances = appearance.appearance;
-    } else {
+
       squadData.push({
         appearances: appearance.appearance,
         goals: 0,
         assists: 0,
         t: appearance.t
       })
+      firstAppearance = true;
+    }
+  })
+
+  let goalsData = await parseGoalsData()
+  arrayPos = _.findIndex(goalsData, ["label", name]);
+
+  goalsData[arrayPos].data.forEach(playerData => {
+    let arrayPos = _.findIndex(squadData, ["t", playerData.t]);
+
+    if (arrayPos > -1) {
+      squadData[arrayPos].goals = playerData.goals;
+      squadData[arrayPos].assists = playerData.assists;
     }
   })
 
