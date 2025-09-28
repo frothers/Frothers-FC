@@ -9,7 +9,7 @@ module.exports = {
     entry: {
         main: path.join(__dirname, "assets", "index.ts"),
         stats: path.join(__dirname, "assets", "stats.ts"),
-        squad: path.join(__dirname, "assets", "squad.ts"),
+        squad: path.join(__dirname, "assets", "squad.tsx"),
         squad_builder: path.join(__dirname, "assets", "squad_builder.tsx"),
         theme_switcher: path.join(__dirname, "assets", "theme_switcher.tsx"),
         stats2: path.join(__dirname, "assets", "stats2.tsx"),

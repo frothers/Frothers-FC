@@ -3,8 +3,9 @@
 {{ with $script.js }}
 <script src="{{ relURL . }}"></script>
 {{ end }}
+<
 <section class="section">
-  {{ $appearances := slice }}
+  {{ $appearances := .Site.Data.stats.appearances }}
   {{ $years := slice }}
 
   <div class="container">
@@ -18,38 +19,8 @@
           <div class="card-body">
             <h5 class="card-title">{{.Params.title}} | {{.Params.kit_number}}</h5>
             <p class="card-text">{{.Params.blurb}}</p>
-            <ul class="list-group">
-              <li class="list-group-item d-flex justify-content-between align-items-center">
-                Kit Number
-                <span class="badge badge-primary badge-pill">{{.Params.kit_number}}</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-center">
-                Year Joined
-                <span class="badge badge-primary badge-pill">{{.Params.year_joined}}</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-center">
-                Total Goals
-                <span class="badge badge-primary badge-pill" id="total-goals">0</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-center">
-                Appearances
-                <span class="badge badge-primary badge-pill" id="appearances">
-                  {{ range .Site.Data.stats.appearances }}
-                  {{ if eq .title $.Params.title }}
-                  {{ $appearances = .appearances }}
-                  {{ end }}
-                  {{ end }}
-                </span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-center">
-                Man of the Matches
-                <span class="badge badge-primary badge-pill" id="motm">0</span>
-              </li>
-              <li class="list-group-item d-flex justify-content-between align-items-center">
-                Dick of the Days
-                <span class="badge badge-primary badge-pill" id="dotd">0</span>
-              </li>
-            </ul>
+            <div id ="lifetime-stats" data-kit="{{.Params.kit_number}}"
+              data-years="{{ .Params.year_joined}}" data-name="{{.Params.Title}}">
           </div>
         </div>
         <br>
@@ -101,9 +72,8 @@
         <div class="card">
           <div class="card-body">
             <h5 class="card-title">Frothers Career Stats</h5>
-            <div class="graph" id="individual-stats-panel" data-player-name="{{ .Params.Title }}"
+            <div id="app" data-player-name="{{ .Params.Title }}"
               data-years="{{ $years | jsonify}}" data-appearances="{{ $appearances | jsonify}}">
-              <canvas id="career-panel"></canvas>
             </div>
             <br>
             <a href="/stats/" class="card-link">Team stats page</a>
