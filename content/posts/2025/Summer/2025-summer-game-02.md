@@ -2,7 +2,7 @@
 title = "Game 02 - Summer league 2025 Grading 2"
 description = "Frothers VS Debt Collectors"
 author = "Yarride"
-date = 2025-10-05T13:00:00.000Z
+date = 2025-10-05T09:00:00.000Z
 draft = false
 type = "post"
 images = ["/2025-03-30/frothers-strathmore.jpg"]
