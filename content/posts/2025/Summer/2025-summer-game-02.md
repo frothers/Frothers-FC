@@ -24,7 +24,7 @@ xi_and_subs = [
   "Ryan Kindell",
   "Evan Hanson",
   "Hunter Fromont",
-  "Jacob Williamson
+  "Jacob Williamson",
   "Jake Payton",
   "Liam",
   "Yash Rosario",
