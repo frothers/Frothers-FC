@@ -19,7 +19,7 @@ xi_and_subs = [
   "Oli Spicer",
   "James Wilson",
   "Ryan McInteer",
-  "Jack Payton",
+  "Jake Payton",
   "Dylan Watts",
   "Evan Hanson",
   "Hugo Lawrence",
