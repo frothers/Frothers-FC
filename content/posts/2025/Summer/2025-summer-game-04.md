@@ -40,7 +40,7 @@ goals = 1
 
 The Frothers were out to lock-up a much converted relegation spot, and short of calling up big Ange to hemorrhage points they continued the goalkeeper roulette.
 
-![](/2025-11-02/ryank.png)
+![](/2025-11-02/ryank.jpg)
 
 The boys got off to a rough start with a hopeful shot from range catching the keeper out and only able to bat it into the net.
 
@@ -70,6 +70,9 @@ A cross was swatted out as far as a the 6 yard box and the approaching Loko play
 > 1-3
 
 Caught playing with the ball, the keeper then gave a Loko player got the easier goal of his life as it pinged off his knee and into the goal from 20 out.
+
+![](/2025-11-02/ryanm-throw.png)
+
 
 > 1-4
 
