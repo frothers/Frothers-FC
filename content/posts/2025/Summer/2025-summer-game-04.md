@@ -31,8 +31,6 @@ xi_and_subs = [
   "Michael Bell",
 ]
 
-formation = "4-3-3"
-
 [[scorers]]
 scorer = "Yarride Rosario"
 goals = 1
