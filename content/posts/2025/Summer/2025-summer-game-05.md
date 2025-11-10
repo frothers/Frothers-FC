@@ -52,7 +52,7 @@ goals = 1
 
 +++
 
-The Frothers were out in Petone for the first time in what feels like years. Up against top of the table Valley the boys were hit with some last minute pull-outs to mean it was a 11-on-11 cage match with no sides.
+The Frothers were out in Petone for the first time in what feels like years. Up against top of the table Valley the boys were hit with some last minute pull-outs to mean it was a 11-on-11 cage match with no subs.
 
 ![](/2025-11-09/james-whip.png)
 
@@ -91,9 +91,9 @@ This week to goes to **Mikey** who managed a few fine saves and was a safe last 
 ## Dick of the Day
 Again, a few good shouts.
 
-**Oli** calling out Ryan for doing a trivela shot, telling the boys to "Don't do anything fancy" and then cruyff turn into 2 valley players about a min later.
+**Oli** calling out Ryan K for doing a trivela shot, telling the boys to "Don't do anything fancy" and then cruyff turned into 2 valley players about a min later.
 
-**James** having a go at the midfield after the match for putting in the work, knowing he will have to back it up in 2 days time.
+**James** having a go at the midfield after the match for not putting in the work, knowing he will have to back it up in 2 days time.
 
 **Chris** for playing ball-boy, when he should have just been punting all the balls into the river.
 
