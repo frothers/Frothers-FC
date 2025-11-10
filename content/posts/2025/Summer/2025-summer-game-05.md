@@ -10,6 +10,7 @@ match = true
 team = "OG Frothers"
 opponent = "Valley FC"
 season = "summer"
+formation = "3-4-1-2"
 result = "Loss"
 dotd = "Hunter Fromont"
 motm= "Michael Bell"
