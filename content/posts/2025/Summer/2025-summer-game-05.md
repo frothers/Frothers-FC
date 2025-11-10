@@ -18,13 +18,13 @@ frother_goals = 2
 opponent_goals = 8
 xi_and_subs = [
   "Michael Bell",
-  "James Wilson",
   "Liam Gillespie",
+  "James Wilson",
   "Ryan McInteer",
-  "Jake Payton",
   "Patrick Moore",
   "Evan Hanson",
   "Oli Spicer",
+  "Jake Payton",
   "Yarride Rosario",
   "Farshid Shokoohi",
   "Ryan Kindell",
@@ -91,8 +91,10 @@ This week to goes to **Mikey** who managed a few fine saves and was a safe last 
 ## Dick of the Day
 Again, a few good shouts.
 
-- **Oli** calling out Ryan for doing a trivela shot, telling the boys to "Don't do anything fancy" and then cruyff turn into 2 valley players about a min later.
-- **James** having a go at the midfield after the match for putting in the work, knowing he will have to back it up in 2 days time.
-- **Chris** for playing ball-boy, when he should have just been punting all the balls into the river.
+**Oli** calling out Ryan for doing a trivela shot, telling the boys to "Don't do anything fancy" and then cruyff turn into 2 valley players about a min later.
+
+**James** having a go at the midfield after the match for putting in the work, knowing he will have to back it up in 2 days time.
+
+**Chris** for playing ball-boy, when he should have just been punting all the balls into the river.
 
 But this week it goes to **Hunter**, sleeping in and missing the 10:30 kick off when the boys would have treasured a sub like a man dying of thirst.
