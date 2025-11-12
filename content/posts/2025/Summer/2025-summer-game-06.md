@@ -60,7 +60,7 @@ There were a couple more good chances to finish the half, two well delivered cro
 
 Halftime saw the departure of **Jacob** ,the depletion of the Frothers bench, and really the end of any slick build-up play for the Frothers.
 
-{{<< vimeo 1136028210 >>}}
+{{< vimeo 1136028210>}}
 
 The boys dug deep in the second half and weathered a barrage of attacks to keep parity.
 
