@@ -23,7 +23,7 @@ xi_and_subs = [
   "Ryan McInteer",
   "Hugo Lawrence",
   "Evan Hanson",
-  "Liam Gillespie"
+  "Liam Gillespie",
   "Jake Payton",
   "Oli Spicer",
   "Farshid Shokoohi",
