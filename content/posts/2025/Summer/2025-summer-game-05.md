@@ -42,12 +42,12 @@ goals = 1
 
 [[assist]]
 scorer = "Farshid Shokoohi"
-goals = 1
+assists = 1
 
 
 [[assist]]
 scorer = "Yarride Rosario"
-goals = 1
+assists = 1
 
 
 +++

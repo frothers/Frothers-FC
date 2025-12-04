@@ -36,7 +36,7 @@ goals = 1
 
 [[assist]]
 scorer = "Pete"
-goals = 1
+assists = 1
 
 
 +++
