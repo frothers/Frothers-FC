@@ -43,5 +43,11 @@ xi_and_subs = [
 
 +++
 
+The Frothers continued their illfated start to the first half of summer league with another comfy loss. Mathematically safe from Div 1 after Christmas, the boys can have a bit of fun before the break.
 
+## Man Of the Match
+As is becoming standard now, the man between the ticks picks up a MOTM nod, with **Jimmy** doing the honours this week.
+
+## Dick of the day
+A real treat for the weary of heart was watching **Ryan M** absolutely axing the striker from behind in a situation of little danger. Looking to do something similar with the final kick of the game, except with no opposition and resulting in an injured knee was prime DoTD material 🧑‍🍳😙🤌
 
