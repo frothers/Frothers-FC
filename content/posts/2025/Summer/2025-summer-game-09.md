@@ -14,15 +14,6 @@ result = "Loss"
 dotd = "Ryan McInteer"
 motm= "James Wilson"
 
-[[scorers]]
-scorer = "Yash Rosario"
-goals = 1
-
-[[assist]]
-scorer = "Chris Chester"
-assists = 1
-
-
 frother_goals = 1
 opponent_goals = 4
 xi_and_subs = [
@@ -32,7 +23,7 @@ xi_and_subs = [
   "Yarride Rosario",
   "Liam Gillespie",
   "Pete",
-  "Thomas"
+  "Thomas",
   "Oli Spicer",
   "Jake Payton",
   "Yash Rosario",
@@ -40,6 +31,14 @@ xi_and_subs = [
   "Ian Rayns",
   "Farshid Shokoohi"
 ]
+
+[[scorers]]
+scorer = "Yash Rosario"
+goals = 1
+
+[[assist]]
+scorer = "Chris Chester"
+assists = 1
 
 +++
 
