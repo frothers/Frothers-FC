@@ -45,6 +45,13 @@ xi_and_subs = [
 
 The Frothers continued their illfated start to the first half of summer league with another comfy loss. Mathematically safe from Div 1 after Christmas, the boys can have a bit of fun before the break.
 
+{{< vimeo 1142862489 >}}
+
+{{< vimeo 1142862599 >}}
+
+A bit of charity never goes amiss.
+{{< vimeo 1142862688 >}}
+
 ## Man Of the Match
 As is becoming standard now, the man between the ticks picks up a MOTM nod, with **Jimmy** doing the honours this week.
 
