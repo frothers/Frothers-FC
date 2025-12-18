@@ -5,13 +5,13 @@ author = "Chris"
 date = 2025-12-14T02:00:00.000Z
 draft = false
 type = "post"
-images = ["/2025-11-23/ronnie.jpg"]
+images = ["/2025-12-14/frothers-squad2.png"]
 match = true
 team = "OG Frothers"
 opponent = "Barons"
 season = "summer"
 result = "Loss"
-dotd = "Declan "
+dotd = "Declan Ward"
 motm= "Hunter Fromont"
 
 frother_goals = 3
@@ -28,6 +28,7 @@ xi_and_subs = [
   "Hunter Fromont",
   "Ryan Kindell",
   "Yarride Rosario",
+  "Declan Ward"
 ]
 
 [[scorers]]
@@ -43,15 +44,15 @@ scorer = "OG"
 goals = 1
 
 [[assist]]
-name = "Hunter Fromont"
+player = "Hunter Fromont"
 assists = 1
 
 [[assist]]
-name = "Yarride Rosario"
+player = "Yarride Rosario"
 assists = 1
 
 [[assist]]
-name = "Oli Spicer"
+player = "Oli Spicer"
 assists = 1
 
 +++

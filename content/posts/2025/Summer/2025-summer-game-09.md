@@ -37,7 +37,7 @@ scorer = "Yash Rosario"
 goals = 1
 
 [[assist]]
-scorer = "Chris Chester"
+player = "Chris Chester"
 assists = 1
 
 +++
