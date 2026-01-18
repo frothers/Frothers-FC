@@ -67,6 +67,14 @@ The Frothers managed to pull one back through a set peice. After having his head
 
 > 1-3
 
+Liam saw it was a pretty one dimensional attacking approach from the opposition and took it upon himself to make sure the love was shared around by picking out their other striker from the open play.
+
+> 1-4
+
+## Halftime 
+
+Ryan M has seen enough and headed off at halftime with 
+
 ## Man of the Match
 
 
