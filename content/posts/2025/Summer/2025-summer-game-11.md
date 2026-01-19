@@ -1,6 +1,6 @@
 +++
 title = "Game 11 - Summer league 2025"
-description = "Frothers VS "
+description = "Frothers VS Turkish Rug FC"
 author = "Chris"
 date = 2026-01-11T02:00:00.000Z
 draft = false
@@ -8,7 +8,7 @@ type = "post"
 images = ["/2025-12-14/frothers-squad2.png"]
 match = true
 team = "OG Frothers"
-opponent = ""
+opponent = "Turkish Rug"
 season = "summer"
 result = "Loss"
 dotd = "Chris Chester"
@@ -73,9 +73,14 @@ Liam saw it was a pretty one dimensional attacking approach from the opposition 
 
 ## Halftime 
 
-Ryan M has seen enough and headed off at halftime with 
+Ryan M has seen enough and headed off at halftime with Lance hot on his heels.
+
+the second half saw another corner goal from Evan, who turned home James' cross.
+
+Another couple goals to Turkish rug too for some more chipped through balls.
 
 ## Man of the Match
-
+With most of the boys still weighed down by their Christmas dinners Evan put in his usual shift and got two goals for it.
 
 ## Dick of the day
+Victim of onfield officiating and backroom politics, Chris was made this week's scapegoat for rolling a sub
