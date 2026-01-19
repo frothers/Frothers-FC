@@ -83,4 +83,4 @@ Another couple goals to Turkish rug too for some more chipped through balls.
 With most of the boys still weighed down by their Christmas dinners Evan put in his usual shift and got two goals for it.
 
 ## Dick of the day
-Victim of onfield officiating and backroom politics, Chris was made this week's scapegoat for rolling a sub
+Victim of onfield officiating and backroom politics, Chris was made this week's scapegoat for rolling a sub. Free Kobbie Mainoo
