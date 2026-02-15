@@ -19,7 +19,6 @@ xi_and_subs = [
   "Ryan McInteer",
   "James Wilson",
   "Evan Hanson",
-  "Ryan McInteer",
   "Liam Gillespie",
   "Ian Rayns",
   "Dylan Watts",
