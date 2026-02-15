@@ -29,7 +29,7 @@ xi_and_subs = [
   "Ryan Kindell",
   "Yarride Rosario",
   "Ian Rayns",
-  "Lance Molyneux",
+  "Lance Molyneaux",
   "Evan Hanson"
 ]
 
