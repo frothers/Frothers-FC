@@ -1,6 +1,6 @@
 
 +++
-title = "Game 13 - Summer league 2025"
+title = "Game 14 - Summer league 2025"
 description = "Frothers VS Loko"
 author = "Chris"
 date = 2026-02-01T02:00:00.000Z
