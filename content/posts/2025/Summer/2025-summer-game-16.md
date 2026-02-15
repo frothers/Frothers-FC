@@ -9,7 +9,7 @@ type = "post"
 images = ["/2025-12-14/frothers-squad2.png"]
 match = true
 team = "OG Frothers"
-opponent = "Super Paddies"
+opponent = "Split the G"
 season = "summer"
 result = "Loss"
 
@@ -31,5 +31,12 @@ xi_and_subs = [
   "Ian Rayns",
   "Liam Gillespie"
 ]
+
+[[scorers]]
+scorer = "Charles Daily"
+goals = 1
+
 +++
+
+
 
