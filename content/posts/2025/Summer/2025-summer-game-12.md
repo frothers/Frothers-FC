@@ -19,28 +19,39 @@ opponent_goals = 5
 xi_and_subs = [
   "Ryan McInteer",
   "Michael Bell",
+  "Ryan	McInteer',
   "Vinh Vu",
+  "Ham,
   "Stapes",
   "Pete",
-  "Ham,
   "James Wilson",
   "Dylan Watts",
   "Ryan Kindell",
-  "Lance Molyneux",
-  "Evan Hanson"
+  "Lance Molyneaux",
+  "Evan Hanson",
+  "Farshid Shokoohi",
+  "Jake Payton"
 ]
 
 [[scorers]]
-scorer = "Evan Hanson"
-goals = 0
+scorer = "Dylan Watts"
+goals = 1
+
+[[scorers]]
+scorer = "Lance Molyneaux"
+goals = 1
+
+[[scorers]]
+scorer = "Stapes"
+goals = 1
 
 [[assist]]
-player = "Chris Chester"
-assists = 0
+player = "Farshid Shokoohi"
+assists = 1
 
 [[assist]]
 player = "James Wilson"
-assists = 0
+assists = 1
 
 +++
 
