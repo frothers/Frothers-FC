@@ -19,7 +19,7 @@ opponent_goals = 5
 xi_and_subs = [
   "Ryan McInteer",
   "James Wilson",
-  "Ryan McInteer',
+  "Ryan McInteer",
   "Liam Gillespie",
   "Patrick Moore",
   "Ian Rayns",
