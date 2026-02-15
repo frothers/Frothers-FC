@@ -14,19 +14,19 @@ season = "summer"
 result = "Loss"
 
 
-frother_goals = 3
+frother_goals = 1
 opponent_goals = 5
 xi_and_subs = [
   "Ryan McInteer",
   "James Wilson",
-  "Ryan	McInteer',
+  "Ryan McInteer',
   "Liam Gillespie",
   "Patrick Moore",
   "Ian Rayns",
   "Dylan Watts",
   "Lance Molyneaux",
   "Farshid Shokoohi",
-  "Hunter	Fromont",
+  "Hunter Fromont",
   "Jake Payton",
   "Pete"
 ]
