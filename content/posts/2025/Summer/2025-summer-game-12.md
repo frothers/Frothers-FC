@@ -13,16 +13,14 @@ opponent = "Heart Throb"
 season = "summer"
 result = "Loss"
 
-
 frother_goals = 3
 opponent_goals = 5
 xi_and_subs = [
   "Ryan McInteer",
   "Michael Bell",
-  "Ryan	McInteer',
   "Vinh Vu",
-  "Ham,
-  "Stapes",
+  "Ham",
+  "Staples",
   "Pete",
   "James Wilson",
   "Dylan Watts",
@@ -42,7 +40,7 @@ scorer = "Lance Molyneaux"
 goals = 1
 
 [[scorers]]
-scorer = "Stapes"
+scorer = "Staples"
 goals = 1
 
 [[assist]]
