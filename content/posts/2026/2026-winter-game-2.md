@@ -1,0 +1,39 @@
+
++++
+title = "Game 2 - Winter league 2026"
+description = "Frothers VS Ravens"
+author = "Chris"
+date = 2026-04-15T02:00:00.000Z
+draft = false
+type = "post"
+images = ["/2025-12-14/frothers-squad2.png"]
+match = true
+team = "OG Frothers"
+opponent = "Ravens"
+season = "summer"
+result = "Loss"
+
+frother_goals = 0
+opponent_goals = 5
+xi_and_subs = [
+  "Nikolai",
+  "Andy Kong",
+  "Evan Hanson",
+  "Ian Ryans",
+  "Yarride Rosario",
+  "Lance Molyneaux",
+  "Yash Rosario",
+  "Charles Daily",
+  "Farshid Shokoohi",
+  "Jack",
+  "Dart",
+  "Connor Melville",
+  "Jake",
+  "Declan"
+]
+
+
++++
+
+
+

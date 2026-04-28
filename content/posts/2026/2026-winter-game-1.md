@@ -17,6 +17,7 @@ frother_goals = 2
 opponent_goals = 6
 xi_and_subs = [
   "Jake Payton",
+  "Andy Kong",
   "Evan Hanson",
   "Ian Ryans",
   "Yarride Rosario",
@@ -24,6 +25,7 @@ xi_and_subs = [
   "Yash Rosario",
   "Charles Daily",
   "Dart",
+  "Nikolai"
 ]
 
 [[scorers]]
@@ -33,6 +35,8 @@ scorer = "Sam"
 goals = 1
 [[assist]]
 player = "Evan Hanson"
+assists = 1
+player = "Dart"
 assists = 1
 
 +++
