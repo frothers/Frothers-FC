@@ -33,16 +33,20 @@ xi_and_subs = [
 [[scorers]]
 scorer = "Jacob Williamson"
 goals = 1
+[[scorers]]
 scorer = "Evan Hanson"
 goals = 1
+[[scorers]]
 scorer = "Lance Molyneaux"
 goals = 1
 
 [[assist]]
 player = "Lance Molyneaux"
 assists = 1
+[[assist]]
 player = "Evan Hanson"
 assists = 1
+[[assist]]
 player = "Dart"
 assists = 1
 +++
