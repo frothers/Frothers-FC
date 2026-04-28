@@ -70,6 +70,14 @@ players = [
   "Dylan Watts",
   "Aleksey Vakhroushev",
   "Oli Spicer",
+  "Jamie Fa'a",
+  "Connor Melville",
+  "Jake TBD",
+  "Declan TBD",
+  "Dart",
+  "Andy Kong",
+  "Nikolai",
+  "Jack TBD"
   ""
 ]
 +++

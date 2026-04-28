@@ -28,7 +28,15 @@ players = [
   "Jake Payton",
   "Ryan McInteer",
   "Hunter Fromont",
-  "Michael Bell"
+  "Michael Bell",
+  "Jamie Fa'a",
+  "Connor Melville",
+  "Jake TBD",
+  "Declan TBD",
+  "Dart",
+  "Andy Kong",
+  "Nikolai",
+  "Jack TBD"
 ]
 +++
 

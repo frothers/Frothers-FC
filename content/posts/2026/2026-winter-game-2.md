@@ -25,11 +25,11 @@ xi_and_subs = [
   "Yash Rosario",
   "Charles Daily",
   "Farshid Shokoohi",
-  "Jack",
+  "Jack TBD",
   "Dart",
   "Connor Melville",
-  "Jake",
-  "Declan"
+  "Jake TBD",
+  "Declan TBD"
 ]
 
 
