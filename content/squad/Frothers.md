@@ -77,7 +77,7 @@ players = [
   "Dart",
   "Andy Kong",
   "Nikolai",
-  "Jack TBD"
+  "Jack TBD",
   ""
 ]
 +++
