@@ -39,6 +39,7 @@ goals = 2
 [[assist]]
 player = "Chris Chester"
 assists = 1
+[[assist]]
 player = "Yarride Rosario"
 assists = 1
 +++

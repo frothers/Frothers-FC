@@ -25,17 +25,21 @@ xi_and_subs = [
   "Yash Rosario",
   "Charles Daily",
   "Dart",
-  "Nikolai"
+  "Nikolai",
+  "Sam TBD"
 ]
 
 [[scorers]]
 scorer = "Yash Rosario"
 goals = 1
-scorer = "Sam"
+[[scorers]]
+scorer = "Sam TBD"
 goals = 1
+
 [[assist]]
 player = "Evan Hanson"
 assists = 1
+[[assist]]
 player = "Dart"
 assists = 1
 
