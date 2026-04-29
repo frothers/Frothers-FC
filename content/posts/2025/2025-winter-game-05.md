@@ -25,6 +25,7 @@ xi_and_subs = [
   "Lance Molyneaux",
   "Oli Spicer",
   "Yarride Rosario",
+  "Charles Daily",
   "Ian Rayns",
   "Evan Hanson",
   "Farshid Shokoohi",
