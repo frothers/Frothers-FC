@@ -20,7 +20,7 @@ xi_and_subs = [
   "Andy Kong",
   "Chris Chester",
   "Charles Daily",
-  "Ian Ryans",
+  "Ian Rayns",
   "Dart",
   "Evan Hanson",
   "Lance Molyneaux",

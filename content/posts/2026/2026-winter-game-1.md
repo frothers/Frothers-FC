@@ -19,7 +19,7 @@ xi_and_subs = [
   "Jake Payton",
   "Andy Kong",
   "Evan Hanson",
-  "Ian Ryans",
+  "Ian Rayns",
   "Yarride Rosario",
   "Lance Molyneaux",
   "Yash Rosario",
