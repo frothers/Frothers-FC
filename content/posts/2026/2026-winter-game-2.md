@@ -18,6 +18,7 @@ opponent_goals = 5
 xi_and_subs = [
   "Nikolai",
   "Andy Kong",
+  "Chris Chester",
   "Evan Hanson",
   "Ian Ryans",
   "Yarride Rosario",

@@ -17,6 +17,7 @@ frother_goals = 1
 opponent_goals = 2
 xi_and_subs = [
   "Chris Chester",
+  "Ryan Kindell",
   "James Wilson",
   "Jacob Williamson",
   "Charles Daily",

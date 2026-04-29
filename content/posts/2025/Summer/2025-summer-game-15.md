@@ -21,7 +21,6 @@ xi_and_subs = [
   "James Wilson",
   "Ian Rayns",
   "Dylan Watts",
-  "Lance Molyneaux",
   "Farshid Shokoohi",
   "Hunter Fromont",
   "Yarride Rosario",
