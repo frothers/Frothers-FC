@@ -29,8 +29,11 @@ function App() {
                   Year
                 </label>
               </div>
-              <select className="custom-select" onInput={handleInput} name="selectedYear" defaultValue="all">
-<option value="2025-summer-ogfrothers">
+              <select className="custom-select" onChange={handleInput} name="selectedYear" defaultValue="all">
+                <option value="2026-winter-ogfrothers">
+                  2026 - Winter (OG Frothers)
+                </option>
+                <option value="2025-summer-ogfrothers">
                   2025 - Summer (OG Frothers)
                 </option>
                 <option value="2025-winter-ogfrothers">

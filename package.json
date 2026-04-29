@@ -32,6 +32,7 @@
     },
     "homepage": "https://github.com/frothers/Frothers-FC#readme",
     "devDependencies": {
+        "@playwright/test": "^1.59.1",
         "@types/chart.js": "^2.9.29",
         "@types/chartjs-plugin-colorschemes": "^0.4.0",
         "@types/downloadjs": "^1.4.6",

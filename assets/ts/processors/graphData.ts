@@ -103,7 +103,7 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
       url: ""
     };
     frother.name = appearance.label;
-    frother.appearances = appearance.data[appearance.data.length - 1].y;
+    frother.appearances = appearance.data.length > 0 ? appearance.data[appearance.data.length - 1]?.y : 0;
 
     let frotherOtdIndex = otdData.findIndex(otd => {
       return otd.label === frother.name;
@@ -126,8 +126,14 @@ export let getStaticsTable = async function (year?: number, season?: string, squ
       return scorer.label === frother.name;
     });
 
-    frother.goals = frotherGoals ? frotherGoals?.data[frotherGoals.data.length - 1].y : 0;
-    frother.assists = frotherGoals ? frotherGoals?.data[frotherGoals.data.length - 1].ya : 0;
+    frother.goals = 0;
+    frother.assists = 0;
+    if (frotherGoals && frotherGoals.data.length>0 ){
+      frother.goals = frotherGoals?.data[frotherGoals.data.length - 1].y;
+      frother.assists = frotherGoals?.data[frotherGoals.data.length - 1].ya;
+    }
+
+
 
     frother.url = appearance.label.toLowerCase().replace(" ", "-");
 

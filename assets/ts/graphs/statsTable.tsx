@@ -13,30 +13,27 @@ function StatsTable ({ season }: { season: string }) {
   const [state, setState] = useState<Frother[]>([]);
   
   let re = /(\d+)\-(\w+)\-(\w+)/;
-  let output: YearSeason;
-  if (season === "all") {
-    output = {
-      year: null,
-      season: null,
-      squadName: "frothersfc"
+  const output:YearSeason = useMemo(() => {
+    if (season === "all") {
+      return {
+        year: null,
+        season: null,
+        squadName: "frothersfc"
+      }
     }
-  }
-  else {
-    let regex = re.exec(season);
-
-    output = {
+    const regex = re.exec(season);
+    return {
       year: parseInt(regex[1]),
       season: regex[2],
       squadName: regex[3],
     }
-  }
+  }, [season])
 
   useEffect(() => {
     getStaticsTable(output.year, output.season, output.squadName).then(data => {
       setState(data)
-    }
-    );
-  }, [])
+    });
+  }, [output])
 
   const tableTheme = useMemo(
     () =>

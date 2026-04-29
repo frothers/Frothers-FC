@@ -10,7 +10,7 @@ images = ["/2025-12-14/frothers-squad2.png"]
 match = true
 team = "OG Frothers"
 opponent = "Happy Feet"
-season = "summer"
+season = "winter"
 result = "Loss"
 
 frother_goals = 2
