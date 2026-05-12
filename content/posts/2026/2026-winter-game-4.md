@@ -17,7 +17,31 @@ frother_goals = 2
 opponent_goals = 4
 xi_and_subs = [
   "Nicolai",
-  "Andy Kong",
+"Ring in",
+"Ring in",
   "Chris Chester",
+"Ring in"
   "Charles Daily",
+  "Dart",
+  "Evan Hanson",
+"Andy Kong",
+  "Yash Rosario",
+"Ian Rayns",
+]
+
+[[scorers]]
+scorer = "Yash Rosario"
+goals = 1
+[[scorers]]
+scorer = "Ring in"
+goals = 1
+[[assist]]
+player = "Ian Rayns"
+assists = 1
++++
+
+
+
+
+
  
