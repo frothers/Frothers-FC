@@ -20,7 +20,7 @@ xi_and_subs = [
 "Ring in",
 "Ring in",
   "Chris Chester",
-"Ring in"
+"Ring in",
   "Charles Daily",
   "Dart",
   "Evan Hanson",
