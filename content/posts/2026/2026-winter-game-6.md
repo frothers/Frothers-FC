@@ -74,7 +74,7 @@ The Frothers could have easily buckled here, but showing more heart than in the 
 
 A corner floated in by **Yarride** caught the keeper flapping and **Chris** was there to see it home.
 
-![chris-header gif](2026-05-17/chris-header.gif)
+![chris-header gif](/2026-05-17/chris-header.gif)
 
 > 2-3
 
