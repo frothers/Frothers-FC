@@ -11,6 +11,8 @@ team = "OG Frothers"
 opponent = "Goodfellas"
 season = "winter"
 result = "Draw"
+motm = "Jake Payton"
+dotd= "Ian Rayns"
 
 frother_goals = 3
 opponent_goals = 3
@@ -70,7 +72,38 @@ Seeing that the ref was as keen to call offsides as a premier league lineo, Good
 
 The Frothers could have easily buckled here, but showing more heart than in the last couple of weeks they maintained their shape and pushed to get back into it.
 
-A courner floated in by **Yarride** caught the keeper flapping and **Chris** was there to see it home.
+A corner floated in by **Yarride** caught the keeper flapping and **Chris** was there to see it home.
 
+![chris-header gif](2026-05-17/chris-header.gif)
 
+> 2-3
+
+## Halftime
+
+The boys were feeling geed-up to give the second half some jandal, and came close soon after with **Chris** heading another corner over the bar.
+
+There wasn't much to seperate the two teams until late in the half when **Yarride**, fresh off a suspected concusion, slowed up in the box enough to draw in the last defender and then meg him and chip the keeper.
+
+> 3-3
+
+The *Goodfellas* started getting a bit lippy at the prospect a dropping points to the leagues whipping boys and made for an interesting ending to the game.
+
+**Shokoohi**, somehow finding himself at centreback, obviously put some money on the bookies at halftime for some disilinary action. Flying out into midfield he picked up what appeared to be a telegraphed yellow. As the game neared its end this would come back to haunt him.
+
+Another late challenge and it was another booking. Another Red for **Farshid**.
+But he wasn't done..
+
+Getting a bit too excited, a Goodfells player took the bait and grave some afters and picked himself up a yellow.
+
+**Charles** was keeping the receipts, however, and gently reminded the ref that the same player had also picked up an earlier yellow.
+
+![Caught a big one](https://giphy.com/embed/TPMzh2oTF5rNK)
+
+## Man of the Match
+It was great to have **Jake** back, and it proved to have been what we were missing. A tireless shift and helping apply a lot of pressure going forwwards.
+
+## Dick of the Day
+Do you blame the child in the gorilla cage, or the parent that let them get there?
+
+**Ian Rayns** with the Amorim-like manager decision to not only put Shokoohi in the backline, but to stick to his guns and keep him there when chaos was reigning.
  
