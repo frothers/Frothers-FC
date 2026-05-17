@@ -51,7 +51,7 @@ assists = 1
 
 The Frothers were out to add a little dignity to their relegation campaign. Up against a youthful Goodfellas squad and with a new recruit from Charles between the sticks the boys hopes were high.
 
-The pitch was as greasy as a Marinakis handshake, with a few first time passes getting the boys heart rates going better than any warm-up. The Frothers were starting to click, however, with **Farshid*[...]
+The pitch was as greasy as a Marinakis handshake, with a few first time passes getting the boys heart rates going better than any warm-up. The Frothers were starting to click, however, with **Farshid** starting to make inroads into the box.
 
 It was a matter of time until the pressure paid off, and another **Farshid** run into the box resulted in one of the defenders getting out the 🪓 and Shokoohi went timber.
 After being on the pitch for 2 minutes, **Yarride** stepped up to do the honours from the spot, sending the keeper the wrong way.
