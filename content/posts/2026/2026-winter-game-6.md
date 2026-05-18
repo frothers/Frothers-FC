@@ -82,7 +82,11 @@ A corner floated in by **Yarride** caught the keeper flapping and **Chris** was 
 
 The boys were feeling geed-up to give the second half some jandal, and came close soon after with **Chris** heading another corner over the bar.
 
-There wasn't much to separate the two teams until late in the half when **Yarride**, fresh off a suspected concussion, slowed up in the box enough to draw in the last defender and then meg him and chip[...]
+Then the head knocks started, **Yarride** managed to get clattered after passing the ball. Somehow it wasn't **Evan** taking one to the head. Oh wait, he did too.
+
+![head knock](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWpnZGZxcnptZnhlbGUyZGNwd3cwd2s4dWpuZDI1d3lxc2pwaGtwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gPPhH9X1NpilW/giphy.gif)
+
+There wasn't much to separate the two teams until late in the half when **Yarride**, fresh off a suspected concussion, slowed up in the box enough to draw in the last defender and then meg him and chip the keeper.
 
 > 3-3
 
