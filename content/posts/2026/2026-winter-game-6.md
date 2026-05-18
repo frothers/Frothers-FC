@@ -25,7 +25,7 @@ xi_and_subs = [
   "Charles Daily",
   "Evan Hanson",
   "Nikolai",
-  "Sam TBD",
+  "Sammy",
   "Yash Rosario",
   "Farshid Shokoohi",
   "Yarride Rosario",
@@ -92,7 +92,7 @@ There wasn't much to separate the two teams until late in the half when **Yarrid
 
 The *Goodfellas* started getting a bit lippy at the prospect of dropping points to the leagues whipping boys and made for an interesting ending to the game.
 
-**Shokoohi**, somehow finding himself at centreback, obviously put some money on the bookies at halftime for some disciplinary action. Flying out into midfield he picked up what appeared to be a telegra[...]
+**Shokoohi**, somehow finding himself at centreback, obviously put some money on the bookies at halftime for some disciplinary action. Flying out into midfield he picked up what appeared to be a telegram from the ref.
 
 Another late challenge and it was another booking. Another Red for **Farshid**.
 But he wasn't done..
@@ -110,4 +110,3 @@ It was great to have **Jake** back, and it proved to have been what we were miss
 Do you blame the child in the gorilla cage, or the parent that let them get there?
 
 **Ian Rayns** with the Amorim-like manager decision to not only put Shokoohi in the backline, but to stick to his guns and keep him there when chaos was reigning.
- 
