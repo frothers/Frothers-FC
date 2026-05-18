@@ -1,12 +1,8 @@
 {{ "<!-- banner -->" | safeHTML }}
-  {{ with .Site.Data.nextMatch.opponent }}
-    <nav class="navbar bg-primary">
-      <div class="alert-banner">
-      Next Match is 
-      <b>{{ dateFormat "03:04 PM Monday, January 2" $.Site.Data.nextMatch.date }} </b>
-      against {{ $.Site.Data.nextMatch.opponent }} 
-      at <b>{{ $.Site.Data.nextMatch.venue }} </b> 
-    </nav>
+<nav class="navbar bg-warning">
+  <div class="alert-banner alert alert-warning alert-dismissible fade show" role="alert">
+    <strong>Notice:</strong> Details of matches from the end of 2025 have been lost to <em>the fire</em> only high level statistics remain
+    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
   </div>
-  {{ end }}  
+</nav>
 {{ "<!-- /banner -->" | safeHTML }}
