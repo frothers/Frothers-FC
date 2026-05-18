@@ -70,7 +70,8 @@
 }
 
 .alert-banner {
-  color: antiquewhite;
+  background: t($primary-colour);
+  color: t($white);
   text-align: center;
   margin: auto;
 }
