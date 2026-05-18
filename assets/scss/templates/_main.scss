@@ -70,8 +70,10 @@
 }
 
 .alert-banner {
-  background: t($primary-colour);
-  color: t($text-colour);
+  @include themed() {
+    background: t($primary-colour);
+    color: t($text-colour);
+  }
   text-align: center;
   margin: auto;
 }
