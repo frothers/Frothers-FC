@@ -21,7 +21,7 @@ $logo-sm-url: 'logo-sm';
 $logo-mid-url: 'logo-mid';
 $kick-url: 'kick';
 
-$theme-map: () !global;
+$theme-map: null;
 $themes: (
   default: (
     logo: url("/images/svgs/dark/frothers_logo_2025.svg"),
@@ -74,10 +74,7 @@ $themes: (
 @mixin themed() {
   @each $theme, $map in $themes {
     .theme--#{$theme} & {
-      $theme-map: () !global;
-      @each $key, $value in $map {
-        $theme-map: map-merge($theme-map, ($key: $value)) !global;
-      }
+      $theme-map: $map !global;
       @content;
       $theme-map: null !global;
     }
