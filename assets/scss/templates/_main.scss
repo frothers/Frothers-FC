@@ -72,7 +72,7 @@
 .alert-banner {
   @include themed() {
     background: t($primary-colour);
-    color: t($text-colour);
+    color: t($text-colour-dark);
   }
   text-align: center;
   margin: auto;
