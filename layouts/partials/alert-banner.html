@@ -1,6 +1,6 @@
 {{ "<!-- banner -->" | safeHTML }}
-<nav class="navbar bg-warning-subtle">
-  <div class="alert-banner alert alert-warning-subtle alert-dismissible fade show text-alt" role="alert">
+<nav class="navbar">
+  <div class="alert-banner alert alert-dismissible fade show text-alt" role="alert" style="@include themed() { background-color: t($background-colour); }">
     <strong>Notice:</strong> Details of matches from the end of 2025 have been lost to <em>the fire</em> only high level statistics remain
     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
   </div>
