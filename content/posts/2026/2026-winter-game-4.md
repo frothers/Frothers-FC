@@ -9,7 +9,7 @@ type = "post"
 images = ["/2025-12-14/frothers-squad2.png"]
 match = true
 team = "OG Frothers"
-opponent = "HABIBIS 2"
+opponent = "Habibis 2"
 season = "winter"
 result = "Loss"
 

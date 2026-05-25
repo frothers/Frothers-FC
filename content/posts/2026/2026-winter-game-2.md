@@ -31,7 +31,7 @@ xi_and_subs = [
   "Connor Melville",
   "Jake TBD",
   "Declan TBD",
-  "Sam TBD"
+  "Sammy"
 ]
 
 

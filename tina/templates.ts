@@ -26,7 +26,14 @@ let squadList = [
   "Jordan Young",
   "Finn Harland",
   "Michael Bell",
-"Hunter Fromont",
+  "Hunter Fromont",
+  "Nikolai",
+  "Andy Kong",
+  "Angus Hay-Chapman",
+  "Connor Melville",
+  "Sammy",
+  "Declan",
+  "Dart",
 ];
 
 export function generic_pageFields() {
