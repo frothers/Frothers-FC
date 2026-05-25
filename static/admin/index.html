@@ -3,6 +3,15 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Frothers Football Club CMS - Manage your content on the go" />
+    <meta name="theme-color" content="#1976d2" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Frothers CMS" />
+    <link rel="manifest" href="/admin/manifest.json" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/admin/icon-192.png" />
+    <link rel="apple-touch-icon" href="/admin/icon-192.png" />
     <title>TinaCMS</title>
   </head>
 
@@ -26,6 +35,38 @@
     src="http://localhost:4001/src/main.tsx"
     onerror="handleLoadError()"
   ></script>
+  
+  <!-- PWA Service Worker Registration -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      // Register the service worker
+      navigator.serviceWorker.register('/admin/sw.js', {
+        scope: '/admin/'
+      }).then((registration) => {
+        console.log('Service Worker registered:', registration);
+        
+        // Check for updates periodically
+        setInterval(() => {
+          registration.update();
+        }, 60000); // Check every minute
+        
+        // Handle updates
+        registration.addEventListener('updatefound', () => {
+          const newWorker = registration.installing;
+          newWorker.addEventListener('statechange', () => {
+            if (newWorker.state === 'activated') {
+              // Notify user of app update
+              console.log('New version available! Refresh to update.');
+              // You can show a notification to the user here
+            }
+          });
+        });
+      }).catch((error) => {
+        console.log('Service Worker registration failed:', error);
+      });
+    }
+  </script>
+  
   <body class="tina-tailwind">
     <div id="root"></div>
   </body>
