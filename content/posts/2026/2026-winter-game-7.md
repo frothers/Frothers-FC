@@ -72,8 +72,6 @@ Not long afterwards the Happyfeet defenders were telegraphing their passes a bit
 
 The Frothers were dangerously close to move out of the relegation zone.
 
-![](/2026-05-17/declan-rice-rice.gif)
-
 A Happyfeet player ghosted into the box and was played in for a 1-on-1, and tucked the ball under the body of the keeper.
 
 > 3-2
@@ -83,8 +81,6 @@ Late in the game and another another free Happyfeet runner came into the box, ju
 > 3-3
 
 This happened to be a critical goal, as the Frothers would be out of the relegation zone if they had held the 3 points. The promised land is in sight.
-
-![In sight](https://tenor.com/bn2zb.gif)
 
 ## Man of the Match
 
