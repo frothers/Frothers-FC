@@ -1,11 +1,11 @@
 {{ define "main" }}
-{{ $script := .Site.Data.webpack.squad }}
+{{ $script := hugo.Data.webpack.squad }}
 {{ with $script.js }}
 <script src="{{ relURL . }}"></script>
 {{ end }}
 <
 <section class="section">
-  {{ $appearances := .Site.Data.stats.appearances }}
+  {{ $appearances := hugo.Data.stats.appearances }}
   {{ $years := slice }}
 
   <div class="container">
@@ -29,7 +29,7 @@
           <div class="card-body">
             <h5 class="card-title">Awards</h5>
             <ul class="list-group">
-              {{ range sort .Site.Data.stats.awards "award"}}
+              {{ range sort hugo.Data.stats.awards "award"}}
               {{ if eq .player $.Params.title }}
               <li class="list-group-item d-flex justify-content-between align-items-center">
                 {{ if eq .award "Glassman" }}

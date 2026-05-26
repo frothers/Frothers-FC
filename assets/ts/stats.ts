@@ -1,5 +1,5 @@
 import * as _ from 'lodash';
-import { Chart, ChartDataSets, ChartPoint } from 'chart.js';
+import { Chart, ChartDataset, Point } from 'chart.js';
 
 import { parseGoalsData } from './processors/graphData'
 import { getPlayerAppearances, yearlyAppearances, getPlayerMotd, getPlayerDotd } from './processors/statsData'
@@ -8,8 +8,7 @@ let careerChart: Chart;
 
 const defaultColour = "#e6e6e6";
 
-Chart.defaults.global.defaultFontColor = defaultColour;
-Chart.defaults.global.defaultColor = defaultColour;
+Chart.defaults.color = defaultColour;
 
 /**
  * @summary Get the filter value
@@ -72,8 +71,8 @@ export let populateStats = async function (name: string) {
     }
   });
 
-  let appearances: ChartPoint[] = dataAppearances.map(apps => {
-    let app: ChartPoint = {
+  let appearances: Point[] = dataAppearances.map(apps => {
+    let app: Point = {
       x: apps.year,
       y: apps.appearances
     }
@@ -90,8 +89,8 @@ export let populateStats = async function (name: string) {
   // Set appearances string
   appearancesElement.innerText = totalAppearances.toString();
 
-  let goals: ChartPoint[] = playerData.data.map(goal => {
-    let point: ChartPoint = {
+  let goals: Point[] = playerData.data.map(goal => {
+    let point: Point = {
       x: new Date (goal.t).getFullYear(),
       y: goal.goals
     }
@@ -101,7 +100,7 @@ export let populateStats = async function (name: string) {
   // Populate missing appearance years
   goals.forEach(goalYear => {
     if (0 > _.findIndex(appearances, {"x": goalYear.x})) {
-      let point: ChartPoint = {
+      let point: Point = {
         x: goalYear.x,
         y: 0
       }
@@ -111,7 +110,7 @@ export let populateStats = async function (name: string) {
 
   appearances.sort((a, b) => (a.x > b.x) ? 1 : -1)
 
-  let appearanceLine: ChartDataSets = {
+  let appearanceLine: ChartDataset = {
     label: "Appearances",
     fill: false,
     showLine: true,
@@ -119,7 +118,7 @@ export let populateStats = async function (name: string) {
     data: appearances
   }
 
-  let goalsLine: ChartDataSets = {
+  let goalsLine: ChartDataset = {
     label: "Goals",
     borderColor: "#8e5ea2",
     fill: false,
@@ -161,26 +160,23 @@ export let populateStats = async function (name: string) {
           bottom: 0
         }
       },
-      legend: {
-        display: true,
-        position: 'bottom',
-        
+      plugins: {
+        legend: {
+          display: true,
+          position: 'bottom',
+          
+        },
       },
       scales: {
-        xAxes: [{
-          ticks: {
-            suggestedMin: 2017,
-            suggestedMax: 2025,
-            stepSize: 1
-          }
-        }],
-        yAxes: [{
-          ticks: {
-            beginAtZero:true,
-            suggestedMin: 0,
-            suggestedMax: 15,
-          }
-        }]
+        x: {
+          suggestedMin: 2017,
+          suggestedMax: 2025,
+        },
+        y: {
+          beginAtZero: true,
+          suggestedMin: 0,
+          suggestedMax: 15,
+        }
       },
     }
   })

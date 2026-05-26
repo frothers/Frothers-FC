@@ -19,7 +19,7 @@
         "build:hugo": "hugo -d ./dist -b $URL",
         "build:hugo-local": "hugo -d ./dist -b frothersfc.com",
         "build:hugo:preview": "yarn run build:hugo -- -D -F",
-        "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
+        "build:webpack": "cross-env NODE_ENV=production NODE_OPTIONS='--max-old-space-size=4096' webpack --config webpack.prod.js"
     },
     "repository": {
         "type": "git",
@@ -32,7 +32,7 @@
     },
     "homepage": "https://github.com/frothers/Frothers-FC#readme",
     "engines": {
-        "node": ">=20.0.0"
+        "node": ">=26.0.0"
     },
     "resolutions": {
         "lodash": "^4.18.0",
@@ -41,14 +41,13 @@
     },
     "devDependencies": {
         "@playwright/test": "^1.59.1",
-        "@types/chart.js": "^2.9.29",
         "@types/downloadjs": "^1.4.6",
         "@types/lodash": "4.14.168",
         "@types/react": "^18.3.1",
         "@types/react-dom": "^18.3.1",
         "assets-webpack-plugin": "^7.1.1",
         "axios": "^1.16.1",
-        "chart.js": "^2.9.4",
+        "chart.js": "^4.5.1",
         "clean-webpack-plugin": "^4.0.0",
         "copy-webpack-plugin": "^14.0.0",
         "cross-env": "7.0.3",
@@ -62,9 +61,9 @@
         "ts-loader": "^9.0.0",
         "typescript": "^6.0.3",
         "webpack": "^5.98.0",
-        "webpack-cli": "^4.6.0",
+        "webpack-cli": "^7.0.2",
         "webpack-dev-server": "^5.2.4",
-        "webpack-merge": "^5.10.0"
+        "webpack-merge": "^6.0.1"
     },
     "hugo-bin": {
         "buildTags": "extended"
@@ -73,10 +72,10 @@
         "@emotion/react": "^11.14.0",
         "@emotion/styled": "^11.14.1",
         "@jpinsonneau/html-to-image": "^1.11.13",
-        "@mui/icons-material": "^6.4.7",
-        "@mui/material": "^7.3.2",
-        "@mui/x-charts": "^8.11.3",
-        "@mui/x-date-pickers": "^7.27.3",
+        "@mui/icons-material": "^9.0.1",
+        "@mui/material": "^9.0.1",
+        "@mui/x-charts": "^9.3.0",
+        "@mui/x-date-pickers": "^9.3.0",
         "@tinacms/cli": "^2.4.0",
         "bootstrap": "^5.3.3",
         "downloadjs": "^1.4.7",

@@ -1,6 +1,6 @@
 baseURL = "/"
 disqusShortname = ""
-languageCode = "en-uk"
+locale = "en-uk"
 pagination.pagerSize = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"

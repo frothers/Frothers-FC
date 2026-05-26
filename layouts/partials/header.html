@@ -1,5 +1,5 @@
 {{ "<!-- navigation -->" | safeHTML }} {{ $script :=
-.Site.Data.webpack.theme_switcher }} {{ with $script.js }}
+hugo.Data.webpack.theme_switcher }} {{ with $script.js }}
 <script src="{{ relURL . }}"></script>
 {{ end }}
 

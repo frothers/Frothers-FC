@@ -1,9 +1,9 @@
 {{ define "main" }}
-{{ $script := .Site.Data.webpack.stats2 }}
+{{ $script := hugo.Data.webpack.stats2 }}
 {{ with $script.js }}
 <script src="{{ relURL . }}"></script>
 {{ end }}
-{{ $appearances := .Site.Data.stats.appearances }}
+{{ $appearances := hugo.Data.stats.appearances }}
 
 <div id="app" data-appearances="{{ $appearances | jsonify}}"></div>
 
