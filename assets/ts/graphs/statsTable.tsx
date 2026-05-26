@@ -6,8 +6,12 @@ import {
 } from "material-react-table";
 import { createTheme, ThemeProvider, useTheme } from "@mui/material";
 import { Frother, getStaticsTable } from "../processors/graphData"
-import { YearSeason } from "../graphs";
 
+export type YearSeason = {
+  year: number | null;
+  season: string | null;
+  squadName: string;
+};
 
 function StatsTable ({ season }: { season: string }) {
   const [state, setState] = useState<Frother[]>([]);

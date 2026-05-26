@@ -113,7 +113,7 @@ export const Container: FC<ContainerProps> = ({ snapToGrid }) => {
   const [, drop] = useDrop(
     () => ({
       accept: ItemTypes.BOX,
-      drop(item: DragItem, monitor) {
+      drop(item: DragItem, monitor): any {
         const delta = monitor.getDifferenceFromInitialOffset() as {
           x: number;
           y: number;
