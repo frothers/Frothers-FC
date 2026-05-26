@@ -3,17 +3,14 @@ title = "Game 7 - Winter league 2026"
 description = "Frothers VS Happy Feet"
 author = "Chris"
 date = 2026-05-24T00:00:00.000Z
-draft = false
 type = "post"
-images = ["/2026-05-17/1779066216351.png"]
+images = [ "/2026-05-17/1779066216351.png" ]
+draft = false
 match = true
 team = "OG Frothers"
 opponent = "Happy Feet"
 season = "winter"
 result = "Draw"
-motm = "Jacob Williamson"
-dotd = "Farshid Shokoohi"
-
 frother_goals = 3
 opponent_goals = 3
 xi_and_subs = [
@@ -29,21 +26,26 @@ xi_and_subs = [
   "Yarride Rosario",
   "Angus Hay-Chapman",
   "Declan",
-  "Ring-in"
+  "Ring-In"
 ]
+motm = "Jacob Williamson"
+dotd = "Farshid Shokoohi"
+
+[[assist]]
+player = "Ring-in"
+assists = 1
 
 [[scorers]]
 scorer = "Jacob Williamson"
 goals = 1
+
 [[scorers]]
 scorer = "Yash Rosario"
 goals = 1
+
 [[scorers]]
 scorer = "Evan Hanson"
 goals = 1
-[[assist]]
-player = "Ring-in"
-assists = 1
 +++
 
 Another beautiful autumns day football at Wellington college and the Frothers were out to get some dignity, but not too many points, against a happy feet team that put a fair few past the boys last time out.
@@ -70,7 +72,7 @@ Not long afterwards the Happyfeet defenders were telegraphing their passes a bit
 
 The Frothers were dangerously close to move out of the relegation zone.
 
-![Its not done](https://tenor.com/cLM66mQIqXE.gif)
+![](/2026-05-17/declan-rice-rice.gif)
 
 A Happyfeet player ghosted into the box and was played in for a 1-on-1, and tucked the ball under the body of the keeper.
 
@@ -85,7 +87,9 @@ This happened to be a critical goal, as the Frothers would be out of the relegat
 ![In sight](https://tenor.com/bn2zb.gif)
 
 ## Man of the Match
+
 It was great to have big **Jacob** back with baby in tow, a true Frother appearance
 
 ## Dick of the Day
+
 Pulling out at the 11th hour when slated to be goalie, **Farshid** always dogs the boys
