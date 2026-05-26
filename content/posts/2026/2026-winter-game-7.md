@@ -18,6 +18,7 @@ xi_and_subs = [
   "Andy Kong",
   "Jacob Williamson",
   "Chris Chester",
+ "Ring-In",
   "Charles Daily",
   "Connor Melville",
   "Evan Hanson",
@@ -26,7 +27,7 @@ xi_and_subs = [
   "Yarride Rosario",
   "Angus Hay-Chapman",
   "Declan",
-  "Ring-In"
+ 
 ]
 motm = "Jacob Williamson"
 dotd = "Farshid Shokoohi"
