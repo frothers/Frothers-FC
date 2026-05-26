@@ -31,6 +31,9 @@
         "url": "https://github.com/frothers/Frothers-FC/issues"
     },
     "homepage": "https://github.com/frothers/Frothers-FC#readme",
+    "engines": {
+        "node": ">=20.0.0"
+    },
     "resolutions": {
         "lodash": "^4.18.0",
         "http-cache-semantics": "^4.1.1",
