@@ -2,6 +2,7 @@ import type { TinaField } from "tinacms";
 
 let squadList = [
   "",
+  "Jake Payton",
   "Yarride Rosario",
   "Yash Rosario",
   "Patrick Moore",
