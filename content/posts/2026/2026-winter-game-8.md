@@ -24,7 +24,8 @@ xi_and_subs = [
   "Yarride Rosario",
   "Declan",
   "Dart",
-  "Ian Rayns"
+  "Ian Rayns",
+  ""
 ]
 motm = ""
 dotd = ""
@@ -34,9 +35,9 @@ scorer = "Farshid Shokoohi"
 goals = 1
 +++
 
-Another beautiful autumns day football at Wellington college and the Frothers were out to get some dignity, but not too many points, against a happy feet team that put a fair few past the boys las[...]
+Another beautiful autumns day football at Wellington college and the Frothers were out to get some dignity, but not too many points, against a happy feet team that put a fair few past the boys las\[...]
 
-After a few slips in the backline **Jacob** for put up front, and the Frothers had their favourite target-man back. Jacob bullied the happyfeet centreback to get the ball in the box and put it to [...]
+After a few slips in the backline **Jacob** for put up front, and the Frothers had their favourite target-man back. Jacob bullied the happyfeet centreback to get the ball in the box and put it to \[...]
 
 > 1-0
 
@@ -52,7 +53,7 @@ The Frothers finally got a bit of luck as **Yash** picked up a deflection at the
 
 > 2-1
 
-Not long afterwards the Happyfeet defenders were telegraphing their passes a bit much and the ever energetic **Evan** gambled and took the ball off their feet. Striding along the edge of the box a[...]
+Not long afterwards the Happyfeet defenders were telegraphing their passes a bit much and the ever energetic **Evan** gambled and took the ball off their feet. Striding along the edge of the box a\[...]
 
 > 3-1
 
