@@ -185,6 +185,32 @@ export function postFields() {
       ],
     },
     {
+      type: "object",
+      name: "assist",
+      label: "Assists",
+      list: true,
+      ui: {
+        itemProps: (item) => {
+          // Field values are accessed by item?.<Field name>
+          return { label: item?.player };
+        },
+      },
+      fields: [
+        {
+          component: "select",
+          type: "string",
+          name: "player",
+          label: "Player",
+          options: squadList,
+        },
+        {
+          type: "number",
+          name: "assists",
+          label: "Assists",
+        },
+      ],
+    },
+    {
       type: "number",
       name: "frother_goals",
       label: "Frother Goals",
