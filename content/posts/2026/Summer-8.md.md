@@ -4,6 +4,7 @@ description = "Frothers VS Didier Koffi"
 author = "Chris"
 date = 2026-05-31T00:00:00.000Z
 type = "post"
+images = [ "/20240414140851_IMG_0807.JPG" ]
 draft = false
 match = true
 team = "OG Frothers"
@@ -27,7 +28,7 @@ motm = "Jacob Williamson"
 dotd = "Farshid Shokoohi"
 
 [[scorers]]
-scorer = "Evan Hanson"
+scorer = "Farshid Shokoohi"
 goals = 1
 +++
 
