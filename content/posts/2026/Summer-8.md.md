@@ -22,10 +22,12 @@ xi_and_subs = [
   "Evan Hanson",
   "Sammy",
   "Yarride Rosario",
-  "Declan"
+  "Declan",
+  "Dart",
+  "Ian Rayns"
 ]
-motm = "Jacob Williamson"
-dotd = "Farshid Shokoohi"
+motm = ""
+dotd = ""
 
 [[scorers]]
 scorer = "Farshid Shokoohi"
