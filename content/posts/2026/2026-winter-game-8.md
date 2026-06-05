@@ -63,19 +63,29 @@ The Frothers could now play their football and not need to worry about the resul
 
 A ball bounced back out after a Fashid freekick to Dart, whose volley (which was definitely destined for the top bins and not the hillside track) connected with the arm of a defender for a Stonewall penalty.
 
+!(dalot)\[[https://tenor.com/5tSa.gif](https://tenor.com/5tSa.gif)]
+
+Stepping up to the plate was **Chris**, but from the carpark came **Farshid** to claim his birthright.
+
+El Tigre stepped up.
+
+!()\[[https://tenor.com/bUFxjNgIRMe.gif](https://tenor.com/bUFxjNgIRMe.gif)]
+
+Showing a will of pure iron **Farshid** didn't even let a slip in the run-up put him off putting it in the bottom corner
+
 > 1-3
 
-The Frothers were dangerously close to move out of the relegation zone.
+Koffi got one more through a wind assisy to see out the game
 
-A Happyfeet player ghosted into the box and was played in for a 1-on-1, and tucked the ball under the body of the keeper.
+> 1-4
 
-> 3-2
+## Man of the Match
 
-Late in the game and another another free Happyfeet runner came into the box, just needing to put the ball 1 foot to the side of the rock between the sticks.
+Despite giving himself an onfield rating of 2/10, Dart get the nod this week for making his family proud using thes dark arts.
 
-> 3-3
+## Dick of the Day
 
-This happened to be a critical goal, as the Frothers would be out of the relegation zone if they had held the 3 points. The promised land is in sight.
+The team's devil of the shoulder struck again this week, and this time cost the writer a goal. **Ian**
 
 ## Man of the Match
 
