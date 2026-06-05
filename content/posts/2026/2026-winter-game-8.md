@@ -35,15 +35,15 @@ scorer = "Farshid Shokoohi"
 goals = 1
 +++
 
-Another beautiful autumns day football at Wellington college and the Frothers were out to get some dignity, but not too many points, against a happy feet team that put a fair few past the boys las\[...]
+The boys had two games to play and dispite their best efforts were only one point away from “safety”.
 
-After a few slips in the backline **Jacob** for put up front, and the Frothers had their favourite target-man back. Jacob bullied the happyfeet centreback to get the ball in the box and put it to \[...]
+!(careful)\[[https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3pyb2pvMThwaDk5eXMxeTkxZDJjZWltM3IyaG5xaHFzc2FvbnAwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je7a6s6zNKXPD1e/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3pyb2pvMThwaDk5eXMxeTkxZDJjZWltM3IyaG5xaHFzc2FvbnAwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je7a6s6zNKXPD1e/giphy.gif)]
 
-> 1-0
+Up against the olf rival in Didier, the Frothers were out to make sure their long overdue win didn't come at an inopportune time.
 
-At pretty much the last kick of the half Happyfeet were able to switch the ball to a wide open winger, who cut inside and slid in his teammate to equalise.
+**Farshid** picked the gloves up in the first half and was only too glad to make a meal of the first shot on target
 
-> 1-1
+> 0-1
 
 ## Halftime
 
@@ -71,8 +71,4 @@ This happened to be a critical goal, as the Frothers would be out of the relegat
 
 ## Man of the Match
 
-It was great to have big **Jacob** back with baby in tow, a true Frother appearance
-
 ## Dick of the Day
-
-Pulling out at the 11th hour when slated to be goalie, **Farshid** always dogs the boys
