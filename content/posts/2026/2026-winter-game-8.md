@@ -39,7 +39,7 @@ The boys had two games to play and dispite their best efforts were only one poin
 
 !\[careful]\([https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3pyb2pvMThwaDk5eXMxeTkxZDJjZWltM3IyaG5xaHFzc2FvbnAwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je7a6s6zNKXPD1e/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3pyb2pvMThwaDk5eXMxeTkxZDJjZWltM3IyaG5xaHFzc2FvbnAwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je7a6s6zNKXPD1e/giphy.gif)]\([https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3pyb2pvMThwaDk5eXMxeTkxZDJjZWltM3IyaG5xaHFzc2FvbnAwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je7a6s6zNKXPD1e/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3pyb2pvMThwaDk5eXMxeTkxZDJjZWltM3IyaG5xaHFzc2FvbnAwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je7a6s6zNKXPD1e/giphy.gif))
 
-Up against the olf rival in Didier, the Frothers were out to make sure their long overdue win didn't come at an inopportune time.
+Up against the old rival in Didier, the Frothers were out to make sure their long overdue win didn't come at an inopportune time.
 
 **Farshid** picked the gloves up in the first half and was only too glad to make a meal of the first shot on target
 
