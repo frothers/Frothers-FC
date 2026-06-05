@@ -34,7 +34,7 @@ scorer = "Farshid Shokoohi"
 goals = 1
 +++
 
-The boys had two games to play and despite their best efforts were only one point away from “safety”.
+The boys had two games to play and despite their best efforts were only one point away from "safety".
 
 ![careful](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM3pyb2pvMThwaDk5eXMxeTkxZDJjZWltM3IyaG5xaHFzc2FvbnAwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Je7a6s6zNKXPD1e/giphy.gif)
 
@@ -52,7 +52,7 @@ A swap of keeper to Jake and the arrival of our soon to be departing cheerleader
 
 Didier extended their lead by shooting the ball over 6 feet high.
 
-![through the arms](https://tenor.com/bbMmo.gif)
+![through the arms](https://media.tenor.com/e6TwTmHEqTgAAAAd/nono.gif)
 
 > 0-3
 
@@ -60,15 +60,15 @@ The boys were home and hosed.
 
 The Frothers could now play their football and not need to worry about the result.
 
-A ball bounced back out after a **Fashid** freekick to **Dart**, whose volley (which was definitely destined for the top bins and not the hillside track) connected with the arm of a defender for a Stonewall penalty.
+A ball bounced back out after a **Fashid** freekick to **Dart**, whose volley (which was definitely destined for the top bins and not the hillside track) connected with the arm of a defender for a[...]
 
-![dalot](https://tenor.com/5tSa.gif)
+![dalot](https://media.tenor.com/JT37h4hLfmMAAAAd/nuno-dalot-manchester.gif)
 
 Stepping up to the plate was **Chris**, but from the carpark came **Farshid** to claim his birthright.
 
 El Tigre stepped up.
 
-![El tigre](https://tenor.com/bUFxjNgIRMe.gif)
+![El tigre](https://media.tenor.com/Wm_l0XfW_s8AAAAd/tiger-woods.gif)
 
 Showing a will of pure iron **Farshid** didn't even let a slip in the run-up put him off putting it in the bottom corner
 
