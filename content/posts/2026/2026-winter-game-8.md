@@ -45,17 +45,25 @@ Up against the olf rival in Didier, the Frothers were out to make sure their lon
 
 > 0-1
 
-## Halftime
+The next goal was nothing to sniff at, though. A first time volley off a corner into the top bins.
 
-The game was well-matched and the Frothers were managing to keep up the rhythm they had developed the week before. A keeper swap saw Nikolai come out of goal and Chris take his place.
+## Half-time
 
-The Frothers finally got a bit of luck as **Yash** picked up a deflection at the edge of the six yard box and put it in the corner.
+A swap of keeper to Jake and the arrival of our soon to be departing cheerleader, Yash.
 
-> 2-1
+Didier extended their lead by shooting the ball over 6 feet high.
 
-Not long afterwards the Happyfeet defenders were telegraphing their passes a bit much and the ever energetic **Evan** gambled and took the ball off their feet. Striding along the edge of the box a\[...]
+!(through the arms)\[[https://tenor.com/bbMmo.gif](https://tenor.com/bbMmo.gif)]
 
-> 3-1
+> 0-3
+
+The boys were home and hosed.
+
+The Frothers could now play their football and not need to worry about the result.
+
+A ball bounced back out after a Fashid freekick to Dart, whose volley (which was definitely destined for the top bins and not the hillside track) connected with the arm of a defender for a Stonewall penalty.
+
+> 1-3
 
 The Frothers were dangerously close to move out of the relegation zone.
 
