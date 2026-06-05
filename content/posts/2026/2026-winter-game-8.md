@@ -25,10 +25,9 @@ xi_and_subs = [
   "Declan",
   "Dart",
   "Ian Rayns",
-  ""
 ]
-motm = ""
-dotd = ""
+motm = "Dart"
+dotd = "Ian Rayns"
 
 [[scorers]]
 scorer = "Farshid Shokoohi"
@@ -87,6 +86,3 @@ Despite giving himself an onfield rating of 2/10, Dart get the nod this week for
 
 The team's devil of the shoulder struck again this week, and this time cost the writer a goal. **Ian**
 
-## Man of the Match
-
-## Dick of the Day
