@@ -4,6 +4,7 @@ import { defineConfig } from "tinacms";
 // tina/templates.ts
 var squadList = [
   "",
+  "Jake Payton",
   "Yarride Rosario",
   "Yash Rosario",
   "Patrick Moore",
@@ -169,6 +170,31 @@ function postFields() {
           type: "number",
           name: "goals",
           label: "Goals"
+        }
+      ]
+    },
+    {
+      type: "object",
+      name: "assist",
+      label: "Assists",
+      list: true,
+      ui: {
+        itemProps: (item) => {
+          return { label: item?.player };
+        }
+      },
+      fields: [
+        {
+          component: "select",
+          type: "string",
+          name: "player",
+          label: "Player",
+          options: squadList
+        },
+        {
+          type: "number",
+          name: "assists",
+          label: "Assists"
         }
       ]
     },
