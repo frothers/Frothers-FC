@@ -52,7 +52,7 @@ A swap of keeper to Jake and the arrival of our soon to be departing cheerleader
 
 Didier extended their lead by shooting the ball over 6 feet high.
 
-![through the arms](https://media.tenor.com/e6TwTmHEqTgAAAAd/nono.gif)
+![through the arms](/2026-05-31/through-arms.gif)
 
 > 0-3
 
@@ -62,13 +62,13 @@ The Frothers could now play their football and not need to worry about the resul
 
 A ball bounced back out after a **Fashid** freekick to **Dart**, whose volley (which was definitely destined for the top bins and not the hillside track) connected with the arm of a defender for a[...]
 
-![dalot](https://media.tenor.com/JT37h4hLfmMAAAAd/nuno-dalot-manchester.gif)
+![dalot](/static/2026-05-31/kimpembe-main.gif)
 
 Stepping up to the plate was **Chris**, but from the carpark came **Farshid** to claim his birthright.
 
 El Tigre stepped up.
 
-![El tigre](https://media.tenor.com/Wm_l0XfW_s8AAAAd/tiger-woods.gif)
+![El tigre](/static/2026-05-31/take-the-penalty-hand-over-the-ball.gif)
 
 Showing a will of pure iron **Farshid** didn't even let a slip in the run-up put him off putting it in the bottom corner
 
