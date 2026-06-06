@@ -86,7 +86,7 @@ Koffi got one more through a wind assist to see out the game
 
 ## Man of the Match
 
-Despite giving himself an onfield rating of 2/10, Dart get the nod this week for making his family proud using the dark arts.
+Despite giving himself an onfield rating of 2/10, **Dart** get the nod this week for making his family proud using the dark arts.
 
 ## Dick of the Day
 
