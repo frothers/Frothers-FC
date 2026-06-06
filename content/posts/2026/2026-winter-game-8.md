@@ -42,13 +42,15 @@ Up against the old rival in Didier, the Frothers were out to make sure their lon
 
 **Farshid** picked the gloves up in the first half and was only too glad to make a meal of the first shot on target
 
+![Farsh spill](/static/2026-05-31/farsh-spill.gif)
+
 > 0-1
 
 The next goal was nothing to sniff at, though. A first time volley off a corner into the top bins.
 
 ## Half-time
 
-A swap of keeper to Jake and the arrival of our soon to be departing cheerleader, Yash.
+A swap of keeper to **Jake** and the arrival of our soon to be departing cheerleader, **Yash**.
 
 Didier extended their lead by shooting the ball over 6 feet high.
 
@@ -60,7 +62,9 @@ The boys were home and hosed.
 
 The Frothers could now play their football and not need to worry about the result.
 
-A ball bounced back out after a **Fashid** freekick to **Dart**, whose volley (which was definitely destined for the top bins and not the hillside track) connected with the arm of a defender for a[...]
+A ball bounced back out after a **Fashid** freekick to **Dart**, whose volley (which was definitely destined for the top bins and not the hillside track) connected with the arm of a defender for a stonewall penalty.
+
+![Dart](/static/2026-05-31/dart-rocket.gif)
 
 ![dalot](/static/2026-05-31/kimpembe-main.gif)
 
@@ -71,6 +75,8 @@ El Tigre stepped up.
 ![El tigre](/static/2026-05-31/take-the-penalty-hand-over-the-ball.gif)
 
 Showing a will of pure iron **Farshid** didn't even let a slip in the run-up put him off putting it in the bottom corner
+
+![Peno](/static/2026-05-31/farsh-pen.gif)
 
 > 1-3
 
@@ -85,4 +91,14 @@ Despite giving himself an onfield rating of 2/10, Dart get the nod this week for
 ## Dick of the Day
 
 The team's devil of the shoulder struck again this week, and this time cost the writer a goal. **Ian**
+
+## Special Shout Outs
+
+### Yash departs
+Leaving for the unique experience of doing his OE in London, **Yash** didn't want to risk not scoring in his last game so didn't even make an appearance. Potential should rethink that dick of the day.
+
+## Evan makes 200
+The first Frother to make it past the milestone of a double century, **Evan** has etched his name in stone.
+
+![Mount frothmore](/static/2026-05-31/mountfrothmore.jpg)
 
