@@ -31,13 +31,13 @@ players = [
   "Michael Bell",
   "Jamie Fa'asalele",
   "Connor Melville",
-  "Jake TBD",
-  "Declan TBD",
+  "Jake",
+  "Declan",
   "Dart",
   "Andy Kong",
   "Nikolai",
-  "Jack TBD",
   "Sammy",
+  "Sarthak",
 ]
 +++
 
