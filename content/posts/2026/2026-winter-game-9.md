@@ -1,5 +1,5 @@
 +++
-title = "Game 7 - Winter league 2026"
+title = "Game 9 - Winter league 2026"
 description = "Frothers VS Dynamo Kev"
 author = "Chris"
 date = 2026-06-14T00:00:00.000Z

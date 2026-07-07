@@ -16,7 +16,7 @@ result = "Loss"
 frother_goals = 2
 opponent_goals = 4
 xi_and_subs = [
-  "Nicolai",
+  "Nikolai",
 "Ring in",
 "Ring in",
   "Chris Chester",

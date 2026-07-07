@@ -29,7 +29,7 @@ players = [
   "Ryan McInteer",
   "Hunter Fromont",
   "Michael Bell",
-  "Jamie Fa'a",
+  "Jamie Fa'asalele",
   "Connor Melville",
   "Jake TBD",
   "Declan TBD",
