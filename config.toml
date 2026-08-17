@@ -22,6 +22,10 @@ identifier = "Squad"
 name = "Squad"
 url = "/squad-members"
 weight = 1
+[[menu.main]]
+name = "Draft"
+url = "https://draft.frothers.com"
+weight = 3
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 page = ["HTML", "JSON"]
