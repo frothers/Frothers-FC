@@ -23,7 +23,7 @@ name = "Squad"
 url = "/squad-members"
 weight = 1
 [[menu.main]]
-name = "We're cooking"
+name = "Draft"
 url = "https://draft.frothersfc.com/"
 weight = 3
 [outputs]
