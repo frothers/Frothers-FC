@@ -20,7 +20,7 @@ xi_and_subs = [
   "Andy Kong",
   "Connor Melville",
   "Declan",
-  "Jamie Fa'asalele"
+  "Jamie Fa'asalele",
   "Ian Rayns",
   "Yarride Rosario",
   "Lance Molyneaux",
@@ -31,7 +31,7 @@ xi_and_subs = [
   "Josh(E)",
   "Campbell",
   "Cory",
-  "Angus",
+  "Angus"
 ]
 
 [[scorers]]
@@ -45,7 +45,6 @@ goals = 2
 [[scorers]]
 scorer = "Yarride Rosario"
 goals = 2
-
 
 [[assist]]
 player = "Lance Molyneaux"
