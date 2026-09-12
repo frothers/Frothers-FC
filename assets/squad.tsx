@@ -1,9 +1,7 @@
-import { getPlayerName, populateStats } from "./ts/stats";
 import { createRoot } from 'react-dom/client';
 import YearlyStatsGraph from './ts/yearlystatsgraph'
 import LifetimeStats from "./ts/lifetimestats";
 import { StrictMode } from 'react';
-import { yearlyAppearances } from "./ts/processors/statsData";
 
 
 window.addEventListener('load', function () {
