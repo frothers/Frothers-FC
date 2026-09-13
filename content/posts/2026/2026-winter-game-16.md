@@ -39,6 +39,14 @@ goals = 2
 scorer = "Nikolai"
 goals = 2
 
+[[scorers]]
+scorer = "Sarthak"
+goals = 1
+
+[[scorers]]
+scorer = "Josh(E)"
+goals = 1
+
 [[assist]]
 player = "Yarride Rosario"
 assists = 1
