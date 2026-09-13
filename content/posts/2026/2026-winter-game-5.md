@@ -26,7 +26,8 @@ xi_and_subs = [
   "Evan Hanson",  
   "Farshid Shokoohi",
   "Yash Rosario",
-  "Jamie Ring in",
+  "Nikolai",
+  "Sarthak",
   "Yarride Rosario"
 ]
 

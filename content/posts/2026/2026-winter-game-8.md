@@ -25,6 +25,10 @@ xi_and_subs = [
   "Declan",
   "Dart",
   "Ian Rayns",
+  "Jake Payton",
+  "Jake",
+  "Jamie Fa'asalele",
+  "Santi",
 ]
 motm = "Dart"
 dotd = "Ian Rayns"
@@ -32,6 +36,10 @@ dotd = "Ian Rayns"
 [[scorers]]
 scorer = "Farshid Shokoohi"
 goals = 1
+
+[[assist]]
+player = "Dart"
+assists = 1
 +++
 
 The boys had two games to play and despite their best efforts were only one point away from "safety".

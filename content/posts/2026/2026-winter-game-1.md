@@ -30,7 +30,7 @@ xi_and_subs = [
 ]
 
 [[scorers]]
-scorer = "Yash Rosario"
+scorer = "Lance Molyneaux"
 goals = 1
 [[scorers]]
 scorer = "Sammy"
@@ -38,9 +38,6 @@ goals = 1
 
 [[assist]]
 player = "Evan Hanson"
-assists = 1
-[[assist]]
-player = "Dart"
 assists = 1
 
 +++

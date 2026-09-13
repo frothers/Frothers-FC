@@ -44,9 +44,6 @@ assists = 1
 [[assist]]
 player = "Yarride Rosario"
 assists = 1
-[[assist]]
-player = "Yash Rosario"
-assists = 1
 +++
 
 The Frothers were out to add a little dignity to their relegation campaign. Up against a youthful Goodfellas squad and with a new recruit from Charles between the sticks the boys hopes were high.

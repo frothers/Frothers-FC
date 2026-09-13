@@ -15,9 +15,8 @@ motm = ""
 dotd= ""
 
 frother_goals = 0
-opponent_goals = 6
+opponent_goals = 5
 xi_and_subs = [
-  "Shannon",
   "Jake Payton",
   "Ian Rayns",
   "Yarride Rosario",
@@ -28,6 +27,9 @@ xi_and_subs = [
   "Farshid Shokoohi",
   "Lance Molyneaux",
   "Charles Daily",
+  "Travis",
+  "Josh (GK)",
+  "Campbell",
 ]
 
 +++

@@ -1,47 +1,53 @@
 +++
 title = "Game 14 - Winter league 2026"
-description = "Frothers VS Goodfellas"
+description = "Frothers VS Unathletico Unionisers"
 author = "Chris"
-date = 2026-08-09T00:00:00.000Z
+date = 2026-08-02T00:00:00.000Z
 draft = false
 type = "post"
 images = ["/2026-05-17/1779066216351.png"]
 match = true
 team = "OG Frothers"
-opponent = "Goodfellas"
+opponent = "Unathletico Unionisers"
 season = "winter"
-result = "Loss"
+result = "Win"
 motm = ""
 dotd = ""
 
-frother_goals = 2
-opponent_goals = 4
+frother_goals = 5
+opponent_goals = 1
 xi_and_subs = [
   "Evan Hanson",
   "Andy Kong",
   "Ian Rayns",
+  "Nikolai",
+  "Dart",
   "Sam",
-  "Farshid Shokoohi",
-  "Lance Molyneaux",
-  "Connor Melville",
-  "Jake",
+  "Declan",
   "Dave",
-  "Josh(E)"
+  "Sarthak",
+  "Jacob Williamson",
+  "Josh(E)",
+  "Jason"
 ]
 
 [[scorers]]
-scorer = "Connor Melville"
-goals = 1
+scorer = "Nikolai"
+goals = 2
 
 [[scorers]]
-scorer = "Jake"
-goals = 1
+scorer = "Jacob Williamson"
+goals = 3
 
 [[assist]]
-player = "Evan Hanson"
+player = "Nikolai"
 assists = 1
 
 [[assist]]
-player = "Lance Molyneaux"
-assists = 1
+player = "Sarthak"
+assists = 2
+
+[[assist]]
+player = "Dave"
+assists = 2
 +++

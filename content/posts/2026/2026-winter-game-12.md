@@ -1,61 +1,61 @@
 +++
 title = "Game 12 - Winter league 2026"
-description = "Frothers VS Strathmore Strokers"
+description = "Frothers VS Buds FC"
 author = "Chris"
-date = 2026-07-26T00:00:00.000Z
+date = 2026-07-19T00:00:00.000Z
 draft = false
 type = "post"
 images = ["/2026-05-17/1779066216351.png"]
 match = true
 team = "OG Frothers"
-opponent = "Strathmore Strokers"
+opponent = "Buds FC"
 season = "winter"
 result = "Win"
 motm = ""
 dotd = ""
 
-frother_goals = 6
-opponent_goals = 2
+frother_goals = 7
+opponent_goals = 0
 xi_and_subs = [
+  "Josh (GK)",
   "Evan Hanson",
   "Andy Kong",
   "Ian Rayns",
   "Yarride Rosario",
   "Nikolai",
   "Sam",
+  "Farshid Shokoohi",
   "Lance Molyneaux",
   "Connor Melville",
-  "Declan",
-  "Sarthak",
-  "Campbell",
-  "Josh(E)"
+  "Ehkaw",
+  "Dave"
 ]
 
 [[scorers]]
-scorer = "Lance Molyneaux"
-goals = 2
-
-[[scorers]]
 scorer = "Yarride Rosario"
-goals = 1
+goals = 4
 
 [[scorers]]
-scorer = "Sam"
-goals = 1
-
-[[scorers]]
-scorer = "Josh(E)"
+scorer = "Nikolai"
 goals = 2
 
-[[assist]]
-player = "Connor Melville"
-assists = 3
+[[scorers]]
+scorer = "Andy Kong"
+goals = 1
 
 [[assist]]
-player = "Yarride Rosario"
+player = "Farshid Shokoohi"
 assists = 2
 
 [[assist]]
-player = "Sarthak"
+player = "Nikolai"
+assists = 1
+
+[[assist]]
+player = "Ian Rayns"
+assists = 1
+
+[[assist]]
+player = "Lance Molyneaux"
 assists = 1
 +++

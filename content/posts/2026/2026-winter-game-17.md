@@ -1,72 +1,37 @@
 +++
 title = "Game 17 - Winter league 2026"
-description = "Frothers VS Kimchi Stew"
+description = "Frothers VS V Well"
 author = "Chris"
-date = 2026-08-30T00:00:00.000Z
+date = 2026-08-23T00:00:00.000Z
 draft = false
 type = "post"
 images = ["/2026-05-17/1779066216351.png"]
 match = true
 team = "OG Frothers"
-opponent = "Kimchi Stew"
+opponent = "V Well"
 season = "winter"
-result = "Win"
+result = "Loss"
 motm = ""
 dotd = ""
 
-frother_goals = 7
-opponent_goals = 2
+frother_goals = 1
+opponent_goals = 3
 xi_and_subs = [
+  "Dart",
   "Andy Kong",
-  "Connor Melville",
-  "Declan",
-  "Jamie Fa'asalele",
   "Ian Rayns",
-  "Yarride Rosario",
   "Lance Molyneaux",
-  "Sam",
   "Nikolai",
+  "Sam",
   "Dave",
   "Sarthak",
   "Josh(E)",
   "Campbell",
-  "Cory",
-  "Angus"
+  "Ring-In",
+  "Ring-In",
 ]
 
 [[scorers]]
 scorer = "Nikolai"
-goals = 2
-
-[[scorers]]
-scorer = "Sam"
-goals = 2
-
-[[scorers]]
-scorer = "Yarride Rosario"
-goals = 2
-
-[[assist]]
-player = "Lance Molyneaux"
-assists = 2
-
-[[assist]]
-player = "Dave"
-assists = 1
-
-[[assist]]
-player = "Yarride Rosario"
-assists = 1
-
-[[assist]]
-player = "Josh(E)"
-assists = 1
-
-[[assist]]
-player = "Angus"
-assists = 1
-
-[[assist]]
-player = "Sam"
-assists = 1
+goals = 1
 +++

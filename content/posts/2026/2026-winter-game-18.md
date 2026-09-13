@@ -1,58 +1,76 @@
 +++
 title = "Game 18 - Winter league 2026"
-description = "Frothers VS Inter Wellington"
+description = "Frothers VS Kimchi Stew"
 author = "Chris"
-date = 2026-09-09T00:00:00.000Z
+date = 2026-08-30T00:00:00.000Z
 draft = false
 type = "post"
 images = ["/2026-05-17/1779066216351.png"]
 match = true
 team = "OG Frothers"
-opponent = "Inter Wellington"
+opponent = "Kimchi Stew"
 season = "winter"
 result = "Win"
 motm = ""
 dotd = ""
 
-frother_goals = 6
-opponent_goals = 4
+frother_goals = 7
+opponent_goals = 2
 xi_and_subs = [
+  "Andy Kong",
+  "Connor Melville",
   "Declan",
-  "Evan Hanson",
+  "Jamie Fa'asalele",
   "Ian Rayns",
-  "Lance Molyneaux",
-  "Nikolai",
   "Yarride Rosario",
+  "Lance Molyneaux",
   "Sam",
+  "Nikolai",
   "Dave",
   "Sarthak",
-  "Ehkaw",
+  "Josh(E)",
   "Campbell",
   "Cory",
+  "Angus"
 ]
 
 [[scorers]]
-scorer = "Yarride Rosario"
-goals = 3
-
-[[scorers]]
-scorer = "Evan Hanson"
-goals = 1
-
-[[scorers]]
-scorer = "Ehkaw"
+scorer = "Nikolai"
 goals = 2
+
+[[scorers]]
+scorer = "Sam"
+goals = 2
+
+[[scorers]]
+scorer = "Yarride Rosario"
+goals = 2
+
+[[scorers]]
+scorer = "Sarthak"
+goals = 1
 
 [[assist]]
 player = "Lance Molyneaux"
+assists = 2
+
+[[assist]]
+player = "Dave"
 assists = 1
 
 [[assist]]
 player = "Yarride Rosario"
-assists = 2
-
-[[assist]]
-player = "Ehkaw"
 assists = 1
 
+[[assist]]
+player = "Josh(E)"
+assists = 1
+
+[[assist]]
+player = "Angus"
+assists = 1
+
+[[assist]]
+player = "Sam"
+assists = 1
 +++

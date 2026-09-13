@@ -18,7 +18,7 @@ xi_and_subs = [
   "Andy Kong",
   "Jacob Williamson",
   "Chris Chester",
- "Ring-In",
+  "Quinn",
   "Charles Daily",
   "Connor Melville",
   "Evan Hanson",
@@ -33,7 +33,7 @@ motm = "Jacob Williamson"
 dotd = "Farshid Shokoohi"
 
 [[assist]]
-player = "Ring-in"
+player = "Quinn"
 assists = 1
 
 [[scorers]]

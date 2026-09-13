@@ -1,37 +1,61 @@
 +++
 title = "Game 16 - Winter league 2026"
-description = "Frothers VS V Well"
+description = "Frothers VS VUWAFC Unicorns"
 author = "Chris"
-date = 2026-08-23T00:00:00.000Z
+date = 2026-08-16T00:00:00.000Z
 draft = false
 type = "post"
 images = ["/2026-05-17/1779066216351.png"]
 match = true
 team = "OG Frothers"
-opponent = "V Well"
+opponent = "VUWAFC Unicorns"
 season = "winter"
-result = "Loss"
+result = "Win"
 motm = ""
 dotd = ""
 
-frother_goals = 1
-opponent_goals = 4
+frother_goals = 6
+opponent_goals = 1
 xi_and_subs = [
-  "Dart",
+  "Evan Hanson",
   "Andy Kong",
   "Ian Rayns",
-  "Lance Molyneaux",
+  "Yarride Rosario",
   "Nikolai",
   "Sam",
-  "Dave",
+  "Farshid Shokoohi",
+  "Lance Molyneaux",
+  "Campbell",
   "Sarthak",
   "Josh(E)",
-  "Campbell",
-  "Ring-In",
-  "Ring-In",
+  "Dave",
 ]
 
 [[scorers]]
+scorer = "Yarride Rosario"
+goals = 2
+
+[[scorers]]
 scorer = "Nikolai"
-goals = 1
+goals = 2
+
+[[assist]]
+player = "Yarride Rosario"
+assists = 1
+
+[[assist]]
+player = "Nikolai"
+assists = 1
+
+[[assist]]
+player = "Lance Molyneaux"
+assists = 1
+
+[[assist]]
+player = "Sarthak"
+assists = 1
+
+[[assist]]
+player = "Josh(E)"
+assists = 1
 +++

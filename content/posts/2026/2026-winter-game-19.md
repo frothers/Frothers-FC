@@ -1,61 +1,58 @@
 +++
-title = "Game 13 - Winter league 2026"
-description = "Frothers VS Strathmore Strokers"
+title = "Game 19 - Winter league 2026"
+description = "Frothers VS Inter Wellington"
 author = "Chris"
-date = 2026-07-26T00:00:00.000Z
+date = 2026-09-09T00:00:00.000Z
 draft = false
 type = "post"
 images = ["/2026-05-17/1779066216351.png"]
 match = true
 team = "OG Frothers"
-opponent = "Strathmore Strokers"
+opponent = "Inter Wellington"
 season = "winter"
 result = "Win"
 motm = ""
 dotd = ""
 
 frother_goals = 6
-opponent_goals = 2
+opponent_goals = 4
 xi_and_subs = [
-  "Evan Hanson",
-  "Andy Kong",
-  "Ian Rayns",
-  "Yarride Rosario",
-  "Nikolai",
-  "Sam",
-  "Lance Molyneaux",
-  "Connor Melville",
   "Declan",
+  "Evan Hanson",
+  "Ian Rayns",
+  "Lance Molyneaux",
+  "Nikolai",
+  "Yarride Rosario",
+  "Sam",
+  "Dave",
   "Sarthak",
+  "Ehkaw",
   "Campbell",
-  "Josh(E)"
+  "Cory",
 ]
 
 [[scorers]]
-scorer = "Lance Molyneaux"
-goals = 2
-
-[[scorers]]
 scorer = "Yarride Rosario"
+goals = 3
+
+[[scorers]]
+scorer = "Evan Hanson"
 goals = 1
 
 [[scorers]]
-scorer = "Sam"
-goals = 1
-
-[[scorers]]
-scorer = "Josh(E)"
+scorer = "Ehkaw"
 goals = 2
 
 [[assist]]
-player = "Connor Melville"
-assists = 3
+player = "Lance Molyneaux"
+assists = 1
 
 [[assist]]
 player = "Yarride Rosario"
 assists = 2
 
 [[assist]]
-player = "Sarthak"
+player = "Ehkaw"
 assists = 1
+
 +++
