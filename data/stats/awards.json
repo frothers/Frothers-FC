@@ -364,9 +364,44 @@
     "award": "Frother of the Year",
     "year": 2025
   },
-    {
+  {
     "player": "Jacob Williamson",
     "award": "MVP",
     "year": 2025
+  },
+  {
+    "player": "Yarride Rosario",
+    "award": "MVP",
+    "year": 2026
+  },
+  {
+    "player": "Yarride Rosario",
+    "award": "Most Assists",
+    "year": 2026
+  },
+  {
+    "player": "Yarride Rosario",
+    "award": "Golden Boot",
+    "year": 2026
+  },
+  {
+    "player": "Ian Rayns",
+    "award": "Frother of the Year",
+    "year": 2026
+  },
+  {
+    "player": "Farshid Shokoohi",
+    "award": "Academy Award",
+    "year": 2026
+  },
+  {
+    "player": "Sam",
+    "award": "Most Improved Player",
+    "year": 2026
+  },
+  {
+    "player": "Ian Rayns",
+    "award": "Stormtrooper",
+    "year": 2026
   }
 ]
