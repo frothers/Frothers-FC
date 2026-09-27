@@ -26,7 +26,7 @@ xi_and_subs = [
   "Dave",
   "Sarthak",
   "Josh(E)",
-  "Campbell",
+  "Campbell Moorhouse",
   "Ring-In",
   "Ring-In",
 ]

@@ -25,7 +25,7 @@ xi_and_subs = [
   "Sam",
   "Farshid Shokoohi",
   "Lance Molyneaux",
-  "Campbell",
+  "Campbell Moorhouse",
   "Sarthak",
   "Josh(E)",
   "Dave",

@@ -38,6 +38,8 @@ players = [
   "Nikolai",
   "Sammy",
   "Sarthak",
+  "Campbell Moorhouse",
+  "Corey"
 ]
 +++
 

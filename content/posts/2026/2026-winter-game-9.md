@@ -29,7 +29,7 @@ xi_and_subs = [
   "Charles Daily",
   "Travis",
   "Josh (GK)",
-  "Campbell",
+  "Campbell Moorhouse",
 ]
 
 +++

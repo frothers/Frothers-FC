@@ -28,7 +28,7 @@ xi_and_subs = [
   "Jason",
   "Sarthak",
   "Camillo",
-  "Campbell",
+  "Campbell Moorhouse",
 ]
 
 [[scorers]]

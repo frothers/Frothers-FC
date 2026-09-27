@@ -31,7 +31,7 @@ xi_and_subs = [
   "Charles Daily",
   "Farshid Shokoohi",
   "Ian Rayns",
-  "Campbell",
+  "Campbell Moorhouse",
   "Mark",
 ]
 
