@@ -10,7 +10,6 @@ images = ["/2025-12-14/frothers-squad2.png"]
 match = true
 team = "OG Frothers"
 opponent = "Legacy United"
-formation = "4-3-3"
 season = "summer"
 result = "Loss"
 
