@@ -1,5 +1,13 @@
 const fs = require('node:fs');
 const path = require('node:path');
+const { FROTHERS_XI_NAMES } = require('./frothersXiNames');
+
+function normalizeXiName(value = '') {
+  return String(value || '')
+    .trim()
+    .replace(/\s+/g, ' ')
+    .toLowerCase();
+}
 
 function parseXiNamesFromMarkdown(markdown = '') {
   const matches = [...markdown.matchAll(/xi_and_subs\s*=\s*\[((?:.|\n)*?)\]/g)];
@@ -37,12 +45,17 @@ function dedupeNames(names = []) {
   return unique;
 }
 
+function isKnownXiName(name = '') {
+  const normalized = normalizeXiName(name);
+  return FROTHERS_XI_NAMES.some((knownName) => normalizeXiName(knownName) === normalized);
+}
+
 async function collectXiNamesFromWorkspace(workspaceRoot) {
   const rootPath = workspaceRoot || path.resolve(__dirname, '../../content/posts');
   const discoveredNames = [];
 
   if (!fs.existsSync(rootPath)) {
-    return dedupeNames(discoveredNames).sort((a, b) => a.localeCompare(b));
+    return [...FROTHERS_XI_NAMES].sort((a, b) => a.localeCompare(b));
   }
 
   async function walkDirectory(currentPath) {
@@ -70,5 +83,8 @@ async function collectXiNamesFromWorkspace(workspaceRoot) {
 module.exports = {
   parseXiNamesFromMarkdown,
   dedupeNames,
+  isKnownXiName,
+  normalizeXiName,
   collectXiNamesFromWorkspace,
+  FROTHERS_XI_NAMES,
 };
