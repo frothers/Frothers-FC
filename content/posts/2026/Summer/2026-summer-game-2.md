@@ -13,8 +13,8 @@ opponent = "Foxglove Casuals Football Club"
 season = "summer"
 result = "Loss"
 
-frother_goals = 3
-opponent_goals = 7
+frother_goals = 0
+opponent_goals = 9
 xi_and_subs = [
   "Tom",
   "Charles Daily",

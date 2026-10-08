@@ -1,0 +1,25 @@
+{
+  "name": "frothers-xi-completion",
+  "displayName": "Frothers XI Completion",
+  "description": "Suggest XI and subs names built from the project’s existing match posts.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "main": "./src/extension.js",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "activationEvents": [
+    "onLanguage:markdown",
+    "onCommand:frothersXiCompletion.refresh"
+  ],
+  "contributes": {
+    "commands": [
+      {
+        "command": "frothersXiCompletion.refresh",
+        "title": "Refresh Frothers XI List"
+      }
+    ]
+  }
+}
