@@ -32,4 +32,8 @@ xi_and_subs = [
   "Jude"
 ]
 
+[[scorers]]
+scorer = "Nikolai"
+goals = 1
+
 +++
