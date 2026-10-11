@@ -29,6 +29,7 @@ xi_and_subs = [
   "Sammy",
   "Yarride Rosario",
   "Tom",
+  "Jude"
 ]
 
 +++
