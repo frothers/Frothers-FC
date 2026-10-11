@@ -14,7 +14,7 @@ season = "summer"
 result = "Loss"
 
 frother_goals = 1
-opponent_goals = 9
+opponent_goals = 8
 xi_and_subs = [
   "Farshid Shokoohi",
   "Dart",
