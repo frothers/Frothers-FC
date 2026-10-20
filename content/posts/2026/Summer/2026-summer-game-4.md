@@ -76,7 +76,7 @@ Then history repeated itself. The keeper found **Ehkaw** again, who took it down
 
 > 3-1
 
-And that's how it stayed. The Frothers dominated possession and chances, without the scoreline looking completely different from the opposition's.
+And that's how it stayed. The Frothers were off the mark.
 
 Roll on Div 4.
 
