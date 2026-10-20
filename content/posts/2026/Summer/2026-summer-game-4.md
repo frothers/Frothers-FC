@@ -23,6 +23,7 @@ xi_and_subs = [
   "Charles Daily",
   "Andy Kong",
   "Jamie Fa'asalele",
+  "Josh(E)",
   "Lance Molyneaux",
   "Ehkaw",
   "Sammy",
