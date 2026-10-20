@@ -42,7 +42,7 @@ scorer = "Sammy"
 goals = 1
 
 [[assist]]
-player = "Daniel"
+player = "Lance Molyneaux"
 assists = 1
 
 +++
@@ -68,7 +68,7 @@ That's how it stayed into halftime, but the Frothers had plenty to feel confiden
 
 Plenty of chances, but every time the Frothers either hit it straight at the keeper or didn't hit it at all.
 
-Eventually **Sammy** bundled one home after a couple of attempts, with the assist going to ring-in **Daniel**.
+Eventually **Sammy** bundled one home after a couple of attempts, with the assist going to **Lance**.
 
 > 2-1
 
