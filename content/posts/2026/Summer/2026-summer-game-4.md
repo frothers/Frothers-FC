@@ -40,6 +40,10 @@ goals = 2
 scorer = "Sammy"
 goals = 1
 
+[[assist]]
+player = "Daniel"
+assists = 1
+
 +++
 
 The Frothers made hard work of it early on, making Div 4 look like exactly where they should have been all along.
@@ -63,7 +67,7 @@ That's how it stayed into halftime, but the Frothers had plenty to feel confiden
 
 Plenty of chances, but every time the Frothers either hit it straight at the keeper or didn't hit it at all.
 
-Eventually **Sammy** bundled one home after a couple of attempts.
+Eventually **Sammy** bundled one home after a couple of attempts, with the assist going to ring-in **Daniel**.
 
 > 2-1
 
