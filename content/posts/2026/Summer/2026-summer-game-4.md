@@ -21,6 +21,7 @@ xi_and_subs = [
   "Campbell Moorhouse",
   "Chris Chester",
   "Charles Daily",
+  "Andy Kong",
   "Jamie Fa'asalele",
   "Lance Molyneaux",
   "Ehkaw",
@@ -40,10 +41,6 @@ scorer = "Sammy"
 goals = 1
 
 +++
-
-**Starting XI:** Cory (GK), Campbell (LB), Chris and Charles (CB), Jamie (CM), Lance (CAM), Ehkaw (LW), Sammy (ST), Nikolai (RW)
-
-**Bench:** Jude, Sarthak, Daniel (ring-in)
 
 The Frothers made hard work of it early on, making Div 4 look like exactly where they should have been all along.
 
@@ -88,4 +85,4 @@ Honourable mention to **Ehkaw** for the brace and relentless hard work. When he 
 
 ---
 
-Being at a school, the Frothers' tradition of post-match beers was back on the plate, with the boys truly feeling like they were back.
+being the first win in 14 months for some Frothers, and not being at the school. Post-match beers was back on the plate, and boy did they taste good.
