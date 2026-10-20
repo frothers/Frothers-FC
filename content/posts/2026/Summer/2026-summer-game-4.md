@@ -3,7 +3,7 @@ title = "Game 4 - Summer league 2026"
 description = "Frothers VS Red Barons"
 author = "Chris"
 date = 2026-10-18T02:00:00.000Z
-draft = true
+draft = false
 type = "post"
 images = ["/2025-12-14/frothers-squad2.png"]
 match = true
@@ -53,8 +53,8 @@ Eventually they were gifted a goal. A goalkeeper error plus a bit of ring-in mag
 
 That had the keeper on edge, and it wasn't long before he misplaced another throw. This time it didn't result in a goal, but he threw his toys anyway. Gloves off, tantrum in full swing, he stormed off to sit on the side for the rest of the match. The game was delayed a few minutes while the Barons figured out who to bring on in his place.
 
-<!-- TODO: add rage quit gif from giphy.com -->
-![Rage quit](RAGE-QUIT-GIF-URL-HERE)
+
+![Rage quit](https://media.giphy.com/media/wtlNMwLa4Ca1wv0InE/giphy.gif)
 
 It was just the disruption the Barons needed. After about five consecutive fouls going forward, the ball fell to one of their players on the edge of the box, who hit it hard and low past **Cory**.
 
