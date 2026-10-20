@@ -91,3 +91,5 @@ Honourable mention to **Ehkaw** for the brace and relentless hard work. When he 
 ---
 
 being the first win in 14 months for some Frothers, and not being at the school. Post-match beers was back on the plate, and boy did they taste good.
+
+![First Sip](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2Z1b2dtNDNuYXIzMTc2emRmNGxjZGQxbmtnNGdlOXlpeWkwbHdydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sfevs0OasgnO8/giphy.gif)
