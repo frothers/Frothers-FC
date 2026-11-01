@@ -10,12 +10,12 @@ match = true
 team = "OG Frothers"
 opponent = "TBC"
 season = "summer"
-result = "TBC"
+result = "Loss"
 motm = ""
 dotd = ""
 
-frother_goals = 0
-opponent_goals = 0
+frother_goals = 2
+opponent_goals = 4
 xi_and_subs = [
   "Cory",
   "Vinh Vu",
