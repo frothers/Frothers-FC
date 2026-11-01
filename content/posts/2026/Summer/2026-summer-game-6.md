@@ -1,6 +1,6 @@
 +++
 title = "Game 6 - Summer league 2026"
-description = "Frothers VS TBC"
+description = "Frothers VS Masters Barons"
 author = "Chris"
 date = 2026-10-31T02:00:00.000Z
 draft = true
@@ -8,10 +8,10 @@ type = "post"
 images = ["/2025-12-14/frothers-squad2.png"]
 match = true
 team = "OG Frothers"
-opponent = "TBC"
+opponent = "Masters Barons"
 season = "summer"
 result = "Win"
-motm = ""
+motm = "Cory"
 dotd = ""
 
 frother_goals = 2
@@ -45,7 +45,7 @@ goals = 1
 Match report to come.
 
 ## Man of the Match
-TBC
+**Cory**
 
 ## Dick of the Day
 TBC
