@@ -1,6 +1,6 @@
 +++
 title = "Game 5 - Summer league 2026"
-description = "Frothers VS TBC"
+description = "Frothers VS Harimau"
 author = "Chris"
 date = 2026-10-24T02:00:00.000Z
 draft = true
@@ -8,7 +8,7 @@ type = "post"
 images = ["/2025-12-14/frothers-squad2.png"]
 match = true
 team = "OG Frothers"
-opponent = "TBC"
+opponent = "Harimau"
 season = "summer"
 result = "Loss"
 motm = ""
