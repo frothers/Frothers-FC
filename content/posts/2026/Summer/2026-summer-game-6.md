@@ -40,6 +40,10 @@ goals = 1
 scorer = "Sammy"
 goals = 1
 
+[[assist]]
+player = "Yarride Rosario"
+assists = 1
+
 +++
 
 Match report to come.
