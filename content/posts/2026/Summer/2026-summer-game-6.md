@@ -30,7 +30,7 @@ xi_and_subs = [
   "Nikolai",
   "Campbell Moorhouse",
   "Evan Hanson",
-  "Dave van ZdJ",
+  "Dave van Zijll de Jong",
 ]
 
 [[scorers]]

@@ -24,7 +24,7 @@ xi_and_subs = [
   "Dart",
   "Sam",
   "Declan",
-  "Dave",
+  "Dave van Zijll de Jong",
   "Sarthak",
   "Jacob Williamson",
   "Josh(E)",
@@ -48,6 +48,6 @@ player = "Sarthak"
 assists = 2
 
 [[assist]]
-player = "Dave"
+player = "Dave van Zijll de Jong"
 assists = 2
 +++

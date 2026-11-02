@@ -24,7 +24,7 @@ xi_and_subs = [
   "Nikolai",
   "Yarride Rosario",
   "Sam",
-  "Dave",
+  "Dave van Zijll de Jong",
   "Sarthak",
   "Ehkaw",
   "Campbell Moorhouse",

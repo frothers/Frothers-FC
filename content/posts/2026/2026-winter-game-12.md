@@ -28,7 +28,7 @@ xi_and_subs = [
   "Lance Molyneaux",
   "Connor Melville",
   "Ehkaw",
-  "Dave"
+  "Dave van Zijll de Jong"
 ]
 
 [[scorers]]

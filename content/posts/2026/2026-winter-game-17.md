@@ -23,7 +23,7 @@ xi_and_subs = [
   "Lance Molyneaux",
   "Nikolai",
   "Sam",
-  "Dave",
+  "Dave van Zijll de Jong",
   "Sarthak",
   "Josh(E)",
   "Campbell Moorhouse",

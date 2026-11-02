@@ -25,7 +25,7 @@ xi_and_subs = [
   "Lance Molyneaux",
   "Connor Melville",
   "Jake",
-  "Dave",
+  "Dave van Zijll de Jong",
   "Josh(E)"
 ]
 

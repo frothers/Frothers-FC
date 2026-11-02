@@ -28,7 +28,7 @@ xi_and_subs = [
   "Campbell Moorhouse",
   "Sarthak",
   "Josh(E)",
-  "Dave",
+  "Dave van Zijll de Jong",
 ]
 
 [[scorers]]
