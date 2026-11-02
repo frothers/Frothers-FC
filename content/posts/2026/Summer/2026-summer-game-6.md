@@ -74,7 +74,7 @@ The second came from a passage of play with three passes in a row that may or ma
 Another win and another clean sheet to add to the quite sparse recent record.
 
 ## Man of the Match
-Quite a few good contenders this week, **Lance** among them for a standout goal that broke the deadlock. But the award goes to **Campbell** for easily his best game in a Frothers jersey to date. Composed on the ball, passes finding their men, tirelessly chasing people down the touchline, and a cheeky little back heel pass to round off the performance. Very well deserved.
+Quite a few good contenders this week. **Lance** gets a mention for a standout goal that broke the deadlock, and **Sammy** for his hard work on and off the ball and a well deserved goal. But the award goes to **Campbell** for easily his best game in a Frothers jersey to date. Composed on the ball, passes finding their men, tirelessly chasing people down the touchline, and a cheeky little back heel pass to round off the performance. Very well deserved.
 
 ## Dick of the Day
 TBC
