@@ -30,6 +30,14 @@ xi_and_subs = [
   "Josh(E)",
 ]
 
+[[scorers]]
+scorer = "Josh(E)"
+goals = 1
+
+[[assist]]
+player = "Jacob Williamson"
+assists = 1
+
 +++
 
 Match report to come.
