@@ -53,7 +53,7 @@ Election season is upon us, and the Frothers turned up to Wakefield Park to face
 
 At the back, **Chris** took the role of Christopher Luxon, a big head in a big job, firmly believing the whole thing would run itself if he just turned up and looked prime ministerial. **Jude** was Paul Goldsmith, brought in to do the dirty work and sort out the mess, only to find himself not on the regular team sheet. **Angus** was Paul Henry, there to cause a bit of chaos before leaving at halftime. **Andy** completed the back line as the backbench, doing the quiet, reliable work no one writes headlines about.
 
-In the middle, **Lance** was Chris Hipkins, all hustle and bustle and ground covered, and at times the subject of some unfortunate headlines. **Charles** was Winston Peters, who somehow came out smelling of roses despite nobody being entirely sure what he had actually done. **Dave** held the centre ground as the swing voter.
+In the middle, **Lance** was Chris Hipkins, all hustle and bustle and ground covered, and at times the subject of some unfortunate headlines. **Charles** was Winston Peters, who somehow came out smelling of roses despite nobody being entirely sure what he had actually done. **Dave** was Rawiri Waititi, not expected to be back, but a welcome face with surprisingly classy moves.
 
 Up front, **Nikolai**, **Sammy** and **Josh** made up the Opposition benches, tasked with holding the other side to account.
 
