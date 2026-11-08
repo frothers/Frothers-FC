@@ -49,6 +49,8 @@ Election season is upon us, and the Frothers turned up to Wakefield Park to face
 
 **Yarride** was Hana-Rāwhiti Maipi-Clarke in goal. Young, fearless and ready to tear up the script.
 
+<div class="tenor-gif-embed" data-postid="16750453787610440688" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/new-zealand-paper-tear-parliament-contract-rip-maori-gif-16750453787610440688">New Zealand Paper Tear GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 At the back, **Chris** took the role of Christopher Luxon, a big head in a big job, firmly believing the whole thing would run itself if he just turned up and looked prime ministerial. **Jude** was Paul Goldsmith, brought in to do the dirty work and sort out the mess, only to find himself not on the regular team sheet. **Angus** and **Andy** completed the back line as the backbench, doing the quiet, reliable work no one writes headlines about.
 
 In the middle, **Lance** was Chris Hipkins, all hustle and bustle and ground covered, and at times the subject of some unfortunate headlines. **Charles** was Winston Peters, who somehow came out smelling of roses despite nobody being entirely sure what he had actually done. **Dave** held the centre ground as the swing voter.
