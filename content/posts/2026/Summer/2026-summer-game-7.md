@@ -55,7 +55,7 @@ At the back, **Chris** took the role of Christopher Luxon, a big head in a big j
 
 In the middle, **Lance** was Chris Hipkins, all hustle and bustle and ground covered, and at times the subject of some unfortunate headlines. **Charles** was Winston Peters, who somehow came out smelling of roses despite nobody being entirely sure what he had actually done. **Dave** was Rawiri Waititi, not expected to be back, but a welcome face with surprisingly classy moves.
 
-Up front, **Nikolai** was Kieran McAnulty, hard working and hard not to love, while **Sammy** and **Josh** made up the Opposition benches, tasked with holding the other side to account.
+Up front, **Nikolai** was Kieran McAnulty, hard working and hard not to love, **Sammy** was Mike Hosking, not officially in party colours, but everybody knew who he was playing for, and **Josh** made up the Opposition benches, tasked with holding the other side to account.
 
 On the bench were three late list candidates. **Vinh** was Qiulae Wong, the political novice leading the Opportunity Party, a late arrival on the scene whom most people had been writing off. **Campbell** was a brand new Te Pāti Māori MP, just happy to be here. **Evan** was Chloe Swarbrick, who just wants a better game for everyone, but ends up living rent free in the opposition's heads. He started on the list after being bumped out of the starting line-up by Winston.
 
