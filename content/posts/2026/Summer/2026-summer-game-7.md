@@ -43,25 +43,23 @@ assists = 1
 
 +++
 
-Election season is upon us, and the Frothers turned up to Wakefield Park to face Guinnessius Jr with a Cabinet that looked suspiciously like a coalition negotiation. Everyone had a portfolio, nobody was quite sure who was running the show, and the only certainty was that the Frothers would be claiming the result as a mandate.
-
-## The Cabinet
-
-**Yarride** was Hana-Rāwhiti Maipi-Clarke in goal. Young, fearless and ready to tear up the script.
-
-<div class="tenor-gif-embed" data-postid="16750453787610440688" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/new-zealand-paper-tear-parliament-contract-rip-maori-gif-16750453787610440688">New Zealand Paper Tear GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-At the back, **Chris** took the role of Christopher Luxon, a big head in a big job, firmly believing the whole thing would run itself if he just turned up and looked prime ministerial. **Jude** was Paul Goldsmith, brought in to do the dirty work and sort out the mess, only to find himself not on the regular team sheet. **Angus** was Paul Henry, there to cause a bit of chaos before leaving at halftime. **Andy** completed the back line as Tim Costley, Mr Reliable, wasted on the back benches.
-
-In the middle, **Lance** was Chris Hipkins, all hustle and bustle and ground covered, and at times the subject of some unfortunate headlines. **Charles** was Winston Peters, who somehow came out smelling of roses despite nobody being entirely sure what he had actually done. **Dave** was Rawiri Waititi, not expected to be back, but a welcome face with surprisingly classy moves.
-
-Up front, **Nikolai** was Kieran McAnulty, hard working and hard not to love. **Sammy** was Mike Hosking, not officially in party colours, but everybody knew who he was playing for. **Josh** was Ben McNulty, the Wellington city councillor, always getting confused for another member of the team.
-
-On the bench were three late list candidates. **Vinh** was Qiulae Wong, the political novice leading the Opportunity Party, a late arrival on the scene whom most people had been writing off. **Campbell** was a brand new Te Pāti Māori MP, just happy to be here. **Evan** was Chloe Swarbrick, who just wants a better game for everyone, but ends up living rent free in the opposition's heads. He started on the list after being bumped out of the starting line-up by Winston.
+Election season is upon us, and the Frothers turned up to Wakefield Park to face Guinnessius Jr with a squad that looked suspiciously like a coalition negotiation. Everyone had a portfolio, nobody was quite sure who was running the show, and the only certainty was that the Frothers would be claiming the result as a mandate. Rather than a Cabinet reveal, we'll meet the candidates one at a time as the afternoon unfolds.
 
 ## First Half
 
-Match report to come.
+The big news in the team sheet was the return of **Jude** to the starting line-up. Playing the part of Paul Goldsmith, the senior National MP who is forever handed the thankless jobs nobody else wants, Jude was brought in to do the dirty work and sort out the mess, only to find himself not on the regular team sheet when it mattered. Steady, sensible and exactly who you want at the back, even if the party never quite puts his name first.
+
+The Frothers kicked off with only ten men on the park. It was a minority government from the opening whistle.
+
+Five minutes later, scrambling along the touchline came **Lance**. Lance was Chris Hipkins, the former Prime Minister and Labour leader, all hustle and bustle and ground covered, and a man whose best intentions have at times been the subject of some unfortunate headlines. Showing up late and out of breath was never going to slow him down, and the Frothers had their full complement.
+
+From there the Frothers had the better of things, with a lot of the play and some mighty wins all over the park. Leading the charge in the middle was **Charles**, playing Winston Peters, the veteran who has been written off more times than anyone can count and keeps popping up as the kingmaker anyway. Nobody was entirely sure what Charles had actually done, but somehow he came out of every contest smelling of roses.
+
+As the half went on, the Frothers started getting into the box with regularity, but couldn't find the shooting boots. Passes were being chosen at inopportune moments, and the keeper wasn't being troubled at all.
+
+The clearest sign of it came when **Vinh**, introduced from the bench, blew one over from the edge of the box. Well over the top. Vinh was Qiulae Wong, the political newcomer leading the Opportunity Party, a late arrival on the scene whom most people had been writing off. Plenty of promise, and a long way to go on the polling.
+
+> 0-0
 
 ## Second Half
 
