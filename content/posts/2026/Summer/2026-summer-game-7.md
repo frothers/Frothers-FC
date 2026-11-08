@@ -1,6 +1,6 @@
 +++
 title = "Game 7 - Summer league 2026"
-description = "Frothers VS Harimau"
+description = "Frothers VS Guinnessius Jr"
 author = "Chris"
 date = 2026-11-08T02:00:00.000Z
 draft = false
@@ -8,7 +8,7 @@ type = "post"
 images = ["/2025-12-14/frothers-squad2.png"]
 match = true
 team = "OG Frothers"
-opponent = "Harimau"
+opponent = "Guinnessius Jr"
 season = "summer"
 result = "Win"
 motm = ""
@@ -40,7 +40,7 @@ assists = 1
 
 +++
 
-A chance for revenge at Wakefield Park, with Harimau having beaten the Frothers 4-2 back in Game 5. This time the Frothers lined up with **Yarride** between the sticks, a back four of **Jude**, **Chris**, **Angus** and **Andy**, **Evan**, **Lance** and **Dave** in the middle, and **Nikolai**, **Sammy** and **Josh** up front.
+The Frothers took on Guinnessius Jr at Wakefield Park, lining up with **Yarride** between the sticks, a back four of **Jude**, **Chris**, **Angus** and **Andy**, **Evan**, **Lance** and **Dave** in the middle, and **Nikolai**, **Sammy** and **Josh** up front.
 
 ## First Half
 
