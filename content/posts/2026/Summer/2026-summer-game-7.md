@@ -55,7 +55,7 @@ Five minutes later, scrambling along the touchline came **Lance**. Lance was Chr
 
 From there the Frothers had the better of things, with a lot of the play and some mighty wins all over the park. Leading the charge in the middle was **Charles**, playing Winston Peters, the veteran who has been written off more times than anyone can count and keeps popping up as the kingmaker anyway. Nobody was entirely sure what Charles had actually done, but somehow he came out of every contest smelling of roses.
 
-Up top, **Josh** had started the match as the front man. Josh was Ben McNulty, the Wellington city councillor, a man who spends his life being confused for another member of the team. Kieran McAnulty, in this case, who was lining up alongside him on the same forward line, so the confusion was going to take some sorting out.
+Up top, **Josh** had started the match as the front man. Josh was Ben McNulty, the Wellington city councillor, a man who spends his life being confused for another member of the team. In this case that was Nikolai's Kieran McAnulty, who was lining up on the same forward line, so the confusion was going to take some sorting out.
 
 As the half went on, the Frothers started getting into the box with regularity, but couldn't find the shooting boots. Passes were being chosen at inopportune moments, and the keeper wasn't being troubled at all.
 
