@@ -47,7 +47,7 @@ Election season is upon us, and the Frothers turned up to Wakefield Park to face
 
 ## The Cabinet
 
-**Yarride** was Speaker of the House in goal, keeping order and, as it turned out, setting the agenda too.
+**Yarride** was Hana-Rāwhiti Maipi-Clarke in goal. Young, fearless and ready to tear up the script.
 
 At the back, **Chris** took the role of Christopher Luxon, a big head in a big job, firmly believing the whole thing would run itself if he just turned up and looked prime ministerial. **Jude** was Paul Goldsmith, brought in to do the dirty work and sort out the mess, only to find himself not on the regular team sheet. **Angus** and **Andy** completed the back line as the backbench, doing the quiet, reliable work no one writes headlines about.
 
@@ -63,7 +63,7 @@ Match report to come.
 
 ## Second Half
 
-The only goal of the game came from the Speaker himself. **Yarride** delivered the assist, and **Chris** got on the end of it from the back line, with the big head doing what the big head was elected to do.
+The only goal of the game came after the script had been well and truly torn up. **Yarride** delivered the assist, and **Chris** got on the end of it from the back line, with the big head doing what the big head was elected to do.
 
 > 1-0
 
