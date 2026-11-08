@@ -22,12 +22,15 @@ xi_and_subs = [
   "Chris Chester",
   "Angus",
   "Andy Kong",
-  "Evan Hanson",
+  "Charles Daily",
   "Lance Molyneaux",
   "Dave van Zijll de Jong",
   "Nikolai",
   "Sammy",
   "Josh(E)",
+  "Campbell Moorhouse",
+  "Evan Hanson",
+  "Vinh Vu",
 ]
 
 [[scorers]]
@@ -40,7 +43,19 @@ assists = 1
 
 +++
 
-The Frothers took on Guinnessius Jr at Wakefield Park, lining up with **Yarride** between the sticks, a back four of **Jude**, **Chris**, **Angus** and **Andy**, **Evan**, **Lance** and **Dave** in the middle, and **Nikolai**, **Sammy** and **Josh** up front.
+Election season is upon us, and the Frothers turned up to Wakefield Park to face Guinnessius Jr with a Cabinet that looked suspiciously like a coalition negotiation. Everyone had a portfolio, nobody was quite sure who was running the show, and the only certainty was that the Frothers would be claiming the result as a mandate.
+
+## The Cabinet
+
+**Yarride** was Speaker of the House in goal, keeping order and, as it turned out, setting the agenda too.
+
+At the back, **Chris** took the role of Christopher Luxon, a big head in a big job, firmly believing the whole thing would run itself if he just turned up and looked prime ministerial. **Jude** was Paul Goldsmith, brought in to do the dirty work and sort out the mess, only to find himself not on the regular team sheet. **Angus** and **Andy** completed the back line as the backbench, doing the quiet, reliable work no one writes headlines about.
+
+In the middle, **Lance** was Chris Hipkins, all hustle and bustle and ground covered, and at times the subject of some unfortunate headlines. **Charles** was Winston Peters, who somehow came out smelling of roses despite nobody being entirely sure what he had actually done. **Dave** held the centre ground as the swing voter.
+
+Up front, **Nikolai**, **Sammy** and **Josh** made up the Opposition benches, tasked with holding the other side to account.
+
+On the bench were three late list candidates. **Vinh** was Qualie Wong, a late addition to the party whom most people had been writing off. **Campbell** was a brand new Te Pāti Māori MP, just happy to be here. **Evan** was relegated to the list after being bumped out of the starting line-up by Winston.
 
 ## First Half
 
@@ -48,11 +63,11 @@ Match report to come.
 
 ## Second Half
 
-The only goal of the game came from a **Yarride** assist, with **Chris** getting on the end of it from the back line.
+The only goal of the game came from the Speaker himself. **Yarride** delivered the assist, and **Chris** got on the end of it from the back line, with the big head doing what the big head was elected to do.
 
 > 1-0
 
-A clean sheet and a win, with the goalkeeper picking up an assist for good measure.
+A clean sheet and a win. The Frothers will be calling it a landslide, even if the margin was one.
 
 ## Man of the Match
 TBC
