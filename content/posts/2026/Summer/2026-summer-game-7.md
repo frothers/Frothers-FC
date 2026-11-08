@@ -57,7 +57,7 @@ In the middle, **Lance** was Chris Hipkins, all hustle and bustle and ground cov
 
 Up front, **Nikolai**, **Sammy** and **Josh** made up the Opposition benches, tasked with holding the other side to account.
 
-On the bench were three late list candidates. **Vinh** was Qiulae Wong, the political novice leading the Opportunity Party, a late arrival on the scene whom most people had been writing off. **Campbell** was a brand new Te Pāti Māori MP, just happy to be here. **Evan** was relegated to the list after being bumped out of the starting line-up by Winston.
+On the bench were three late list candidates. **Vinh** was Qiulae Wong, the political novice leading the Opportunity Party, a late arrival on the scene whom most people had been writing off. **Campbell** was a brand new Te Pāti Māori MP, just happy to be here. **Evan** was Chloe Swarbrick, who just wants a better game for everyone, but ends up living rent free in the opposition's heads. He started on the list after being bumped out of the starting line-up by Winston.
 
 ## First Half
 
