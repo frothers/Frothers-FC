@@ -73,7 +73,7 @@ As the half went on, the Frothers started getting into the box with regularity, 
 
 ![](https://scontent.fpmr1-1.fna.fbcdn.net/v/t39.30808-6/864741802_1731174878578785_5895924076948846254_n.jpg?stp=dst-jpg_tt6&cstp=mx881x714&ctp=s640x640&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=J71a4ZXohh8Q7kNvwERb2d2&_nc_oc=AdoIVdFpj2kb6K8UjIhFpaxeArK6AqcOngTI0qYpQqUWGMGJJOsZc1SAPusLpc_S-Ic&_nc_zt=23&_nc_ht=scontent.fpmr1-1.fna&_nc_gid=EmJ4VdnaeQhwuXjHJgD7jw&_nc_ss=7b289&oh=00_AQQRRaXTnIrGDZpTEU1nS_FUOdMvHEQH5XwLIO94GQo4IQ&oe=6AF735EE)
 
-The clearest sign of it came when **Vinh**, introduced from the bench, blew one over from the edge of the box. Well over the top. Vinh was Qiulae Wong, the  newcomer with a late arrival on the scene whom most people had been writing off. Plenty of promise, and a long way to go on the polling.
+The clearest sign of it came when **Vinh**, introduced from the bench, blew one over from the edge of the box. Well over the top. Vinh was Qiulae Wong, the newcomer with a late arrival on the scene whom most people had been writing off. Plenty of promise, and a long way to go on the polling.
 
 > 0-0
 
