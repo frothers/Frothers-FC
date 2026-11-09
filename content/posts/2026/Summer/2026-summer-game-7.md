@@ -110,5 +110,7 @@ It has to be **Chris**. A clean sheet and the winning goal, all thanks to slappi
 
 And true to his word, no new taxes. We just call them fines instead.
 
+![Chris Chester billboard](/images/chris-billboard.png)
+
 ## Dick of the Day
 Campbell, for getting stuck as the Whip and having to coordinate multiple parties. Unfortunately for him, they were kids' birthday parties, and he spent the morning rounding up the numbers and getting everyone where they needed to be. It left him running late, and for a Whip, being late to the vote is the one thing you can't do.
