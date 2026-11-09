@@ -61,14 +61,17 @@ From there the Frothers had the better of things, with a lot of the play and som
 
 ![Winston Peters pushing](https://media1.tenor.com/m/KMWj-wakiz4AAAAC/winston-peters-nzf.gif)
 
-
 **Nikolai's** Ben McNulty, cause just look at 'im.
 
-![](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ben_McNulty_October_2025_%28cropped%29.jpg/500px-Ben_McNulty_October_2025_%28cropped%29.jpg)
+![Ben McNulty](https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Ben_McNulty_October_2025_%28cropped%29.jpg/500px-Ben_McNulty_October_2025_%28cropped%29.jpg)
 
-**Josh** is Kieran McAnulty, often confused for another member of the team, and impossible not to love.
+**Josh** is Kieran McAnulty, often confused for another member of the team, hardworking, and impossible not to love.
 
 As the half went on, the Frothers started getting into the box with regularity, but couldn't find the shooting boots. Passes were being chosen at inopportune moments, and the keeper wasn't being troubled at all.
+
+**Sam** and **Dave** are Chris Bishop and Nicola Willis, busy wearing blue to all the games, but not for much longer.
+
+![](https://scontent.fpmr1-1.fna.fbcdn.net/v/t39.30808-6/864741802_1731174878578785_5895924076948846254_n.jpg?stp=dst-jpg_tt6&cstp=mx881x714&ctp=s640x640&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=J71a4ZXohh8Q7kNvwERb2d2&_nc_oc=AdoIVdFpj2kb6K8UjIhFpaxeArK6AqcOngTI0qYpQqUWGMGJJOsZc1SAPusLpc_S-Ic&_nc_zt=23&_nc_ht=scontent.fpmr1-1.fna&_nc_gid=EmJ4VdnaeQhwuXjHJgD7jw&_nc_ss=7b289&oh=00_AQQRRaXTnIrGDZpTEU1nS_FUOdMvHEQH5XwLIO94GQo4IQ&oe=6AF735EE)
 
 The clearest sign of it came when **Vinh**, introduced from the bench, blew one over from the edge of the box. Well over the top. Vinh was Qiulae Wong, the  newcomer with a late arrival on the scene whom most people had been writing off. Plenty of promise, and a long way to go on the polling.
 
@@ -76,11 +79,13 @@ The clearest sign of it came when **Vinh**, introduced from the bench, blew one 
 
 ## Second Half
 
-**Angus** was done at halftime. Playing Paul Henry, he'd been there to cause a bit of chaos, and having done that he left. **Campbell** came on at left back in his place, a brand new Te Pāti Māori MP, just happy to be here, and by now very much finding his feet. It was another solid showing from him, more secure and more confident in a role he is really carving out for himself.
+**Angus** was done at halftime. Playing Paul Henry, he'd been there to cause a bit of chaos, and having done that he left. **Campbell** came on at left back in his place as Aperahama Edwards, a brand new Te Pāti Māori MP, just happy to be here, and by now very much finding his feet. It was another solid showing from him, more secure and more confident in a role he is really carving out for himself.
 
-![](https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/aperahama-edwards-te-pati-maori-candidate-for-te-tai-tokerau-RRDH3ZP5KBA53HC7JLX62ITYK4.jpg)
+![](https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/aperahama-edwards-te-pati-maori-candidate-for-te-tai-tokerau-RRDH3ZP5KBA53HC7JLX62ITYK4.jpg?auth=b0af5bd5cb7aaabfe12071e26ebf97bb5232d35e1b5f0fc8a3c12c126851ba74&quality=70&width=800&height=450&focal=960%2C540)
 
 Over on the other side, **Andy**, playing Tim Costley, Mr Reliable and long wasted on the back benches, was finding his positioning at right back and making more incisive, effective cuts into play.
+
+![Tim C](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS_jHJVsuesD3g8ATy87xlqMbwvz4aT81iGaQVh8r6AWj4hhteCMaFRD0&s=10)
 
 The big change came up front. **Yarride** came out of goal and went back up top, giving the Frothers another little injection of threat. Yarride was Hana-Rāwhiti Maipi-Clarke, the youngest MP in a very long time, who famously arrived in Parliament and promptly tore up the script. Young, fearless, and ready to be denied at the bottle-o.
 
