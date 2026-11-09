@@ -11,8 +11,8 @@ team = "OG Frothers"
 opponent = "Guinnessius Jr"
 season = "summer"
 result = "Win"
-motm = ""
-dotd = ""
+motm = "Chris Chester"
+dotd = "Campbell Moorhouse"
 
 frother_goals = 1
 opponent_goals = 0
@@ -106,7 +106,11 @@ Near the end, **Evan** came really close to making it two, only to be denied by 
 A clean sheet and a win. The Frothers will be calling it a landslide, even if the margin was one.
 
 ## Man of the Match
-TBC
+It has to be **Chris**. A clean sheet and the winning goal, all thanks to slapping that big bald head on everything in sight. Every cross, every clearance, every loose ball that came near him got the head, and the one that mattered went in. Prime Minister material, with a face made for a billboard.
+
+And true to his word, no new taxes. We just call them fines instead.
+
+![Chris Chester billboard](/images/chris-billboard.png)
 
 ## Dick of the Day
-TBC
+Campbell, for getting stuck as the Whip and having to coordinate multiple parties. Unfortunately for him, they were kids' birthday parties, and he spent the morning rounding up the numbers and getting everyone where they needed to be. It left him running late, and for a Whip, being late to the vote is the one thing you can't do.
