@@ -106,9 +106,7 @@ Near the end, **Evan** came really close to making it two, only to be denied by 
 A clean sheet and a win. The Frothers will be calling it a landslide, even if the margin was one.
 
 ## Man of the Match
-It has to be **Chris**. A clean sheet and the winning goal, all thanks to slapping that big bald head on everything in sight. Every cross, every clearance, every loose ball that came near him got the head, and the one that mattered went in. Prime Minister material, with a face made for a billboard.
-
-And true to his word, no new taxes. We just call them fines instead.
+It has to be **Chris**. A clean sheet and the winning goal, all thanks to slapping that big bald head on everything in sight. Every cross, every clearance, every loose ball, every billboard.
 
 ![Chris Chester billboard](/images/chris-billboard.png)
 
