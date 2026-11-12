@@ -18,7 +18,6 @@ frother_goals = 2
 opponent_goals = 0
 xi_and_subs = [
   "Cory",
-  "Cam",
   "Chris Chester",
   "Vinh Vu",
   "Tom",
