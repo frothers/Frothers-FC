@@ -19,7 +19,7 @@ xi_and_subs = [
   "Farshid Shokoohi",
   "Dart",
   "Chris Chester",
-  "Angus Hay-Champman",
+  "Angus Hay-Chapman",
   "Campbell Moorhouse",
   "Charles Daily",
   "Vinh Vu",
@@ -29,7 +29,7 @@ xi_and_subs = [
   "Sammy",
   "Yarride Rosario",
   "Tom",
-  "Jude"
+  "Jude Murdoch"
 ]
 
 [[scorers]]

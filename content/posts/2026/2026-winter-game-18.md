@@ -31,7 +31,7 @@ xi_and_subs = [
   "Josh(E)",
   "Campbell Moorhouse",
   "Cory",
-  "Angus"
+  "Angus Hay-Chapman"
 ]
 
 [[scorers]]
@@ -67,7 +67,7 @@ player = "Josh(E)"
 assists = 1
 
 [[assist]]
-player = "Angus"
+player = "Angus Hay-Chapman"
 assists = 1
 
 [[assist]]
