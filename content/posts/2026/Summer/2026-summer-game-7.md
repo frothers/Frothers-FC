@@ -18,9 +18,9 @@ frother_goals = 1
 opponent_goals = 0
 xi_and_subs = [
   "Yarride Rosario",
-  "Jude",
+  "Jude Murdoch",
   "Chris Chester",
-  "Angus",
+  "Angus Hay-Chapman",
   "Andy Kong",
   "Charles Daily",
   "Lance Molyneaux",
