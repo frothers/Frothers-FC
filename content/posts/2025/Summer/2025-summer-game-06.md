@@ -21,7 +21,7 @@ xi_and_subs = [
   "James Wilson",
   "Jacob Williamson",
   "Charles Daily",
-  "Connor",
+  "Connor Melville",
   "Pete",
   "Dylan Watts",
   "Yarride Rosario",
