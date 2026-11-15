@@ -50,6 +50,10 @@ player = "Nikolai"
 assists = 1
 
 [[assist]]
+player = "Connor Melville"
+assists = 1
+
+[[assist]]
 player = "Yarride Rosario"
 assists = 1
 
@@ -75,7 +79,7 @@ The rest of the half played out without a whole lot more opportunities. **Cory**
 
 ## Second Half
 
-With the wind now at their backs, it didn't take the Frothers long. From the very first goal kick, **Chris** honked one long, the ball got nudged on and ran down to the byline, and it was squared up for **Yarride**. He was able to take as many touches as he wanted in the box, stop, have a look, and then calmly put it into the side of the goalkeeper to get the Frothers back level.
+With the wind now at their backs, it didn't take the Frothers long. From the very first goal kick, **Chris** honked one long, the ball got nudged on and ran down to the byline, where **Connor** squared it up for **Yarride**. He was able to take as many touches as he wanted in the box, stop, have a look, and then calmly put it into the side of the goalkeeper to get the Frothers back level.
 
 > 2-2
 
