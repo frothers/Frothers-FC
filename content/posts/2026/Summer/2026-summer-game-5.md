@@ -34,6 +34,10 @@ xi_and_subs = [
 scorer = "Josh(E)"
 goals = 1
 
+[[scorers]]
+scorer = "Lance Molyneaux"
+goals = 1
+
 [[assist]]
 player = "Jacob Williamson"
 assists = 1
