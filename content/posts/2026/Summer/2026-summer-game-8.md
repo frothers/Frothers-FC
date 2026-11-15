@@ -87,14 +87,14 @@ A few good corners followed, but the best one came when **Yarride** put one in a
 
 > 3-2
 
-The Frothers were not helped by a bench that dwindled from three subs, one of whom was on kids' duty in the playground, to none at all, with **Farshid** and **Andy** managing to disappear off the radar entirely. So when **Nikolai** picked up an injury, there was nobody to bring on, and the Frothers had to play a significant portion of the game with ten men.
+The Frothers were not helped by a bench that dwindled from three subs, one of whom was on kids' duty in the playground, to none at all, with **Farshid** and **Andy** managing to disappear off the radar entirely. So when **Nikolai** picked up an injury, there was nobody to bring on, and the Frothers had to play a significant portion of the game with ten men, until **Nikolai** showed great grit by coming back on to give us eleven again.
 
 It was still all Frothers for the majority of the game, but Inter Wellington put the foot down at the end, threw caution to the wind and started pressing hard. Those ten men certainly played a part in what came next. They eked out a penalty when their attacker sneakily put his foot in front of a clearing boot to take the hit. It came up to Marco for his hat-trick, but he could only find the upright, and it bounced out to preserve the Frothers' 3-2 lead.
 
 That's how the game ended, the Frothers continuing their winning run. There was a bit of argy-bargy during the match, of course, as the opposition are known for, but it was actually the Frothers who managed to pick up most of the cards, with some back chat to the referee combined with some pretty nasty professional fouls for a Div 4 league.
 
 ## Man of the Match
-**Charles** gets it, coming on and bagging the winner as well as not conceding a goal while he was on the field. There's not much more you can ask from a centre back.
+**Charles** gets it, coming on and bagging the winner as well as not conceding a goal while he was on the field. There's not much more you can ask from a centre back. A mention too for **Nikolai**, who was great all game and showed real grit coming back on after his injury to get the Frothers back to eleven.
 
 ## Dick of the Day
 It has to be my boy **Farshid**, and **Andy** too, for taking the Frothers from three subs to none at all by just disappearing off the radar. When **Nikolai** got injured, we had to go down to ten men for a significant portion of play, and we can blame that for the penalty conceded.
