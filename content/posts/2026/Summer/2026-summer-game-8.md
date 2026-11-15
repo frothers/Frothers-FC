@@ -30,7 +30,7 @@ xi_and_subs = [
   "Nikolai",
   "Yarride Rosario",
   "Charles Daily",
-  "Connor",
+  "Connor Melville",
 ]
 
 [[scorers]]
