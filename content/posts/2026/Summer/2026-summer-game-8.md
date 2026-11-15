@@ -55,7 +55,7 @@ assists = 1
 
 +++
 
-Back to Ascot Park for the Sunday game, this time against Inter Wellington, a side with a reputation for being rather dirty, who have been through a whole bunch of team names over the years. They also have a target man up top in Marco, otherwise known as the Chinese Ronaldo. The Frothers lined up with **Cory** in goal, **Campbell**, **Chris**, **Vinh** and **Andy** across the back, **Dave**, **Josh** and **Evan** in midfield, and **Sammy**, **Farshid** and **Nikolai** up front. **Yarride**, **Charles** and, a little later once he finally turned up, **Connor** were on the bench.
+Back to Ascot Park for the Sunday game, this time against Inter Wellington, a side with a reputation for being rather dirty, who have been through a whole bunch of team names over the years. They also have a target man up top in Marco, otherwise known as the Chinese Ronaldo.
 
 ## First Half
 
