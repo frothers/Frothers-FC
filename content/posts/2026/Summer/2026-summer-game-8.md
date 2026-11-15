@@ -63,7 +63,7 @@ It was very windy at Ascot Park. The game kicked off with plenty of attack down 
 
 > 1-0
 
-The Frothers were very glad to be in front, and the half progressed with a taste of their own medicine. The Inter Wellington centre back came bumbling up the pitch, somehow found his way into a darting run down the right, and put in a great cross for the back post, where Marco came in and tapped it in to level things up.
+The Frothers were very glad to be in front, and the half progressed with a taste of their own medicine. The Inter Wellington centre back came bombing up the pitch, somehow found his way into a darting run down the right, and put in a great cross for the back post, where Marco came in and tapped it in to level things up.
 
 > 1-1
 
