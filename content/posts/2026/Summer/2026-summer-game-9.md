@@ -90,7 +90,7 @@ assists = 3
 
 [[assist]]
 player = "Sammy"
-assists = 1
+assists = 2
 
 [[assist]]
 player = "Yarride Rosario"
@@ -136,7 +136,7 @@ From there it turned into the **Nikolai** show. **Ian** set him up for the third
 
 > 4-1
 
-**Nikolai** added another.
+**Nikolai** added another, with **Sammy** setting him up this time.
 
 > 5-1
 
