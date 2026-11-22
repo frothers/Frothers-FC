@@ -86,7 +86,7 @@ assists = 1
 
 [[assist]]
 player = "Ian Rayns"
-assists = 1
+assists = 3
 
 [[assist]]
 player = "Sammy"
@@ -148,7 +148,7 @@ The sixth came from the penalty spot. **Sammy** made a lovely run into the box a
 
 ## Second Half
 
-<!-- TODO: second half goals from the goals list, in order: Andy (assist Yarride), Andy, Chris (assist Farshid), Farshid, Charles (assist Chris), Charles (assist Chris), Chris (assist Charles), Cory (assist Lance), Lance. Still needed: the running score, how each goal came about, any opposition goals and the final score. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
+<!-- TODO: second half goals from the goals list, in order: Andy (assist Yarride), Andy (assist Ian), Chris (assist Farshid), Farshid (assist Ian), Charles (assist Chris), Charles (assist Chris), Chris (assist Charles), Cory (assist Lance), Lance. Still needed: the running score, how each goal came about, any opposition goals and the final score. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
 
 ## Man of the Match
 **Jamie** gets it, for the opener and his first goal back in Frothers colours.
