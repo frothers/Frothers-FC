@@ -16,8 +16,8 @@ result = "Win"
 motm = "Jamie Bunting"
 # TODO: dotd = "..."
 
-# TODO: these are the half-time scores (6-1), update with the full-time score
-frother_goals = 6
+# TODO: confirm the opposition's full-time goals (only their first-half goal, 1, is known)
+frother_goals = 15
 opponent_goals = 1
 xi_and_subs = [
   "Cory",
@@ -36,7 +36,6 @@ xi_and_subs = [
   "Charles Daily",
 ]
 
-# TODO: update goal tallies once the second half is filled in
 [[scorers]]
 scorer = "Jamie Bunting"
 goals = 1
@@ -50,10 +49,64 @@ scorer = "Nikolai"
 goals = 3
 
 [[scorers]]
+scorer = "Sammy"
+goals = 1
+
+[[scorers]]
+scorer = "Andy Kong"
+goals = 2
+
+[[scorers]]
+scorer = "Chris Chester"
+goals = 2
+
+[[scorers]]
 scorer = "Farshid Shokoohi"
 goals = 1
 
-# TODO: add assists (only Sam's run for the penalty is known, which isn't an assist)
+[[scorers]]
+scorer = "Charles Daily"
+goals = 2
+
+[[scorers]]
+scorer = "Cory"
+goals = 1
+
+[[scorers]]
+scorer = "Lance Molyneaux"
+goals = 1
+
+[[assist]]
+player = "Chris Chester"
+assists = 2
+
+[[assist]]
+player = "Nikolai"
+assists = 1
+
+[[assist]]
+player = "Ian Rayns"
+assists = 1
+
+[[assist]]
+player = "Sammy"
+assists = 1
+
+[[assist]]
+player = "Yarride Rosario"
+assists = 1
+
+[[assist]]
+player = "Farshid Shokoohi"
+assists = 1
+
+[[assist]]
+player = "Charles Daily"
+assists = 1
+
+[[assist]]
+player = "Lance Molyneaux"
+assists = 1
 
 +++
 
@@ -75,25 +128,27 @@ The Frothers changed positions after that, with **Yarride** going up top, and it
 
 > 2-1
 
-From there it turned into the **Nikolai** show, with a barrage of three goals.
+From there it turned into the **Nikolai** show. **Ian** set him up for the third.
 
 > 3-1
 
+**Sammy** then got in on the act with one of his own.
+
 > 4-1
 
-The third came from the penalty spot. **Sammy** made a lovely run into the box and was tripped up and pulled back, so the Frothers were awarded a penalty, which **Nikolai** stepped up to and finished strongly into the corner.
+**Nikolai** added another.
 
 > 5-1
 
-**Farshid** then bagged his own, tucking one into the bottom corner.
+The sixth came from the penalty spot. **Sammy** made a lovely run into the box and was tripped up and pulled back, so the Frothers were awarded a penalty, which **Nikolai** stepped up to and finished strongly into the corner for his hat-trick.
 
 > 6-1
 
-<!-- TODO: confirm this was the half-time score, and confirm Farshid's goal came last (the order of the 3-1 to 6-1 goals is from memory) -->
+<!-- TODO: confirm this was the half-time score and the order of the goals; the order here follows the goals list, and the opposition's second goal (if any) would change the running score -->
 
 ## Second Half
 
-<!-- TODO: second half. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
+<!-- TODO: second half goals from the goals list, in order: Andy (assist Yarride), Andy, Chris (assist Farshid), Farshid, Charles (assist Chris), Charles (assist Chris), Chris (assist Charles), Cory (assist Lance), Lance. Still needed: the running score, how each goal came about, any opposition goals and the final score. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
 
 ## Man of the Match
 **Jamie** gets it, for the opener and his first goal back in Frothers colours.
