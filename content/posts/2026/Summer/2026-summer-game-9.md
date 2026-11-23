@@ -118,6 +118,8 @@ The Frothers put 15 goals past United this week, equalling the biggest haul of t
 
 The Frothers lined up with **Cory** in goal, **Chris** and **Ian** at centre back, and **Andy** and **Campbell** at full back. **Yarride**, **Vinh** and **Nikolai** made up the midfield, with **Jamie**, **Sammy** and **Farshid** up top. **Evan**, **Lance** and **Charles** were on the bench.
 
+Marshalling the back line was **Chris**, playing Erik ten Hag. The ego has landed. Don't question the decisions, or he'll flash that one time he did one good thing at you.
+
 It was **Jamie** who got us underway. The Frothers sprang the offside trap, **Jamie** was through on his own, and he finished calmly past the keeper. It was his first goal back in Frothers colours, and great to see him back in the line-up.
 
 > 1-0
