@@ -148,7 +148,7 @@ Seriously though, don't you put that evil on me Ricky Bobby.
 
 **Sam** then got in on the act with one of his own, set up by Nikolai. He played Ole Gunnar Solskjær. The baby face was at there forefront this week, having had a recent shave.
 
--- ole gif
+<div class="tenor-gif-embed" data-postid="13119869" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ole-gunnar-ole-gunnar-solskjaer-couldnt-care-less-manchester-united-gif-13119869">Ole Gunnar Ole Gunnar Solskjaer Couldnt Care Less GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 > 4-1
 
