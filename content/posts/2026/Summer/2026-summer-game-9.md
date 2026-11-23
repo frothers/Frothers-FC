@@ -183,5 +183,7 @@ Last off the bench was **Evan**, playing Louis van Gaal. A man of few words and 
 ## Man of the Match
 **Jamie** gets it, the impact maker, for the first goal and for his tireless work in the middle of the park.
 
+A mention too for **Josh**, who kept the kids busy on the sidelines for the whole game while injured, even with sabotage coming from on the pitch.
+
 ## Dick of the Day
 **Ian** takes it, for hitting **Charles**' sweet, innocent daughter in the face with a no-pressure clearance, causing her to spill her raisins and start crying. A big fine is coming.
