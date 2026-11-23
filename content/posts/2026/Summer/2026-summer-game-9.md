@@ -181,9 +181,7 @@ Last off the bench was **Evan**, playing Louis van Gaal. A man of few words and 
 <!-- TODO: second half goals from the goals list, in order: Andy (assist Yarride), Andy (assist Ian), Chris (assist Farshid), Farshid (assist Ian), Charles (assist Chris), Charles (assist Chris), Chris (assist Charles), Cory (assist Lance), Lance. Still needed: the running score, how each goal came about, any opposition goals and the final score. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
 
 ## Man of the Match
-**Jamie** gets it, for the opener and his first goal back in Frothers colours.
-
-<!-- TODO: add a line or two on why, if you want more -->
+**Jamie** gets it, the impact maker, for the first goal and for his tireless work in the middle of the park.
 
 ## Dick of the Day
 **Ian** takes it, for hitting **Charles**' sweet, innocent daughter in the face with a no-pressure clearance, causing her to spill her raisins and start crying. A big fine is coming.
