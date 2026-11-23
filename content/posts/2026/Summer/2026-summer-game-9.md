@@ -122,6 +122,8 @@ Between the sticks was **Cory**, playing big Ron Atkinson. The flashy one, never
 
 Marshalling the back line was **Chris**, playing Erik ten Hag. The ego has landed. Don't question the decisions, or he'll flash that one time he did one good thing at you.
 
+Next to him at centre back, **Ian** played Louis van Gaal, a man of few words and intense stares.
+
 Up top was **Farshid**, playing José Mourinho. Unquestionably majestic when he's there and switched in, but the red mist can descend, and he can become straight despondent.
 
 Alongside him was **Sammy**, playing Ole Gunnar Solskjær. The baby face was absent, so it was left to the skinny legs to do the talking.
