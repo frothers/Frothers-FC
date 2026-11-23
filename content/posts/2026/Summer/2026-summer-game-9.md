@@ -123,7 +123,7 @@ It was **Jamie** who got us underway. Playing Ralf Rangnick, he's a man who's al
 
 > 1-0
 
--- Ralph gif 
+<div class="tenor-gif-embed" data-postid="26012734" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ralf-rangnick-falling-rb-salzburg-beer-gif-26012734">Ralf Rangnick Falling GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 The opposition levelled when we lost the ball in midfield and their talisman, number 24 **Michael Jordan**, was given far too much space to have a hit. He put it hard and low to tie it up.
 
