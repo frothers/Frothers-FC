@@ -111,7 +111,7 @@ The Frothers have recorded their biggest ever win, but this match report is in h
 
 ![](/2026-11-22/goldbridge.gif)
 
-Manchester United have been getting through managers faster than the Frothers get through subs, and this week we pay homage by the fallen.
+Manchester United have been getting through managers faster than the Frothers get through subs, and this week we pay homage to the fallen.
 
 ![](/2026-11-22/infantino.gif)
 
@@ -137,16 +137,15 @@ The Frothers changed positions after that, with **Yarride** going up top, and it
 
 ![](/2026-11-22/amorim.gif)
 
-From there it turned into the **Nikolai** show. Nikolai was Sir Matt Busby, the man with the babes. Nikolai's first was a cross too pure for this world, which ended up just nestling in the top corner. 
+From there it turned into the **Nikolai** show. Nikolai was Sir Matt Busby, the man with the babes. Nikolai's first was a cross too pure for this world, which ended up just nestling in the top corner.
 
 ![](/2026-11-22/pepe-plane.gif)
 
 Seriously though, don't you put that evil on me Ricky Bobby.
 
-
 > 3-1
 
-**Sam** then got in on the act with one of his own, set up by Nikolai. He played Ole Gunnar Solskjær. The baby face was at there forefront this week, having had a recent shave.
+**Sam** then got in on the act with one of his own, set up by Nikolai. He played Ole Gunnar Solskjær. The baby face was at the forefront this week, having had a recent shave.
 
 ![](/2026-11-22/ole.gif)
 
@@ -160,7 +159,7 @@ The sixth came from the penalty spot. Sam made a lovely run into the box and was
 
 > 6-1
 
-Behind the goal rush, **Campbell** played Ryan Giggs at full back, here for a good time, with unrestrained sexual energy, but relegated to the chair in the corner this match. 
+Behind the goal rush, **Campbell** played Ryan Giggs at full back, here for a good time, with unrestrained sexual energy, but relegated to the chair in the corner this match.
 
 **Vinh** completed the midfield as Michael Carrick. He's been around the club for a while, but he's finally been brought in in an official capacity. He meshes well with the boys, but a few of them have started talking shit behind his back.
 
@@ -178,7 +177,7 @@ United then pulled one back. **Michael Jordan** got to play the isolation game a
 
 > 8-2
 
-**Farshid** then got up the pitch and delivered a corner. Farshid played José Mourinho, unquestionably majestic when he's there and switched in, but the red mist can descend, and he can become straight up despondent. 
+**Farshid** then got up the pitch and delivered a corner. Farshid played José Mourinho, unquestionably majestic when he's there and switched in, but the red mist can descend, and he can become straight up despondent.
 
 The keeper could only spill the corner to a seagulling **Chris**, who had just gone up top, and he gratefully knocked it in. Chris was Erik ten Hag. The ego has landed. Don't question the decisions, or he'll flash that one time he did one good thing at you.
 
@@ -186,8 +185,7 @@ The keeper could only spill the corner to a seagulling **Chris**, who had just g
 
 Farshid then wet his own whistle, running up from the back to pick some ripe fruit, courtesy of a pass from Ian. It was a decision that got him relegated back to goalie.
 
-
-**Ian** was playing David Moyes. Every time you think Ian's washed and done, he shoots out another glorious performance that has you hanging on his every move for the next six months and calling him the Ianfestation. 
+**Ian** was playing David Moyes. Every time you think Ian's washed and done, he shoots out another glorious performance that has you hanging on his every move for the next six months and calling him the Ianfestation.
 
 > 10-2
 
@@ -211,7 +209,7 @@ It was then the Statler and Waldorf show up top, with Chris and Charles linking 
 
 Then **Lance** was put on up top, playing Sir Alex Ferguson, the club GOAT, and nobody quite knows what we're going to do when he leaves. Just don't get him angry. He teed up Cory for his first Frothers goal.
 
-**Cory**, who was playing big Ron Atkinson. The flashy one, never happier than when he's showing off, and he wasn't going to stay in goal all day.
+**Cory** was playing big Ron Atkinson, the flashy one, never happier than when he's showing off, and he wasn't going to stay in goal all day.
 
 > 14-3
 
