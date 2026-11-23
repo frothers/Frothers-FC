@@ -129,7 +129,7 @@ The opposition levelled when we lost the ball in midfield and their talisman, nu
 
 > 1-1
 
--- Jordan game 6
+<div class="tenor-gif-embed" data-postid="4468414" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mj-michael-jordan-the-shot-gif-4468414">Mj Game Winner The Shot GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 The Frothers changed positions after that, with **Yarride** going up top, and it wasn't long before he found his way into the box. Yarride played Ruben Amorim, ultimately getting paid regardless of the result, and smiling widest when the red cards come out. The ball fell to his left foot and he hit it hard enough to put the Frothers back in front.
 
