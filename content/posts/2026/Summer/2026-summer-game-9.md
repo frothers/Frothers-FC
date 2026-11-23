@@ -120,6 +120,8 @@ The Frothers lined up with **Cory** in goal, **Chris** and **Ian** at centre bac
 
 Marshalling the back line was **Chris**, playing Erik ten Hag. The ego has landed. Don't question the decisions, or he'll flash that one time he did one good thing at you.
 
+Up top was **Farshid**, playing José Mourinho. Unquestionably majestic when he's there and switched in, but the red mist can descend, and he can become straight despondent.
+
 It was **Jamie** who got us underway. The Frothers sprang the offside trap, **Jamie** was through on his own, and he finished calmly past the keeper. It was his first goal back in Frothers colours, and great to see him back in the line-up.
 
 > 1-0
