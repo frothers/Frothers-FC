@@ -5,7 +5,7 @@ import Goals from "./graphs/goalScorers"
 import StatsTable from "./graphs/statsTable"
 
 function App() {
-  const [seasonState, setSeasonState] = useState("all");
+  const [seasonState, setSeasonState] = useState("2026-summer-ogfrothers");
 
   const handleInput: FormEventHandler<HTMLSelectElement> = (e) => {
     if (e.target instanceof HTMLSelectElement) {
@@ -29,7 +29,10 @@ function App() {
                   Year
                 </label>
               </div>
-              <select className="custom-select" onChange={handleInput} name="selectedYear" defaultValue="all">
+              <select className="custom-select" onChange={handleInput} name="selectedYear" defaultValue="2026-summer-ogfrothers">
+                <option value="2026-summer-ogfrothers">
+                  2026 - Summer (OG Frothers)
+                </option>
                 <option value="2026-winter-ogfrothers">
                   2026 - Winter (OG Frothers)
                 </option>
