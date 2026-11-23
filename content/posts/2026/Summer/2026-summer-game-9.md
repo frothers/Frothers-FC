@@ -135,7 +135,7 @@ The Frothers changed positions after that, with **Yarride** going up top, and it
 
 > 2-1
 
--- Amorim smile
+<div class="tenor-gif-embed" data-postid="5810742948485991451" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ruben-amorim-manchester-united-manchesterunited-mufc-relax-gif-5810742948485991451">Ruben Amorim Relax GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 From there it turned into the **Nikolai** show. Nikolai was Sir Matt Busby, the man with the babes. Nikolai's first was a cross too pure for this world, which ended up just nestling in the top corner. 
 
