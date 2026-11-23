@@ -158,6 +158,8 @@ The sixth came from the penalty spot. **Sammy** made a lovely run into the box a
 
 Off the bench came **Lance**, playing the part of Sir Alex Ferguson, the club GOAT, and nobody quite knows what we're going to do when he leaves. Just don't get him angry. The hairdryer was kept firmly in the kit bag, and he had a hand in the late goals, setting up **Cory** and then adding one of his own.
 
+Also coming off the bench was **Charles**, playing Mauricio Pochettino. He never did get the United job, despite being linked with it for years, but he's got the slick locks and that American appeal.
+
 <!-- TODO: second half goals from the goals list, in order: Andy (assist Yarride), Andy (assist Ian), Chris (assist Farshid), Farshid (assist Ian), Charles (assist Chris), Charles (assist Chris), Chris (assist Charles), Cory (assist Lance), Lance. Still needed: the running score, how each goal came about, any opposition goals and the final score. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
 
 ## Man of the Match
