@@ -130,6 +130,8 @@ In midfield, **Yarride** played Ruben Amorim, ultimately getting paid regardless
 
 And **Nikolai** was Sir Matt Busby, the man with the babes, and as it turned out, the man to make a mess of the other side.
 
+Up top, **Jamie** played Ralf Rangnick, a man who's always flirting but never quite ready to commit to the cause. One foot out the door, but showing signs that he could really turn this club around.
+
 It was **Jamie** who got us underway. The Frothers sprang the offside trap, **Jamie** was through on his own, and he finished calmly past the keeper. It was his first goal back in Frothers colours, and great to see him back in the line-up.
 
 > 1-0
