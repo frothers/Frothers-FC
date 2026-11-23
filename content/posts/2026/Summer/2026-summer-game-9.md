@@ -191,7 +191,7 @@ Off the bench came **Charles**, playing Mauricio Pochettino. He's got the slick 
 
 It was then the Statler and Waldorf show up top, with Chris and Charles linking up for all the goal contributions, with Ian shouldering his way in on a technicality for the assist on the first.
 
--- Statler and woldorf
+<div class="tenor-gif-embed" data-postid="1600230047849224927" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/muppets-muppet-show-statler-waldorf-score-gif-1600230047849224927">Muppets Muppet Show GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 > 11-1
 
