@@ -113,7 +113,7 @@ The Frothers have recorded their biggest ever win, but this match report is in h
 
 Manchester United have been getting through managers faster than the Frothers get through subs, and this week we pay homage by the fallen.
 
--- gif of stars in their eyes
+<div class="tenor-gif-embed" data-postid="27309795" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/infantino-utd-gif-27309795">Infantino Utd GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 We'll meet each of the managers as the goals went in.
 
