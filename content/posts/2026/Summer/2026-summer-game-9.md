@@ -15,7 +15,7 @@ motm = "Jamie Bunting"
 dotd = "Ian Rayns"
 
 frother_goals = 15
-opponent_goals = 1
+opponent_goals = 2
 xi_and_subs = [
   "Cory",
  "Andy Kong",
@@ -172,18 +172,24 @@ It was time to unleash the ultimate weapon: unchained **Andy**. Playing Ruud van
 
 > 8-1
 
+United then pulled one back. **Michael Jordan** got to play the isolation game and, smelling some fresh fish at the back, decided to break some ankles.
+
+<div class="tenor-gif-embed" data-postid="13066679678358971444" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/simpsons-marge-simpson-basketball-gif-13066679678358971444">Simpsons Marge Simpson GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+> 8-2
+
 **Farshid** then got up the pitch and delivered a corner. Farshid played José Mourinho, unquestionably majestic when he's there and switched in, but the red mist can descend, and he can become straight up despondent. 
 
 The keeper could only spill the corner to a seagulling **Chris**, who had just gone up top, and he gratefully knocked it in. Chris was Erik ten Hag. The ego has landed. Don't question the decisions, or he'll flash that one time he did one good thing at you.
 
-> 9-1
+> 9-2
 
 Farshid then wet his own whistle, running up from the back to pick some ripe fruit, courtesy of a pass from Ian. It was a decision that got him relegated back to goalie.
 
 
 **Ian** was playing David Moyes. Every time you think Ian's washed and done, he shoots out another glorious performance that has you hanging on his every move for the next six months and calling him the Ianfestation. 
 
-> 10-1
+> 10-2
 
 Off the bench came **Charles**, playing Mauricio Pochettino. He's got the slick locks and that American appeal.
 
@@ -193,21 +199,21 @@ It was then the Statler and Waldorf show up top, with Chris and Charles linking 
 
 <div class="tenor-gif-embed" data-postid="1600230047849224927" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/muppets-muppet-show-statler-waldorf-score-gif-1600230047849224927">Muppets Muppet Show GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-> 11-1
+> 11-2
 
-> 12-1
+> 12-2
 
-> 13-1
+> 13-2
 
 Then **Lance** was put on up top, playing Sir Alex Ferguson, the club GOAT, and nobody quite knows what we're going to do when he leaves. Just don't get him angry. He teed up Cory for his first Frothers goal.
 
 **Cory**, who was playing big Ron Atkinson. The flashy one, never happier than when he's showing off, and he wasn't going to stay in goal all day.
 
-> 14-1
+> 14-2
 
 Then, with the hairdryer kept firmly in the kit bag, Lance selflessly scored himself rather than letting Charles get a hat-trick off the toe.
 
-> 15-1
+> 15-2
 
 ## Man of the Match
 **Jamie** gets it, the impact maker, for the first goal and for his tireless work in the middle of the park.
