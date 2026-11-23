@@ -152,7 +152,7 @@ The Frothers changed positions after that, with **Yarride** going up top, and it
 
 > 2-1
 
-From there it turned into the **Nikolai** show. **Ian** set him up for the third, though his first was a cross too pure for this world, ending up just nestling in the top corner.
+From there it turned into the **Nikolai** show. **Ian** set him up for the third, and Nikolai's first was a cross too pure for this world, which ended up just nestling in the top corner.
 
 > 3-1
 
