@@ -77,16 +77,12 @@ scorer = "Lance Molyneaux"
 goals = 1
 
 [[assist]]
-player = "Chris Chester"
-assists = 2
+player = "Ian Rayns"
+assists = 4
 
 [[assist]]
 player = "Nikolai"
-assists = 1
-
-[[assist]]
-player = "Ian Rayns"
-assists = 3
+assists = 2
 
 [[assist]]
 player = "Sammy"
@@ -98,6 +94,10 @@ assists = 1
 
 [[assist]]
 player = "Farshid Shokoohi"
+assists = 1
+
+[[assist]]
+player = "Chris Chester"
 assists = 1
 
 [[assist]]
@@ -156,7 +156,7 @@ From there it turned into the **Nikolai** show. **Ian** set him up for the third
 
 > 3-1
 
-**Sammy** then got in on the act with one of his own.
+**Sammy** then got in on the act with one of his own, set up by **Nikolai**.
 
 > 4-1
 
@@ -178,7 +178,7 @@ Also coming off the bench was **Charles**, playing Mauricio Pochettino. He never
 
 Last off the bench was **Evan**, playing Louis van Gaal. A man of few words and intense stares, and unquestionably effective in most teams.
 
-<!-- TODO: second half goals from the goals list, in order: Andy (assist Yarride), Andy (assist Ian), Chris (assist Farshid), Farshid (assist Ian), Charles (assist Chris), Charles (assist Chris), Chris (assist Charles), Cory (assist Lance), Lance. Still needed: the running score, how each goal came about, any opposition goals and the final score. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
+<!-- TODO: second half goals from the goals list, in order: Andy (assist Yarride), Andy (assist Ian), Chris (assist Farshid), Farshid (assist Ian), Charles (assist Ian), Charles (assist Chris), Chris (assist Charles), Cory (assist Lance), Lance. Still needed: the running score, how each goal came about, any opposition goals and the final score. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
 
 ## Man of the Match
 **Jamie** gets it, the impact maker, for the first goal and for his tireless work in the middle of the park.
