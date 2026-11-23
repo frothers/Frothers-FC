@@ -139,7 +139,7 @@ The Frothers changed positions after that, with **Yarride** going up top, and it
 
 From there it turned into the **Nikolai** show. Nikolai was Sir Matt Busby, the man with the babes. Nikolai's first was a cross too pure for this world, which ended up just nestling in the top corner. 
 
--- 911 gif 
+<div class="tenor-gif-embed" data-postid="14417598" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pepe-crash-plane-crash-gif-14417598">Pepe Crash Plane Crash GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Seriously though, don't you put that evil on me Ricky Bobby.
 
