@@ -172,6 +172,12 @@ The sixth came from the penalty spot. **Sammy** made a lovely run into the box a
 
 ## Second Half
 
+It was time to unleash the ultimate weapon: unchained **Andy**. The pure presence of the man makes back lines look like they're staging a dressing room revolution. Two quick goals started the second half on a dangerous trajectory, the first set up by **Yarride** and the second by **Ian**.
+
+> 7-1
+
+> 8-1
+
 Off the bench came **Lance**, playing the part of Sir Alex Ferguson, the club GOAT, and nobody quite knows what we're going to do when he leaves. Just don't get him angry. The hairdryer was kept firmly in the kit bag, and he had a hand in the late goals, setting up **Cory**, who got out of goal for his first goal and scored, and then adding one of his own.
 
 Also coming off the bench was **Charles**, playing Mauricio Pochettino. He never did get the United job, despite being linked with it for years, but he's got the slick locks and that American appeal.
