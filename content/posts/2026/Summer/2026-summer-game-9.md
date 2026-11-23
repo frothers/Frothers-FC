@@ -182,6 +182,10 @@ It was time to unleash the ultimate weapon: unchained **Andy**. The pure presenc
 
 > 9-1
 
+**Farshid** then wet his own whistle, running up from the back to pick some ripe fruit, courtesy of a pass from **Ian**. It was a decision that got him relegated back to goalie.
+
+> 10-1
+
 Off the bench came **Lance**, playing the part of Sir Alex Ferguson, the club GOAT, and nobody quite knows what we're going to do when he leaves. Just don't get him angry. The hairdryer was kept firmly in the kit bag, and he had a hand in the late goals, setting up **Cory**, who got out of goal for his first goal and scored, and then adding one of his own.
 
 Also coming off the bench was **Charles**, playing Mauricio Pochettino. He never did get the United job, despite being linked with it for years, but he's got the slick locks and that American appeal.
