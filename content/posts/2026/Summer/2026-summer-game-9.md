@@ -109,7 +109,7 @@ assists = 1
 
 The Frothers have recorded their biggest ever win, but this match report is in honour to another team setting records on the other side of the globe.
 
-![](https://tenor.com/qxUc3nuQ0xz.gif)
+![](/2026-11-22/goldbridge.gif)
 
 Manchester United have been getting through managers faster than the Frothers get through subs, and this week we pay homage by the fallen.
 
