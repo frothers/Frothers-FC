@@ -164,6 +164,8 @@ Off the bench came **Lance**, playing the part of Sir Alex Ferguson, the club GO
 
 Also coming off the bench was **Charles**, playing Mauricio Pochettino. He never did get the United job, despite being linked with it for years, but he's got the slick locks and that American appeal.
 
+Last off the bench was **Evan**, playing Ruben Amorim. Unquestionably effective in most teams, ultimately getting paid regardless of the result, and smiling widest when the red cards come out.
+
 <!-- TODO: second half goals from the goals list, in order: Andy (assist Yarride), Andy (assist Ian), Chris (assist Farshid), Farshid (assist Ian), Charles (assist Chris), Charles (assist Chris), Chris (assist Charles), Cory (assist Lance), Lance. Still needed: the running score, how each goal came about, any opposition goals and the final score. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
 
 ## Man of the Match
