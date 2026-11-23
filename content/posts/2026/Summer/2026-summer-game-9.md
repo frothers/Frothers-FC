@@ -122,6 +122,8 @@ Marshalling the back line was **Chris**, playing Erik ten Hag. The ego has lande
 
 Up top was **Farshid**, playing José Mourinho. Unquestionably majestic when he's there and switched in, but the red mist can descend, and he can become straight despondent.
 
+Alongside him was **Sammy**, playing Ole Gunnar Solskjær. The baby face was absent, so it was left to the skinny legs to do the talking.
+
 It was **Jamie** who got us underway. The Frothers sprang the offside trap, **Jamie** was through on his own, and he finished calmly past the keeper. It was his first goal back in Frothers colours, and great to see him back in the line-up.
 
 > 1-0
