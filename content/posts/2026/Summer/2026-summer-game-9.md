@@ -186,6 +186,10 @@ It was time to unleash the ultimate weapon: unchained **Andy**. The pure presenc
 
 > 10-1
 
+Off the bench came **Charles**, playing Mauricio Pochettino. He never did get the United job, despite being linked with it for years, but he's got the slick locks and that American appeal.
+
+Last off the bench was **Evan**, playing Louis van Gaal. A man of few words and intense stares, and unquestionably effective in most teams.
+
 It was then the Statler and Waldorf show up top, with **Chris** and **Charles** linking up for all the goal contributions, with **Ian** shouldering his way in on a technicality for the assist on the first.
 
 > 11-1
@@ -194,13 +198,15 @@ It was then the Statler and Waldorf show up top, with **Chris** and **Charles** 
 
 > 13-1
 
-Off the bench came **Lance**, playing the part of Sir Alex Ferguson, the club GOAT, and nobody quite knows what we're going to do when he leaves. Just don't get him angry. The hairdryer was kept firmly in the kit bag, and he had a hand in the late goals, setting up **Cory**, who got out of goal for his first goal and scored, and then adding one of his own.
+Then **Lance** was put on up top, playing Sir Alex Ferguson, the club GOAT, and nobody quite knows what we're going to do when he leaves. Just don't get him angry. He teed up **Cory** for his first Frothers goal.
 
-Also coming off the bench was **Charles**, playing Mauricio Pochettino. He never did get the United job, despite being linked with it for years, but he's got the slick locks and that American appeal.
+> 14-1
 
-Last off the bench was **Evan**, playing Louis van Gaal. A man of few words and intense stares, and unquestionably effective in most teams.
+Then, with the hairdryer kept firmly in the kit bag, he selflessly scored himself rather than letting **Charles** get a hat-trick off the toe.
 
-<!-- TODO: second half goals from the goals list, in order: Andy (assist Yarride), Andy (assist Ian), Chris (assist Farshid), Farshid (assist Ian), Charles (assist Ian), Charles (assist Chris), Chris (assist Charles), Cory (assist Lance), Lance. Still needed: the running score, how each goal came about, any opposition goals and the final score. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
+> 15-1
+
+<!-- TODO: confirm the full-time score; every running score in this half assumes the opposition stayed on 1 -->
 
 ## Man of the Match
 **Jamie** gets it, the impact maker, for the first goal and for his tireless work in the middle of the park.
