@@ -118,6 +118,8 @@ The Frothers put 15 goals past United this week, equalling the biggest haul of t
 
 The Frothers lined up with **Cory** in goal, **Chris** and **Ian** at centre back, and **Andy** and **Campbell** at full back. **Yarride**, **Vinh** and **Nikolai** made up the midfield, with **Jamie**, **Sammy** and **Farshid** up top. **Evan**, **Lance** and **Charles** were on the bench.
 
+Between the sticks was **Cory**, playing big Ron Atkinson. The flashy one, never happier than when he's showing off, and he wasn't going to stay in goal all day.
+
 Marshalling the back line was **Chris**, playing Erik ten Hag. The ego has landed. Don't question the decisions, or he'll flash that one time he did one good thing at you.
 
 Up top was **Farshid**, playing José Mourinho. Unquestionably majestic when he's there and switched in, but the red mist can descend, and he can become straight despondent.
@@ -156,7 +158,7 @@ The sixth came from the penalty spot. **Sammy** made a lovely run into the box a
 
 ## Second Half
 
-Off the bench came **Lance**, playing the part of Sir Alex Ferguson, the club GOAT, and nobody quite knows what we're going to do when he leaves. Just don't get him angry. The hairdryer was kept firmly in the kit bag, and he had a hand in the late goals, setting up **Cory** and then adding one of his own.
+Off the bench came **Lance**, playing the part of Sir Alex Ferguson, the club GOAT, and nobody quite knows what we're going to do when he leaves. Just don't get him angry. The hairdryer was kept firmly in the kit bag, and he had a hand in the late goals, setting up **Cory**, who got out of goal for his first goal and scored, and then adding one of his own.
 
 Also coming off the bench was **Charles**, playing Mauricio Pochettino. He never did get the United job, despite being linked with it for years, but he's got the slick locks and that American appeal.
 
