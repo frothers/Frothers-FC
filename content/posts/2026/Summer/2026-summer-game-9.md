@@ -15,7 +15,7 @@ motm = "Jamie Bunting"
 dotd = "Ian Rayns"
 
 frother_goals = 15
-opponent_goals = 2
+opponent_goals = 3
 xi_and_subs = [
   "Cory",
  "Andy Kong",
@@ -191,6 +191,10 @@ Farshid then wet his own whistle, running up from the back to pick some ripe fru
 
 > 10-2
 
+Almost instantly after **Farshid** went in goal, United got another, chipping a gloveless Farshid.
+
+> 10-3
+
 Off the bench came **Charles**, playing Mauricio Pochettino. He's got the slick locks and that American appeal.
 
 **Evan** followed, playing Louis van Gaal, a man of few words and intense stares, and unquestionably effective in most teams.
@@ -199,21 +203,21 @@ It was then the Statler and Waldorf show up top, with Chris and Charles linking 
 
 <div class="tenor-gif-embed" data-postid="1600230047849224927" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/muppets-muppet-show-statler-waldorf-score-gif-1600230047849224927">Muppets Muppet Show GIF</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
-> 11-2
+> 11-3
 
-> 12-2
+> 12-3
 
-> 13-2
+> 13-3
 
 Then **Lance** was put on up top, playing Sir Alex Ferguson, the club GOAT, and nobody quite knows what we're going to do when he leaves. Just don't get him angry. He teed up Cory for his first Frothers goal.
 
 **Cory**, who was playing big Ron Atkinson. The flashy one, never happier than when he's showing off, and he wasn't going to stay in goal all day.
 
-> 14-2
+> 14-3
 
 Then, with the hairdryer kept firmly in the kit bag, Lance selflessly scored himself rather than letting Charles get a hat-trick off the toe.
 
-> 15-2
+> 15-3
 
 ## Man of the Match
 **Jamie** gets it, the impact maker, for the first goal and for his tireless work in the middle of the park.
