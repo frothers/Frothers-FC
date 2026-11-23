@@ -134,6 +134,8 @@ Alongside him was **Sammy**, playing Ole Gunnar Solskjær. The baby face was abs
 
 In midfield, **Yarride** played Ruben Amorim, ultimately getting paid regardless of the result, and smiling widest when the red cards come out.
 
+Completing the midfield, **Vinh** played Michael Carrick. He's been around the club for a while, but he's finally been brought in in an official capacity. He meshes well with the boys, but suddenly one of them starts talking shit behind his back.
+
 And **Nikolai** was Sir Matt Busby, the man with the babes, and as it turned out, the man to make a mess of the other side.
 
 Up top, **Jamie** played Ralf Rangnick, a man who's always flirting but never quite ready to commit to the cause. One foot out the door, but showing signs that he could really turn this club around.
