@@ -107,7 +107,7 @@ assists = 1
 
 +++
 
-The Frothers have recorded their biggest ever win, but this match report is in honour to another team setting records on the other side of the globe.
+The Frothers have recorded an equal highest-scoring win, but this match report is in honour to another team setting records on the other side of the globe.
 
 ![](/2026-11-22/goldbridge.gif)
 
