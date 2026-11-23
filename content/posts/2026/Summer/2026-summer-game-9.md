@@ -126,6 +126,8 @@ Next to him at centre back, **Ian** played David Moyes. Every time you think he'
 
 At full back, **Campbell** played Ryan Giggs. Here for a good time, with unrestrained sexual energy.
 
+On the other side, **Andy** played Ruud van Nistelrooy. Always kept at the back, never brought to the front, but when he does sneak forward, he excels.
+
 Up top was **Farshid**, playing José Mourinho. Unquestionably majestic when he's there and switched in, but the red mist can descend, and he can become straight despondent.
 
 Alongside him was **Sammy**, playing Ole Gunnar Solskjær. The baby face was absent, so it was left to the skinny legs to do the talking.
