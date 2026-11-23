@@ -110,7 +110,9 @@ assists = 1
 
 +++
 
-<!-- TODO: intro paragraph (opponent, venue, anything notable before kick-off) -->
+The Frothers put 15 goals past United this week, equalling the biggest haul of their career against a Manchester United-style outfit who could definitely do with a few goals these days. With the Red Devils in managerial chaos, we've mapped each of the Frothers across to a United manager, past and present, as the goals went in.
+
+<!-- TODO: venue and kick-off details; confirm the opponent's name ("United") on Better Football, and the final score (the Frothers' 15 goals is from the goals list); confirm the rest of the manager mapping -->
 
 ## First Half
 
@@ -147,6 +149,8 @@ The sixth came from the penalty spot. **Sammy** made a lovely run into the box a
 <!-- TODO: confirm this was the half-time score and the order of the goals; the order here follows the goals list, and the opposition's second goal (if any) would change the running score -->
 
 ## Second Half
+
+Off the bench came **Lance**, playing the part of Sir Alex Ferguson, the club GOAT, and nobody quite knows what we're going to do when he leaves. Just don't get him angry. The hairdryer was kept firmly in the kit bag, and he had a hand in the late goals, setting up **Cory** and then adding one of his own.
 
 <!-- TODO: second half goals from the goals list, in order: Andy (assist Yarride), Andy (assist Ian), Chris (assist Farshid), Farshid (assist Ian), Charles (assist Chris), Charles (assist Chris), Chris (assist Charles), Cory (assist Lance), Lance. Still needed: the running score, how each goal came about, any opposition goals and the final score. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
 
