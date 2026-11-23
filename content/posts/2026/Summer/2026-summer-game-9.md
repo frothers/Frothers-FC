@@ -128,6 +128,8 @@ Alongside him was **Sammy**, playing Ole Gunnar Solskjær. The baby face was abs
 
 In midfield, **Yarride** played Ruben Amorim, ultimately getting paid regardless of the result, and smiling widest when the red cards come out.
 
+And **Nikolai** was Sir Matt Busby, the man with the babes, and as it turned out, the man to make a mess of the other side.
+
 It was **Jamie** who got us underway. The Frothers sprang the offside trap, **Jamie** was through on his own, and he finished calmly past the keeper. It was his first goal back in Frothers colours, and great to see him back in the line-up.
 
 > 1-0
