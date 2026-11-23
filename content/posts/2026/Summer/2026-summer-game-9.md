@@ -122,11 +122,11 @@ Between the sticks was **Cory**, playing big Ron Atkinson. The flashy one, never
 
 Marshalling the back line was **Chris**, playing Erik ten Hag. The ego has landed. Don't question the decisions, or he'll flash that one time he did one good thing at you.
 
-Next to him at centre back, **Ian** played Louis van Gaal, a man of few words and intense stares.
-
 Up top was **Farshid**, playing José Mourinho. Unquestionably majestic when he's there and switched in, but the red mist can descend, and he can become straight despondent.
 
 Alongside him was **Sammy**, playing Ole Gunnar Solskjær. The baby face was absent, so it was left to the skinny legs to do the talking.
+
+In midfield, **Yarride** played Ruben Amorim, ultimately getting paid regardless of the result, and smiling widest when the red cards come out.
 
 It was **Jamie** who got us underway. The Frothers sprang the offside trap, **Jamie** was through on his own, and he finished calmly past the keeper. It was his first goal back in Frothers colours, and great to see him back in the line-up.
 
@@ -164,7 +164,7 @@ Off the bench came **Lance**, playing the part of Sir Alex Ferguson, the club GO
 
 Also coming off the bench was **Charles**, playing Mauricio Pochettino. He never did get the United job, despite being linked with it for years, but he's got the slick locks and that American appeal.
 
-Last off the bench was **Evan**, playing Ruben Amorim. Unquestionably effective in most teams, ultimately getting paid regardless of the result, and smiling widest when the red cards come out.
+Last off the bench was **Evan**, playing Louis van Gaal. A man of few words and intense stares, and unquestionably effective in most teams.
 
 <!-- TODO: second half goals from the goals list, in order: Andy (assist Yarride), Andy (assist Ian), Chris (assist Farshid), Farshid (assist Ian), Charles (assist Chris), Charles (assist Chris), Chris (assist Charles), Cory (assist Lance), Lance. Still needed: the running score, how each goal came about, any opposition goals and the final score. Known so far: the Frothers swapped positions as they started to run away with the game. Still needed: what the swaps were, any more goals, the final score, and anything else worth mentioning. -->
 
