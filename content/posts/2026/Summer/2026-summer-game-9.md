@@ -113,7 +113,7 @@ The Frothers have recorded their biggest ever win, but this match report is in h
 
 Manchester United have been getting through managers faster than the Frothers get through subs, and this week we pay homage by the fallen.
 
-![](https://tenor.com/b0KGJ.gif)
+![](/2026-11-22/infantino.gif)
 
 We'll meet each of the managers as the goals went in.
 
@@ -123,23 +123,23 @@ It was **Jamie** who got us underway. Playing Ralf Rangnick, he's a man who's al
 
 > 1-0
 
-![](https://tenor.com/bVjgo.gif)
+![](/2026-11-22/rangnick.gif)
 
 The opposition levelled when we lost the ball in midfield and their talisman, number 24 **Michael Jordan**, was given far too much space to have a hit. He put it hard and low to tie it up.
 
 > 1-1
 
-![](https://tenor.com/sUBm.gif)
+![](/2026-11-22/jordan.gif)
 
 The Frothers changed positions after that, with **Yarride** going up top, and it wasn't long before he found his way into the box. Yarride played Ruben Amorim, ultimately getting paid regardless of the result, and smiling widest when the red cards come out. The ball fell to his left foot and he hit it hard enough to put the Frothers back in front.
 
 > 2-1
 
-![](https://tenor.com/g5pqykx9uFb.gif)
+![](/2026-11-22/amorim.gif)
 
 From there it turned into the **Nikolai** show. Nikolai was Sir Matt Busby, the man with the babes. Nikolai's first was a cross too pure for this world, which ended up just nestling in the top corner. 
 
-![](https://tenor.com/8EP4.gif)
+![](/2026-11-22/pepe-plane.gif)
 
 Seriously though, don't you put that evil on me Ricky Bobby.
 
@@ -148,7 +148,7 @@ Seriously though, don't you put that evil on me Ricky Bobby.
 
 **Sam** then got in on the act with one of his own, set up by Nikolai. He played Ole Gunnar Solskjær. The baby face was at there forefront this week, having had a recent shave.
 
-![](https://tenor.com/3deX.gif)
+![](/2026-11-22/ole.gif)
 
 > 4-1
 
@@ -174,7 +174,7 @@ It was time to unleash the ultimate weapon: unchained **Andy**. Playing Ruud van
 
 United then pulled one back. **Michael Jordan** got to play the isolation game and, smelling some fresh fish at the back, decided to break some ankles.
 
-![](https://tenor.com/pJpG7srHE2G.gif)
+![](/2026-11-22/marge.gif)
 
 > 8-2
 
@@ -201,7 +201,7 @@ Off the bench came **Charles**, playing Mauricio Pochettino. He's got the slick 
 
 It was then the Statler and Waldorf show up top, with Chris and Charles linking up for all the goal contributions, with Ian shouldering his way in on a technicality for the assist on the first.
 
-![](https://tenor.com/b4nexxfKQnb.gif)
+![](/2026-11-22/statler-waldorf.gif)
 
 > 11-3
 
