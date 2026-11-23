@@ -14,7 +14,7 @@ season = "summer"
 # TODO: confirm result once the full-time score is known
 result = "Win"
 motm = "Jamie Bunting"
-# TODO: dotd = "..."
+dotd = "Ian Rayns"
 
 # TODO: confirm the opposition's full-time goals (only their first-half goal, 1, is known)
 frother_goals = 15
@@ -186,4 +186,4 @@ Last off the bench was **Evan**, playing Louis van Gaal. A man of few words and 
 <!-- TODO: add a line or two on why, if you want more -->
 
 ## Dick of the Day
-<!-- TODO -->
+**Ian** takes it, for hitting **Charles**' sweet, innocent daughter in the face with a no-pressure clearance, causing her to spill her raisins and start crying. A big fine is coming.
