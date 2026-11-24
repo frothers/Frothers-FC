@@ -18,7 +18,7 @@ frother_goals = 15
 opponent_goals = 3
 xi_and_subs = [
   "Cory",
- "Andy Kong",
+  "Andy Kong",
   "Chris Chester",
   "Ian Rayns",
   "Campbell Moorhouse",
@@ -74,8 +74,8 @@ scorer = "Lance Molyneaux"
 goals = 1
 
 [[assist]]
-player = "Ian Rayns"
-assists = 4
+player = "Vinh Vu"
+assists = 1
 
 [[assist]]
 player = "Nikolai"
@@ -88,6 +88,10 @@ assists = 2
 [[assist]]
 player = "Yarride Rosario"
 assists = 1
+
+[[assist]]
+player = "Ian Rayns"
+assists = 3
 
 [[assist]]
 player = "Farshid Shokoohi"
@@ -105,9 +109,6 @@ assists = 1
 player = "Lance Molyneaux"
 assists = 1
 
-[[assist]]
-player = "Vinh Vu"
-assists = 1
 
 +++
 
