@@ -105,6 +105,10 @@ assists = 1
 player = "Lance Molyneaux"
 assists = 1
 
+[[assist]]
+player = "Vinh Vu"
+assists = 1
+
 +++
 
 The Frothers have recorded an equal highest-scoring win, but this match report is in honour to another team setting records on the other side of the globe.
@@ -119,7 +123,7 @@ We'll meet each of the managers as the goals went in.
 
 ## First Half
 
-It was **Jamie** who got us underway. Playing Ralf Rangnick, he's a man who's always flirting but never quite ready to commit to the cause, one foot out the door, but showing signs that he could really turn this club around. The Frothers sprang the offside trap, Jamie was through on his own, and he finished calmly past the keeper. It was his first goal back in Frothers colours, and great to see him back in the line-up.
+It was **Jamie** who got us underway. Playing Ralf Rangnick, he's a man who's always flirting but never quite ready to commit to the cause, one foot out the door, but showing signs that he could really turn this club around. The Frothers sprang the offside trap, Jamie was put through on his own by **Vinh**, and he finished calmly past the keeper. It was his first goal back in Frothers colours, and great to see him back in the line-up.
 
 > 1-0
 
